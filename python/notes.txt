@@ -1,0 +1,285 @@
+
+
+C  - datatypes
+---
+int
+float
+char
+double
+long
+short
+
+python  - objects
+-------
+
+number 
+------
+number can be integer or decimal or octal or hexa.
+
+aval = 10
+bval = 34.43
+
+string 
+------
+string is defined in single or double or triple quotes.
+
+aname = 'python programming'
+bname = "gena ai"
+cname = """agentic ai"""
+
+list ( array in C)
+-----
+list contains set of elements.
+elements can be set of numbers or strings or any combination.
+list is defined in [].
+
+alist = [10,20,30]
+blist = ["java","unix","oracle"]
+clist = [[10,20],[20,30]]
+
+
+tuple ( immutable unchangeable uneditable )
+-----
+tuple contains set of elements.
+elements can be set of numbers or strings or any combination.
+tuple is defined in ().
+** elements inside tuple cannot be modified directly ***
+
+
+# list of lists
+empdb = [["rita",'1-1-1','UK'],["sita",'1-1-1','UK']]
+
+# list of tuples
+empdb = [("rita",'1-1-1','UK'),("sita",'1-1-1','UK')]
+
+
+
+
+dictionary  ( json   hash  hashmap items pairs  associativearray )
+-------------------------------------------------
+dictionary is all about keys and values .
+dictionar is defined in {key:value}.
+In dictionary .. keys are always UNIQUE and key is either number or string.
+                 value can be number or string or list or tuple or dictionary.
+
+syntax:  object = { key:value , key:value , key:value }
+examples:  book = {"chap1":10 ,"chap2":20 ,"chap3":30}
+           data = {1:2,3:4,5:6}
+           book = {"chap1":[10,20] ,"chap2":[30,40] }
+          
+
+index 
+-------
+chap1   10
+chap2   20
+chap3   30
+chap4   40
+
+
+
+set ( venn diagrams)
+----
+set is UNORDERED collection of UNIQUE elements of SAME type.
+
+aset = {10,10,20,30,30,30}
+bset = {40,40,40,50,50,60 }
+
+
+
+
+for ( i =  1 ; i <10 ; i++)
+{
+    print("%d",i)
+}
+
+
+
+functions 
+--------
+- builtin functions 
+- user defined functions 
+
+
+
+- builtin functions 
+-------------------
+print() 
+range()
+len() 
+isinstance()
+type()
+id()
+max()
+min()
+sum()
+input()
+open()
+dir()
+help()
+
+list()
+int()
+tuple()
+float()
+oct()
+dict()
+set()
+
+# this will display all the functions and exceptions
+print(dir(__builtins__))
+
+
+user defined functions 
+-----------------------
+
+function | definition | block | subroutine | submodule | coroutine 
+-----------------------------------------
+- reusability 
+
+
+ways of passing arguments 
+----------
+fixed arguments
+default arguments 
+keyword arguments 
+variable arguments
+
+
+
+
+
+requirement:  download csv file from aws s3 bucket and 
+              validate the file properly and 
+              insert all the records from csv file to database 
+
+
+def download_from_s3():
+    ####
+
+def make_connect():
+    ####
+
+def file_validate():
+     ####
+
+def make_db_connection():
+      ####
+
+
+
+
+file handling 
+------------------
+
+txt 
+md 
+pdf 
+docx 
+pptx 
+html 
+jpg 
+png 
+xml 
+mp3
+mp4 
+xlsx 
+bat 
+jar 
+zip 
+rar 
+7z 
+tar 
+tar.gz 
+war 
+exe 
+log 
+conf 
+properties 
+yml
+json 
+xml 
+env 
+
+
+
+flat files :    txt   log  json  xml yml conf csv 
+-------------
+we dont need any third party software to these files 
+this files can be open directly 
+
+
+third party files :  pdf  xlsx  pptx  docx  mp3  mp4  7z zip  rar
+--------------------
+
+
+
+working with flat files 
+-----------------------
+read mode - r 
+write mode - w 
+append mode - a
+
+opening the file 
+----------------
+syntax:  object = open(filename,mode )
+example:    fr = open("clients.txt","r") # read mode 
+            case1:  if the file is existing .. then only we will be able to read the file
+
+            fw = open("clients.txt","w") # write mode 
+            case1: if the file is not found ... file gets created first 
+            case2: if the file is already existing.. it overwrites the existing data
+
+            fa = open("clients.txt","a") # append mode 
+            case1: if the file is not found ... file gets created first 
+            case2: if the file is already existing.. it adds the new data to the existing data
+
+
+
+
+closing the file 
+-----------------
+object.close()
+
+
+
+
+third party files 
+------------------
+
+
+
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+#include<conio.h>
+#include<math.h>
+#include<datetime.h>
+#include<time.h>
+#include<random.h>
+#include<graphics.h>
+
+
+pypi.org : python package index 
+
+
+
+requirement/task =   core programming     + libraries  + domain expertise
+                     ( procedural or oop)
+
+
+docx -  python-docx 
+xlsx  - openpyxl 
+mysql - pymysql 
+mongodb - pymongo 
+pptx  - python-pptx
+jsonfiles - json
+
+
+
+filehandling  
+------------
+
+using core programming  ( using open and close() )
+
+using pandas library ( easy , simple , lesser no. of lines )
+
