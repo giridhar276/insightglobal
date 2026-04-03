@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Segment,Region,Product_Category,Payment_Method,Quantity,Unit_Price,Discount_Percent,Order_Value
+07ORD100522,2024-08-12,Institution,West,Academic,Cash on Delivery,6,1966.63,27,8613.84
+07ORD100738,2024-04-03,Institution,North,Comics,Wallet,1,3461.38,2,3392.15
+07ORD100741,2024-10-11,Reader Club,South,Non-Fiction,Cash on Delivery,3,769.73,19,1870.44
+07ORD100661,2025-11-04,Institution,Central,Fiction,Credit Card,1,3160.75,16,2655.03
+07ORD100412,2024-10-16,Reader Club,Central,Comics,Wallet,1,1846.53,10,1661.88
+07ORD100679,2025-02-19,Professional,South,Comics,Debit Card,1,2223.09,2,2178.63
+07ORD100627,2024-03-16,Student,West,Non-Fiction,Debit Card,2,1940.85,32,2639.56
+07ORD100514,2025-01-15,Student,East,Non-Fiction,Credit Card,5,1952.71,23,7517.93
+07ORD100860,2024-04-17,Institution,Central,Academic,Debit Card,1,2763.01,6,2597.23
+07ORD100137,2024-07-08,Institution,South,Comics,Debit Card,1,1491.71,12,1312.7
+07ORD100812,2025-04-26,Professional,North,Non-Fiction,Credit Card,2,2775.61,3,5384.68
+07ORD100077,2025-06-02,Professional,South,Non-Fiction,Credit Card,3,1757.05,3,5113.02
+07ORD100637,2025-06-09,Institution,South,Comics,Wallet,2,1947.29,23,2998.83
+07ORD100974,2024-09-09,Student,Central,Non-Fiction,Debit Card,2,1237.59,24,1881.14
+07ORD100939,2024-04-24,Institution,West,Children,Credit Card,2,1361.16,25,2041.74
+07ORD100900,2025-01-19,Professional,South,Comics,Wallet,3,1229.43,19,2987.51
+07ORD100281,2025-06-03,Professional,South,Fiction,Wallet,3,2367.75,4,6819.12
+07ORD100884,2024-11-19,Student,North,Comics,Debit Card,1,1661.33,33,1113.09
+07ORD100762,2024-08-13,Institution,South,Children,UPI,5,1420.05,34,4686.16
+07ORD100320,2025-03-08,Student,West,Academic,Debit Card,1,2675.63,15,2274.29
+07ORD100550,2025-05-04,Reader Club,South,Non-Fiction,UPI,3,2216.36,9,6050.66
+07ORD100175,2024-12-22,Reader Club,West,Non-Fiction,Wallet,1,3052.71,32,2075.84
+07ORD100372,2025-11-23,Reader Club,North,Comics,Cash on Delivery,3,505.97,12,1335.76
+07ORD100528,2025-02-28,Reader Club,South,Fiction,Cash on Delivery,2,182.56,24,277.49
+07ORD100211,2024-09-10,Professional,West,Fiction,Cash on Delivery,2,2819.83,23,4342.54
+07ORD100236,2025-04-10,Institution,South,Comics,Credit Card,1,827.99,30,579.59
+07ORD100102,2025-03-15,Professional,West,Fiction,Debit Card,4,3574.46,22,11152.32
+07ORD100987,2025-10-29,Student,North,Non-Fiction,UPI,5,611.87,35,1988.58
+07ORD100903,2024-04-23,Student,Central,Academic,Wallet,5,144.72,0,723.6
+07ORD100948,2024-03-05,Reader Club,Central,Children,Credit Card,2,1342.79,28,1933.62
+07ORD100347,2025-03-18,Student,Central,Children,Cash on Delivery,2,2692.78,17,4470.01
+07ORD100140,2025-08-29,Student,South,Academic,Credit Card,5,161.03,4,772.94
+07ORD100622,2024-06-14,Professional,South,Academic,Cash on Delivery,2,3046.83,7,5667.1
+07ORD100500,2024-03-05,Student,Central,Fiction,Credit Card,4,684.08,26,2024.88
+07ORD100371,2024-12-08,Reader Club,West,Children,Cash on Delivery,2,3621.26,33,4852.49
+07ORD100199,2025-06-20,Institution,North,Academic,Credit Card,5,3217.58,32,10939.77
+07ORD100688,2025-03-10,Professional,West,Non-Fiction,Wallet,1,1993.22,1,1973.29
+07ORD100585,2024-10-04,Reader Club,South,Comics,Cash on Delivery,3,1911.68,23,4415.98
+07ORD100902,2025-12-07,Institution,West,Comics,Credit Card,2,1348.55,9,2454.36
+07ORD100060,2024-10-22,Institution,South,Children,Wallet,2,1395.66,21,2205.14
+07ORD100329,2024-12-14,Reader Club,East,Fiction,Wallet,1,3963.76,25,2972.82
+07ORD100097,2025-12-28,Professional,South,Non-Fiction,Credit Card,1,3833.04,13,3334.74
+07ORD100313,2024-07-11,Reader Club,East,Children,Wallet,1,1439.54,12,1266.8
+07ORD100975,2024-04-04,Reader Club,South,Children,Debit Card,4,538.1,9,1958.68
+07ORD100300,2024-10-18,Reader Club,West,Non-Fiction,Debit Card,4,2150.93,19,6969.01
+07ORD100278,2025-07-25,Professional,South,Academic,Wallet,4,291.97,28,840.87
+07ORD100925,2025-05-19,Reader Club,East,Fiction,UPI,4,2033.64,5,7727.83
+07ORD100602,2024-04-21,Student,West,Non-Fiction,UPI,1,980.17,28,705.72
+07ORD100440,2025-02-20,Student,North,Academic,Wallet,1,1366.91,18,1120.87
+07ORD100838,2024-04-14,Professional,East,Comics,Debit Card,5,821.64,29,2916.82
+07ORD100571,2024-02-07,Professional,East,Academic,Wallet,1,1421.47,24,1080.32
+07ORD100880,2024-07-14,Institution,West,Comics,Credit Card,5,2081.58,34,6869.21
+07ORD100262,2024-06-25,Professional,West,Comics,UPI,5,3005.85,24,11422.23
+07ORD100579,2024-01-13,Professional,West,Academic,UPI,3,1553.52,17,3868.26
+07ORD100024,2024-01-18,Professional,West,Non-Fiction,UPI,2,3794.63,0,7589.26
+07ORD100031,2025-04-05,Student,East,Comics,Debit Card,1,2092.76,2,2050.9
+07ORD100618,2024-04-15,Student,North,Comics,Wallet,6,597.54,17,2975.75
+07ORD100011,2025-01-30,Reader Club,East,Fiction,Cash on Delivery,6,920.27,15,4693.38
+07ORD100222,2025-05-19,Professional,South,Comics,Wallet,3,138.28,7,385.8
+07ORD100821,2025-08-14,Reader Club,East,Comics,Credit Card,5,2213.8,26,8191.06
+07ORD100297,2025-12-27,Student,South,Academic,Credit Card,1,3091.02,25,2318.26
+07ORD100055,2025-10-15,Professional,East,Comics,Debit Card,2,3358.42,0,6716.84
+07ORD100543,2024-09-18,Reader Club,North,Children,Wallet,5,827.75,14,3559.32
+07ORD100210,2024-10-31,Student,South,Comics,Credit Card,2,222.44,19,360.35
+07ORD100605,2024-11-10,Professional,South,Academic,Cash on Delivery,1,1120.46,23,862.75
+07ORD100693,2025-07-20,Student,West,Non-Fiction,Credit Card,2,3937.13,17,6535.64
+07ORD100663,2025-10-07,Reader Club,Central,Academic,Wallet,4,2401.51,24,7300.59
+07ORD100867,2025-10-11,Professional,Central,Comics,Cash on Delivery,1,2038.27,21,1610.23
+07ORD100071,2024-03-21,Student,Central,Academic,Cash on Delivery,2,709.58,25,1064.37
+07ORD100544,2025-10-15,Institution,South,Non-Fiction,Credit Card,1,1491.52,4,1431.86
+07ORD100108,2025-10-03,Reader Club,West,Academic,UPI,3,2847.72,13,7432.55
+07ORD100494,2024-03-02,Reader Club,East,Children,Debit Card,1,2554.53,19,2069.17
+07ORD100591,2025-10-17,Student,East,Academic,Credit Card,1,2627.41,22,2049.38
+07ORD100742,2024-01-22,Professional,East,Children,UPI,1,703.55,4,675.41
+07ORD100293,2025-03-02,Institution,North,Fiction,Credit Card,1,3754.02,12,3303.54
+07ORD100290,2024-09-02,Student,East,Non-Fiction,Wallet,5,2700.92,3,13099.46
+07ORD100653,2024-07-28,Institution,Central,Fiction,Credit Card,1,185.81,21,146.79
+07ORD100040,2024-09-17,Student,North,Fiction,UPI,1,3374.52,9,3070.81
+07ORD100590,2025-05-31,Student,East,Non-Fiction,UPI,1,1350.53,14,1161.46
+07ORD100308,2025-11-26,Student,West,Children,Credit Card,2,2699.17,14,4642.57
+07ORD100680,2025-10-05,Professional,West,Comics,Wallet,2,3846.22,27,5615.48
+07ORD100067,2024-04-15,Reader Club,South,Non-Fiction,Debit Card,1,3891.78,8,3580.44
+07ORD100276,2024-11-28,Professional,North,Academic,Wallet,2,3523.09,23,5425.56
+07ORD100068,2025-01-28,Reader Club,West,Academic,Debit Card,2,3751.49,31,5177.06
+07ORD100319,2025-12-01,Student,East,Fiction,UPI,6,1418.24,1,8424.35
+07ORD100549,2024-11-03,Professional,South,Comics,UPI,3,1809.59,14,4668.74
+07ORD100999,2024-08-04,Student,West,Fiction,Credit Card,1,2272.4,26,1681.58
+07ORD100715,2025-01-13,Student,West,Children,UPI,1,340.3,32,231.4
+07ORD100754,2025-03-13,Professional,West,Non-Fiction,Debit Card,5,3436.81,16,14434.6
+07ORD100328,2024-08-12,Institution,East,Fiction,Debit Card,1,1970.73,27,1438.63
+07ORD100383,2024-04-15,Student,Central,Children,UPI,2,2917.02,15,4958.93
+07ORD100452,2025-01-24,Institution,North,Children,UPI,5,684.53,27,2498.53
+07ORD100523,2025-04-07,Student,East,Children,Wallet,1,263.76,23,203.1
+07ORD100219,2024-08-17,Student,North,Children,UPI,1,1657.29,17,1375.55
+07ORD100788,2025-10-09,Reader Club,West,Comics,Credit Card,1,3097.59,28,2230.26
+07ORD100437,2025-10-03,Reader Club,Central,Children,UPI,6,3839.58,30,16126.24
+07ORD100765,2024-12-23,Reader Club,Central,Non-Fiction,Cash on Delivery,5,2943.97,24,11187.09
+07ORD100089,2025-02-10,Professional,North,Comics,UPI,4,280.22,4,1076.04
+07ORD100064,2025-01-29,Institution,South,Academic,Wallet,1,2401.99,34,1585.31
+07ORD100827,2024-07-07,Institution,North,Comics,Debit Card,1,3757.5,22,2930.85
+07ORD100717,2024-12-06,Student,East,Non-Fiction,Cash on Delivery,2,2643.91,6,4970.55
+07ORD100352,2025-01-09,Professional,Central,Fiction,Wallet,1,3216.22,0,3216.22
+07ORD100937,2025-02-01,Professional,South,Non-Fiction,Wallet,1,2028.05,10,1825.24
+07ORD100257,2025-12-30,Student,South,Academic,Cash on Delivery,1,1693.88,12,1490.61
+07ORD100636,2025-09-06,Professional,West,Children,UPI,5,3629.11,6,17056.82
+07ORD100645,2025-02-18,Student,West,Fiction,Wallet,6,2035.37,25,9159.16
+07ORD100555,2025-06-03,Professional,West,Fiction,Credit Card,2,1573.42,32,2139.85
+07ORD100960,2024-02-25,Professional,Central,Children,UPI,1,1088.18,8,1001.13
+07ORD100169,2025-06-30,Institution,South,Academic,Credit Card,4,3659.93,0,14639.72
+07ORD100918,2025-09-14,Student,South,Fiction,Debit Card,5,824.01,5,3914.05
+07ORD100529,2025-02-10,Professional,Central,Children,Wallet,1,1668.11,34,1100.95
+07ORD100824,2025-06-30,Reader Club,East,Academic,Debit Card,1,2895.61,35,1882.15
+07ORD100986,2024-02-12,Institution,North,Comics,Cash on Delivery,2,837.18,32,1138.56
+07ORD100817,2025-02-25,Reader Club,South,Non-Fiction,Wallet,6,302.72,27,1325.91
+07ORD100087,2025-04-01,Institution,Central,Fiction,Credit Card,2,656.19,32,892.42
+07ORD100433,2025-08-22,Institution,North,Non-Fiction,UPI,6,3104.93,13,16207.73
+07ORD100185,2024-04-22,Institution,East,Comics,Credit Card,1,2694.37,25,2020.78
+07ORD100979,2024-02-15,Professional,East,Comics,Cash on Delivery,5,1050.45,19,4254.32
+07ORD100535,2024-06-26,Student,East,Children,UPI,5,3330.07,20,13320.28
+07ORD100295,2025-11-19,Institution,South,Non-Fiction,Credit Card,6,3358.85,34,13301.05
+07ORD100893,2024-11-11,Institution,East,Academic,Debit Card,1,3973.57,31,2741.76
+07ORD100426,2024-04-08,Reader Club,North,Children,Debit Card,4,3333.66,31,9200.9
+07ORD100714,2025-02-24,Student,Central,Fiction,Cash on Delivery,1,2405.81,14,2069.0
+07ORD100261,2025-02-10,Reader Club,North,Non-Fiction,Cash on Delivery,2,1339.78,1,2652.76
+07ORD100238,2024-03-21,Institution,South,Children,UPI,1,1706.78,19,1382.49
+07ORD100560,2024-01-25,Reader Club,Central,Children,Debit Card,5,1632.38,5,7753.8
+07ORD100584,2024-09-17,Student,South,Children,Wallet,2,3691.97,10,6645.55
+07ORD100446,2025-09-24,Student,East,Academic,Debit Card,3,3985.55,0,11956.65
+07ORD100868,2024-11-22,Student,South,Non-Fiction,Debit Card,5,940.7,4,4515.36
+07ORD100801,2025-10-17,Institution,Central,Non-Fiction,Wallet,4,940.28,32,2557.56
+07ORD100600,2025-10-05,Professional,Central,Academic,Wallet,5,1126.76,26,4169.01
+07ORD100850,2025-06-27,Institution,North,Fiction,Credit Card,2,2676.05,28,3853.51
+07ORD100266,2025-09-05,Professional,South,Non-Fiction,Cash on Delivery,3,907.54,7,2532.04
+07ORD100996,2024-05-27,Institution,West,Non-Fiction,Credit Card,4,391.54,15,1331.24
+07ORD100530,2025-09-03,Student,West,Academic,Credit Card,3,1405.96,12,3711.73
+07ORD100056,2024-03-14,Student,Central,Comics,Cash on Delivery,2,2583.45,4,4960.22
+07ORD100121,2025-04-17,Professional,East,Fiction,Credit Card,1,1322.55,21,1044.81
+07ORD100216,2025-01-21,Professional,South,Non-Fiction,Cash on Delivery,2,127.61,21,201.62
+07ORD100026,2024-08-26,Reader Club,Central,Fiction,UPI,4,185.44,9,675.0
+07ORD100073,2025-04-29,Professional,East,Non-Fiction,UPI,4,2937.82,21,9283.51
+07ORD100045,2025-07-26,Professional,Central,Children,Wallet,1,2950.64,21,2331.01
+07ORD100248,2024-06-22,Student,East,Academic,Wallet,5,1004.49,13,4369.53
+07ORD100722,2024-01-14,Professional,Central,Non-Fiction,Credit Card,6,2920.12,15,14892.61
+07ORD100282,2024-09-05,Reader Club,Central,Academic,UPI,3,948.98,29,2021.33
+07ORD100894,2025-07-03,Student,Central,Non-Fiction,Debit Card,1,3212.7,20,2570.16
+07ORD100915,2025-08-20,Professional,Central,Fiction,Cash on Delivery,4,2453.71,3,9520.39
+07ORD100811,2025-01-19,Professional,South,Fiction,Credit Card,6,2351.77,11,12558.45
+07ORD100245,2024-12-28,Professional,Central,Academic,Wallet,2,555.75,34,733.59
+07ORD100823,2025-08-25,Reader Club,East,Children,Cash on Delivery,3,1359.77,6,3834.55
+07ORD100322,2025-06-20,Student,North,Comics,Debit Card,1,1487.39,0,1487.39
+07ORD100644,2024-05-25,Institution,East,Academic,Wallet,1,842.56,6,792.01
+07ORD100159,2025-04-06,Student,North,Fiction,Debit Card,1,922.16,1,912.94
+07ORD100978,2025-11-26,Professional,Central,Academic,UPI,1,2760.47,24,2097.96
+07ORD100430,2024-09-09,Student,East,Non-Fiction,Wallet,3,2595.67,23,5996.0
+07ORD100942,2025-02-07,Institution,Central,Comics,Wallet,1,1156.52,33,774.87
+07ORD100463,2024-04-01,Reader Club,South,Fiction,Credit Card,2,897.92,7,1670.13
+07ORD100310,2025-01-21,Reader Club,West,Comics,Debit Card,3,3134.51,23,7240.72
+07ORD100698,2024-01-02,Student,North,Comics,Credit Card,5,1013.02,16,4254.68
+07ORD100061,2024-01-14,Institution,South,Academic,Wallet,4,493.53,28,1421.37
+07ORD100885,2025-03-04,Institution,South,Fiction,Cash on Delivery,1,3396.76,24,2581.54
+07ORD100596,2024-03-20,Student,Central,Comics,UPI,3,3150.33,7,8789.42
+07ORD100768,2024-09-07,Reader Club,West,Fiction,Credit Card,1,2914.25,33,1952.55
+07ORD100650,2024-09-09,Professional,North,Comics,UPI,2,3085.32,2,6047.23
+07ORD100651,2024-10-12,Professional,South,Academic,Cash on Delivery,1,866.97,19,702.25
+07ORD100866,2024-03-23,Institution,South,Children,Credit Card,1,3645.2,13,3171.32
+07ORD100669,2024-08-02,Reader Club,East,Non-Fiction,Cash on Delivery,4,1414.83,9,5149.98
+07ORD100299,2025-05-06,Reader Club,South,Non-Fiction,Credit Card,3,1914.87,1,5687.16
+07ORD100690,2024-10-14,Reader Club,South,Children,Debit Card,1,2526.08,12,2222.95
+07ORD100315,2024-04-10,Professional,East,Non-Fiction,UPI,6,1792.63,34,7098.81
+07ORD100311,2025-08-05,Institution,South,Comics,Cash on Delivery,1,1071.19,34,706.99
+07ORD100362,2024-11-12,Professional,East,Comics,Cash on Delivery,4,1752.4,17,5817.97
+07ORD100480,2024-07-28,Professional,East,Children,Cash on Delivery,5,3191.44,35,10372.18
+07ORD100111,2024-08-21,Student,East,Academic,UPI,2,1405.11,19,2276.28
+07ORD100990,2024-07-24,Professional,South,Comics,Debit Card,4,1038.6,14,3572.78
+07ORD100487,2024-12-28,Institution,East,Academic,Cash on Delivery,6,2899.62,4,16701.81
+07ORD100364,2024-01-27,Reader Club,South,Fiction,Wallet,3,1028.1,27,2251.54
+07ORD100255,2025-08-10,Professional,North,Fiction,Credit Card,2,289.74,35,376.66
+07ORD100260,2025-06-27,Student,West,Academic,Cash on Delivery,3,412.76,14,1064.92
+07ORD100803,2025-09-09,Reader Club,South,Fiction,Wallet,1,979.97,0,979.97
+07ORD100678,2024-02-02,Reader Club,East,Non-Fiction,Credit Card,1,531.52,12,467.74
+07ORD100495,2025-06-12,Institution,Central,Children,Cash on Delivery,2,1187.6,29,1686.39
+07ORD100671,2024-04-04,Professional,Central,Academic,UPI,6,2029.73,1,12056.6
+07ORD100378,2025-08-16,Student,East,Non-Fiction,UPI,5,3652.18,15,15521.76
+07ORD100527,2025-03-06,Professional,Central,Comics,Wallet,1,1043.06,14,897.03
+07ORD100846,2024-10-31,Reader Club,South,Academic,UPI,4,1783.61,24,5422.17
+07ORD100138,2025-12-01,Professional,West,Comics,Credit Card,6,3854.08,16,19424.56
+07ORD100356,2024-04-18,Professional,West,Non-Fiction,UPI,1,3966.49,20,3173.19
+07ORD100366,2025-02-04,Reader Club,Central,Non-Fiction,Debit Card,2,1014.49,5,1927.53
+07ORD100943,2025-11-11,Reader Club,North,Non-Fiction,UPI,1,1939.62,27,1415.92
+07ORD100750,2024-01-17,Institution,Central,Non-Fiction,Debit Card,2,3207.55,35,4169.82
+07ORD100949,2024-08-24,Reader Club,East,Academic,Credit Card,1,2185.83,13,1901.67
+07ORD100830,2025-07-21,Reader Club,West,Academic,Debit Card,5,1914.24,25,7178.4
+07ORD100657,2025-11-06,Student,North,Comics,UPI,1,2858.46,25,2143.85
+07ORD100200,2024-01-28,Institution,South,Fiction,Credit Card,2,1900.51,16,3192.86
+07ORD100214,2025-10-01,Institution,North,Children,Credit Card,3,2733.87,22,6397.26
+07ORD100409,2024-01-21,Student,South,Children,Credit Card,1,1531.36,15,1301.66
+07ORD100333,2025-05-18,Institution,South,Academic,Debit Card,1,2040.01,35,1326.01
+07ORD100209,2024-01-15,Student,Central,Fiction,Debit Card,2,246.68,9,448.96
+07ORD100614,2024-06-14,Professional,North,Comics,Wallet,2,1629.61,12,2868.11
+07ORD100079,2025-09-29,Professional,Central,Academic,Wallet,1,1349.4,8,1241.45
+07ORD100030,2025-02-16,Reader Club,East,Academic,Cash on Delivery,1,3285.72,11,2924.29
+07ORD100536,2024-09-21,Reader Club,South,Children,Credit Card,3,1067.72,13,2786.75
+07ORD100696,2025-12-04,Student,Central,Children,Wallet,2,982.99,32,1336.87
+07ORD100558,2024-07-10,Student,Central,Comics,UPI,1,2857.78,11,2543.42
+07ORD100837,2024-05-31,Reader Club,North,Academic,Credit Card,6,3282.5,31,13589.55
+07ORD100597,2024-01-18,Professional,South,Children,Cash on Delivery,4,3293.12,22,10274.53
+07ORD100166,2024-07-15,Reader Club,North,Comics,Cash on Delivery,5,2161.35,26,7997.0
+07ORD100919,2024-10-16,Professional,South,Academic,Credit Card,6,325.06,10,1755.32
+07ORD100496,2024-09-27,Institution,East,Fiction,UPI,1,3051.98,13,2655.22
+07ORD100825,2024-02-27,Institution,South,Comics,Wallet,5,2607.07,20,10428.28
+07ORD100066,2025-02-24,Student,North,Children,Wallet,3,1576.04,3,4586.28
+07ORD100142,2024-10-17,Reader Club,East,Fiction,Wallet,2,108.27,33,145.08
+07ORD100926,2025-12-12,Institution,South,Non-Fiction,Credit Card,2,2769.81,25,4154.72
+07ORD100828,2025-07-01,Reader Club,South,Children,UPI,1,3121.68,33,2091.53
+07ORD100656,2024-05-21,Institution,East,Academic,Cash on Delivery,5,1027.0,22,4005.3
+07ORD100332,2025-10-22,Reader Club,Central,Comics,Debit Card,5,1219.89,3,5916.47
+07ORD100665,2025-11-23,Reader Club,East,Children,UPI,5,1053.09,25,3949.09
+07ORD100250,2024-06-11,Institution,West,Comics,UPI,1,1315.7,31,907.83
+07ORD100908,2024-10-13,Reader Club,South,Fiction,UPI,6,1028.55,9,5615.88
+07ORD100709,2024-06-20,Reader Club,East,Non-Fiction,UPI,3,3781.67,24,8622.21
+07ORD100306,2025-11-13,Institution,West,Academic,Cash on Delivery,1,1462.03,14,1257.35
+07ORD100735,2024-04-08,Reader Club,West,Children,Credit Card,1,2127.38,24,1616.81
+07ORD100976,2025-11-21,Student,East,Children,Debit Card,1,625.17,4,600.16
+07ORD100050,2025-06-25,Reader Club,Central,Academic,Debit Card,2,3717.6,16,6245.57
+07ORD100897,2025-04-16,Student,Central,Non-Fiction,Cash on Delivery,4,1123.71,13,3910.51
+07ORD100003,2025-07-25,Student,Central,Children,Cash on Delivery,1,3225.35,19,2612.53
+07ORD100545,2025-07-28,Institution,South,Comics,Wallet,1,1974.72,16,1658.76
+07ORD100351,2025-03-25,Professional,East,Children,Debit Card,5,3861.8,23,14867.93
+07ORD100905,2024-12-01,Reader Club,Central,Comics,Debit Card,3,3989.31,14,10292.42
+07ORD100537,2024-05-11,Student,East,Academic,UPI,1,312.47,32,212.48
+07ORD100345,2024-10-06,Student,South,Children,Cash on Delivery,1,3438.74,9,3129.25
+07ORD100995,2024-06-27,Student,North,Academic,UPI,3,3074.53,22,7194.4
+07ORD100482,2025-01-11,Reader Club,East,Comics,Wallet,5,680.11,14,2924.47
+07ORD100576,2025-03-27,Student,North,Comics,Wallet,6,960.47,23,4437.37
+07ORD100034,2024-12-28,Reader Club,Central,Fiction,UPI,5,3299.08,34,10886.96
+07ORD100032,2024-03-21,Professional,North,Fiction,Credit Card,6,2614.61,17,13020.76
+07ORD100232,2025-01-07,Reader Club,North,Non-Fiction,UPI,3,3113.34,9,8499.42
+07ORD100964,2024-11-22,Reader Club,South,Non-Fiction,UPI,6,495.77,33,1993.0
+07ORD100193,2025-04-22,Professional,West,Non-Fiction,Credit Card,3,3232.24,11,8630.08
+07ORD100334,2024-03-11,Professional,East,Comics,Credit Card,6,726.59,23,3356.85
+07ORD100004,2025-11-15,Institution,West,Children,Cash on Delivery,2,292.49,30,409.49
+07ORD100205,2025-12-13,Professional,South,Academic,Cash on Delivery,1,542.97,25,407.23
+07ORD100515,2024-01-06,Reader Club,North,Non-Fiction,UPI,1,1735.79,12,1527.5
+07ORD100800,2025-04-23,Professional,South,Comics,Debit Card,6,3794.22,30,15935.72
+07ORD100307,2025-09-20,Professional,East,Academic,UPI,1,687.91,17,570.97
+07ORD100110,2024-03-14,Professional,North,Children,Wallet,1,3902.2,35,2536.43
+07ORD100431,2025-06-07,Professional,North,Comics,Wallet,5,263.98,16,1108.72
+07ORD100078,2025-10-25,Professional,East,Comics,Debit Card,2,352.89,31,486.99
+07ORD100085,2025-06-12,Professional,Central,Academic,Wallet,1,2647.85,4,2541.94
+07ORD100287,2024-05-06,Reader Club,North,Academic,Cash on Delivery,1,3204.05,12,2819.56
+07ORD100083,2024-03-14,Professional,South,Comics,UPI,1,2001.74,24,1521.32
+07ORD100992,2024-10-01,Student,South,Children,UPI,5,3500.18,8,16100.83
+07ORD100790,2025-07-15,Institution,North,Comics,Credit Card,2,875.93,29,1243.82
+07ORD100895,2024-08-08,Reader Club,South,Children,Debit Card,2,2803.16,27,4092.61
+07ORD100399,2024-01-23,Reader Club,South,Non-Fiction,Cash on Delivery,1,2320.13,24,1763.3
+07ORD100324,2025-10-04,Institution,South,Children,Credit Card,1,2026.96,25,1520.22
+07ORD100520,2024-06-05,Student,North,Comics,Credit Card,3,3239.92,20,7775.81
+07ORD100917,2024-02-14,Institution,Central,Fiction,Credit Card,5,2039.24,14,8768.73
+07ORD100923,2025-02-09,Institution,East,Children,Wallet,2,1082.78,29,1537.55
+07ORD100006,2025-04-30,Institution,South,Non-Fiction,Cash on Delivery,5,506.37,19,2050.8
+07ORD100732,2025-01-16,Student,West,Comics,Wallet,2,1683.03,35,2187.94
+07ORD100466,2024-10-07,Professional,South,Children,Credit Card,3,3252.3,22,7610.38
+07ORD100098,2025-07-21,Reader Club,South,Academic,Wallet,2,1227.14,13,2135.22
+07ORD100267,2024-12-30,Institution,South,Fiction,UPI,2,1192.17,13,2074.38
+07ORD100358,2024-10-15,Professional,South,Fiction,Credit Card,6,482.67,33,1940.33
+07ORD100869,2025-03-24,Reader Club,Central,Non-Fiction,Cash on Delivery,3,2133.25,27,4671.82
+07ORD100799,2025-11-24,Professional,West,Fiction,Debit Card,5,2167.98,31,7479.53
+07ORD100381,2024-12-18,Institution,West,Children,Cash on Delivery,4,2289.04,11,8148.98
+07ORD100632,2025-03-14,Institution,North,Non-Fiction,Wallet,3,3948.91,19,9595.85
+07ORD100382,2024-12-20,Student,East,Children,Credit Card,5,149.39,10,672.26
+07ORD100491,2024-07-13,Reader Club,Central,Non-Fiction,Wallet,2,426.66,0,853.32
+07ORD100119,2025-12-10,Reader Club,East,Non-Fiction,Debit Card,4,3368.42,10,12126.31
+07ORD100901,2024-01-04,Institution,Central,Comics,Debit Card,2,3939.13,31,5436.0
+07ORD100251,2024-08-25,Institution,North,Comics,Cash on Delivery,2,1668.09,32,2268.6
+07ORD100524,2025-10-24,Reader Club,Central,Children,Wallet,1,1297.03,12,1141.39
+07ORD100010,2024-01-22,Reader Club,Central,Non-Fiction,UPI,5,2091.8,16,8785.56
+07ORD100197,2024-01-30,Professional,Central,Fiction,Cash on Delivery,5,1404.81,31,4846.59
+07ORD100604,2025-09-19,Institution,East,Non-Fiction,UPI,2,2244.19,18,3680.47
+07ORD100082,2024-10-08,Reader Club,South,Academic,Credit Card,2,2318.72,9,4220.07
+07ORD100784,2024-09-08,Student,West,Academic,Wallet,2,571.57,1,1131.71
+07ORD100588,2025-08-22,Institution,Central,Non-Fiction,UPI,4,599.67,17,1990.9
+07ORD100798,2025-02-10,Student,South,Academic,Debit Card,1,1791.18,18,1468.77
+07ORD100240,2024-12-22,Reader Club,West,Fiction,Wallet,3,228.03,1,677.25
+07ORD100291,2025-02-14,Professional,North,Academic,UPI,2,2421.41,12,4261.68
+07ORD100212,2025-09-14,Institution,Central,Children,Cash on Delivery,2,2189.93,33,2934.51
+07ORD100718,2025-11-01,Reader Club,South,Fiction,Credit Card,2,674.55,9,1227.68
+07ORD100360,2024-11-13,Student,North,Comics,UPI,5,2871.42,15,12203.54
+07ORD100450,2025-10-15,Professional,Central,Fiction,Wallet,6,1170.16,23,5406.14
+07ORD100228,2024-06-07,Student,South,Fiction,Credit Card,2,887.93,24,1349.65
+07ORD100951,2025-05-14,Institution,East,Fiction,Cash on Delivery,1,787.08,35,511.6
+07ORD100947,2024-08-31,Reader Club,North,Children,Cash on Delivery,1,2126.21,34,1403.3
+07ORD100797,2024-02-14,Reader Club,North,Children,Cash on Delivery,3,613.96,17,1528.76
+07ORD100502,2025-05-04,Institution,North,Comics,Wallet,1,1923.55,29,1365.72
+07ORD100465,2024-05-02,Reader Club,North,Academic,UPI,3,1829.44,26,4061.36
+07ORD100363,2024-12-14,Student,South,Fiction,Debit Card,1,1066.76,3,1034.76
+07ORD100469,2025-09-22,Reader Club,South,Comics,Credit Card,1,2569.21,16,2158.14
+07ORD100936,2025-08-23,Institution,East,Children,Cash on Delivery,4,3184.85,8,11720.25
+07ORD100429,2024-12-10,Institution,North,Academic,Cash on Delivery,5,375.34,28,1351.22
+07ORD100008,2025-04-10,Professional,East,Comics,Wallet,3,2439.29,24,5561.58
+07ORD100156,2024-03-31,Reader Club,East,Non-Fiction,Wallet,1,2601.64,33,1743.1
+07ORD100542,2025-02-12,Reader Club,North,Fiction,UPI,2,3867.6,35,5027.88
+07ORD100441,2024-03-23,Student,East,Fiction,Cash on Delivery,2,2152.32,27,3142.39
+07ORD100483,2024-06-18,Professional,West,Comics,UPI,1,315.81,2,309.49
+07ORD100423,2025-05-13,Student,East,Comics,UPI,2,3161.45,27,4615.72
+07ORD100779,2024-11-24,Reader Club,West,Comics,Cash on Delivery,1,2439.82,35,1585.88
+07ORD100950,2024-01-03,Institution,West,Comics,Credit Card,5,1463.84,20,5855.36
+07ORD100335,2024-05-08,Professional,North,Comics,Debit Card,3,1062.35,32,2167.19
+07ORD100577,2025-04-13,Student,Central,Academic,Credit Card,1,3170.18,16,2662.95
+07ORD100935,2024-12-10,Professional,East,Fiction,Credit Card,6,243.95,20,1170.96
+07ORD100568,2025-05-05,Reader Club,East,Fiction,Cash on Delivery,4,1353.8,35,3519.88
+07ORD100595,2025-08-09,Reader Club,Central,Non-Fiction,Cash on Delivery,1,415.07,13,361.11
+07ORD100531,2024-04-14,Professional,North,Comics,Debit Card,6,2739.17,7,15284.57
+07ORD100582,2024-04-09,Institution,West,Children,Cash on Delivery,1,3623.39,18,2971.18
+07ORD100708,2024-08-21,Institution,North,Comics,Wallet,1,123.09,11,109.55
+07ORD100449,2024-08-14,Reader Club,North,Children,Debit Card,5,1418.94,8,6527.12
+07ORD100454,2025-07-17,Reader Club,West,Academic,Debit Card,2,3501.75,28,5042.52
+07ORD100229,2025-08-01,Reader Club,North,Comics,Credit Card,1,704.62,6,662.34
+07ORD100353,2024-10-22,Professional,North,Fiction,Cash on Delivery,2,2021.19,4,3880.68
+07ORD100729,2025-08-14,Institution,East,Children,UPI,2,3881.5,22,6055.14
+07ORD100213,2025-06-03,Student,West,Fiction,UPI,2,1542.95,12,2715.59
+07ORD100080,2025-03-24,Reader Club,West,Academic,Debit Card,5,3676.47,1,18198.53
+07ORD100149,2025-06-02,Institution,South,Academic,UPI,4,723.04,16,2429.41
+07ORD100303,2025-11-17,Institution,West,Academic,Credit Card,2,2643.68,7,4917.24
+07ORD100629,2025-03-09,Reader Club,South,Academic,Wallet,2,3358.96,4,6449.2
+07ORD100778,2024-06-14,Institution,West,Comics,UPI,3,1673.08,33,3362.89
+07ORD100507,2024-01-19,Professional,Central,Non-Fiction,Cash on Delivery,1,1040.16,23,800.92
+07ORD100343,2025-07-06,Reader Club,South,Non-Fiction,Wallet,2,3623.83,3,7030.23
+07ORD100486,2024-08-14,Institution,Central,Academic,UPI,2,2442.18,26,3614.43
+07ORD100712,2025-06-01,Institution,East,Children,Credit Card,2,221.55,27,323.46
+07ORD100134,2025-01-08,Reader Club,North,Academic,Cash on Delivery,1,2812.58,4,2700.08
+07ORD100704,2024-01-22,Student,South,Children,Cash on Delivery,3,942.0,4,2712.96
+07ORD100312,2025-10-13,Student,North,Fiction,Cash on Delivery,1,1219.42,1,1207.23
+07ORD100723,2024-03-10,Institution,North,Academic,Debit Card,6,2118.17,23,9785.95
+07ORD100630,2025-09-26,Professional,West,Comics,Cash on Delivery,1,2758.28,13,2399.7
+07ORD100001,2025-12-08,Student,West,Non-Fiction,Wallet,1,2199.86,33,1473.91
+07ORD100317,2024-06-22,Professional,West,Comics,Credit Card,2,1764.75,15,3000.08
+07ORD100707,2025-04-10,Reader Club,South,Academic,Wallet,4,1142.73,26,3382.48
+07ORD100548,2024-11-16,Institution,South,Comics,Wallet,1,663.83,5,630.64
+07ORD100873,2025-09-03,Institution,West,Academic,Wallet,2,534.72,20,855.55
+07ORD100533,2025-10-06,Student,East,Fiction,UPI,3,1654.5,5,4715.32
+07ORD100478,2025-02-21,Student,North,Comics,UPI,1,1124.84,15,956.11
+07ORD100405,2025-11-18,Student,West,Non-Fiction,Debit Card,1,3375.26,20,2700.21
+07ORD100173,2024-04-15,Student,Central,Children,UPI,1,3351.55,31,2312.57
+07ORD100126,2024-04-08,Professional,West,Non-Fiction,Credit Card,1,1766.89,34,1166.15
+07ORD100395,2024-09-14,Reader Club,South,Children,Credit Card,2,2133.29,18,3498.6
+07ORD100421,2024-09-22,Institution,South,Academic,Wallet,3,361.69,30,759.55
+07ORD100553,2025-10-09,Reader Club,North,Comics,Debit Card,1,1882.61,13,1637.87
+07ORD100904,2024-08-02,Reader Club,North,Non-Fiction,Cash on Delivery,2,1531.13,30,2143.58
+07ORD100091,2024-11-17,Reader Club,East,Non-Fiction,Credit Card,1,1655.14,2,1622.04
+07ORD100940,2025-09-27,Institution,North,Non-Fiction,Cash on Delivery,6,2404.73,31,9955.58
+07ORD100182,2025-01-26,Reader Club,Central,Fiction,Debit Card,1,973.85,18,798.56
+07ORD100275,2024-09-22,Institution,South,Children,Debit Card,5,1781.31,32,6056.45
+07ORD100896,2024-08-01,Institution,South,Comics,UPI,2,3231.94,18,5300.38
+07ORD100070,2024-01-07,Institution,West,Academic,Credit Card,4,3137.57,13,10918.74
+07ORD100292,2024-08-05,Reader Club,North,Comics,UPI,3,1473.19,17,3668.24
+07ORD100132,2024-08-20,Reader Club,North,Non-Fiction,Credit Card,1,604.25,12,531.74
+07ORD100301,2024-04-26,Professional,Central,Children,Wallet,4,1387.34,34,3662.58
+07ORD100425,2024-07-29,Reader Club,South,Comics,Credit Card,5,457.24,0,2286.2
+07ORD100327,2024-10-12,Professional,North,Non-Fiction,Debit Card,1,247.21,34,163.16
+07ORD100145,2025-04-18,Student,East,Comics,Credit Card,6,527.22,31,2182.69
+07ORD100424,2024-08-05,Institution,South,Academic,Debit Card,3,1673.85,24,3816.38
+07ORD100581,2024-09-15,Institution,South,Comics,Wallet,1,3477.49,5,3303.62
+07ORD100136,2024-08-23,Institution,West,Academic,Cash on Delivery,4,2186.33,7,8133.15
+07ORD100451,2025-07-16,Institution,West,Academic,Debit Card,2,877.75,16,1474.62
+07ORD100165,2025-01-07,Reader Club,East,Fiction,Credit Card,4,2512.69,32,6834.52
+07ORD100029,2024-10-20,Student,East,Academic,Credit Card,2,2368.91,19,3837.63
+07ORD100774,2025-04-29,Institution,North,Academic,Cash on Delivery,5,1116.7,16,4690.14
+07ORD100194,2025-02-13,Professional,North,Comics,Cash on Delivery,2,451.72,26,668.55
+07ORD100389,2024-10-23,Reader Club,Central,Academic,Credit Card,3,2920.51,11,7797.76
+07ORD100853,2024-05-15,Professional,North,Comics,UPI,2,3552.52,28,5115.63
+07ORD100170,2024-03-12,Student,Central,Non-Fiction,Debit Card,2,3036.94,10,5466.49
+07ORD100706,2025-04-21,Professional,West,Fiction,UPI,1,3808.23,34,2513.43
+07ORD100141,2025-10-30,Reader Club,West,Children,Debit Card,5,1946.31,8,8953.03
+07ORD100174,2025-11-01,Reader Club,South,Non-Fiction,Debit Card,5,257.71,24,979.3
+07ORD100007,2025-08-09,Student,East,Academic,Wallet,2,353.35,14,607.76
+07ORD100746,2024-09-30,Professional,South,Non-Fiction,Cash on Delivery,1,428.78,11,381.61
+07ORD100479,2024-08-18,Institution,South,Comics,Credit Card,5,3113.7,32,10586.58
+07ORD100074,2024-12-22,Student,South,Academic,Debit Card,2,1119.89,26,1657.44
+07ORD100911,2025-05-31,Student,North,Non-Fiction,Wallet,4,1711.23,26,5065.24
+07ORD100814,2024-04-10,Reader Club,East,Academic,UPI,4,2575.65,10,9272.34
+07ORD100239,2024-06-14,Student,East,Academic,UPI,4,2328.36,31,6426.27
+07ORD100146,2024-05-18,Professional,North,Comics,Credit Card,1,3269.74,33,2190.73
+07ORD100793,2024-01-27,Reader Club,Central,Comics,Cash on Delivery,1,712.13,3,690.77
+07ORD100235,2025-09-10,Professional,West,Academic,Cash on Delivery,1,1340.06,9,1219.45
+07ORD100221,2025-02-07,Student,Central,Academic,Wallet,4,828.65,27,2419.66
+07ORD100924,2025-11-03,Professional,North,Academic,Credit Card,1,179.83,3,174.44
+07ORD100501,2025-04-24,Institution,North,Academic,Debit Card,3,652.59,26,1448.75
+07ORD100133,2024-05-08,Student,South,Comics,Wallet,4,3260.75,30,9130.1
+07ORD100991,2025-12-22,Reader Club,West,Children,Cash on Delivery,2,2523.6,14,4340.59
+07ORD100775,2024-01-02,Reader Club,East,Fiction,UPI,2,3585.08,33,4804.01
+07ORD100186,2025-12-20,Institution,Central,Children,Cash on Delivery,1,3814.7,32,2594.0
+07ORD100042,2024-10-06,Student,North,Fiction,Debit Card,6,2969.17,3,17280.57
+07ORD100697,2024-12-01,Student,Central,Academic,Cash on Delivery,2,377.83,14,649.87
+07ORD100109,2025-07-07,Professional,East,Children,UPI,1,3363.74,31,2320.98
+07ORD100589,2025-01-12,Student,Central,Fiction,UPI,2,2527.36,29,3588.85
+07ORD100057,2025-03-09,Student,South,Comics,Wallet,5,1883.21,31,6497.07
+07ORD100406,2024-02-18,Student,North,Comics,Credit Card,2,3266.89,28,4704.32
+07ORD100443,2024-01-05,Professional,Central,Children,Credit Card,2,2269.11,14,3902.87
+07ORD100758,2024-05-11,Professional,East,Non-Fiction,UPI,1,606.44,0,606.44
+07ORD100998,2024-03-12,Student,South,Children,Credit Card,1,3552.98,9,3233.21
+07ORD100025,2024-12-01,Institution,West,Comics,Debit Card,1,1063.6,23,818.97
+07ORD100468,2025-03-26,Institution,East,Children,Debit Card,1,2661.11,34,1756.33
+07ORD100540,2025-12-20,Institution,North,Non-Fiction,Cash on Delivery,3,2877.5,8,7941.9
+07ORD100532,2024-09-08,Reader Club,South,Non-Fiction,Wallet,5,2029.72,20,8118.88
+07ORD100619,2025-09-11,Professional,West,Fiction,Credit Card,3,190.38,27,416.93
+07ORD100695,2025-12-17,Institution,South,Comics,Credit Card,1,1670.4,3,1620.29
+07ORD100927,2024-05-01,Student,East,Comics,UPI,4,841.28,18,2759.4
+07ORD100339,2025-01-21,Institution,East,Comics,Cash on Delivery,3,1300.05,31,2691.1
+07ORD100052,2024-11-13,Institution,South,Academic,UPI,1,3073.01,3,2980.82
+07ORD100508,2025-06-28,Institution,South,Children,Credit Card,4,2877.35,10,10358.46
+07ORD100517,2025-09-03,Reader Club,East,Academic,Debit Card,5,2750.88,8,12654.05
+07ORD100921,2024-08-22,Reader Club,North,Non-Fiction,Credit Card,2,3242.26,23,4993.08
+07ORD100782,2024-04-01,Professional,South,Academic,Debit Card,6,285.63,32,1165.37
+07ORD100265,2024-07-08,Reader Club,North,Academic,Wallet,5,644.56,4,3093.89
+07ORD100818,2024-02-23,Professional,East,Comics,Credit Card,5,1589.62,7,7391.73
+07ORD100711,2025-11-05,Student,South,Comics,Debit Card,1,421.97,19,341.8
+07ORD100683,2025-05-09,Professional,East,Children,UPI,2,1117.17,34,1474.66
+07ORD100833,2024-06-17,Student,East,Comics,Wallet,1,2366.72,24,1798.71
+07ORD100519,2024-12-22,Institution,South,Non-Fiction,Credit Card,4,3352.72,12,11801.57
+07ORD100448,2025-03-03,Institution,North,Non-Fiction,UPI,6,1020.57,26,4531.33
+07ORD100019,2024-04-16,Professional,South,Non-Fiction,Credit Card,1,2231.42,12,1963.65
+07ORD100716,2025-04-17,Institution,West,Non-Fiction,Wallet,1,2314.75,2,2268.46
+07ORD100484,2024-12-04,Student,Central,Children,UPI,4,1157.73,1,4584.61
+07ORD100569,2025-05-02,Institution,South,Fiction,Credit Card,4,439.97,18,1443.1
+07ORD100434,2024-07-27,Student,East,Non-Fiction,Credit Card,6,1358.48,25,6113.16
+07ORD100368,2025-11-12,Reader Club,North,Academic,UPI,2,918.88,20,1470.21
+07ORD100084,2024-02-14,Institution,South,Academic,Wallet,1,3461.29,28,2492.13
+07ORD100062,2025-09-03,Reader Club,North,Fiction,Debit Card,1,2299.17,16,1931.3
+07ORD100639,2025-03-16,Student,Central,Fiction,Cash on Delivery,5,2652.85,13,11539.9
+07ORD100273,2025-02-05,Professional,North,Children,Credit Card,4,3502.52,25,10507.56
+07ORD100286,2024-09-05,Institution,North,Non-Fiction,Cash on Delivery,4,2265.86,17,7522.66
+07ORD100361,2024-12-06,Student,Central,Children,UPI,1,2489.79,4,2390.2
+07ORD100355,2025-01-27,Professional,East,Academic,Cash on Delivery,6,758.39,16,3822.29
+07ORD100457,2025-08-29,Institution,Central,Non-Fiction,Credit Card,1,3841.03,28,2765.54
+07ORD100279,2025-07-13,Reader Club,South,Academic,Wallet,5,564.37,20,2257.48
+07ORD100013,2025-07-16,Student,West,Fiction,Cash on Delivery,1,1504.43,26,1113.28
+07ORD100183,2025-07-29,Institution,North,Fiction,Wallet,1,3984.36,20,3187.49
+07ORD100369,2025-07-12,Professional,West,Non-Fiction,Credit Card,4,1597.71,16,5368.31
+07ORD100882,2025-03-07,Institution,Central,Non-Fiction,Wallet,4,1046.91,31,2889.47
+07ORD100616,2024-01-04,Professional,Central,Fiction,Debit Card,4,1792.82,1,7099.57
+07ORD100224,2025-10-25,Institution,North,Fiction,Credit Card,3,2070.37,20,4968.89
+07ORD100573,2024-09-22,Reader Club,West,Non-Fiction,Cash on Delivery,3,248.41,11,663.25
+07ORD100971,2024-10-15,Reader Club,Central,Academic,Cash on Delivery,2,3255.96,22,5079.3
+07ORD100654,2024-04-19,Reader Club,Central,Academic,Credit Card,1,2174.31,32,1478.53
+07ORD100546,2024-04-27,Reader Club,South,Academic,Cash on Delivery,2,3570.46,29,5070.05
+07ORD100583,2025-09-07,Institution,West,Comics,UPI,1,2121.84,33,1421.63
+07ORD100634,2025-09-09,Reader Club,North,Academic,Cash on Delivery,2,2907.93,22,4536.37
+07ORD100177,2024-12-08,Institution,South,Academic,Credit Card,5,1999.32,33,6697.72
+07ORD100666,2024-12-27,Reader Club,North,Children,Credit Card,3,1005.7,30,2111.97
+07ORD100674,2024-02-21,Professional,East,Children,Debit Card,6,1210.81,31,5012.75
+07ORD100586,2024-03-06,Institution,South,Children,Wallet,4,517.25,22,1613.82
+07ORD100874,2024-01-14,Professional,Central,Academic,Debit Card,5,3789.79,31,13074.78
+07ORD100394,2025-03-25,Reader Club,West,Non-Fiction,Credit Card,2,2220.08,14,3818.54
+07ORD100164,2025-06-01,Professional,West,Fiction,UPI,2,3725.64,23,5737.49
+07ORD100249,2024-08-25,Professional,South,Academic,Debit Card,2,3406.88,18,5587.28
+07ORD100635,2025-09-09,Institution,Central,Children,UPI,2,943.8,28,1359.07
+07ORD100886,2024-10-19,Institution,Central,Comics,Wallet,3,1569.74,31,3249.36
+07ORD100670,2024-03-17,Student,West,Academic,Cash on Delivery,2,1683.46,35,2188.5
+07ORD100376,2024-07-04,Reader Club,North,Non-Fiction,Debit Card,3,3380.85,29,7201.21
+07ORD100413,2025-09-24,Student,North,Non-Fiction,Debit Card,5,3946.35,12,17363.94
+07ORD100075,2024-11-06,Professional,East,Fiction,Credit Card,3,227.99,24,519.82
+07ORD100114,2025-08-30,Reader Club,West,Non-Fiction,Wallet,4,3439.5,23,10593.66
+07ORD100599,2025-09-05,Student,West,Academic,Cash on Delivery,3,711.67,10,1921.51
+07ORD100962,2024-03-08,Institution,Central,Comics,UPI,5,853.17,12,3753.95
+07ORD100391,2024-07-07,Reader Club,West,Academic,Cash on Delivery,4,3733.05,0,14932.2
+07ORD100105,2025-03-07,Student,Central,Fiction,Cash on Delivery,1,3726.93,3,3615.12
+07ORD100115,2024-09-14,Institution,South,Fiction,Wallet,1,1240.45,13,1079.19
+07ORD100418,2024-12-17,Reader Club,North,Children,UPI,3,150.38,7,419.56
+07ORD100526,2025-08-15,Professional,Central,Non-Fiction,UPI,1,3780.8,6,3553.95
+07ORD100458,2024-05-08,Professional,West,Comics,Cash on Delivery,1,1593.25,4,1529.52
+07ORD100410,2025-01-26,Reader Club,South,Academic,Cash on Delivery,1,1691.71,14,1454.87
+07ORD100093,2025-08-26,Professional,North,Academic,Cash on Delivery,5,1272.95,23,4900.86
+07ORD100931,2025-04-23,Reader Club,Central,Children,Credit Card,2,3455.36,34,4561.08
+07ORD100090,2024-04-02,Institution,North,Non-Fiction,Cash on Delivery,2,1633.77,14,2810.08
+07ORD100337,2024-10-16,Professional,South,Academic,UPI,6,638.32,2,3753.32
+07ORD100989,2025-07-12,Professional,East,Children,Wallet,6,3435.0,5,19579.5
+07ORD100922,2024-06-05,Student,Central,Children,Wallet,1,1735.1,21,1370.73
+07ORD100934,2024-11-03,Institution,Central,Academic,Credit Card,1,2856.11,11,2541.94
+07ORD100606,2024-06-10,Reader Club,North,Academic,Wallet,5,3833.0,31,13223.85
+07ORD100594,2024-07-23,Student,South,Non-Fiction,UPI,2,951.85,3,1846.59
+07ORD100612,2024-02-26,Student,East,Comics,Cash on Delivery,1,2458.05,15,2089.34
+07ORD100095,2024-11-22,Institution,Central,Fiction,Wallet,5,144.86,13,630.14
+07ORD100012,2024-07-27,Reader Club,South,Comics,UPI,6,1439.81,20,6911.09
+07ORD100397,2025-07-25,Student,North,Non-Fiction,Cash on Delivery,2,3946.5,30,5525.1
+07ORD100534,2024-04-08,Institution,Central,Fiction,Cash on Delivery,5,994.27,9,4523.93
+07ORD100044,2024-05-31,Professional,South,Fiction,Debit Card,1,3611.6,27,2636.47
+07ORD100043,2024-05-29,Professional,West,Children,Debit Card,3,2188.08,2,6432.96
+07ORD100330,2025-01-22,Student,North,Comics,Cash on Delivery,5,1476.2,31,5092.89
+07ORD100168,2024-03-19,Professional,East,Fiction,Cash on Delivery,6,3175.27,14,16384.39
+07ORD100498,2025-07-10,Institution,North,Non-Fiction,Credit Card,1,2615.45,28,1883.12
+07ORD100877,2025-05-08,Professional,North,Children,Credit Card,5,1033.35,1,5115.08
+07ORD100598,2025-12-29,Student,East,Academic,UPI,3,2210.66,0,6631.98
+07ORD100757,2025-11-16,Institution,South,Comics,Cash on Delivery,1,3418.41,4,3281.67
+07ORD100101,2025-05-13,Reader Club,North,Academic,UPI,2,2987.15,19,4839.18
+07ORD100427,2025-09-12,Student,North,Comics,Credit Card,2,1918.34,24,2915.88
+07ORD100179,2024-03-20,Reader Club,Central,Academic,Cash on Delivery,3,3059.41,10,8260.41
+07ORD100445,2025-06-19,Reader Club,North,Fiction,Credit Card,5,3409.37,2,16705.91
+07ORD100417,2024-06-29,Reader Club,South,Fiction,Cash on Delivery,2,3827.09,1,7577.64
+07ORD100871,2024-05-24,Student,South,Children,Credit Card,4,2919.94,35,7591.84
+07ORD100883,2025-06-03,Student,North,Fiction,Debit Card,5,2397.08,20,9588.32
+07ORD100681,2025-02-28,Professional,West,Non-Fiction,UPI,2,2697.38,3,5232.92
+07ORD100178,2025-03-12,Professional,Central,Fiction,Cash on Delivery,5,2810.41,7,13068.41
+07ORD100396,2025-03-28,Student,East,Fiction,UPI,1,1314.66,24,999.14
+07ORD100912,2024-05-06,Student,Central,Non-Fiction,Cash on Delivery,2,115.02,9,209.34
+07ORD100794,2025-08-11,Professional,East,Fiction,Cash on Delivery,5,3377.81,16,14186.8
+07ORD100961,2024-03-01,Reader Club,North,Children,Cash on Delivery,6,1496.39,34,5925.7
+07ORD100685,2025-11-26,Student,West,Fiction,Debit Card,2,1468.89,15,2497.11
+07ORD100384,2025-02-21,Student,Central,Academic,UPI,3,983.04,28,2123.37
+07ORD100957,2025-02-20,Professional,West,Children,Cash on Delivery,5,1686.25,26,6239.12
+07ORD100752,2024-10-04,Professional,West,Fiction,Credit Card,2,3858.03,21,6095.69
+07ORD100258,2024-08-23,Professional,North,Non-Fiction,Wallet,3,1580.85,1,4695.12
+07ORD100539,2025-12-05,Reader Club,South,Non-Fiction,Cash on Delivery,2,1336.66,18,2192.12
+07ORD100336,2025-03-19,Professional,East,Non-Fiction,Debit Card,1,2874.77,4,2759.78
+07ORD100016,2024-12-14,Professional,North,Academic,Cash on Delivery,5,2716.49,1,13446.63
+07ORD100325,2025-12-08,Student,South,Fiction,Wallet,4,3171.1,4,12177.02
+07ORD100759,2024-09-19,Reader Club,North,Children,Credit Card,1,3793.89,18,3110.99
+07ORD100223,2024-01-04,Professional,Central,Academic,Credit Card,1,3643.47,4,3497.73
+07ORD100180,2025-07-09,Reader Club,East,Non-Fiction,Cash on Delivery,5,3562.53,12,15675.13
+07ORD100984,2025-08-19,Reader Club,South,Fiction,Credit Card,4,2050.41,4,7873.57
+07ORD100023,2024-04-19,Institution,West,Non-Fiction,UPI,6,1859.96,8,10266.98
+07ORD100357,2024-12-24,Reader Club,South,Comics,Cash on Delivery,1,2894.59,21,2286.73
+07ORD100667,2025-10-20,Student,East,Academic,Debit Card,3,1606.14,11,4288.39
+07ORD100862,2024-07-04,Institution,East,Academic,Debit Card,1,2940.3,28,2117.02
+07ORD100341,2025-07-08,Institution,North,Non-Fiction,Debit Card,1,1354.14,10,1218.73
+07ORD100432,2024-04-27,Reader Club,North,Children,Cash on Delivery,6,3184.27,5,18150.34
+07ORD100552,2024-12-21,Professional,West,Comics,Debit Card,5,2329.08,12,10247.95
+07ORD100834,2024-05-10,Professional,North,Comics,Cash on Delivery,1,1003.65,14,863.14
+07ORD100204,2024-04-29,Institution,North,Fiction,Cash on Delivery,5,784.81,3,3806.33
+07ORD100631,2025-06-20,Reader Club,East,Comics,Cash on Delivery,2,661.72,7,1230.8
+07ORD100094,2025-07-07,Reader Club,Central,Children,Debit Card,2,1385.8,11,2466.72
+07ORD100559,2024-12-14,Reader Club,East,Academic,Cash on Delivery,1,3541.19,4,3399.54
+07ORD100069,2025-03-13,Institution,South,Comics,Cash on Delivery,1,3470.09,4,3331.29
+07ORD100623,2024-09-10,Student,East,Fiction,UPI,6,3214.68,24,14658.94
+07ORD100285,2024-07-05,Student,Central,Academic,UPI,2,3366.07,4,6462.85
+07ORD100845,2025-11-11,Student,South,Fiction,Cash on Delivery,2,2504.82,3,4859.35
+07ORD100435,2025-02-12,Student,West,Children,Wallet,1,1940.92,27,1416.87
+07ORD100154,2024-09-12,Reader Club,West,Fiction,Credit Card,3,1050.05,25,2362.61
+07ORD100076,2025-05-20,Student,Central,Fiction,Cash on Delivery,6,1729.59,35,6745.4
+07ORD100731,2024-08-14,Reader Club,West,Fiction,UPI,2,2451.1,12,4313.94
+07ORD100447,2025-08-29,Reader Club,East,Non-Fiction,Credit Card,1,3945.09,23,3037.72
+07ORD100189,2025-02-20,Reader Club,East,Fiction,Credit Card,1,2585.57,4,2482.15
+07ORD100272,2024-12-01,Institution,Central,Academic,Wallet,2,714.64,6,1343.52
+07ORD100237,2025-03-19,Professional,West,Non-Fiction,Debit Card,5,3284.38,11,14615.49
+07ORD100488,2025-04-23,Student,East,Fiction,UPI,3,1938.82,14,5002.16
+07ORD100118,2025-03-02,Student,North,Comics,Credit Card,1,2087.65,10,1878.89
+07ORD100944,2025-07-01,Institution,East,Comics,UPI,2,3033.73,24,4611.27
+07ORD100513,2024-08-14,Reader Club,West,Fiction,UPI,5,1784.61,29,6335.37
+07ORD100826,2025-05-17,Reader Club,East,Children,Debit Card,2,1714.83,33,2297.87
+07ORD100592,2024-04-26,Institution,East,Children,Cash on Delivery,5,2080.11,11,9256.49
+07ORD100127,2025-05-27,Institution,North,Academic,Cash on Delivery,4,650.94,35,1692.44
+07ORD100117,2024-09-01,Student,West,Non-Fiction,UPI,2,3473.55,13,6043.98
+07ORD100474,2025-01-13,Student,Central,Comics,Cash on Delivery,2,468.62,15,796.65
+07ORD100694,2025-02-11,Institution,South,Non-Fiction,Cash on Delivery,6,3404.99,12,17978.35
+07ORD100058,2024-10-24,Professional,East,Comics,Debit Card,5,738.34,0,3691.7
+07ORD100864,2024-11-18,Student,Central,Fiction,UPI,2,2021.64,29,2870.73
+07ORD100913,2025-03-08,Institution,East,Academic,Cash on Delivery,2,1246.56,20,1994.5
+07ORD100370,2025-01-02,Reader Club,Central,Fiction,Credit Card,2,147.06,30,205.88
+07ORD100269,2024-03-19,Student,East,Non-Fiction,Debit Card,6,3778.18,29,16095.05
+07ORD100047,2024-01-12,Institution,East,Non-Fiction,Wallet,2,3557.82,12,6261.76
+07ORD100350,2025-05-22,Professional,East,Academic,Debit Card,1,597.34,16,501.77
+07ORD100196,2024-08-01,Student,West,Children,Wallet,1,2417.04,34,1595.25
+07ORD101000,2025-12-21,Professional,South,Academic,Wallet,2,361.98,15,615.37
+07ORD100835,2025-11-08,Reader Club,North,Academic,Credit Card,4,347.9,1,1377.68
+07ORD100737,2024-09-26,Professional,North,Children,Credit Card,4,1954.64,27,5707.55
+07ORD100264,2024-04-28,Reader Club,South,Academic,Debit Card,3,3791.54,33,7621.0
+07ORD100444,2024-10-29,Professional,West,Fiction,UPI,2,2190.62,33,2935.43
+07ORD100676,2025-03-19,Reader Club,Central,Academic,Cash on Delivery,5,1834.31,2,8988.12
+07ORD100305,2025-07-05,Reader Club,South,Non-Fiction,Cash on Delivery,1,1479.83,30,1035.88
+07ORD100342,2024-03-16,Professional,North,Academic,Cash on Delivery,1,1963.32,21,1551.02
+07ORD100967,2025-12-07,Student,North,Non-Fiction,Credit Card,2,1276.5,9,2323.23
+07ORD100150,2024-02-20,Student,North,Academic,Cash on Delivery,2,3305.21,10,5949.38
+07ORD100125,2024-03-15,Professional,West,Non-Fiction,Cash on Delivery,1,2448.59,8,2252.7
+07ORD100787,2025-03-11,Student,North,Non-Fiction,Wallet,6,2977.3,6,16791.97
+07ORD100051,2025-03-20,Institution,Central,Academic,Debit Card,1,312.32,33,209.25
+07ORD100354,2025-04-20,Institution,West,Non-Fiction,UPI,4,3703.25,31,10220.97
+07ORD100928,2024-08-11,Student,East,Children,Debit Card,1,2194.04,1,2172.1
+07ORD100143,2024-12-06,Professional,Central,Academic,Debit Card,2,2976.06,0,5952.12
+07ORD100471,2025-12-02,Institution,East,Non-Fiction,Wallet,3,2342.52,1,6957.28
+07ORD100400,2025-05-17,Student,West,Academic,Wallet,6,1113.85,30,4678.17
+07ORD100626,2025-04-30,Reader Club,West,Academic,Cash on Delivery,1,244.75,32,166.43
+07ORD100321,2024-08-02,Student,West,Fiction,Debit Card,1,3098.19,7,2881.32
+07ORD100020,2024-05-29,Reader Club,East,Children,Wallet,1,288.18,28,207.49
+07ORD100810,2025-07-25,Institution,East,Comics,Debit Card,4,3630.9,26,10747.46
+07ORD100791,2024-03-23,Student,North,Comics,UPI,6,3942.94,34,15614.04
+07ORD100809,2025-05-28,Institution,West,Comics,Cash on Delivery,4,674.69,0,2698.76
+07ORD100408,2025-10-31,Institution,East,Non-Fiction,Credit Card,2,3593.11,35,4671.04
+07ORD100538,2024-07-17,Professional,West,Fiction,UPI,2,2300.98,24,3497.49
+07ORD100621,2025-07-19,Professional,West,Non-Fiction,Credit Card,6,3442.97,11,18385.46
+07ORD100039,2024-08-25,Professional,East,Academic,Credit Card,4,1635.7,33,4383.68
+07ORD100176,2024-01-08,Institution,North,Fiction,UPI,1,921.39,28,663.4
+07ORD100246,2025-01-10,Institution,Central,Children,Credit Card,2,1253.01,16,2105.06
+07ORD100829,2025-08-26,Reader Club,Central,Fiction,Wallet,2,1143.9,6,2150.53
+07ORD100668,2024-12-25,Reader Club,East,Fiction,Cash on Delivery,3,384.22,17,956.71
+07ORD100755,2025-03-11,Student,South,Academic,Wallet,4,2407.66,23,7415.59
+07ORD100859,2024-07-15,Student,East,Fiction,Cash on Delivery,1,3523.94,13,3065.83
+07ORD100155,2024-11-04,Student,North,Non-Fiction,Credit Card,3,3080.87,5,8780.48
+07ORD100288,2024-03-28,Professional,South,Comics,Credit Card,2,1549.23,19,2509.75
+07ORD100603,2025-08-19,Reader Club,West,Academic,Debit Card,4,320.54,16,1077.01
+07ORD100570,2024-06-20,Professional,East,Fiction,Credit Card,1,731.16,3,709.23
+07ORD100744,2024-04-12,Student,North,Fiction,Wallet,2,978.18,28,1408.58
+07ORD100018,2024-02-13,Reader Club,Central,Children,UPI,1,2684.57,18,2201.35
+07ORD100128,2024-05-03,Student,North,Non-Fiction,UPI,2,2166.91,24,3293.7
+07ORD100323,2025-08-23,Student,East,Children,Debit Card,5,1120.86,17,4651.57
+07ORD100256,2025-05-31,Reader Club,North,Fiction,Cash on Delivery,4,851.83,23,2623.64
+07ORD100658,2024-03-27,Reader Club,East,Academic,Wallet,5,2910.38,31,10040.81
+07ORD100965,2025-01-01,Reader Club,West,Fiction,Cash on Delivery,4,2114.91,3,8205.85
+07ORD100191,2024-01-03,Reader Club,South,Fiction,Credit Card,2,1450.96,8,2669.77
+07ORD100116,2024-08-16,Institution,Central,Academic,Cash on Delivery,1,292.49,28,210.59
+07ORD100617,2025-02-13,Reader Club,South,Fiction,Wallet,2,1934.14,32,2630.43
+07ORD100607,2024-11-19,Student,East,Children,Wallet,2,2340.59,30,3276.83
+07ORD100181,2025-11-19,Institution,Central,Academic,Credit Card,5,1201.11,4,5765.33
+07ORD100302,2025-08-14,Institution,South,Children,Wallet,5,312.31,9,1421.01
+07ORD100760,2025-01-28,Student,East,Fiction,Debit Card,1,2233.85,29,1586.03
+07ORD100713,2024-08-31,Student,North,Non-Fiction,UPI,1,519.61,34,342.94
+07ORD100724,2025-10-12,Professional,Central,Children,Debit Card,2,1636.67,29,2324.07
+07ORD100686,2024-07-17,Student,West,Academic,Cash on Delivery,1,1990.8,11,1771.81
+07ORD100980,2025-10-14,Reader Club,West,Fiction,Debit Card,4,2454.1,27,7165.97
+07ORD100518,2025-09-25,Professional,West,Academic,Debit Card,5,2049.1,25,7684.12
+07ORD100985,2025-02-21,Student,North,Comics,Credit Card,5,2439.98,4,11711.9
+07ORD100046,2025-10-09,Student,West,Fiction,UPI,6,2675.04,11,14284.71
+07ORD100910,2025-01-18,Professional,South,Non-Fiction,UPI,5,3552.49,14,15275.71
+07ORD100158,2024-01-30,Institution,West,Non-Fiction,Cash on Delivery,1,3749.5,24,2849.62
+07ORD100852,2025-02-07,Professional,South,Non-Fiction,UPI,1,2209.51,24,1679.23
+07ORD100172,2024-05-12,Professional,North,Comics,Cash on Delivery,6,849.71,32,3466.82
+07ORD100017,2024-10-31,Reader Club,Central,Academic,Credit Card,4,1424.66,24,4330.97
+07ORD100512,2024-01-24,Institution,North,Comics,UPI,2,3167.38,13,5511.24
+07ORD100049,2025-05-25,Institution,East,Academic,Wallet,1,1600.18,18,1312.15
+07ORD100972,2025-06-04,Institution,West,Academic,Wallet,2,1017.54,12,1790.87
+07ORD100941,2025-03-25,Reader Club,South,Academic,Credit Card,1,3827.97,3,3713.13
+07ORD100516,2025-07-23,Professional,Central,Non-Fiction,Debit Card,2,3441.39,32,4680.29
+07ORD100953,2025-09-12,Professional,Central,Children,Wallet,4,287.68,14,989.62
+07ORD100481,2024-06-10,Reader Club,South,Fiction,Debit Card,3,2022.03,9,5520.14
+07ORD100284,2025-02-24,Professional,North,Comics,Debit Card,2,1916.06,5,3640.51
+07ORD100719,2024-05-02,Reader Club,East,Fiction,Cash on Delivery,2,2003.89,25,3005.84
+07ORD100878,2024-02-16,Professional,East,Academic,Cash on Delivery,6,3388.61,2,19925.03
+07ORD100226,2025-08-10,Institution,East,Academic,Credit Card,6,3293.28,15,16795.73
+07ORD100027,2025-12-24,Institution,Central,Fiction,Wallet,1,2010.19,34,1326.73
+07ORD100955,2024-01-03,Professional,West,Academic,Credit Card,1,350.84,11,312.25
+07ORD100438,2024-11-24,Professional,South,Fiction,Cash on Delivery,2,2127.59,26,3148.83
+07ORD100952,2024-02-06,Professional,West,Fiction,Cash on Delivery,2,2263.38,13,3938.28
+07ORD100365,2025-09-29,Reader Club,West,Academic,UPI,3,3714.11,26,8245.32
+07ORD100230,2025-12-04,Institution,West,Children,UPI,6,2976.54,24,13573.02
+07ORD100038,2025-06-16,Institution,South,Non-Fiction,Wallet,2,295.01,29,418.91
+07ORD100966,2025-12-08,Institution,East,Comics,Credit Card,2,1958.63,12,3447.19
+07ORD100375,2024-05-01,Reader Club,East,Non-Fiction,Credit Card,3,3187.4,3,9275.33
+07ORD100470,2025-02-10,Institution,Central,Academic,UPI,5,528.71,9,2405.63
+07ORD100968,2025-06-18,Student,North,Fiction,Cash on Delivery,4,497.93,0,1991.72
+07ORD100851,2025-11-08,Institution,East,Fiction,Cash on Delivery,2,3359.63,29,4770.67
+07ORD100705,2024-07-30,Reader Club,Central,Comics,Cash on Delivery,1,497.59,2,487.64
+07ORD100842,2025-12-31,Institution,Central,Children,Wallet,1,2929.52,31,2021.37
+07ORD100195,2024-11-02,Institution,West,Children,Wallet,2,2476.55,20,3962.48
+07ORD100855,2024-06-02,Institution,East,Children,Wallet,4,1335.8,13,4648.58
+07ORD100865,2024-10-11,Reader Club,Central,Non-Fiction,Wallet,2,1734.3,24,2636.14
+07ORD100504,2024-12-27,Student,East,Academic,Cash on Delivery,3,202.53,11,540.76
+07ORD100970,2025-01-24,Professional,West,Comics,Cash on Delivery,5,2320.21,8,10672.97
+07ORD100831,2025-08-01,Institution,West,Non-Fiction,Wallet,1,3523.33,16,2959.6
+07ORD100580,2025-07-23,Student,Central,Children,Credit Card,1,822.2,21,649.54
+07ORD100969,2025-06-09,Reader Club,East,Academic,Wallet,2,2842.1,10,5115.78
+07ORD100163,2025-10-07,Reader Club,Central,Fiction,Wallet,1,2263.95,26,1675.32
+07ORD100909,2025-05-09,Institution,West,Fiction,Wallet,1,668.09,5,634.69
+07ORD100153,2024-03-12,Institution,Central,Children,Credit Card,1,370.06,4,355.26
+07ORD100802,2025-07-17,Institution,East,Fiction,Cash on Delivery,6,1948.01,21,9233.57
+07ORD100994,2024-04-06,Professional,North,Academic,Cash on Delivery,5,3974.78,25,14905.42
+07ORD100756,2025-01-18,Student,West,Children,Cash on Delivery,1,2798.8,21,2211.05
+07ORD100112,2025-06-04,Institution,East,Fiction,UPI,3,1064.06,15,2713.35
+07ORD100227,2024-08-03,Student,West,Fiction,Credit Card,1,201.55,19,163.26
+07ORD100689,2024-05-15,Institution,Central,Non-Fiction,Wallet,3,2110.24,32,4304.89
+07ORD100104,2025-12-14,Student,West,Non-Fiction,Cash on Delivery,5,1986.84,0,9934.2
+07ORD100422,2024-11-09,Student,North,Fiction,Cash on Delivery,1,2457.9,21,1941.74
+07ORD100420,2024-08-21,Professional,West,Non-Fiction,Cash on Delivery,3,3601.22,6,10155.44
+07ORD100751,2025-08-11,Reader Club,East,Non-Fiction,Cash on Delivery,6,3700.9,28,15987.89
+07ORD100587,2025-08-23,Institution,South,Comics,Credit Card,1,165.45,3,160.49
+07ORD100781,2025-03-23,Student,Central,Fiction,Wallet,1,752.06,18,616.69
+07ORD100673,2025-01-02,Student,South,Fiction,UPI,1,3635.69,8,3344.83
+07ORD100120,2025-03-31,Institution,South,Academic,Debit Card,5,2261.48,23,8706.7
+07ORD100054,2025-06-22,Reader Club,Central,Non-Fiction,Debit Card,5,1999.85,32,6799.49
+07ORD100152,2024-10-24,Reader Club,West,Fiction,UPI,3,3301.27,25,7427.86
+07ORD100404,2025-09-08,Institution,Central,Non-Fiction,Cash on Delivery,2,3442.04,16,5782.63
+07ORD100946,2025-10-07,Reader Club,Central,Fiction,Debit Card,6,3369.94,18,16580.1
+07ORD100208,2024-12-18,Student,South,Comics,Credit Card,2,282.29,33,378.27
+07ORD100659,2024-05-19,Institution,East,Non-Fiction,UPI,6,2586.59,27,11329.26
+07ORD100844,2025-08-01,Professional,East,Children,Debit Card,1,3417.04,2,3348.7
+07ORD100763,2025-12-01,Reader Club,West,Academic,UPI,5,3027.9,4,14533.92
+07ORD100009,2025-04-10,Reader Club,South,Comics,Cash on Delivery,2,3486.33,0,6972.66
+07ORD100808,2025-02-14,Student,West,Children,Wallet,1,3024.5,5,2873.28
+07ORD100037,2025-03-18,Reader Club,North,Children,Cash on Delivery,1,1878.22,17,1558.92
+07ORD100453,2025-10-18,Reader Club,North,Children,Cash on Delivery,1,2094.8,3,2031.96
+07ORD100652,2025-11-23,Student,Central,Comics,Cash on Delivery,2,3478.78,8,6400.96
+07ORD100254,2024-08-19,Reader Club,Central,Academic,UPI,5,1173.14,13,5103.16
+07ORD100304,2025-04-13,Professional,West,Academic,UPI,3,565.61,35,1102.94
+07ORD100747,2024-02-20,Reader Club,North,Children,Wallet,4,1829.51,25,5488.53
+07ORD100572,2024-10-25,Student,Central,Fiction,Credit Card,6,1289.63,26,5725.96
+07ORD100624,2025-10-27,Institution,South,Children,Cash on Delivery,1,1176.6,6,1106.0
+07ORD100733,2024-06-28,Reader Club,Central,Academic,UPI,4,866.34,2,3396.05
+07ORD100892,2024-11-20,Reader Club,West,Non-Fiction,UPI,6,736.76,15,3757.48
+07ORD100263,2025-05-14,Student,Central,Children,UPI,5,2088.39,4,10024.27
+07ORD100611,2025-05-16,Reader Club,North,Non-Fiction,Wallet,2,3337.42,34,4405.39
+07ORD100298,2025-06-20,Student,South,Fiction,UPI,2,3655.32,11,6506.47
+07ORD100415,2025-03-01,Reader Club,West,Fiction,Cash on Delivery,3,3340.28,33,6713.96
+07ORD100151,2025-07-04,Institution,Central,Fiction,Debit Card,6,1485.4,22,6951.67
+07ORD100789,2024-12-27,Student,South,Comics,Debit Card,5,3505.53,30,12269.36
+07ORD100641,2025-08-09,Institution,West,Comics,Credit Card,3,3638.51,13,9496.51
+07ORD100890,2025-01-07,Student,West,Academic,Wallet,2,256.39,35,333.31
+07ORD100551,2024-11-16,Student,North,Academic,Credit Card,1,2837.29,5,2695.43
+07ORD100887,2025-01-11,Reader Club,North,Academic,Wallet,4,2629.24,21,8308.4
+07ORD100489,2025-07-08,Institution,East,Fiction,UPI,1,3042.35,35,1977.53
+07ORD100148,2025-07-21,Institution,Central,Comics,Cash on Delivery,2,543.84,27,794.01
+07ORD100147,2024-07-09,Reader Club,West,Academic,Credit Card,2,2191.11,34,2892.27
+07ORD100721,2024-07-06,Student,South,Comics,UPI,6,3361.3,32,13714.1
+07ORD100932,2024-10-11,Professional,East,Children,Wallet,1,1296.49,28,933.47
+07ORD100740,2025-10-20,Institution,Central,Academic,Debit Card,3,3435.64,17,8554.74
+07ORD100660,2024-11-27,Reader Club,South,Non-Fiction,UPI,4,1519.59,29,4315.64
+07ORD100349,2025-06-19,Institution,East,Non-Fiction,Cash on Delivery,1,3068.46,30,2147.92
+07ORD100464,2024-01-09,Student,Central,Fiction,Debit Card,3,1808.73,22,4232.43
+07ORD100326,2024-11-14,Reader Club,Central,Fiction,Credit Card,4,2612.83,20,8361.06
+07ORD100187,2024-08-13,Professional,East,Non-Fiction,Wallet,3,3595.57,29,7658.56
+07ORD100124,2024-06-22,Reader Club,South,Academic,Credit Card,2,202.54,13,352.42
+07ORD100854,2024-03-08,Student,South,Children,Debit Card,1,1761.48,33,1180.19
+07ORD100609,2024-11-26,Professional,North,Children,Credit Card,2,3162.75,31,4364.59
+07ORD100144,2025-01-29,Institution,Central,Academic,Wallet,2,2306.19,14,3966.65
+07ORD100959,2024-05-22,Institution,Central,Children,Wallet,4,1438.26,25,4314.78
+07ORD100198,2025-02-22,Reader Club,Central,Fiction,Cash on Delivery,1,627.09,35,407.61
+07ORD100610,2025-08-02,Professional,Central,Non-Fiction,UPI,2,2919.03,33,3911.5
+07ORD100280,2025-08-15,Student,Central,Non-Fiction,Cash on Delivery,4,206.75,22,645.06
+07ORD100294,2024-01-15,Student,South,Comics,Wallet,2,1416.16,12,2492.44
+07ORD100401,2024-07-03,Professional,West,Non-Fiction,Cash on Delivery,6,106.46,3,619.6
+07ORD100123,2025-12-29,Institution,North,Children,Credit Card,1,1803.93,5,1713.73
+07ORD100184,2024-10-14,Reader Club,Central,Children,UPI,4,908.48,2,3561.24
+07ORD100203,2024-01-26,Professional,North,Academic,Cash on Delivery,1,389.56,22,303.86
+07ORD100439,2024-07-01,Institution,East,Non-Fiction,UPI,1,3986.05,1,3946.19
+07ORD100247,2025-11-27,Reader Club,Central,Comics,UPI,2,2920.42,9,5315.16
+07ORD100416,2024-08-16,Professional,West,Non-Fiction,Cash on Delivery,5,1126.04,19,4560.46
+07ORD100933,2025-06-01,Professional,North,Children,Wallet,4,3627.61,15,12333.87
+07ORD100766,2024-05-23,Professional,Central,Academic,Cash on Delivery,1,1085.68,10,977.11
+07ORD100907,2024-06-15,Professional,South,Comics,Debit Card,2,2811.34,27,4104.56
+07ORD100836,2025-07-17,Institution,North,Academic,UPI,1,3659.16,10,3293.24
+07ORD100888,2025-06-18,Student,East,Academic,UPI,4,892.52,24,2713.26
+07ORD100130,2024-12-08,Student,South,Children,Wallet,1,3900.72,27,2847.53
+07ORD100638,2024-05-12,Student,South,Fiction,Credit Card,4,1259.86,24,3829.97
+07ORD100403,2025-05-27,Reader Club,West,Children,Wallet,2,1977.29,11,3519.58
+07ORD100785,2025-09-03,Student,North,Fiction,Credit Card,2,322.66,7,600.15
+07ORD100771,2024-01-18,Reader Club,North,Fiction,Credit Card,1,935.97,19,758.14
+07ORD100736,2025-01-25,Reader Club,North,Children,UPI,2,234.94,19,380.6
+07ORD100914,2024-03-26,Institution,South,Fiction,Credit Card,5,862.36,18,3535.68
+07ORD100220,2024-03-31,Institution,South,Academic,UPI,6,3149.93,19,15308.66
+07ORD100642,2025-01-25,Professional,West,Comics,Cash on Delivery,1,3430.94,2,3362.32
+07ORD100916,2025-06-19,Student,West,Non-Fiction,Debit Card,1,3047.88,21,2407.83
+07ORD100753,2025-09-26,Student,Central,Academic,UPI,2,1468.66,17,2437.98
+07ORD100807,2025-09-06,Professional,South,Comics,Wallet,5,2088.28,28,7517.81
+07ORD100920,2025-11-27,Institution,South,Children,Debit Card,1,1321.78,29,938.46
+07ORD100625,2024-05-07,Reader Club,East,Non-Fiction,Debit Card,1,1019.79,1,1009.59
+07ORD100875,2024-09-18,Professional,Central,Academic,Credit Card,5,3111.97,20,12447.88
+07ORD100761,2024-07-26,Professional,West,Academic,Credit Card,1,1409.41,14,1212.09
+07ORD100387,2025-07-18,Professional,South,Academic,Wallet,6,3949.27,12,20852.15
+07ORD100973,2025-10-13,Reader Club,North,Fiction,Wallet,2,3186.1,4,6117.31
+07ORD100510,2024-08-25,Professional,Central,Comics,UPI,2,2944.96,8,5418.73
+07ORD100268,2025-04-30,Institution,South,Fiction,Cash on Delivery,3,149.71,28,323.37
+07ORD100820,2025-06-22,Institution,North,Comics,Cash on Delivery,2,1104.95,25,1657.43
+07ORD100442,2024-09-10,Professional,West,Non-Fiction,Wallet,2,549.9,20,879.84
+07ORD100497,2025-06-21,Reader Club,East,Children,Wallet,3,628.37,22,1470.39
+07ORD100113,2025-06-26,Reader Club,North,Academic,Debit Card,1,402.05,18,329.68
+07ORD100692,2025-12-19,Professional,East,Comics,UPI,4,1287.92,25,3863.76
+07ORD100233,2024-01-17,Professional,West,Children,Cash on Delivery,1,260.76,15,221.65
+07ORD100870,2024-11-16,Professional,West,Academic,UPI,1,233.25,11,207.59
+07ORD100608,2025-12-18,Student,South,Comics,Cash on Delivery,2,3865.68,15,6571.66
+07ORD100672,2024-08-05,Reader Club,East,Fiction,UPI,4,1089.65,24,3312.54
+07ORD100374,2024-03-13,Student,East,Comics,UPI,3,3384.82,0,10154.46
+07ORD100982,2025-11-28,Reader Club,North,Children,Cash on Delivery,2,1523.37,10,2742.07
+07ORD100843,2025-03-07,Professional,North,Non-Fiction,Credit Card,3,2180.84,18,5364.87
+07ORD100234,2025-05-09,Reader Club,North,Fiction,Debit Card,1,2470.65,3,2396.53
+07ORD100786,2024-02-08,Professional,South,Fiction,Debit Card,1,1822.28,28,1312.04
+07ORD100677,2025-11-17,Professional,West,Comics,Cash on Delivery,6,2899.81,16,14615.04
+07ORD100318,2025-03-19,Reader Club,West,Comics,Debit Card,4,1424.66,35,3704.12
+07ORD100649,2024-02-04,Institution,North,Comics,UPI,6,181.44,12,958.0
+07ORD100411,2024-04-14,Reader Club,Central,Children,Credit Card,1,1096.25,29,778.34
+07ORD100899,2024-03-25,Student,Central,Non-Fiction,Wallet,3,3981.98,23,9198.37
+07ORD100710,2025-08-25,Institution,East,Fiction,Credit Card,4,2355.2,16,7913.47
+07ORD100359,2025-02-21,Professional,East,Comics,Debit Card,1,2191.71,13,1906.79
+07ORD100259,2024-11-18,Student,North,Comics,UPI,5,873.91,33,2927.6
+07ORD100745,2024-02-05,Institution,Central,Comics,Credit Card,3,2735.38,16,6893.16
+07ORD100628,2024-08-08,Reader Club,Central,Children,Credit Card,3,1590.39,22,3721.51
+07ORD100633,2025-03-10,Professional,North,Comics,Cash on Delivery,2,3104.5,17,5153.47
+07ORD100283,2025-11-07,Reader Club,South,Comics,Cash on Delivery,2,3394.22,17,5634.41
+07ORD100377,2024-11-14,Student,East,Academic,Credit Card,1,3664.02,30,2564.81
+07ORD100385,2025-10-03,Institution,West,Children,Wallet,5,3330.92,20,13323.68
+07ORD100225,2024-08-06,Institution,East,Academic,Credit Card,2,1462.16,19,2368.7
+07ORD100954,2024-09-06,Institution,North,Children,Cash on Delivery,1,241.64,29,171.56
+07ORD100815,2024-04-23,Professional,Central,Children,Debit Card,3,2599.7,19,6317.27
+07ORD100473,2025-12-08,Reader Club,North,Academic,Credit Card,1,1248.57,30,874.0
+07ORD100348,2024-11-24,Student,East,Fiction,Credit Card,2,316.96,27,462.76
+07ORD100506,2025-07-25,Reader Club,Central,Comics,Credit Card,4,423.36,26,1253.15
+07ORD100640,2025-06-17,Reader Club,East,Fiction,Cash on Delivery,3,924.83,2,2719.0
+07ORD100988,2025-11-26,Professional,Central,Children,UPI,1,1710.4,7,1590.67
+07ORD100929,2024-01-23,Professional,North,Children,Credit Card,2,1739.88,3,3375.37
+07ORD100906,2025-10-14,Professional,South,Children,Cash on Delivery,1,2576.09,30,1803.26
+07ORD100620,2025-11-12,Institution,East,Fiction,Debit Card,1,637.98,34,421.07
+07ORD100856,2025-04-07,Student,Central,Fiction,Debit Card,2,3896.87,21,6157.05
+07ORD100804,2025-12-11,Reader Club,East,Academic,Wallet,1,2276.76,34,1502.66
+07ORD100646,2025-03-02,Student,West,Non-Fiction,Credit Card,4,680.64,6,2559.21
+07ORD100847,2024-01-28,Institution,North,Non-Fiction,Credit Card,6,3707.13,8,20463.36
+07ORD100557,2024-01-24,Student,North,Comics,Cash on Delivery,1,3795.35,8,3491.72
+07ORD100958,2024-09-07,Reader Club,Central,Academic,Cash on Delivery,1,2026.05,14,1742.4
+07ORD100578,2024-03-25,Reader Club,West,Children,UPI,5,2029.03,25,7608.86
+07ORD100796,2024-08-05,Student,East,Children,Cash on Delivery,1,358.53,0,358.53
+07ORD100086,2025-11-06,Student,South,Children,UPI,6,716.88,13,3742.11
+07ORD100243,2024-06-23,Student,North,Fiction,Wallet,1,2803.28,22,2186.56
+07ORD100699,2024-07-03,Student,North,Non-Fiction,Credit Card,2,3548.64,5,6742.42
+07ORD100160,2025-09-26,Student,North,Children,Wallet,1,3413.14,13,2969.43
+07ORD100525,2024-09-13,Professional,North,Academic,UPI,1,3233.97,19,2619.52
+07ORD100036,2025-04-01,Student,South,Non-Fiction,Wallet,3,3906.07,24,8905.84
+07ORD100541,2024-02-26,Professional,North,Academic,UPI,1,414.4,35,269.36
+07ORD100171,2024-02-12,Reader Club,South,Non-Fiction,Credit Card,6,2927.47,14,15105.75
+07ORD100655,2024-11-25,Student,Central,Academic,UPI,4,3127.94,22,9759.17
+07ORD100891,2024-01-24,Student,West,Academic,Cash on Delivery,2,1720.02,20,2752.03
+07ORD100858,2024-04-05,Reader Club,East,Comics,Credit Card,6,1759.53,10,9501.46
+07ORD100848,2024-10-14,Institution,West,Non-Fiction,Cash on Delivery,1,240.55,20,192.44
+07ORD100945,2024-08-16,Institution,West,Fiction,Wallet,1,2794.28,34,1844.22
+07ORD100734,2025-06-19,Institution,West,Fiction,Cash on Delivery,1,1558.38,21,1231.12
+07ORD100096,2025-08-05,Student,South,Comics,UPI,6,3241.98,19,15756.02
+07ORD100564,2025-07-21,Institution,Central,Fiction,UPI,2,1936.0,27,2826.56
+07ORD100241,2024-08-21,Institution,East,Children,Credit Card,4,3186.34,10,11470.82
+07ORD100743,2024-01-02,Reader Club,Central,Comics,Wallet,4,1632.92,8,6009.15
+07ORD100575,2025-10-09,Professional,South,Non-Fiction,Credit Card,2,511.82,3,992.93
+07ORD100691,2025-10-19,Student,South,Comics,Wallet,4,3486.67,29,9902.14
+07ORD100461,2024-09-28,Institution,East,Children,Credit Card,5,1975.19,3,9579.67
+07ORD100554,2025-08-30,Reader Club,West,Fiction,Wallet,1,3084.64,0,3084.64
+07ORD100889,2024-03-24,Professional,Central,Fiction,Debit Card,3,452.62,0,1357.86
+07ORD100207,2024-12-22,Student,North,Fiction,Credit Card,1,2776.3,28,1998.94
+07ORD100393,2025-06-26,Student,North,Children,Wallet,2,330.81,15,562.38
+07ORD100795,2024-01-21,Professional,Central,Academic,Wallet,2,2044.94,9,3721.79
+07ORD100398,2024-03-18,Professional,East,Comics,Debit Card,5,370.87,1,1835.81
+07ORD100767,2024-12-19,Professional,Central,Children,Debit Card,2,762.77,21,1205.18
+07ORD100849,2024-12-20,Student,South,Fiction,Cash on Delivery,2,2003.76,22,3125.87
+07ORD100218,2024-01-14,Reader Club,East,Children,Cash on Delivery,4,1464.72,24,4452.75
+07ORD100005,2025-08-06,Student,North,Academic,Debit Card,1,669.04,21,528.54
+07ORD100769,2025-01-10,Institution,Central,Non-Fiction,Debit Card,6,1263.07,13,6593.23
+07ORD100643,2024-08-31,Institution,East,Comics,Credit Card,2,1912.15,8,3518.36
+07ORD100930,2024-07-15,Student,North,Academic,UPI,3,2844.4,4,8191.87
+07ORD100613,2024-06-13,Professional,North,Academic,Wallet,2,142.37,20,227.79
+07ORD100739,2025-04-07,Reader Club,West,Non-Fiction,Debit Card,2,3907.84,21,6174.39
+07ORD100547,2025-04-29,Institution,Central,Non-Fiction,Wallet,1,2916.91,6,2741.9
+07ORD100726,2025-08-13,Institution,Central,Non-Fiction,Credit Card,1,3080.98,10,2772.88
+07ORD100684,2024-12-19,Institution,West,Non-Fiction,Debit Card,6,3219.66,13,16806.63
+07ORD100099,2025-08-13,Student,Central,Non-Fiction,Cash on Delivery,3,535.74,34,1060.77
+07ORD100805,2024-12-02,Professional,Central,Academic,Wallet,4,3645.34,16,12248.34
+07ORD100728,2025-03-12,Institution,North,Academic,Cash on Delivery,1,3081.15,2,3019.53
+07ORD100574,2024-01-27,Professional,Central,Comics,Wallet,3,1784.05,26,3960.59
+07ORD100407,2024-06-16,Reader Club,South,Fiction,Debit Card,2,1889.17,21,2984.89
+07ORD100503,2024-03-08,Institution,East,Academic,Cash on Delivery,6,2605.38,2,15319.63
+07ORD100048,2024-01-14,Institution,West,Children,Credit Card,3,3641.06,32,7427.76
+07ORD100033,2024-09-11,Student,Central,Children,Credit Card,2,2696.99,20,4315.18
+07ORD100780,2025-10-16,Student,Central,Non-Fiction,Wallet,2,2052.11,7,3816.92
+07ORD100840,2024-04-01,Professional,Central,Non-Fiction,Cash on Delivery,1,670.07,23,515.95
+07ORD100201,2025-08-31,Professional,East,Children,Credit Card,2,2927.56,4,5620.92
+07ORD100135,2025-07-28,Student,North,Non-Fiction,UPI,1,3819.49,18,3131.98
+07ORD100028,2024-11-23,Institution,Central,Academic,Credit Card,1,972.33,5,923.71
+07ORD100881,2024-10-16,Professional,South,Non-Fiction,Credit Card,5,2361.3,8,10861.98
+07ORD100231,2025-12-31,Reader Club,North,Academic,UPI,1,1316.14,35,855.49
+07ORD100490,2025-04-19,Professional,South,Fiction,Cash on Delivery,2,1974.14,32,2684.83
+07ORD100773,2025-12-16,Institution,South,Non-Fiction,Credit Card,3,1763.58,16,4444.22
+07ORD100379,2025-06-25,Institution,West,Comics,Credit Card,2,3103.95,2,6083.74
+07ORD100289,2024-02-14,Student,Central,Fiction,UPI,1,3786.04,20,3028.83
+07ORD100419,2024-08-12,Reader Club,East,Academic,Debit Card,2,3726.96,17,6186.75
+07ORD100675,2024-09-30,Professional,Central,Academic,UPI,3,3420.05,4,9849.74
+07ORD100392,2025-12-27,Institution,East,Comics,Credit Card,6,1136.38,7,6341.0
+07ORD100593,2025-05-13,Student,West,Comics,Cash on Delivery,4,1397.75,3,5423.27
+07ORD100499,2025-10-18,Professional,East,Comics,Cash on Delivery,1,3958.0,34,2612.28
+07ORD100139,2024-06-16,Reader Club,West,Fiction,UPI,6,2198.93,31,9103.57
+07ORD100063,2025-08-25,Institution,Central,Non-Fiction,Wallet,1,1683.49,29,1195.28
+07ORD100472,2024-02-25,Reader Club,Central,Academic,Cash on Delivery,1,1169.33,16,982.24
+07ORD100648,2024-09-05,Institution,South,Academic,Debit Card,3,1981.66,35,3864.24
+07ORD100129,2024-04-26,Professional,East,Comics,Cash on Delivery,2,3222.55,14,5542.79
+07ORD100977,2024-01-03,Professional,West,Comics,Wallet,2,961.13,21,1518.59
+07ORD100521,2024-07-19,Student,East,Fiction,Wallet,2,118.67,28,170.88
+07ORD100839,2025-01-01,Student,Central,Comics,Debit Card,1,3363.09,16,2825.0
+07ORD100963,2024-03-19,Institution,North,Fiction,Debit Card,6,2746.16,32,11204.33
+07ORD100065,2024-07-09,Professional,North,Children,UPI,1,1009.77,0,1009.77
+07ORD100813,2025-08-25,Institution,Central,Fiction,Credit Card,1,3292.95,15,2799.01
+07ORD100015,2025-02-23,Institution,South,Non-Fiction,Wallet,2,1739.1,23,2678.21
+07ORD100157,2024-05-28,Institution,West,Comics,Debit Card,4,1295.62,12,4560.58
+07ORD100041,2024-09-29,Reader Club,North,Academic,Wallet,6,617.96,21,2929.13
+07ORD100493,2025-05-09,Reader Club,West,Comics,Credit Card,1,3341.86,8,3074.51
+07ORD100380,2025-09-24,Professional,North,Children,Wallet,1,2370.45,11,2109.7
+07ORD100188,2024-11-28,Reader Club,West,Academic,Cash on Delivery,1,1827.73,21,1443.91
+07ORD100764,2025-04-09,Reader Club,North,Academic,Debit Card,1,2745.77,5,2608.48
+07ORD100217,2025-05-14,Student,South,Fiction,Credit Card,4,3369.34,13,11725.3
+07ORD100792,2025-12-08,Student,South,Fiction,Cash on Delivery,2,3075.52,24,4674.79
+07ORD100053,2024-08-25,Professional,West,Non-Fiction,Cash on Delivery,1,1411.47,7,1312.67
+07ORD100879,2025-10-17,Student,South,Comics,UPI,1,3876.48,9,3527.6
+07ORD100338,2025-08-21,Student,East,Comics,Credit Card,2,3710.96,10,6679.73
+07ORD100749,2025-04-27,Reader Club,East,Comics,Wallet,1,2421.07,32,1646.33
+07ORD100720,2025-03-09,Student,North,Fiction,Wallet,2,3858.13,5,7330.45
+07ORD100725,2025-02-14,Reader Club,South,Fiction,UPI,2,1859.6,9,3384.47
+07ORD100296,2024-11-30,Student,North,Children,Credit Card,2,1675.8,26,2480.18
+07ORD100702,2025-08-24,Student,South,Non-Fiction,Cash on Delivery,1,187.43,15,159.32
+07ORD100252,2025-09-09,Student,North,Fiction,UPI,1,488.0,24,370.88
+07ORD100727,2024-11-13,Reader Club,North,Children,Credit Card,3,2260.76,21,5358.0
+07ORD100462,2024-12-22,Reader Club,East,Non-Fiction,Cash on Delivery,1,1535.36,9,1397.18
+07ORD100456,2024-12-02,Professional,Central,Academic,Debit Card,1,3502.39,28,2521.72
+07ORD100997,2025-01-18,Professional,South,Academic,UPI,4,3497.7,34,9233.93
+07ORD100816,2024-09-18,Professional,East,Non-Fiction,Cash on Delivery,1,2944.52,25,2208.39
+07ORD100863,2025-03-29,Professional,East,Comics,Debit Card,1,2978.34,16,2501.81
+07ORD100270,2024-11-17,Institution,West,Academic,Debit Card,5,1835.92,3,8904.21
+07ORD100202,2024-03-27,Institution,Central,Academic,Debit Card,1,163.29,19,132.26
+07ORD100162,2025-09-28,Student,North,Children,Debit Card,1,571.36,24,434.23
+07ORD100556,2025-06-09,Institution,West,Fiction,Credit Card,4,3948.97,18,12952.62
+07ORD100730,2024-05-25,Institution,South,Academic,Cash on Delivery,2,2597.01,18,4259.1
+07ORD100402,2025-06-30,Institution,Central,Academic,Cash on Delivery,3,3951.61,3,11499.19
+07ORD100703,2025-03-13,Professional,East,Fiction,Credit Card,1,1259.95,23,970.16
+07ORD100477,2024-09-01,Institution,South,Children,Credit Card,5,958.06,18,3928.05
+07ORD100822,2024-07-08,Institution,West,Non-Fiction,Debit Card,1,783.17,32,532.56
+07ORD100772,2025-12-15,Institution,East,Children,Wallet,1,677.76,15,576.1
+07ORD100106,2024-11-23,Institution,Central,Academic,Wallet,1,1891.25,16,1588.65
+07ORD100566,2024-01-28,Student,Central,Academic,Debit Card,2,3470.81,15,5900.38
+07ORD100390,2024-10-05,Professional,Central,Non-Fiction,UPI,1,2234.38,16,1876.88
+07ORD100002,2025-05-30,Institution,North,Non-Fiction,Wallet,3,1054.47,6,2973.61
+07ORD100938,2025-04-08,Institution,North,Children,Debit Card,3,3786.3,7,10563.78
+07ORD100983,2025-04-26,Professional,North,Fiction,UPI,2,3568.91,28,5139.23
+07ORD100562,2025-10-02,Reader Club,West,Children,Debit Card,2,1162.36,9,2115.5
+07ORD100081,2024-10-11,Institution,Central,Children,Debit Card,2,1075.16,24,1634.24
+07ORD100206,2025-01-26,Reader Club,North,Comics,Cash on Delivery,1,846.66,29,601.13
+07ORD100035,2025-12-21,Student,South,Children,Wallet,1,2781.91,18,2281.17
+07ORD100776,2025-01-10,Institution,Central,Non-Fiction,Credit Card,1,2786.64,10,2507.98
+07ORD100509,2024-03-31,Student,South,Academic,Debit Card,6,2980.57,26,13233.73
+07ORD100428,2025-01-22,Reader Club,North,Academic,Credit Card,1,1125.68,15,956.83
+07ORD100455,2024-01-12,Professional,North,Non-Fiction,Wallet,4,2399.48,27,7006.48
+07ORD100367,2024-11-11,Institution,East,Academic,Debit Card,5,3852.38,10,17335.71
+07ORD100092,2025-04-10,Student,North,Children,UPI,6,864.7,0,5188.2
+07ORD100340,2024-01-18,Student,North,Academic,Debit Card,1,2341.6,21,1849.86
+07ORD100898,2025-05-05,Reader Club,East,Non-Fiction,Cash on Delivery,5,3528.13,22,13759.71
+07ORD100565,2024-07-08,Student,South,Academic,UPI,1,2189.96,2,2146.16
+07ORD100346,2024-10-06,Reader Club,North,Non-Fiction,Credit Card,1,2273.54,18,1864.3
+07ORD100777,2025-07-19,Professional,East,Comics,Credit Card,1,3000.06,34,1980.04
+07ORD100242,2024-06-10,Student,West,Non-Fiction,Credit Card,4,1217.84,19,3945.8
+07ORD100014,2024-05-24,Institution,West,Academic,Wallet,4,1860.38,34,4911.4
+07ORD100316,2024-03-10,Reader Club,Central,Comics,Credit Card,5,412.27,1,2040.74
+07ORD100601,2024-02-27,Professional,North,Comics,UPI,3,3824.07,3,11128.04
+07ORD100388,2025-01-16,Professional,North,Academic,Debit Card,3,919.07,16,2316.06
+07ORD100274,2024-08-13,Student,South,Fiction,Cash on Delivery,1,2800.27,31,1932.19
+07ORD100167,2024-07-08,Student,West,Non-Fiction,Wallet,4,1527.66,30,4277.45
+07ORD100841,2025-12-13,Institution,West,Academic,Debit Card,1,1956.03,3,1897.35
+07ORD100993,2025-08-17,Reader Club,East,Fiction,Debit Card,1,3743.2,4,3593.47
+07ORD100647,2024-07-30,Reader Club,North,Academic,Credit Card,1,1151.41,6,1082.33
+07ORD100819,2024-07-06,Institution,East,Fiction,Debit Card,2,3854.45,1,7631.81
+07ORD100485,2025-04-18,Student,North,Children,Cash on Delivery,5,2950.62,34,9737.05
+07ORD100981,2025-06-08,Student,North,Academic,UPI,1,1099.44,20,879.55
+07ORD100505,2025-08-30,Professional,West,Children,UPI,1,2047.72,30,1433.4
+07ORD100832,2024-11-08,Professional,Central,Fiction,Debit Card,1,186.61,30,130.63
+07ORD100244,2025-11-02,Institution,East,Non-Fiction,Cash on Delivery,2,3064.85,12,5394.14
+07ORD100567,2025-06-24,Student,North,Non-Fiction,Credit Card,2,3208.39,16,5390.1
+07ORD100876,2025-02-17,Institution,West,Comics,Wallet,1,1714.49,8,1577.33
+07ORD100563,2025-08-21,Student,East,Fiction,UPI,2,3552.99,14,6111.14
+07ORD100687,2025-12-15,Institution,North,Non-Fiction,Debit Card,2,832.04,10,1497.67
+07ORD100190,2024-10-04,Institution,North,Fiction,Cash on Delivery,1,2162.48,18,1773.23
+07ORD100783,2025-06-03,Student,South,Fiction,Wallet,1,2764.72,22,2156.48
+07ORD100700,2025-11-04,Institution,South,Children,Wallet,1,1237.92,4,1188.4
+07ORD100476,2024-01-23,Institution,North,Academic,Wallet,2,2375.85,6,4466.6
+07ORD100682,2024-01-07,Reader Club,East,Academic,Wallet,1,3298.13,17,2737.45
+07ORD100511,2025-04-06,Institution,East,Children,Debit Card,1,353.07,15,300.11
+07ORD100059,2025-12-11,Reader Club,North,Fiction,UPI,4,3762.13,34,9932.02
+07ORD100475,2025-05-16,Student,South,Comics,Cash on Delivery,1,2578.89,23,1985.75
+07ORD100561,2025-01-24,Student,North,Fiction,Credit Card,3,2366.73,10,6390.17
+07ORD100857,2024-11-21,Reader Club,Central,Comics,Wallet,3,2701.01,15,6887.58
+07ORD100748,2024-05-22,Professional,South,Academic,UPI,2,1192.39,32,1621.65
+07ORD100253,2025-09-21,Institution,East,Non-Fiction,Cash on Delivery,1,674.93,24,512.95
+07ORD100022,2024-09-20,Reader Club,Central,Fiction,Cash on Delivery,1,793.03,5,753.38
+07ORD100314,2025-11-13,Reader Club,West,Fiction,Credit Card,2,694.73,8,1278.3
+07ORD100460,2025-05-04,Student,Central,Academic,Cash on Delivery,1,303.11,1,300.08
+07ORD100161,2025-01-19,Institution,South,Academic,Wallet,2,2812.4,16,4724.83
+07ORD100277,2024-08-11,Professional,Central,Fiction,UPI,4,3630.29,0,14521.16
+07ORD100956,2024-08-22,Reader Club,East,Children,Credit Card,5,2722.18,4,13066.46
+07ORD100192,2025-06-28,Institution,South,Fiction,Cash on Delivery,4,662.25,23,2039.73
+07ORD100386,2024-07-23,Reader Club,South,Comics,UPI,2,2258.84,4,4336.97
+07ORD100806,2024-05-27,Professional,Central,Non-Fiction,Wallet,2,2313.23,33,3099.73
+07ORD100414,2025-12-04,Student,East,Fiction,Credit Card,2,2334.64,22,3642.04
+07ORD100492,2024-01-12,Professional,East,Children,UPI,1,410.45,11,365.3
+07ORD100344,2024-12-30,Reader Club,West,Non-Fiction,Cash on Delivery,1,366.45,2,359.12
+07ORD100770,2024-09-01,Reader Club,South,Comics,Cash on Delivery,2,966.5,8,1778.36
+07ORD100309,2025-08-15,Institution,Central,Non-Fiction,Credit Card,3,779.94,18,1918.65
+07ORD100662,2024-01-26,Institution,West,Academic,Cash on Delivery,2,2549.89,17,4232.82
+07ORD100131,2025-12-07,Professional,Central,Fiction,Wallet,5,2155.7,13,9377.3
+07ORD100664,2025-09-18,Professional,North,Comics,UPI,3,3293.73,3,9584.75
+07ORD100872,2024-10-04,Reader Club,East,Academic,Wallet,3,594.24,12,1568.79
+07ORD100100,2025-02-18,Student,Central,Fiction,Wallet,4,3817.85,18,12522.55
+07ORD100373,2024-12-30,Reader Club,South,Children,Debit Card,1,1492.58,22,1164.21
+07ORD100088,2025-07-28,Reader Club,North,Fiction,Credit Card,2,2273.2,26,3364.34
+07ORD100459,2024-01-11,Student,South,Fiction,UPI,2,3358.1,10,6044.58
+07ORD100331,2024-12-06,Student,North,Academic,UPI,6,1817.8,20,8725.44
+07ORD100215,2024-07-04,Professional,West,Non-Fiction,UPI,1,2258.06,9,2054.83
+07ORD100467,2025-04-02,Student,North,Academic,Credit Card,1,3487.78,33,2336.81
+07ORD100122,2025-07-16,Professional,Central,Fiction,Cash on Delivery,3,605.15,20,1452.36
+07ORD100615,2024-10-23,Institution,North,Academic,Cash on Delivery,1,953.17,17,791.13
+07ORD100021,2025-08-28,Professional,Central,Academic,UPI,1,3685.72,31,2543.15
+07ORD100701,2025-07-14,Professional,East,Children,Cash on Delivery,2,637.12,32,866.48
+07ORD100072,2025-10-13,Reader Club,North,Children,UPI,2,1920.03,22,2995.25
+07ORD100107,2024-09-13,Professional,East,Fiction,Debit Card,2,2720.17,25,4080.26
+07ORD100271,2024-05-18,Professional,South,Academic,Cash on Delivery,4,1977.43,34,5220.42
+07ORD100861,2024-02-15,Reader Club,East,Non-Fiction,Cash on Delivery,5,2586.95,4,12417.36
+07ORD100436,2025-04-25,Professional,South,Non-Fiction,Debit Card,1,2708.96,35,1760.82
+07ORD100103,2025-09-24,Reader Club,Central,Non-Fiction,Cash on Delivery,2,1506.42,33,2018.6

@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Segment,Region,Product_Category,Payment_Method,Quantity,Unit_Price,Discount_Percent,Order_Value
+05ORD100522,2024-10-14,Salon,North,Skincare,Credit Card,2,2460.12,23,3788.58
+05ORD100738,2025-05-30,Salon,Central,Skincare,Wallet,4,4998.47,36,12796.08
+05ORD100741,2025-03-06,Premium,West,Makeup,Credit Card,5,2486.68,35,8081.71
+05ORD100661,2025-08-09,Salon,South,Skincare,Credit Card,2,1274.18,10,2293.52
+05ORD100412,2025-08-25,Salon,West,Fragrance,Credit Card,2,2581.16,31,3562.0
+05ORD100679,2024-03-15,First-Time,East,Fragrance,Debit Card,1,212.37,15,180.51
+05ORD100627,2025-12-21,Regular,Central,Skincare,Credit Card,2,3489.43,42,4047.74
+05ORD100514,2025-02-18,Salon,North,Makeup,Cash on Delivery,3,1987.87,40,3578.17
+05ORD100860,2024-02-12,Salon,North,Fragrance,Cash on Delivery,5,2449.84,2,12004.22
+05ORD100137,2025-10-02,Premium,North,Skincare,Cash on Delivery,2,4275.19,19,6925.81
+05ORD100812,2024-11-02,First-Time,South,Makeup,UPI,5,1352.61,12,5951.48
+05ORD100077,2025-05-10,Regular,South,Makeup,Debit Card,5,1316.8,36,4213.76
+05ORD100637,2024-03-13,Regular,South,Fragrance,Wallet,1,2910.92,2,2852.7
+05ORD100974,2025-07-25,First-Time,South,Fragrance,Wallet,2,3661.45,29,5199.26
+05ORD100939,2025-08-11,Premium,East,Haircare,UPI,1,537.66,23,414.0
+05ORD100900,2025-07-17,First-Time,West,Skincare,Debit Card,2,4898.37,21,7739.42
+05ORD100281,2024-09-28,First-Time,North,Wellness,Debit Card,1,1500.89,16,1260.75
+05ORD100884,2025-11-13,Premium,South,Haircare,Credit Card,1,1772.69,3,1719.51
+05ORD100762,2024-06-22,Regular,Central,Fragrance,Cash on Delivery,5,1365.53,27,4984.18
+05ORD100320,2025-09-17,Salon,South,Haircare,Debit Card,1,2509.1,30,1756.37
+05ORD100550,2024-01-09,Salon,Central,Haircare,Cash on Delivery,5,2705.35,30,9468.72
+05ORD100175,2024-01-19,First-Time,South,Wellness,Credit Card,4,963.54,26,2852.08
+05ORD100372,2024-11-24,Salon,West,Fragrance,Credit Card,2,1171.04,25,1756.56
+05ORD100528,2024-06-09,First-Time,East,Makeup,Cash on Delivery,1,3994.76,12,3515.39
+05ORD100211,2024-10-23,Salon,West,Wellness,Wallet,2,2630.15,5,4997.28
+05ORD100236,2025-08-28,Salon,East,Wellness,Cash on Delivery,2,3333.8,43,3800.53
+05ORD100102,2024-02-29,Premium,North,Fragrance,Credit Card,5,4985.97,6,23434.06
+05ORD100987,2024-02-04,First-Time,Central,Skincare,Wallet,1,3872.18,39,2362.03
+05ORD100903,2024-02-01,First-Time,East,Makeup,Debit Card,2,3172.67,6,5964.62
+05ORD100948,2025-02-18,Salon,North,Wellness,Cash on Delivery,1,2604.22,41,1536.49
+05ORD100347,2025-07-27,Salon,Central,Makeup,Cash on Delivery,2,703.44,5,1336.54
+05ORD100140,2024-03-08,Premium,North,Fragrance,Wallet,4,4841.97,7,18012.13
+05ORD100622,2024-05-16,Regular,East,Wellness,Credit Card,2,148.0,1,293.04
+05ORD100500,2024-05-04,Regular,East,Makeup,Debit Card,2,2250.19,38,2790.24
+05ORD100371,2024-01-06,Salon,Central,Makeup,UPI,2,785.7,26,1162.84
+05ORD100199,2024-11-03,Salon,East,Makeup,UPI,2,3218.56,1,6372.75
+05ORD100688,2024-08-21,First-Time,South,Fragrance,Credit Card,2,1099.3,0,2198.6
+05ORD100585,2025-07-11,Salon,Central,Haircare,Cash on Delivery,3,281.56,42,489.91
+05ORD100902,2024-04-03,Regular,East,Skincare,Cash on Delivery,1,1079.35,17,895.86
+05ORD100060,2025-01-17,Premium,Central,Wellness,Cash on Delivery,1,3644.33,10,3279.9
+05ORD100329,2024-10-23,Salon,West,Haircare,Credit Card,3,3077.03,42,5354.03
+05ORD100097,2025-01-12,Regular,East,Haircare,Cash on Delivery,1,291.87,4,280.2
+05ORD100313,2025-08-04,Premium,South,Haircare,Wallet,3,1005.56,30,2111.68
+05ORD100975,2024-08-29,Salon,West,Wellness,Wallet,2,4721.39,41,5571.24
+05ORD100300,2024-06-27,Premium,West,Fragrance,Debit Card,1,657.02,37,413.92
+05ORD100278,2025-04-10,Salon,North,Skincare,Wallet,1,1329.77,14,1143.6
+05ORD100925,2025-06-06,First-Time,North,Makeup,Debit Card,5,818.85,2,4012.36
+05ORD100602,2025-09-12,Regular,Central,Haircare,Wallet,4,3628.24,6,13642.18
+05ORD100440,2024-08-15,Salon,East,Skincare,Cash on Delivery,1,1615.19,32,1098.33
+05ORD100838,2024-08-12,Regular,Central,Haircare,Credit Card,5,320.22,7,1489.02
+05ORD100571,2025-10-28,First-Time,Central,Makeup,UPI,1,3994.43,23,3075.71
+05ORD100880,2025-08-08,Premium,East,Skincare,Cash on Delivery,4,3440.48,6,12936.2
+05ORD100262,2025-08-02,Salon,East,Makeup,Wallet,1,3885.47,40,2331.28
+05ORD100579,2025-09-30,Premium,South,Haircare,Wallet,5,4307.34,33,14429.59
+05ORD100024,2024-07-06,Regular,West,Skincare,UPI,1,4893.66,5,4648.98
+05ORD100031,2025-06-23,Regular,North,Fragrance,Wallet,1,4644.61,2,4551.72
+05ORD100618,2024-09-13,Premium,South,Skincare,Cash on Delivery,2,1614.37,9,2938.15
+05ORD100011,2025-07-02,Premium,Central,Wellness,UPI,1,182.15,21,143.9
+05ORD100222,2024-07-13,Premium,Central,Skincare,Wallet,1,1959.29,28,1410.69
+05ORD100821,2024-07-09,Salon,West,Makeup,Debit Card,2,3644.56,22,5685.51
+05ORD100297,2025-11-16,Premium,South,Fragrance,Wallet,1,4491.86,4,4312.19
+05ORD100055,2024-07-02,Salon,North,Makeup,UPI,5,1222.71,10,5502.2
+05ORD100543,2024-12-08,Premium,Central,Fragrance,Cash on Delivery,5,843.09,7,3920.37
+05ORD100210,2024-08-08,First-Time,West,Fragrance,UPI,2,467.97,25,701.96
+05ORD100605,2024-08-25,Regular,Central,Makeup,Cash on Delivery,1,3772.46,38,2338.93
+05ORD100693,2025-12-27,Regular,Central,Fragrance,Debit Card,4,2018.46,7,7508.67
+05ORD100663,2024-01-07,Salon,West,Makeup,Debit Card,1,1907.9,23,1469.08
+05ORD100867,2025-01-06,Salon,South,Wellness,Credit Card,2,402.77,25,604.16
+05ORD100071,2024-02-05,First-Time,North,Haircare,Debit Card,1,1920.36,42,1113.81
+05ORD100544,2025-09-18,First-Time,Central,Wellness,UPI,1,198.75,6,186.82
+05ORD100108,2024-01-21,Premium,Central,Makeup,Cash on Delivery,5,1868.08,31,6444.88
+05ORD100494,2025-10-15,Salon,North,Makeup,Credit Card,2,2413.1,21,3812.7
+05ORD100591,2025-10-05,First-Time,East,Skincare,Credit Card,3,3864.32,25,8694.72
+05ORD100742,2024-01-26,Salon,East,Haircare,Wallet,2,502.9,33,673.89
+05ORD100293,2024-05-06,Salon,South,Haircare,Cash on Delivery,2,4284.09,34,5655.0
+05ORD100290,2024-08-26,Premium,West,Makeup,UPI,1,227.89,19,184.59
+05ORD100653,2024-02-16,First-Time,North,Haircare,Credit Card,2,4248.5,30,5947.9
+05ORD100040,2024-12-30,Premium,North,Makeup,UPI,4,3653.29,36,9352.42
+05ORD100590,2025-09-23,Premium,South,Fragrance,UPI,1,2345.22,0,2345.22
+05ORD100308,2024-03-12,First-Time,North,Wellness,Debit Card,1,2551.13,39,1556.19
+05ORD100680,2024-08-29,First-Time,Central,Fragrance,UPI,5,2693.83,38,8350.87
+05ORD100067,2025-12-10,Salon,East,Haircare,Debit Card,1,1082.16,10,973.94
+05ORD100276,2025-05-05,First-Time,North,Haircare,UPI,2,4627.6,39,5645.67
+05ORD100068,2025-03-09,Premium,West,Makeup,Cash on Delivery,2,3654.55,30,5116.37
+05ORD100319,2024-08-14,Premium,Central,Haircare,Cash on Delivery,3,4555.68,37,8610.24
+05ORD100549,2025-09-17,Salon,South,Skincare,Debit Card,2,541.88,22,845.33
+05ORD100999,2025-09-04,Premium,East,Skincare,Cash on Delivery,2,2991.79,41,3530.31
+05ORD100715,2025-11-03,Premium,West,Haircare,Debit Card,1,2488.78,44,1393.72
+05ORD100754,2025-12-06,Premium,North,Haircare,Debit Card,3,4462.96,14,11514.44
+05ORD100328,2024-03-09,First-Time,West,Fragrance,Debit Card,1,1619.94,1,1603.74
+05ORD100383,2025-08-09,Premium,East,Makeup,Wallet,2,3434.36,5,6525.28
+05ORD100452,2024-11-27,First-Time,West,Skincare,Cash on Delivery,3,3353.49,3,9758.66
+05ORD100523,2024-04-21,Salon,South,Wellness,Cash on Delivery,2,4717.77,41,5566.97
+05ORD100219,2024-02-11,Premium,North,Makeup,Cash on Delivery,1,2288.41,23,1762.08
+05ORD100788,2025-12-26,Salon,South,Skincare,Wallet,1,980.04,21,774.23
+05ORD100437,2025-05-10,Salon,South,Wellness,Wallet,2,3013.49,41,3555.92
+05ORD100765,2025-05-23,Premium,Central,Makeup,UPI,1,1532.15,16,1287.01
+05ORD100089,2025-12-26,First-Time,West,Haircare,Cash on Delivery,1,1418.89,25,1064.17
+05ORD100064,2024-01-15,Regular,South,Wellness,Debit Card,1,1811.42,28,1304.22
+05ORD100827,2024-12-15,Regular,South,Fragrance,Debit Card,1,2859.19,24,2172.98
+05ORD100717,2025-03-21,First-Time,West,Skincare,Cash on Delivery,1,1685.24,14,1449.31
+05ORD100352,2025-05-01,Regular,West,Makeup,Wallet,3,2149.99,40,3869.98
+05ORD100937,2025-03-28,Salon,South,Skincare,Debit Card,2,4292.21,39,5236.5
+05ORD100257,2024-08-26,First-Time,East,Skincare,Credit Card,3,4800.05,6,13536.14
+05ORD100636,2024-01-30,First-Time,North,Skincare,Credit Card,1,2535.85,15,2155.47
+05ORD100645,2025-03-01,Salon,South,Wellness,Debit Card,1,2525.14,23,1944.36
+05ORD100555,2024-11-06,Salon,North,Fragrance,Credit Card,4,4993.63,32,13582.67
+05ORD100960,2025-09-12,Regular,South,Wellness,UPI,1,2048.19,21,1618.07
+05ORD100169,2024-07-31,Premium,South,Wellness,Debit Card,3,4537.55,7,12659.76
+05ORD100918,2025-01-12,Regular,North,Makeup,UPI,5,781.39,2,3828.81
+05ORD100529,2025-05-30,First-Time,West,Makeup,Credit Card,1,4182.44,5,3973.32
+05ORD100824,2025-02-19,Premium,South,Fragrance,Debit Card,2,2114.32,41,2494.9
+05ORD100986,2025-05-16,Regular,West,Wellness,Credit Card,3,4605.14,4,13262.8
+05ORD100817,2024-02-25,Premium,East,Skincare,Credit Card,1,1294.54,14,1113.3
+05ORD100087,2025-11-25,Regular,South,Makeup,Debit Card,1,1712.81,11,1524.4
+05ORD100433,2025-02-16,Premium,South,Skincare,Credit Card,1,1522.92,6,1431.54
+05ORD100185,2025-04-05,Salon,Central,Makeup,Wallet,1,3589.91,16,3015.52
+05ORD100979,2025-08-17,Salon,North,Makeup,UPI,3,4533.83,41,8024.88
+05ORD100535,2025-04-19,Regular,Central,Wellness,UPI,1,1558.86,2,1527.68
+05ORD100295,2025-09-24,Salon,East,Skincare,UPI,1,4586.68,13,3990.41
+05ORD100893,2024-07-24,First-Time,East,Wellness,Credit Card,2,4139.6,27,6043.82
+05ORD100426,2025-05-07,Regular,Central,Skincare,Wallet,5,2580.29,42,7482.84
+05ORD100714,2025-07-18,Salon,West,Skincare,UPI,1,779.04,10,701.14
+05ORD100261,2025-01-08,Premium,Central,Skincare,Credit Card,1,934.86,24,710.49
+05ORD100238,2024-03-07,Salon,North,Makeup,UPI,2,3518.75,36,4504.0
+05ORD100560,2025-05-14,First-Time,Central,Fragrance,Cash on Delivery,2,3172.09,17,5265.67
+05ORD100584,2025-07-13,First-Time,Central,Skincare,Debit Card,1,2707.66,10,2436.89
+05ORD100446,2025-11-05,Regular,Central,Skincare,UPI,3,2782.66,16,7012.3
+05ORD100868,2024-08-19,Regular,North,Wellness,Credit Card,2,264.98,34,349.77
+05ORD100801,2024-03-27,First-Time,Central,Skincare,Cash on Delivery,2,2076.96,43,2367.73
+05ORD100600,2025-03-21,Regular,South,Haircare,Wallet,1,324.76,13,282.54
+05ORD100850,2024-01-03,Regular,East,Fragrance,Cash on Delivery,1,1197.49,16,1005.89
+05ORD100266,2024-04-30,Salon,East,Makeup,UPI,5,264.38,29,938.55
+05ORD100996,2024-07-03,Premium,West,Wellness,UPI,1,2621.94,44,1468.29
+05ORD100530,2025-02-05,First-Time,East,Makeup,Debit Card,1,1487.87,21,1175.42
+05ORD100056,2025-07-15,Premium,East,Wellness,Credit Card,5,1118.73,38,3468.06
+05ORD100121,2025-01-22,Premium,Central,Skincare,UPI,3,1830.99,34,3625.36
+05ORD100216,2024-03-17,Premium,East,Wellness,Debit Card,4,3812.38,6,14334.55
+05ORD100026,2025-10-04,First-Time,Central,Makeup,Wallet,1,872.1,22,680.24
+05ORD100073,2025-10-12,Premium,West,Fragrance,Debit Card,4,3370.11,1,13345.64
+05ORD100045,2025-09-21,Salon,West,Makeup,Cash on Delivery,2,1776.52,18,2913.49
+05ORD100248,2025-11-08,First-Time,Central,Fragrance,Debit Card,5,1352.66,23,5207.74
+05ORD100722,2025-01-12,Salon,South,Makeup,Cash on Delivery,2,2031.32,34,2681.34
+05ORD100282,2024-04-19,Salon,South,Wellness,Credit Card,3,3436.08,8,9483.58
+05ORD100894,2024-03-20,Salon,West,Haircare,UPI,1,3917.26,24,2977.12
+05ORD100915,2024-10-01,Salon,West,Skincare,Debit Card,5,2294.45,28,8260.02
+05ORD100811,2025-07-29,First-Time,Central,Skincare,Wallet,5,2915.49,13,12682.38
+05ORD100245,2025-08-24,Premium,West,Fragrance,Debit Card,3,1843.6,37,3484.4
+05ORD100823,2025-07-20,Salon,South,Wellness,UPI,2,1908.69,29,2710.34
+05ORD100322,2025-04-28,Salon,West,Haircare,UPI,3,3177.95,25,7150.39
+05ORD100644,2025-11-12,Salon,South,Fragrance,Debit Card,2,1574.01,7,2927.66
+05ORD100159,2024-07-20,Regular,North,Wellness,Credit Card,2,2854.75,1,5652.4
+05ORD100978,2025-08-04,Premium,Central,Haircare,Wallet,4,4084.79,2,16012.38
+05ORD100430,2024-05-05,First-Time,East,Fragrance,Credit Card,4,1860.84,20,5954.69
+05ORD100942,2025-07-02,Regular,North,Makeup,Wallet,2,2135.4,19,3459.35
+05ORD100463,2024-07-23,Salon,North,Fragrance,Debit Card,1,1588.66,14,1366.25
+05ORD100310,2025-04-04,First-Time,North,Haircare,UPI,3,4776.26,36,9170.42
+05ORD100698,2024-12-02,First-Time,North,Fragrance,Wallet,5,2844.79,16,11948.12
+05ORD100061,2025-01-03,Premium,West,Haircare,Wallet,2,1483.9,38,1840.04
+05ORD100885,2025-01-10,Salon,North,Fragrance,Debit Card,4,1169.44,40,2806.66
+05ORD100596,2024-09-17,First-Time,East,Haircare,UPI,1,1595.43,44,893.44
+05ORD100768,2024-07-23,Regular,Central,Skincare,Cash on Delivery,2,995.18,35,1293.73
+05ORD100650,2024-09-13,Premium,North,Wellness,Credit Card,4,4498.94,19,14576.57
+05ORD100651,2025-09-26,Premium,Central,Wellness,Credit Card,1,4338.7,3,4208.54
+05ORD100866,2024-05-21,Salon,East,Skincare,Credit Card,2,3593.58,18,5893.47
+05ORD100669,2025-08-23,Premium,Central,Makeup,Debit Card,1,2425.3,41,1430.93
+05ORD100299,2025-04-26,First-Time,Central,Fragrance,Debit Card,3,1821.23,43,3114.3
+05ORD100690,2024-02-09,First-Time,Central,Skincare,Credit Card,2,3165.32,6,5950.8
+05ORD100315,2025-09-20,Salon,West,Makeup,Debit Card,1,2820.51,14,2425.64
+05ORD100311,2024-06-17,First-Time,North,Haircare,UPI,5,1895.45,31,6539.3
+05ORD100362,2024-12-16,First-Time,North,Fragrance,UPI,5,904.36,13,3933.97
+05ORD100480,2024-08-01,Regular,South,Haircare,Cash on Delivery,4,578.77,5,2199.33
+05ORD100111,2025-12-15,Salon,West,Skincare,Wallet,2,1485.39,11,2643.99
+05ORD100990,2025-12-18,Salon,West,Wellness,Debit Card,1,1731.07,37,1090.57
+05ORD100487,2024-11-12,Salon,East,Skincare,Credit Card,4,3728.41,8,13720.55
+05ORD100364,2025-06-12,Regular,West,Wellness,UPI,1,406.02,4,389.78
+05ORD100255,2024-06-27,Salon,East,Skincare,Credit Card,2,1775.09,42,2059.1
+05ORD100260,2024-03-12,First-Time,South,Makeup,Debit Card,1,4857.63,22,3788.95
+05ORD100803,2025-01-29,Premium,West,Makeup,UPI,1,3586.09,8,3299.2
+05ORD100678,2025-04-08,Salon,South,Wellness,UPI,4,4330.34,42,10046.39
+05ORD100495,2024-02-11,First-Time,Central,Makeup,Wallet,2,1614.13,31,2227.5
+05ORD100671,2024-08-03,Premium,North,Wellness,Debit Card,1,165.25,19,133.85
+05ORD100378,2025-05-21,Salon,South,Wellness,Wallet,3,1975.75,28,4267.62
+05ORD100527,2024-02-18,Premium,West,Haircare,Credit Card,4,2385.7,0,9542.8
+05ORD100846,2025-06-02,Premium,West,Wellness,Cash on Delivery,5,4297.44,23,16545.14
+05ORD100138,2025-05-15,First-Time,North,Haircare,UPI,4,1104.75,2,4330.62
+05ORD100356,2024-10-07,Regular,East,Makeup,Cash on Delivery,5,1156.89,30,4049.12
+05ORD100366,2024-05-11,First-Time,West,Wellness,Credit Card,1,1974.7,33,1323.05
+05ORD100943,2025-09-05,Salon,South,Haircare,UPI,1,1754.54,4,1684.36
+05ORD100750,2024-04-30,Regular,South,Makeup,UPI,3,2188.81,37,4136.85
+05ORD100949,2024-03-26,Regular,Central,Haircare,Cash on Delivery,2,2821.32,23,4344.83
+05ORD100830,2024-08-09,First-Time,West,Wellness,Credit Card,5,2963.81,18,12151.62
+05ORD100657,2025-03-06,Premium,West,Fragrance,Credit Card,2,3561.7,36,4558.98
+05ORD100200,2024-05-16,First-Time,East,Skincare,Debit Card,2,2736.13,20,4377.81
+05ORD100214,2025-08-15,Regular,South,Fragrance,Debit Card,2,958.39,8,1763.44
+05ORD100409,2025-12-07,Salon,North,Wellness,UPI,3,1450.62,2,4264.82
+05ORD100333,2025-09-26,Salon,East,Wellness,UPI,1,1600.1,4,1536.1
+05ORD100209,2025-08-28,Regular,West,Fragrance,Wallet,2,4693.49,4,9011.5
+05ORD100614,2024-08-18,Premium,South,Wellness,Wallet,2,1238.41,41,1461.32
+05ORD100079,2024-08-12,Regular,Central,Haircare,UPI,5,3783.24,11,16835.42
+05ORD100030,2025-08-03,Salon,East,Wellness,Cash on Delivery,2,3201.99,34,4226.63
+05ORD100536,2025-08-24,Regular,West,Fragrance,UPI,4,4276.09,45,9407.4
+05ORD100696,2024-12-26,Regular,East,Makeup,UPI,2,1098.14,16,1844.88
+05ORD100558,2025-03-05,Regular,Central,Haircare,Debit Card,1,179.17,14,154.09
+05ORD100837,2025-06-23,First-Time,Central,Wellness,Debit Card,1,2979.88,23,2294.51
+05ORD100597,2024-02-17,Premium,West,Wellness,Credit Card,2,3085.02,36,3948.83
+05ORD100166,2025-06-24,Regular,West,Fragrance,Wallet,1,3158.22,41,1863.35
+05ORD100919,2025-01-07,Salon,East,Wellness,Credit Card,2,313.39,20,501.42
+05ORD100496,2024-10-21,Salon,South,Skincare,Debit Card,5,1759.05,11,7827.77
+05ORD100825,2024-12-05,Premium,Central,Skincare,Credit Card,2,4596.03,1,9100.14
+05ORD100066,2025-01-26,Regular,West,Haircare,Cash on Delivery,2,4605.91,12,8106.4
+05ORD100142,2025-02-27,Salon,South,Fragrance,Credit Card,2,1361.58,45,1497.74
+05ORD100926,2025-08-29,First-Time,Central,Fragrance,UPI,1,3727.92,44,2087.64
+05ORD100828,2025-08-23,Regular,Central,Haircare,Cash on Delivery,1,4623.47,28,3328.9
+05ORD100656,2024-05-23,Salon,South,Makeup,Wallet,1,1269.24,37,799.62
+05ORD100332,2024-02-14,Premium,West,Makeup,Credit Card,1,3406.85,8,3134.3
+05ORD100665,2024-01-15,Salon,Central,Fragrance,Debit Card,3,1199.94,37,2267.89
+05ORD100250,2024-09-22,Salon,North,Haircare,Debit Card,2,3813.18,9,6939.99
+05ORD100908,2024-05-28,Premium,Central,Wellness,UPI,2,4569.64,34,6031.92
+05ORD100709,2025-11-21,Regular,South,Haircare,UPI,1,4334.48,28,3120.83
+05ORD100306,2024-06-08,First-Time,North,Makeup,Credit Card,2,2872.71,42,3332.34
+05ORD100735,2024-10-15,Premium,South,Makeup,Credit Card,5,4122.05,31,14221.07
+05ORD100976,2025-06-24,Salon,South,Fragrance,Wallet,2,892.09,37,1124.03
+05ORD100050,2025-01-07,Regular,North,Fragrance,Credit Card,3,1421.71,37,2687.03
+05ORD100897,2025-09-18,Regular,South,Skincare,Debit Card,1,608.78,33,407.88
+05ORD100003,2024-02-28,Regular,South,Fragrance,UPI,5,2694.4,18,11047.04
+05ORD100545,2024-04-03,Regular,South,Haircare,Cash on Delivery,4,4964.1,9,18069.32
+05ORD100351,2024-08-29,First-Time,Central,Fragrance,UPI,5,1737.6,40,5212.8
+05ORD100905,2024-05-19,First-Time,West,Fragrance,Cash on Delivery,2,4305.67,41,5080.69
+05ORD100537,2024-11-07,Salon,North,Fragrance,Wallet,4,2157.37,5,8198.01
+05ORD100345,2025-09-17,Regular,West,Haircare,Credit Card,1,3438.23,29,2441.14
+05ORD100995,2024-02-17,Salon,West,Haircare,UPI,1,2111.36,37,1330.16
+05ORD100482,2024-05-18,Regular,West,Wellness,Credit Card,1,4083.76,36,2613.61
+05ORD100576,2025-01-22,Regular,South,Fragrance,Cash on Delivery,1,3973.6,27,2900.73
+05ORD100034,2024-01-31,Premium,East,Fragrance,Debit Card,3,965.64,14,2491.35
+05ORD100032,2025-01-03,First-Time,West,Skincare,Wallet,4,2916.88,41,6883.84
+05ORD100232,2024-08-23,Regular,North,Haircare,Cash on Delivery,1,4104.51,45,2257.48
+05ORD100964,2025-09-09,Regular,West,Makeup,Wallet,2,3101.73,9,5645.15
+05ORD100193,2024-09-23,First-Time,East,Makeup,Debit Card,5,4508.03,8,20736.94
+05ORD100334,2025-01-16,First-Time,West,Wellness,Cash on Delivery,1,4455.22,26,3296.86
+05ORD100004,2025-06-21,Premium,Central,Haircare,Wallet,3,4246.9,37,8026.64
+05ORD100205,2024-09-14,Premium,Central,Haircare,Credit Card,1,3706.58,29,2631.67
+05ORD100515,2025-03-28,Regular,South,Fragrance,Wallet,5,230.62,29,818.7
+05ORD100800,2025-11-16,Salon,South,Wellness,Wallet,2,4369.27,13,7602.53
+05ORD100307,2024-05-01,Regular,East,Wellness,Cash on Delivery,2,2534.57,12,4460.84
+05ORD100110,2025-05-27,First-Time,West,Haircare,Cash on Delivery,1,4405.47,26,3260.05
+05ORD100431,2024-09-21,First-Time,South,Skincare,UPI,5,4103.11,28,14771.2
+05ORD100078,2025-12-18,Regular,West,Skincare,Wallet,5,1649.5,26,6103.15
+05ORD100085,2024-12-22,Premium,Central,Fragrance,Debit Card,1,1023.11,33,685.48
+05ORD100287,2024-01-23,Regular,Central,Fragrance,UPI,3,4896.03,35,9547.26
+05ORD100083,2025-04-07,Regular,Central,Fragrance,Debit Card,4,1700.56,22,5305.75
+05ORD100992,2024-09-09,Regular,West,Haircare,Debit Card,2,1677.99,26,2483.43
+05ORD100790,2025-08-12,Premium,West,Haircare,UPI,4,2082.06,31,5746.49
+05ORD100895,2024-02-06,Premium,Central,Fragrance,UPI,4,3163.51,18,10376.31
+05ORD100399,2025-09-15,First-Time,Central,Haircare,Credit Card,1,1883.06,31,1299.31
+05ORD100324,2024-04-04,Premium,North,Haircare,UPI,4,3076.65,45,6768.63
+05ORD100520,2024-06-05,Salon,East,Fragrance,Credit Card,1,3142.08,44,1759.56
+05ORD100917,2024-01-23,Premium,West,Makeup,Wallet,4,4817.49,37,12140.07
+05ORD100923,2024-06-15,Premium,West,Wellness,UPI,2,2738.35,34,3614.62
+05ORD100006,2024-04-12,Premium,North,Makeup,UPI,2,199.87,14,343.78
+05ORD100732,2024-04-24,First-Time,North,Fragrance,Debit Card,1,4049.85,39,2470.41
+05ORD100466,2024-09-22,Premium,North,Fragrance,Wallet,3,562.52,0,1687.56
+05ORD100098,2025-08-05,First-Time,West,Skincare,Wallet,2,4009.95,31,5533.73
+05ORD100267,2025-02-16,First-Time,North,Fragrance,Credit Card,2,1630.4,25,2445.6
+05ORD100358,2024-04-28,Regular,East,Fragrance,Debit Card,1,1688.62,16,1418.44
+05ORD100869,2024-06-12,Premium,South,Wellness,Debit Card,2,1953.85,11,3477.85
+05ORD100799,2025-12-07,Premium,North,Haircare,Cash on Delivery,3,4881.98,45,8055.27
+05ORD100381,2024-02-20,First-Time,South,Wellness,UPI,5,199.93,30,699.76
+05ORD100632,2024-01-18,First-Time,South,Wellness,Cash on Delivery,2,4128.71,31,5697.62
+05ORD100382,2024-05-28,Salon,West,Makeup,Debit Card,2,300.2,1,594.4
+05ORD100491,2025-02-27,Premium,Central,Skincare,Credit Card,2,1713.78,16,2879.15
+05ORD100119,2025-04-20,First-Time,South,Fragrance,Cash on Delivery,3,1959.56,7,5467.17
+05ORD100901,2025-01-08,First-Time,North,Makeup,Credit Card,1,411.07,27,300.08
+05ORD100251,2025-06-04,Regular,Central,Wellness,Debit Card,4,2963.04,36,7585.38
+05ORD100524,2025-12-02,Premium,South,Makeup,Wallet,1,3559.19,1,3523.6
+05ORD100010,2024-11-17,First-Time,Central,Wellness,Cash on Delivery,4,4719.81,6,17746.49
+05ORD100197,2025-07-17,Salon,Central,Makeup,UPI,2,3381.6,10,6086.88
+05ORD100604,2024-12-08,Premium,South,Fragrance,Cash on Delivery,2,651.6,23,1003.46
+05ORD100082,2024-12-17,Salon,West,Skincare,Debit Card,1,1531.47,43,872.94
+05ORD100784,2025-06-17,First-Time,West,Fragrance,Cash on Delivery,4,461.96,22,1441.32
+05ORD100588,2024-07-05,Premium,South,Makeup,Credit Card,5,3310.16,36,10592.51
+05ORD100798,2024-05-05,Salon,South,Fragrance,Cash on Delivery,4,4319.29,43,9847.98
+05ORD100240,2025-05-24,First-Time,Central,Wellness,Debit Card,4,2012.52,12,7084.07
+05ORD100291,2025-03-09,Salon,South,Skincare,Credit Card,4,2991.89,34,7898.59
+05ORD100212,2024-07-21,Regular,North,Makeup,Wallet,2,500.34,15,850.58
+05ORD100718,2024-07-18,Salon,Central,Haircare,Cash on Delivery,5,4593.19,25,17224.46
+05ORD100360,2025-01-26,First-Time,South,Makeup,Wallet,1,391.15,30,273.8
+05ORD100450,2024-08-27,Premium,North,Haircare,Debit Card,1,3602.12,39,2197.29
+05ORD100228,2024-11-10,First-Time,East,Fragrance,Wallet,1,929.69,33,622.89
+05ORD100951,2024-08-04,First-Time,East,Fragrance,Wallet,1,2192.39,38,1359.28
+05ORD100947,2025-08-28,First-Time,East,Skincare,Cash on Delivery,3,744.71,20,1787.3
+05ORD100797,2024-12-24,Regular,North,Haircare,Credit Card,1,3353.68,29,2381.11
+05ORD100502,2024-07-24,Salon,West,Fragrance,Wallet,5,860.43,44,2409.2
+05ORD100465,2024-01-30,Salon,South,Wellness,UPI,1,577.67,1,571.89
+05ORD100363,2025-07-24,First-Time,North,Fragrance,Credit Card,3,4016.04,22,9397.53
+05ORD100469,2024-02-08,Salon,North,Fragrance,UPI,3,3740.23,34,7405.66
+05ORD100936,2024-07-26,Regular,North,Wellness,Credit Card,1,1605.19,11,1428.62
+05ORD100429,2024-11-02,Premium,East,Fragrance,Cash on Delivery,1,3243.32,28,2335.19
+05ORD100008,2025-08-14,Premium,North,Makeup,UPI,3,3372.91,36,6475.99
+05ORD100156,2025-01-11,Regular,Central,Fragrance,Wallet,2,3430.78,14,5900.94
+05ORD100542,2025-05-11,Premium,North,Wellness,Cash on Delivery,2,125.3,22,195.47
+05ORD100441,2024-05-25,Regular,North,Makeup,UPI,4,3810.33,14,13107.54
+05ORD100483,2025-10-18,Regular,West,Wellness,Debit Card,2,1984.84,39,2421.5
+05ORD100423,2025-03-09,Salon,South,Wellness,Wallet,3,4253.41,17,10590.99
+05ORD100779,2025-08-13,Salon,East,Skincare,Cash on Delivery,1,455.03,45,250.27
+05ORD100950,2025-09-13,Premium,East,Makeup,Wallet,1,921.65,8,847.92
+05ORD100335,2024-01-27,First-Time,East,Makeup,Credit Card,2,1075.73,11,1914.8
+05ORD100577,2024-01-04,Regular,South,Wellness,Cash on Delivery,4,3748.81,15,12745.95
+05ORD100935,2025-07-13,First-Time,East,Skincare,Cash on Delivery,1,2028.35,38,1257.58
+05ORD100568,2024-08-23,Premium,Central,Fragrance,Wallet,2,3428.98,4,6583.64
+05ORD100595,2025-08-26,Premium,East,Skincare,Wallet,1,139.64,15,118.69
+05ORD100531,2025-12-10,Salon,North,Wellness,Debit Card,5,4122.64,16,17315.09
+05ORD100582,2025-02-14,Premium,West,Wellness,Credit Card,3,327.14,20,785.14
+05ORD100708,2025-10-02,Salon,South,Fragrance,Wallet,2,1223.73,43,1395.05
+05ORD100449,2024-04-15,First-Time,South,Fragrance,UPI,1,3113.43,33,2086.0
+05ORD100454,2025-10-06,First-Time,South,Wellness,Credit Card,4,237.11,13,825.14
+05ORD100229,2024-11-16,Salon,East,Wellness,Credit Card,1,4217.02,3,4090.51
+05ORD100353,2024-08-27,Regular,East,Makeup,UPI,4,157.76,14,542.69
+05ORD100729,2025-02-07,Premium,West,Makeup,Cash on Delivery,2,2851.38,28,4105.99
+05ORD100213,2024-12-08,Regular,South,Fragrance,Credit Card,1,1956.75,0,1956.75
+05ORD100080,2025-01-20,Premium,East,Makeup,UPI,1,3236.4,28,2330.21
+05ORD100149,2025-08-19,Salon,South,Skincare,Cash on Delivery,5,143.22,24,544.24
+05ORD100303,2025-03-12,Premium,West,Fragrance,Wallet,2,1353.44,3,2625.67
+05ORD100629,2024-08-02,Regular,East,Wellness,Debit Card,4,2302.01,34,6077.31
+05ORD100778,2025-11-20,Regular,North,Fragrance,Wallet,1,2397.6,31,1654.34
+05ORD100507,2025-10-15,Regular,East,Fragrance,Cash on Delivery,1,1763.94,39,1076.0
+05ORD100343,2024-04-30,Regular,South,Haircare,UPI,1,3113.68,40,1868.21
+05ORD100486,2025-10-28,Salon,Central,Fragrance,Wallet,2,3433.31,29,4875.3
+05ORD100712,2024-07-01,Premium,South,Fragrance,Cash on Delivery,5,4120.22,39,12566.67
+05ORD100134,2024-02-09,Regular,South,Makeup,Credit Card,3,3238.2,24,7383.1
+05ORD100704,2024-01-07,Premium,South,Makeup,UPI,5,3683.31,25,13812.41
+05ORD100312,2025-09-02,First-Time,West,Skincare,Cash on Delivery,2,945.02,37,1190.73
+05ORD100723,2025-06-29,Premium,South,Makeup,Wallet,2,4191.17,8,7711.75
+05ORD100630,2024-01-27,Premium,West,Skincare,Wallet,1,2873.31,40,1723.99
+05ORD100001,2025-04-10,Regular,West,Skincare,Wallet,5,923.41,30,3231.94
+05ORD100317,2024-09-04,Regular,West,Skincare,UPI,1,3593.08,42,2083.99
+05ORD100707,2024-12-15,First-Time,East,Skincare,Wallet,2,1342.81,44,1503.95
+05ORD100548,2024-06-20,Premium,West,Skincare,UPI,1,864.8,18,709.14
+05ORD100873,2024-01-11,Premium,East,Skincare,Cash on Delivery,5,4904.97,20,19619.88
+05ORD100533,2024-12-29,Regular,South,Haircare,Debit Card,3,3836.58,42,6675.65
+05ORD100478,2024-01-05,Regular,South,Wellness,Credit Card,4,3954.87,24,12022.8
+05ORD100405,2024-02-19,First-Time,East,Makeup,Debit Card,3,4383.5,13,11440.94
+05ORD100173,2024-10-25,First-Time,North,Wellness,Debit Card,4,3728.85,39,9098.39
+05ORD100126,2025-08-26,Regular,South,Makeup,Debit Card,5,3485.72,23,13420.02
+05ORD100395,2024-01-28,Regular,South,Wellness,Wallet,1,1756.18,12,1545.44
+05ORD100421,2025-05-14,Salon,Central,Wellness,Cash on Delivery,2,4945.0,36,6329.6
+05ORD100553,2024-04-07,Premium,North,Makeup,Debit Card,3,1888.18,27,4135.11
+05ORD100904,2025-10-24,Premium,East,Makeup,Debit Card,3,1590.39,10,4294.05
+05ORD100091,2025-10-15,Regular,East,Haircare,UPI,5,3881.68,31,13391.8
+05ORD100940,2024-08-06,Regular,North,Fragrance,Cash on Delivery,1,4280.27,8,3937.85
+05ORD100182,2025-07-03,Salon,East,Fragrance,Debit Card,5,415.77,4,1995.7
+05ORD100275,2025-07-02,Premium,Central,Haircare,Wallet,4,1279.76,8,4709.52
+05ORD100896,2024-01-11,Regular,South,Skincare,Credit Card,1,1350.16,3,1309.66
+05ORD100070,2024-07-13,First-Time,South,Skincare,UPI,3,343.23,40,617.81
+05ORD100292,2025-12-04,Premium,North,Fragrance,UPI,1,3560.77,9,3240.3
+05ORD100132,2025-09-27,First-Time,East,Haircare,Credit Card,1,4365.69,34,2881.36
+05ORD100301,2025-06-06,Premium,North,Fragrance,Wallet,2,4426.03,33,5930.88
+05ORD100425,2025-03-28,Regular,West,Fragrance,Wallet,5,3245.6,26,12008.72
+05ORD100327,2025-07-02,Regular,North,Wellness,Wallet,4,2868.53,43,6540.25
+05ORD100145,2025-03-26,Premium,North,Makeup,Credit Card,5,3461.56,24,13153.93
+05ORD100424,2024-03-03,First-Time,Central,Skincare,Debit Card,1,4371.71,10,3934.54
+05ORD100581,2025-02-25,Premium,North,Wellness,Debit Card,1,1261.65,39,769.61
+05ORD100136,2024-06-27,Salon,South,Makeup,Debit Card,4,1196.88,29,3399.14
+05ORD100451,2025-02-21,Regular,West,Fragrance,Credit Card,1,357.44,4,343.14
+05ORD100165,2024-08-30,Regular,East,Wellness,Cash on Delivery,4,994.25,26,2942.98
+05ORD100029,2025-06-04,Salon,North,Fragrance,Cash on Delivery,5,3787.54,35,12309.5
+05ORD100774,2024-11-17,Regular,East,Wellness,Credit Card,3,519.49,22,1215.61
+05ORD100194,2025-10-17,Premium,Central,Skincare,Wallet,2,2258.35,21,3568.19
+05ORD100389,2024-03-26,Premium,North,Fragrance,Wallet,3,3682.74,29,7844.24
+05ORD100853,2024-04-30,Salon,West,Wellness,Cash on Delivery,3,4794.12,42,8341.77
+05ORD100170,2025-11-29,Regular,West,Fragrance,Credit Card,2,3504.67,5,6658.87
+05ORD100706,2025-01-21,First-Time,West,Wellness,Debit Card,4,4170.92,7,15515.82
+05ORD100141,2025-10-27,Regular,South,Haircare,Credit Card,1,3554.93,22,2772.85
+05ORD100174,2025-11-03,Salon,Central,Skincare,Credit Card,4,3974.46,19,12877.25
+05ORD100007,2025-06-16,Regular,Central,Haircare,Debit Card,1,1826.54,6,1716.95
+05ORD100746,2024-08-21,Regular,Central,Haircare,Cash on Delivery,1,1536.61,1,1521.24
+05ORD100479,2025-10-12,First-Time,North,Makeup,Cash on Delivery,1,1228.95,16,1032.32
+05ORD100074,2024-02-26,Salon,Central,Haircare,UPI,1,1544.04,22,1204.35
+05ORD100911,2025-06-24,Regular,South,Fragrance,Debit Card,4,1713.53,32,4660.8
+05ORD100814,2024-01-22,Premium,Central,Fragrance,UPI,2,4545.33,14,7817.97
+05ORD100239,2024-06-24,First-Time,South,Fragrance,Debit Card,5,318.16,3,1543.08
+05ORD100146,2025-05-30,Premium,South,Fragrance,Wallet,1,2639.33,14,2269.82
+05ORD100793,2025-06-23,Regular,East,Skincare,Debit Card,3,1352.85,6,3815.04
+05ORD100235,2025-10-15,Premium,South,Haircare,Credit Card,1,4695.28,22,3662.32
+05ORD100221,2024-06-30,Salon,North,Skincare,Cash on Delivery,5,2663.67,37,8390.56
+05ORD100924,2024-05-30,First-Time,West,Wellness,Debit Card,1,1898.73,22,1481.01
+05ORD100501,2024-03-04,Premium,South,Haircare,Wallet,5,1529.91,1,7573.05
+05ORD100133,2024-01-09,Regular,Central,Haircare,Cash on Delivery,5,4456.73,29,15821.39
+05ORD100991,2025-10-31,Salon,Central,Makeup,Wallet,2,380.55,36,487.1
+05ORD100775,2025-09-18,Premium,South,Wellness,Debit Card,1,140.09,41,82.65
+05ORD100186,2024-08-22,Salon,East,Wellness,UPI,3,247.13,36,474.49
+05ORD100042,2025-07-30,First-Time,Central,Fragrance,Cash on Delivery,2,4997.33,38,6196.69
+05ORD100697,2024-05-02,Premium,South,Makeup,Debit Card,1,1970.62,13,1714.44
+05ORD100109,2024-04-06,Premium,East,Wellness,Wallet,1,2894.38,41,1707.68
+05ORD100589,2025-05-16,First-Time,South,Haircare,UPI,3,2396.22,40,4313.2
+05ORD100057,2024-03-30,Premium,South,Haircare,Debit Card,3,2768.46,2,8139.27
+05ORD100406,2025-12-26,Premium,South,Skincare,UPI,5,799.7,44,2239.16
+05ORD100443,2024-10-22,Regular,Central,Fragrance,Wallet,3,1218.69,19,2961.42
+05ORD100758,2025-03-12,Premium,West,Fragrance,Wallet,2,4918.41,35,6393.93
+05ORD100998,2024-09-29,First-Time,North,Makeup,Cash on Delivery,2,3688.63,11,6565.76
+05ORD100025,2024-08-11,Regular,West,Haircare,Cash on Delivery,1,1004.02,11,893.58
+05ORD100468,2025-08-31,Salon,South,Makeup,Cash on Delivery,1,4883.73,39,2979.08
+05ORD100540,2024-08-07,First-Time,East,Makeup,Cash on Delivery,1,2369.41,36,1516.42
+05ORD100532,2024-11-15,Regular,West,Makeup,Wallet,3,978.56,21,2319.19
+05ORD100619,2025-03-09,Premium,Central,Makeup,Debit Card,2,1698.8,27,2480.25
+05ORD100695,2024-04-01,Regular,Central,Haircare,Debit Card,1,4500.96,22,3510.75
+05ORD100927,2025-08-06,Salon,West,Fragrance,Credit Card,2,368.53,1,729.69
+05ORD100339,2025-12-07,Premium,South,Fragrance,Wallet,1,2254.45,18,1848.65
+05ORD100052,2025-02-23,Premium,South,Wellness,Wallet,5,4752.22,18,19484.1
+05ORD100508,2024-08-03,Premium,North,Fragrance,Wallet,1,3773.11,40,2263.87
+05ORD100517,2025-09-30,Salon,North,Makeup,Cash on Delivery,5,1625.95,19,6585.1
+05ORD100921,2025-07-17,Salon,East,Skincare,UPI,5,3896.63,30,13638.2
+05ORD100782,2024-04-29,Premium,West,Makeup,UPI,2,4208.08,26,6227.96
+05ORD100265,2025-04-10,Regular,North,Makeup,Credit Card,1,2650.3,36,1696.19
+05ORD100818,2024-06-16,Regular,West,Skincare,UPI,1,335.58,7,312.09
+05ORD100711,2024-02-12,Regular,East,Haircare,Debit Card,5,2100.96,17,8718.98
+05ORD100683,2024-09-15,Salon,Central,Skincare,Cash on Delivery,1,1612.49,24,1225.49
+05ORD100833,2025-04-26,Regular,East,Skincare,UPI,5,950.54,37,2994.2
+05ORD100519,2024-02-07,Premium,East,Fragrance,Credit Card,1,1348.46,1,1334.98
+05ORD100448,2025-03-27,Regular,North,Makeup,Debit Card,3,2130.32,20,5112.77
+05ORD100019,2025-11-14,Regular,East,Haircare,Credit Card,1,1406.11,22,1096.77
+05ORD100716,2024-08-22,Salon,West,Wellness,Debit Card,1,2450.18,11,2180.66
+05ORD100484,2025-11-02,Salon,South,Makeup,UPI,5,240.48,39,733.46
+05ORD100569,2024-05-15,Regular,Central,Wellness,UPI,5,2276.34,14,9788.26
+05ORD100434,2024-07-24,First-Time,South,Fragrance,UPI,1,4928.22,37,3104.78
+05ORD100368,2025-10-09,Premium,Central,Wellness,Debit Card,1,357.18,30,250.03
+05ORD100084,2024-11-15,Premium,West,Fragrance,UPI,3,2042.92,9,5577.17
+05ORD100062,2024-03-14,First-Time,Central,Fragrance,Debit Card,1,209.33,26,154.9
+05ORD100639,2024-08-15,Regular,East,Makeup,Credit Card,2,3597.73,28,5180.73
+05ORD100273,2024-03-12,Regular,Central,Makeup,Debit Card,2,2702.94,16,4540.94
+05ORD100286,2025-10-04,First-Time,West,Fragrance,Credit Card,4,1413.75,29,4015.05
+05ORD100361,2024-08-18,Regular,South,Skincare,Debit Card,1,1489.91,26,1102.53
+05ORD100355,2024-03-07,First-Time,West,Skincare,Credit Card,2,2891.32,7,5377.86
+05ORD100457,2024-12-12,Premium,Central,Fragrance,Wallet,5,357.83,2,1753.37
+05ORD100279,2024-06-02,Premium,North,Skincare,Credit Card,4,4948.23,12,17417.77
+05ORD100013,2025-03-31,Premium,Central,Makeup,UPI,1,3376.14,7,3139.81
+05ORD100183,2024-05-14,Regular,North,Makeup,Wallet,1,545.23,26,403.47
+05ORD100369,2024-02-11,Premium,North,Haircare,Wallet,3,4610.45,15,11756.65
+05ORD100882,2025-04-07,Premium,Central,Skincare,Wallet,2,1612.85,33,2161.22
+05ORD100616,2024-12-07,Regular,South,Fragrance,Wallet,5,4790.4,33,16047.84
+05ORD100224,2025-01-22,Salon,North,Makeup,Credit Card,2,3807.54,45,4188.29
+05ORD100573,2024-12-06,Regular,West,Wellness,Debit Card,4,435.11,19,1409.76
+05ORD100971,2025-06-14,First-Time,South,Fragrance,Credit Card,2,4461.76,18,7317.29
+05ORD100654,2024-11-27,Regular,Central,Haircare,Wallet,1,2575.16,21,2034.38
+05ORD100546,2024-05-12,First-Time,North,Skincare,Credit Card,2,3826.06,25,5739.09
+05ORD100583,2024-07-31,Premium,East,Makeup,Credit Card,4,640.92,4,2461.13
+05ORD100634,2024-05-16,First-Time,East,Wellness,Wallet,4,237.73,43,542.02
+05ORD100177,2024-01-11,Regular,Central,Wellness,Credit Card,4,3946.83,22,12314.11
+05ORD100666,2025-03-07,Regular,Central,Makeup,Debit Card,3,3956.86,42,6884.94
+05ORD100674,2024-09-15,First-Time,West,Fragrance,Wallet,5,4936.75,3,23943.24
+05ORD100586,2025-07-11,Salon,South,Fragrance,Wallet,3,987.77,8,2726.25
+05ORD100874,2025-02-11,Salon,South,Haircare,Cash on Delivery,2,1151.89,40,1382.27
+05ORD100394,2024-01-24,Salon,East,Makeup,Wallet,5,3237.8,42,9389.62
+05ORD100164,2025-02-24,Salon,North,Wellness,UPI,2,1543.16,9,2808.55
+05ORD100249,2025-11-16,Premium,South,Makeup,Wallet,2,3553.29,40,4263.95
+05ORD100635,2025-08-01,First-Time,East,Fragrance,Credit Card,4,3385.13,15,11509.44
+05ORD100886,2025-02-24,Premium,South,Skincare,Debit Card,1,3810.18,29,2705.23
+05ORD100670,2025-08-31,First-Time,East,Makeup,Cash on Delivery,3,3753.85,31,7770.47
+05ORD100376,2024-03-09,Salon,West,Wellness,Cash on Delivery,2,2478.6,43,2825.6
+05ORD100413,2024-01-06,Salon,East,Fragrance,UPI,5,1833.02,39,5590.71
+05ORD100075,2024-04-19,First-Time,North,Makeup,Debit Card,4,4674.71,35,12154.25
+05ORD100114,2024-05-11,Regular,South,Fragrance,Debit Card,1,1833.42,13,1595.08
+05ORD100599,2025-12-28,Regular,East,Fragrance,Debit Card,2,4099.42,3,7952.87
+05ORD100962,2024-04-19,Regular,East,Skincare,Debit Card,2,1641.7,4,3152.06
+05ORD100391,2024-12-28,First-Time,Central,Wellness,Wallet,5,4318.71,39,13172.07
+05ORD100105,2024-04-28,First-Time,South,Makeup,UPI,1,412.64,9,375.5
+05ORD100115,2025-06-29,Premium,North,Skincare,Wallet,1,4740.46,33,3176.11
+05ORD100418,2024-10-08,Premium,West,Haircare,Cash on Delivery,3,1296.82,31,2684.42
+05ORD100526,2024-03-31,Salon,South,Wellness,UPI,5,2568.22,1,12712.69
+05ORD100458,2025-01-18,Premium,North,Fragrance,Cash on Delivery,2,201.39,45,221.53
+05ORD100410,2025-08-13,Salon,North,Fragrance,UPI,2,1590.03,32,2162.44
+05ORD100093,2025-01-23,Salon,North,Wellness,Credit Card,2,4041.09,17,6708.21
+05ORD100931,2024-09-28,Salon,South,Wellness,Credit Card,4,1368.83,8,5037.29
+05ORD100090,2025-05-08,Regular,South,Fragrance,UPI,2,2317.86,6,4357.58
+05ORD100337,2025-05-11,Salon,East,Wellness,UPI,1,2899.59,28,2087.7
+05ORD100989,2025-04-05,Regular,Central,Fragrance,Cash on Delivery,1,205.81,39,125.54
+05ORD100922,2024-12-07,Salon,West,Makeup,Credit Card,2,376.86,16,633.12
+05ORD100934,2024-08-20,Salon,Central,Makeup,UPI,5,2137.86,0,10689.3
+05ORD100606,2024-06-03,Premium,Central,Fragrance,Credit Card,4,1321.55,42,3066.0
+05ORD100594,2024-02-11,Regular,South,Wellness,Debit Card,4,4815.01,18,15793.23
+05ORD100612,2024-12-06,First-Time,South,Fragrance,Wallet,2,1428.86,4,2743.41
+05ORD100095,2025-03-09,Regular,North,Skincare,UPI,4,1473.09,19,4772.81
+05ORD100012,2024-01-14,Salon,West,Wellness,Debit Card,1,2243.92,11,1997.09
+05ORD100397,2025-05-04,Salon,North,Makeup,Credit Card,1,2972.69,40,1783.61
+05ORD100534,2025-03-17,Premium,East,Fragrance,Cash on Delivery,1,1318.04,5,1252.14
+05ORD100044,2024-02-23,Premium,West,Wellness,Credit Card,1,4846.87,16,4071.37
+05ORD100043,2024-03-29,Salon,South,Fragrance,Wallet,3,3904.25,4,11244.24
+05ORD100330,2025-11-16,First-Time,North,Wellness,Debit Card,1,1892.47,44,1059.78
+05ORD100168,2025-05-15,Regular,South,Makeup,Wallet,1,873.69,3,847.48
+05ORD100498,2024-01-01,First-Time,East,Wellness,Credit Card,1,1601.66,21,1265.31
+05ORD100877,2025-01-15,Regular,Central,Fragrance,Credit Card,4,4466.63,28,12863.89
+05ORD100598,2025-08-08,Regular,South,Makeup,Cash on Delivery,2,3934.77,40,4721.72
+05ORD100757,2025-05-14,First-Time,West,Wellness,Debit Card,1,1512.19,41,892.19
+05ORD100101,2025-10-03,Premium,Central,Fragrance,Debit Card,2,578.83,0,1157.66
+05ORD100427,2025-10-07,First-Time,North,Makeup,Cash on Delivery,1,4789.57,37,3017.43
+05ORD100179,2024-06-01,First-Time,Central,Wellness,Debit Card,2,803.91,33,1077.24
+05ORD100445,2024-10-13,Regular,South,Fragrance,Cash on Delivery,5,1979.44,36,6334.21
+05ORD100417,2025-02-02,Regular,West,Wellness,UPI,4,3060.69,40,7345.66
+05ORD100871,2024-12-29,Premium,South,Wellness,Cash on Delivery,4,1195.04,36,3059.3
+05ORD100883,2025-01-30,First-Time,South,Wellness,UPI,5,1469.96,29,5218.36
+05ORD100681,2024-01-17,Regular,South,Fragrance,Debit Card,3,120.01,31,248.42
+05ORD100178,2024-01-08,Salon,East,Skincare,UPI,1,4297.39,19,3480.89
+05ORD100396,2024-04-30,Regular,East,Makeup,UPI,4,312.45,39,762.38
+05ORD100912,2025-07-12,Salon,South,Fragrance,Debit Card,1,4039.07,0,4039.07
+05ORD100794,2025-12-13,Regular,South,Fragrance,Wallet,3,4686.27,37,8857.05
+05ORD100961,2024-02-28,Premium,Central,Haircare,Credit Card,2,3422.09,16,5749.11
+05ORD100685,2024-11-06,Regular,East,Wellness,Wallet,1,4728.49,17,3924.65
+05ORD100384,2024-04-01,Regular,West,Makeup,Wallet,3,3439.8,8,9493.85
+05ORD100957,2024-03-30,First-Time,East,Wellness,Credit Card,2,2959.9,44,3315.09
+05ORD100752,2025-06-01,Premium,Central,Makeup,Debit Card,2,2220.55,21,3508.47
+05ORD100258,2025-08-07,First-Time,Central,Fragrance,Wallet,5,4009.15,12,17640.26
+05ORD100539,2025-08-11,Regular,North,Wellness,Debit Card,1,843.52,34,556.72
+05ORD100336,2025-12-05,Regular,East,Fragrance,Cash on Delivery,5,3039.71,34,10031.04
+05ORD100016,2025-11-08,Salon,South,Skincare,Credit Card,1,497.02,17,412.53
+05ORD100325,2024-04-30,Salon,North,Fragrance,UPI,2,2372.96,42,2752.63
+05ORD100759,2025-12-22,Premium,South,Makeup,Cash on Delivery,2,3004.98,15,5108.47
+05ORD100223,2025-08-12,Salon,South,Wellness,Credit Card,4,1225.98,45,2697.16
+05ORD100180,2025-09-16,Salon,West,Fragrance,Cash on Delivery,1,801.5,28,577.08
+05ORD100984,2025-10-20,First-Time,East,Fragrance,Debit Card,1,4600.77,14,3956.66
+05ORD100023,2024-02-04,First-Time,South,Haircare,Cash on Delivery,3,4638.21,30,9740.24
+05ORD100357,2024-07-10,Premium,South,Haircare,UPI,4,807.43,10,2906.75
+05ORD100667,2025-02-03,First-Time,North,Skincare,Wallet,2,3507.47,40,4208.96
+05ORD100862,2024-01-05,Salon,North,Fragrance,Debit Card,3,3850.03,17,9586.57
+05ORD100341,2025-08-30,First-Time,East,Skincare,Credit Card,5,1659.78,26,6141.19
+05ORD100432,2024-01-07,Regular,North,Skincare,Debit Card,4,536.35,8,1973.77
+05ORD100552,2024-11-16,Salon,Central,Skincare,Wallet,5,3404.59,1,16852.72
+05ORD100834,2025-08-23,Premium,East,Haircare,UPI,4,3429.4,28,9876.67
+05ORD100204,2025-05-04,First-Time,South,Fragrance,Debit Card,4,1575.19,26,4662.56
+05ORD100631,2025-10-19,Salon,Central,Fragrance,Credit Card,1,3604.77,38,2234.96
+05ORD100094,2025-09-02,Salon,Central,Wellness,Credit Card,5,3142.85,34,10371.4
+05ORD100559,2025-07-09,Salon,East,Fragrance,Cash on Delivery,5,3631.72,17,15071.64
+05ORD100069,2024-12-09,Premium,North,Skincare,Credit Card,1,2936.18,10,2642.56
+05ORD100623,2025-10-01,Regular,East,Wellness,Cash on Delivery,4,2025.29,34,5346.77
+05ORD100285,2025-03-26,First-Time,North,Fragrance,Wallet,4,3586.31,10,12910.72
+05ORD100845,2024-01-24,Regular,West,Wellness,Cash on Delivery,2,3693.93,12,6501.32
+05ORD100435,2024-06-27,Salon,Central,Skincare,UPI,1,4089.23,30,2862.46
+05ORD100154,2024-02-07,Salon,Central,Wellness,Wallet,5,3416.89,45,9396.45
+05ORD100076,2025-11-16,Regular,South,Makeup,Debit Card,1,2313.21,13,2012.49
+05ORD100731,2024-08-20,Regular,East,Makeup,Cash on Delivery,1,4905.87,38,3041.64
+05ORD100447,2024-01-26,Salon,Central,Fragrance,Wallet,2,996.63,3,1933.46
+05ORD100189,2024-11-23,Premium,North,Makeup,Cash on Delivery,2,508.92,35,661.6
+05ORD100272,2024-07-15,Regular,East,Wellness,Debit Card,1,1084.44,23,835.02
+05ORD100237,2025-10-25,First-Time,Central,Makeup,Credit Card,1,2920.16,24,2219.32
+05ORD100488,2025-07-29,First-Time,South,Haircare,Debit Card,1,2068.43,13,1799.53
+05ORD100118,2024-09-15,Premium,North,Makeup,Credit Card,1,1332.31,26,985.91
+05ORD100944,2025-12-03,First-Time,East,Haircare,UPI,4,586.19,19,1899.26
+05ORD100513,2024-03-19,Premium,South,Haircare,Credit Card,2,1303.61,16,2190.06
+05ORD100826,2024-09-15,Salon,South,Skincare,Wallet,4,163.35,10,588.06
+05ORD100592,2025-06-14,First-Time,South,Makeup,Debit Card,3,2336.93,9,6379.82
+05ORD100127,2024-08-11,Regular,South,Makeup,Cash on Delivery,4,4521.33,24,13744.84
+05ORD100117,2024-02-01,Premium,South,Skincare,Credit Card,4,2773.45,5,10539.11
+05ORD100474,2025-11-22,Premium,Central,Skincare,Credit Card,3,3031.04,20,7274.5
+05ORD100694,2025-06-02,Premium,Central,Fragrance,Wallet,1,4541.79,31,3133.84
+05ORD100058,2025-09-07,Regular,North,Makeup,Credit Card,5,4225.02,21,16688.83
+05ORD100864,2025-09-26,First-Time,Central,Makeup,Debit Card,5,3581.4,19,14504.67
+05ORD100913,2024-02-27,Premium,South,Wellness,Credit Card,3,4057.26,19,9859.14
+05ORD100370,2024-10-31,First-Time,East,Makeup,Wallet,5,3859.14,44,10805.59
+05ORD100269,2025-07-23,First-Time,Central,Fragrance,UPI,1,778.59,0,778.59
+05ORD100047,2025-04-20,Salon,West,Wellness,Cash on Delivery,2,2577.89,25,3866.84
+05ORD100350,2024-01-27,Premium,Central,Wellness,Debit Card,2,3198.43,11,5693.21
+05ORD100196,2025-05-20,Premium,West,Makeup,Credit Card,1,2217.1,28,1596.31
+05ORD101000,2025-06-10,Regular,West,Skincare,Cash on Delivery,5,3488.63,30,12210.2
+05ORD100835,2024-02-28,Regular,South,Skincare,Wallet,5,180.51,9,821.32
+05ORD100737,2025-03-27,Premium,North,Skincare,Cash on Delivery,1,4713.75,32,3205.35
+05ORD100264,2024-08-25,First-Time,South,Skincare,UPI,4,1865.12,12,6565.22
+05ORD100444,2024-08-28,First-Time,North,Wellness,Wallet,4,184.67,37,465.37
+05ORD100676,2025-03-29,Premium,Central,Wellness,UPI,2,2597.86,31,3585.05
+05ORD100305,2024-01-19,Salon,North,Makeup,Wallet,5,4920.0,4,23616.0
+05ORD100342,2025-05-21,Salon,West,Haircare,Credit Card,1,656.77,17,545.12
+05ORD100967,2025-01-11,Salon,South,Haircare,Wallet,3,767.12,6,2163.28
+05ORD100150,2025-01-21,Salon,South,Haircare,UPI,1,4893.26,43,2789.16
+05ORD100125,2024-05-23,Regular,East,Makeup,Credit Card,2,1027.09,45,1129.8
+05ORD100787,2025-04-04,First-Time,West,Makeup,UPI,4,1828.01,20,5849.63
+05ORD100051,2025-04-13,Regular,East,Fragrance,Cash on Delivery,1,2505.13,45,1377.82
+05ORD100354,2024-10-30,Regular,North,Skincare,Credit Card,5,698.89,0,3494.45
+05ORD100928,2025-05-15,Regular,West,Fragrance,UPI,4,1659.13,2,6503.79
+05ORD100143,2025-05-29,Premium,West,Skincare,Cash on Delivery,5,1483.28,15,6303.94
+05ORD100471,2025-02-16,Premium,Central,Haircare,Debit Card,4,324.14,3,1257.66
+05ORD100400,2024-12-10,Premium,North,Fragrance,Debit Card,1,1394.38,13,1213.11
+05ORD100626,2025-08-18,Salon,North,Wellness,Credit Card,3,3627.27,22,8487.81
+05ORD100321,2025-12-06,First-Time,South,Skincare,Wallet,1,2483.09,43,1415.36
+05ORD100020,2024-03-21,Premium,East,Makeup,Cash on Delivery,2,460.85,10,829.53
+05ORD100810,2025-11-06,First-Time,East,Fragrance,Debit Card,2,2906.44,11,5173.46
+05ORD100791,2024-08-03,First-Time,South,Fragrance,Wallet,3,338.3,27,740.88
+05ORD100809,2025-06-08,Salon,South,Makeup,Wallet,4,3054.39,22,9529.7
+05ORD100408,2024-10-14,Regular,West,Fragrance,Cash on Delivery,2,2082.65,26,3082.32
+05ORD100538,2025-06-15,Premium,Central,Wellness,Wallet,1,4952.77,16,4160.33
+05ORD100621,2024-07-19,Salon,East,Skincare,Debit Card,5,4596.53,12,20224.73
+05ORD100039,2024-10-24,Premium,East,Haircare,Debit Card,1,1036.14,30,725.3
+05ORD100176,2025-11-01,Salon,South,Fragrance,Wallet,1,4688.22,6,4406.93
+05ORD100246,2025-03-13,Regular,South,Skincare,UPI,1,2854.52,27,2083.8
+05ORD100829,2025-03-12,Regular,North,Skincare,Debit Card,2,4577.54,21,7232.51
+05ORD100668,2024-07-25,First-Time,North,Skincare,Debit Card,4,3426.49,36,8771.81
+05ORD100755,2025-11-10,Regular,North,Wellness,Credit Card,5,2802.63,6,13172.36
+05ORD100859,2024-07-24,Regular,West,Wellness,UPI,3,4739.47,13,12370.02
+05ORD100155,2025-06-28,First-Time,Central,Wellness,Wallet,1,3781.17,11,3365.24
+05ORD100288,2025-01-01,Regular,South,Haircare,Wallet,2,4302.69,24,6540.09
+05ORD100603,2025-10-08,Premium,Central,Makeup,Debit Card,4,1147.99,11,4086.84
+05ORD100570,2025-09-19,First-Time,East,Haircare,Credit Card,4,4607.24,25,13821.72
+05ORD100744,2024-10-19,First-Time,South,Haircare,Cash on Delivery,1,2043.64,43,1164.87
+05ORD100018,2025-10-23,Salon,South,Haircare,Wallet,1,3412.55,16,2866.54
+05ORD100128,2024-08-04,Salon,East,Fragrance,UPI,1,4825.5,34,3184.83
+05ORD100323,2024-01-10,Regular,West,Skincare,Debit Card,4,642.58,35,1670.71
+05ORD100256,2024-10-04,First-Time,West,Haircare,UPI,5,3233.47,28,11640.49
+05ORD100658,2024-05-31,Regular,Central,Skincare,Wallet,1,1704.72,27,1244.45
+05ORD100965,2025-08-16,Regular,North,Haircare,Credit Card,1,3482.49,42,2019.84
+05ORD100191,2025-01-08,Regular,West,Skincare,Wallet,1,3247.61,31,2240.85
+05ORD100116,2025-08-21,First-Time,East,Makeup,Wallet,3,3762.44,16,9481.35
+05ORD100617,2025-03-28,Regular,Central,Haircare,UPI,4,4407.08,4,16923.19
+05ORD100607,2024-02-25,Regular,North,Haircare,Cash on Delivery,1,107.2,21,84.69
+05ORD100181,2025-10-21,First-Time,South,Haircare,Credit Card,3,1595.31,43,2727.98
+05ORD100302,2025-10-12,Regular,Central,Wellness,Debit Card,3,4646.11,23,10732.51
+05ORD100760,2025-10-06,Salon,Central,Makeup,Wallet,2,1526.88,40,1832.26
+05ORD100713,2025-11-27,Premium,Central,Fragrance,Cash on Delivery,1,4083.87,17,3389.61
+05ORD100724,2025-04-30,Premium,Central,Skincare,Cash on Delivery,1,2170.16,42,1258.69
+05ORD100686,2024-04-20,Regular,Central,Skincare,Debit Card,3,4881.82,17,12155.73
+05ORD100980,2024-12-22,Premium,Central,Skincare,Wallet,2,1453.99,38,1802.95
+05ORD100518,2025-10-31,Salon,West,Fragrance,Debit Card,1,2746.8,35,1785.42
+05ORD100985,2024-09-29,First-Time,Central,Skincare,Cash on Delivery,5,2953.43,2,14471.81
+05ORD100046,2024-12-26,Regular,West,Skincare,UPI,2,701.95,3,1361.78
+05ORD100910,2024-08-06,Premium,North,Fragrance,Debit Card,1,947.04,22,738.69
+05ORD100158,2024-07-21,Salon,North,Fragrance,Cash on Delivery,3,936.6,39,1713.98
+05ORD100852,2024-09-19,Premium,East,Makeup,Cash on Delivery,1,3832.07,23,2950.69
+05ORD100172,2025-01-07,Premium,East,Haircare,UPI,2,1867.67,26,2764.15
+05ORD100017,2024-06-21,Salon,East,Wellness,Debit Card,1,2309.09,30,1616.36
+05ORD100512,2025-01-14,Premium,North,Fragrance,Cash on Delivery,1,2734.28,35,1777.28
+05ORD100049,2025-06-17,Regular,North,Skincare,Cash on Delivery,2,2512.01,38,3114.89
+05ORD100972,2024-01-03,Salon,North,Wellness,Credit Card,1,1972.92,27,1440.23
+05ORD100941,2024-03-21,First-Time,East,Fragrance,UPI,5,2719.94,45,7479.84
+05ORD100516,2024-05-28,First-Time,South,Fragrance,Wallet,1,3476.45,14,2989.75
+05ORD100953,2024-10-23,Premium,South,Wellness,Cash on Delivery,4,1490.65,17,4948.96
+05ORD100481,2025-11-02,Salon,East,Haircare,Credit Card,1,2445.23,13,2127.35
+05ORD100284,2025-03-06,Regular,South,Fragrance,Debit Card,2,3069.35,29,4358.48
+05ORD100719,2025-05-27,Salon,North,Fragrance,UPI,1,3299.28,2,3233.29
+05ORD100878,2025-12-10,Premium,Central,Makeup,UPI,1,4583.19,30,3208.23
+05ORD100226,2024-05-20,Regular,North,Wellness,UPI,1,4020.53,3,3899.91
+05ORD100027,2025-05-08,Salon,North,Haircare,Debit Card,1,266.65,38,165.32
+05ORD100955,2025-01-27,Premium,West,Makeup,Debit Card,5,696.94,42,2021.13
+05ORD100438,2025-11-25,Regular,South,Wellness,UPI,2,2096.6,31,2893.31
+05ORD100952,2024-07-14,First-Time,Central,Fragrance,UPI,2,3263.16,29,4633.69
+05ORD100365,2024-06-19,First-Time,East,Makeup,UPI,1,3761.47,29,2670.64
+05ORD100230,2025-03-23,First-Time,Central,Haircare,Cash on Delivery,1,1712.39,9,1558.27
+05ORD100038,2024-06-23,Premium,Central,Wellness,Cash on Delivery,2,4003.51,17,6645.83
+05ORD100966,2024-02-18,Premium,North,Skincare,Credit Card,2,3808.0,1,7539.84
+05ORD100375,2025-12-27,Premium,North,Wellness,UPI,1,2283.58,38,1415.82
+05ORD100470,2024-06-21,Premium,South,Skincare,UPI,1,1149.97,33,770.48
+05ORD100968,2024-02-01,First-Time,Central,Haircare,Debit Card,4,4828.69,45,10623.12
+05ORD100851,2024-09-14,Salon,North,Skincare,Wallet,3,636.94,45,1050.95
+05ORD100705,2024-04-29,Regular,West,Fragrance,UPI,5,4399.36,31,15177.79
+05ORD100842,2025-07-11,Regular,West,Makeup,UPI,2,3920.94,16,6587.18
+05ORD100195,2025-07-07,Salon,East,Makeup,Debit Card,5,4715.6,9,21455.98
+05ORD100855,2024-01-21,Regular,Central,Wellness,Wallet,1,2463.46,30,1724.42
+05ORD100865,2024-12-10,Regular,South,Haircare,Wallet,1,2938.89,34,1939.67
+05ORD100504,2024-08-31,Regular,East,Fragrance,Wallet,2,225.36,43,256.91
+05ORD100970,2025-08-23,Premium,South,Skincare,UPI,2,2854.36,36,3653.58
+05ORD100831,2025-02-16,Salon,South,Wellness,Credit Card,3,1967.03,8,5429.0
+05ORD100580,2025-02-02,Premium,West,Skincare,Credit Card,1,109.94,24,83.55
+05ORD100969,2025-04-30,Premium,North,Fragrance,Debit Card,1,4232.86,3,4105.87
+05ORD100163,2024-04-27,Premium,East,Haircare,Credit Card,3,1302.64,33,2618.31
+05ORD100909,2024-08-08,Regular,West,Haircare,UPI,5,4447.89,36,14233.25
+05ORD100153,2025-07-24,Salon,Central,Makeup,Cash on Delivery,2,4734.84,12,8333.32
+05ORD100802,2024-12-08,First-Time,South,Fragrance,Wallet,3,4090.07,40,7362.13
+05ORD100994,2025-05-26,Premium,South,Skincare,Debit Card,4,921.3,16,3095.57
+05ORD100756,2025-01-11,Regular,East,Wellness,Credit Card,1,612.65,12,539.13
+05ORD100112,2025-10-01,Salon,Central,Haircare,UPI,2,3153.73,39,3847.55
+05ORD100227,2024-01-27,Premium,Central,Haircare,Credit Card,2,1971.5,9,3588.13
+05ORD100689,2025-05-11,Salon,North,Makeup,Credit Card,5,1052.54,32,3578.64
+05ORD100104,2025-01-26,First-Time,North,Makeup,Wallet,4,3699.55,33,9914.79
+05ORD100422,2025-08-02,Regular,Central,Makeup,Cash on Delivery,5,956.75,20,3827.0
+05ORD100420,2025-08-07,First-Time,East,Fragrance,UPI,2,4014.01,10,7225.22
+05ORD100751,2025-04-07,First-Time,North,Makeup,Cash on Delivery,1,1626.37,17,1349.89
+05ORD100587,2024-02-17,Premium,East,Haircare,Debit Card,1,1239.43,10,1115.49
+05ORD100781,2025-05-25,Salon,North,Makeup,Credit Card,1,710.79,10,639.71
+05ORD100673,2025-04-03,First-Time,South,Fragrance,Credit Card,2,3426.77,37,4317.73
+05ORD100120,2024-02-02,Premium,Central,Skincare,Debit Card,5,866.8,32,2947.12
+05ORD100054,2025-02-03,First-Time,Central,Fragrance,Wallet,3,4966.83,25,11175.37
+05ORD100152,2024-04-23,Salon,North,Skincare,UPI,4,2030.43,42,4710.6
+05ORD100404,2024-09-06,Regular,South,Skincare,UPI,1,1450.11,21,1145.59
+05ORD100946,2024-09-07,First-Time,Central,Wellness,UPI,4,3731.09,1,14775.12
+05ORD100208,2024-11-27,First-Time,East,Skincare,UPI,1,3364.75,36,2153.44
+05ORD100659,2025-05-01,Salon,Central,Haircare,Credit Card,2,1784.01,10,3211.22
+05ORD100844,2025-09-09,Salon,West,Fragrance,Cash on Delivery,3,4808.98,7,13417.05
+05ORD100763,2025-10-24,First-Time,North,Haircare,Credit Card,1,254.84,9,231.9
+05ORD100009,2025-12-11,Salon,West,Haircare,Cash on Delivery,4,2684.87,36,6873.27
+05ORD100808,2024-07-28,Regular,West,Haircare,UPI,5,2183.35,25,8187.56
+05ORD100037,2025-07-19,First-Time,South,Wellness,Debit Card,3,1958.53,39,3584.11
+05ORD100453,2024-02-11,Regular,North,Haircare,Wallet,2,376.67,21,595.14
+05ORD100652,2025-03-31,First-Time,North,Fragrance,UPI,2,1610.11,29,2286.36
+05ORD100254,2024-02-21,Regular,East,Makeup,Wallet,1,4770.98,35,3101.14
+05ORD100304,2024-11-09,Regular,North,Fragrance,Credit Card,1,1898.82,26,1405.13
+05ORD100747,2024-08-18,Regular,North,Fragrance,Credit Card,1,1285.56,8,1182.72
+05ORD100572,2025-02-25,First-Time,East,Skincare,Debit Card,2,2200.93,18,3609.53
+05ORD100624,2025-07-18,Premium,East,Skincare,Credit Card,2,4262.9,27,6223.83
+05ORD100733,2024-09-08,Regular,South,Wellness,UPI,1,278.97,6,262.23
+05ORD100892,2024-09-22,First-Time,West,Makeup,Debit Card,1,2011.05,38,1246.85
+05ORD100263,2025-05-31,Premium,North,Fragrance,Wallet,1,2092.5,44,1171.8
+05ORD100611,2024-02-07,Premium,Central,Fragrance,UPI,4,1740.6,25,5221.8
+05ORD100298,2025-10-17,Regular,Central,Haircare,Cash on Delivery,2,102.67,39,125.26
+05ORD100415,2025-10-23,Regular,North,Makeup,Cash on Delivery,1,2182.38,44,1222.13
+05ORD100151,2025-06-30,First-Time,Central,Fragrance,Debit Card,1,4156.29,18,3408.16
+05ORD100789,2024-11-09,Salon,East,Haircare,Cash on Delivery,2,4191.99,0,8383.98
+05ORD100641,2024-09-29,Premium,West,Wellness,UPI,4,2938.48,35,7640.05
+05ORD100890,2024-04-02,Salon,North,Wellness,Cash on Delivery,3,353.39,42,614.9
+05ORD100551,2025-11-12,Salon,North,Wellness,Credit Card,3,4880.87,32,9956.97
+05ORD100887,2024-12-29,Premium,West,Fragrance,Credit Card,3,4825.41,24,11001.93
+05ORD100489,2025-12-04,First-Time,East,Fragrance,UPI,1,574.4,45,315.92
+05ORD100148,2025-01-04,First-Time,South,Fragrance,Debit Card,3,1214.57,33,2441.29
+05ORD100147,2024-11-24,First-Time,North,Wellness,UPI,5,1110.71,7,5164.8
+05ORD100721,2024-07-31,First-Time,West,Fragrance,UPI,1,426.15,37,268.47
+05ORD100932,2025-03-05,Premium,North,Skincare,UPI,2,4636.4,3,8994.62
+05ORD100740,2024-09-28,Premium,East,Wellness,Debit Card,1,3719.63,42,2157.39
+05ORD100660,2024-05-15,Premium,East,Skincare,Wallet,1,3219.4,13,2800.88
+05ORD100349,2024-04-05,Premium,West,Fragrance,Wallet,1,2279.12,22,1777.71
+05ORD100464,2025-09-12,Regular,North,Fragrance,Wallet,2,4740.73,40,5688.88
+05ORD100326,2024-05-05,Regular,East,Makeup,Wallet,1,3248.43,25,2436.32
+05ORD100187,2024-09-11,Regular,South,Makeup,Wallet,5,506.9,33,1698.11
+05ORD100124,2025-08-16,Salon,East,Fragrance,Debit Card,1,494.72,6,465.04
+05ORD100854,2025-12-20,Premium,West,Makeup,Debit Card,1,2928.65,9,2665.07
+05ORD100609,2025-12-10,Regular,Central,Haircare,Credit Card,2,251.23,38,311.53
+05ORD100144,2024-12-29,First-Time,Central,Makeup,Credit Card,1,554.18,34,365.76
+05ORD100959,2025-04-22,Salon,North,Wellness,UPI,2,3111.44,20,4978.3
+05ORD100198,2025-02-24,First-Time,North,Fragrance,UPI,1,1371.08,27,1000.89
+05ORD100610,2024-11-10,Premium,East,Haircare,Cash on Delivery,2,1320.01,19,2138.42
+05ORD100280,2024-06-18,Premium,South,Wellness,Credit Card,3,3377.94,27,7397.69
+05ORD100294,2025-06-24,First-Time,North,Haircare,Cash on Delivery,2,4735.17,0,9470.34
+05ORD100401,2024-01-31,Salon,East,Fragrance,UPI,2,128.39,0,256.78
+05ORD100123,2025-03-31,Regular,East,Fragrance,Cash on Delivery,5,3996.0,25,14985.0
+05ORD100184,2025-01-07,Regular,South,Fragrance,Cash on Delivery,1,800.72,11,712.64
+05ORD100203,2024-04-04,Salon,West,Wellness,Debit Card,2,948.93,16,1594.2
+05ORD100439,2025-03-18,First-Time,East,Fragrance,Debit Card,1,4899.48,4,4703.5
+05ORD100247,2024-02-20,Premium,West,Wellness,Cash on Delivery,4,4980.37,6,18726.19
+05ORD100416,2024-11-19,Premium,South,Haircare,Cash on Delivery,4,3390.05,43,7729.31
+05ORD100933,2025-08-29,Regular,South,Fragrance,Cash on Delivery,1,4660.75,24,3542.17
+05ORD100766,2024-11-05,First-Time,North,Haircare,Cash on Delivery,3,4207.21,0,12621.63
+05ORD100907,2024-01-21,Premium,East,Skincare,UPI,2,4818.47,8,8865.98
+05ORD100836,2024-05-31,First-Time,West,Haircare,Wallet,2,4428.08,21,6996.37
+05ORD100888,2024-08-03,Salon,East,Fragrance,Cash on Delivery,1,4351.08,13,3785.44
+05ORD100130,2025-06-03,Premium,North,Skincare,Credit Card,1,1135.21,4,1089.8
+05ORD100638,2024-05-02,First-Time,Central,Haircare,Wallet,5,1926.53,27,7031.83
+05ORD100403,2024-08-14,First-Time,North,Fragrance,Debit Card,1,2422.75,23,1865.52
+05ORD100785,2025-12-13,Salon,Central,Haircare,Wallet,1,4197.12,22,3273.75
+05ORD100771,2024-02-12,First-Time,West,Haircare,UPI,2,3566.87,40,4280.24
+05ORD100736,2024-02-18,Salon,East,Haircare,Debit Card,1,524.64,35,341.02
+05ORD100914,2025-02-28,First-Time,South,Skincare,Cash on Delivery,1,3554.36,4,3412.19
+05ORD100220,2025-03-30,First-Time,East,Skincare,UPI,1,1488.54,4,1429.0
+05ORD100642,2025-03-12,Regular,North,Fragrance,Cash on Delivery,1,4320.87,32,2938.19
+05ORD100916,2024-05-19,Salon,South,Makeup,Cash on Delivery,4,1625.79,25,4877.37
+05ORD100753,2024-01-24,Regular,North,Skincare,Debit Card,1,257.21,34,169.76
+05ORD100807,2025-04-20,Salon,West,Wellness,Credit Card,2,757.81,4,1455.0
+05ORD100920,2024-03-03,Premium,East,Haircare,Cash on Delivery,1,143.74,12,126.49
+05ORD100625,2025-01-28,Premium,North,Wellness,Credit Card,1,2110.3,36,1350.59
+05ORD100875,2024-03-15,Salon,North,Haircare,Wallet,1,4253.92,44,2382.2
+05ORD100761,2025-05-13,Regular,South,Makeup,Debit Card,1,2188.09,20,1750.47
+05ORD100387,2025-10-17,First-Time,West,Haircare,Cash on Delivery,5,1402.95,1,6944.6
+05ORD100973,2025-01-12,Premium,South,Wellness,Credit Card,1,267.0,19,216.27
+05ORD100510,2025-07-19,First-Time,Central,Wellness,Credit Card,1,4858.86,44,2720.96
+05ORD100268,2025-12-23,First-Time,East,Haircare,UPI,1,913.46,11,812.98
+05ORD100820,2025-12-17,Premium,East,Haircare,Debit Card,1,331.99,12,292.15
+05ORD100442,2025-07-23,Regular,East,Skincare,UPI,1,2834.21,4,2720.84
+05ORD100497,2024-12-02,Premium,East,Skincare,Debit Card,1,2611.5,15,2219.78
+05ORD100113,2024-12-15,Regular,Central,Fragrance,UPI,1,905.79,22,706.52
+05ORD100692,2025-03-25,Salon,Central,Fragrance,UPI,2,145.72,43,166.12
+05ORD100233,2025-12-15,Regular,West,Wellness,Cash on Delivery,4,3862.95,17,12824.99
+05ORD100870,2025-06-30,Salon,North,Fragrance,Cash on Delivery,4,3495.51,7,13003.3
+05ORD100608,2025-01-21,Regular,Central,Makeup,Wallet,1,1194.51,29,848.1
+05ORD100672,2025-05-16,First-Time,Central,Wellness,Credit Card,1,1596.48,13,1388.94
+05ORD100374,2024-12-03,Regular,North,Fragrance,UPI,2,4614.66,28,6645.11
+05ORD100982,2024-07-15,Premium,Central,Makeup,Credit Card,1,1313.47,1,1300.34
+05ORD100843,2025-04-18,Salon,Central,Wellness,Wallet,3,4606.62,35,8982.91
+05ORD100234,2025-04-01,Regular,South,Makeup,Credit Card,1,2009.05,11,1788.05
+05ORD100786,2024-03-04,Premium,West,Haircare,Wallet,2,1691.3,33,2266.34
+05ORD100677,2025-01-09,Regular,North,Makeup,Cash on Delivery,2,4625.8,9,8418.96
+05ORD100318,2025-12-21,Regular,East,Makeup,Cash on Delivery,1,4964.53,6,4666.66
+05ORD100649,2024-06-05,Premium,Central,Makeup,Credit Card,1,4635.86,19,3755.05
+05ORD100411,2025-04-19,Regular,South,Makeup,UPI,2,1716.35,20,2746.16
+05ORD100899,2024-01-19,Regular,East,Makeup,UPI,4,2596.82,24,7894.33
+05ORD100710,2024-04-07,Premium,South,Wellness,Debit Card,2,513.92,16,863.39
+05ORD100359,2024-05-31,First-Time,Central,Makeup,Debit Card,4,900.32,26,2664.95
+05ORD100259,2024-12-04,Premium,Central,Wellness,Debit Card,1,3471.71,44,1944.16
+05ORD100745,2025-02-09,Regular,West,Haircare,UPI,1,2893.12,31,1996.25
+05ORD100628,2024-02-05,Salon,North,Fragrance,Cash on Delivery,1,1105.75,22,862.48
+05ORD100633,2025-09-21,Premium,East,Skincare,UPI,3,3822.67,1,11353.33
+05ORD100283,2024-05-30,Premium,West,Skincare,UPI,1,3363.62,20,2690.9
+05ORD100377,2025-06-22,Regular,West,Skincare,Wallet,1,1264.22,44,707.96
+05ORD100385,2025-01-02,Regular,South,Haircare,Wallet,1,1717.13,14,1476.73
+05ORD100225,2025-09-28,Regular,North,Wellness,Wallet,1,4006.87,10,3606.18
+05ORD100954,2024-02-13,Regular,East,Wellness,Wallet,4,1723.88,43,3930.45
+05ORD100815,2024-02-29,First-Time,South,Skincare,Cash on Delivery,2,2003.47,34,2644.58
+05ORD100473,2025-11-04,Premium,Central,Fragrance,Cash on Delivery,2,2183.9,11,3887.34
+05ORD100348,2024-02-12,Premium,South,Makeup,Credit Card,3,2243.28,2,6595.24
+05ORD100506,2025-09-14,First-Time,South,Fragrance,Wallet,5,2794.6,40,8383.8
+05ORD100640,2024-12-03,Salon,South,Haircare,Cash on Delivery,1,3401.05,19,2754.85
+05ORD100988,2025-09-16,Salon,North,Haircare,Debit Card,2,3031.11,35,3940.44
+05ORD100929,2025-07-13,Regular,East,Makeup,Wallet,3,2853.74,19,6934.59
+05ORD100906,2025-07-23,Premium,Central,Haircare,Debit Card,1,782.14,10,703.93
+05ORD100620,2024-07-27,First-Time,North,Skincare,Debit Card,2,3006.31,2,5892.37
+05ORD100856,2024-05-19,Premium,West,Haircare,Debit Card,5,2717.58,44,7609.22
+05ORD100804,2025-04-28,Salon,North,Haircare,Wallet,5,400.86,30,1403.01
+05ORD100646,2024-11-10,Premium,East,Skincare,Credit Card,2,4796.16,36,6139.08
+05ORD100847,2025-01-02,Premium,East,Wellness,Cash on Delivery,1,3091.47,45,1700.31
+05ORD100557,2024-12-08,Salon,Central,Haircare,UPI,5,4823.59,28,17364.92
+05ORD100958,2024-06-03,First-Time,South,Skincare,Cash on Delivery,2,669.98,40,803.98
+05ORD100578,2025-11-07,Regular,Central,Fragrance,Debit Card,2,1450.2,10,2610.36
+05ORD100796,2025-04-17,First-Time,East,Skincare,Cash on Delivery,4,4172.99,13,14522.01
+05ORD100086,2024-04-02,Premium,North,Skincare,Credit Card,4,3485.12,43,7946.07
+05ORD100243,2025-12-05,Regular,Central,Makeup,UPI,1,2129.56,43,1213.85
+05ORD100699,2025-08-30,Salon,East,Haircare,Wallet,1,4277.64,24,3251.01
+05ORD100160,2024-04-09,Salon,South,Wellness,Credit Card,1,4260.94,39,2599.17
+05ORD100525,2025-09-09,Premium,Central,Wellness,Credit Card,1,1382.31,45,760.27
+05ORD100036,2025-05-11,Salon,North,Skincare,Cash on Delivery,5,1606.52,18,6586.73
+05ORD100541,2025-11-04,Premium,West,Haircare,Debit Card,2,3688.01,34,4868.17
+05ORD100171,2024-04-22,Premium,Central,Makeup,Debit Card,1,1304.69,24,991.56
+05ORD100655,2024-01-10,First-Time,East,Makeup,Wallet,1,3135.92,14,2696.89
+05ORD100891,2025-07-28,Regular,West,Wellness,Wallet,1,3808.76,30,2666.13
+05ORD100858,2024-10-15,First-Time,South,Wellness,Cash on Delivery,2,2265.78,15,3851.83
+05ORD100848,2024-11-30,Premium,North,Haircare,Cash on Delivery,2,2345.86,30,3284.2
+05ORD100945,2025-06-24,Salon,East,Haircare,UPI,1,4786.84,20,3829.47
+05ORD100734,2025-05-07,Salon,South,Skincare,UPI,1,963.02,7,895.61
+05ORD100096,2024-04-11,Regular,West,Makeup,Cash on Delivery,1,3699.79,30,2589.85
+05ORD100564,2025-05-09,First-Time,West,Skincare,Cash on Delivery,2,831.86,18,1364.25
+05ORD100241,2025-09-06,First-Time,Central,Fragrance,Wallet,2,4416.96,17,7332.15
+05ORD100743,2024-03-10,Regular,East,Fragrance,Debit Card,2,3678.19,24,5590.85
+05ORD100575,2025-06-13,Salon,North,Wellness,UPI,1,3847.7,8,3539.88
+05ORD100691,2024-05-01,Regular,East,Skincare,Cash on Delivery,1,2764.86,9,2516.02
+05ORD100461,2024-02-02,Premium,West,Fragrance,Credit Card,1,4544.66,29,3226.71
+05ORD100554,2024-06-17,First-Time,North,Wellness,Wallet,4,2553.17,31,7046.75
+05ORD100889,2024-04-10,First-Time,East,Haircare,Wallet,1,1166.91,23,898.52
+05ORD100207,2024-08-19,First-Time,East,Skincare,Cash on Delivery,2,1785.78,7,3321.55
+05ORD100393,2025-08-14,First-Time,North,Wellness,UPI,1,999.42,38,619.64
+05ORD100795,2025-08-01,First-Time,Central,Skincare,Debit Card,4,1575.07,5,5985.27
+05ORD100398,2025-08-27,Salon,West,Wellness,Credit Card,4,2025.06,36,5184.15
+05ORD100767,2024-03-10,Premium,South,Wellness,Wallet,1,2443.93,12,2150.66
+05ORD100849,2025-03-08,Salon,South,Wellness,Cash on Delivery,1,3593.36,22,2802.82
+05ORD100218,2025-12-07,First-Time,Central,Wellness,Debit Card,2,3592.15,14,6178.5
+05ORD100005,2025-04-22,Salon,Central,Skincare,Credit Card,3,4777.81,28,10320.07
+05ORD100769,2024-12-06,Regular,South,Wellness,Wallet,2,4028.16,41,4753.23
+05ORD100643,2024-02-08,Regular,East,Skincare,Debit Card,1,598.31,21,472.66
+05ORD100930,2024-12-13,Salon,South,Wellness,Credit Card,1,2070.84,43,1180.38
+05ORD100613,2025-12-29,Premium,Central,Makeup,Credit Card,5,4606.69,39,14050.4
+05ORD100739,2025-11-18,Salon,East,Skincare,UPI,1,4442.52,31,3065.34
+05ORD100547,2025-05-15,Premium,West,Fragrance,Cash on Delivery,2,1929.44,9,3511.58
+05ORD100726,2024-06-16,Premium,West,Haircare,UPI,1,4988.26,3,4838.61
+05ORD100684,2024-05-02,Regular,West,Fragrance,Wallet,5,3850.39,6,18096.83
+05ORD100099,2024-12-03,Premium,East,Skincare,UPI,3,3922.12,41,6942.15
+05ORD100805,2025-10-27,Premium,North,Wellness,Wallet,4,4654.82,1,18433.09
+05ORD100728,2025-08-16,First-Time,Central,Wellness,Cash on Delivery,2,2776.72,14,4775.96
+05ORD100574,2024-12-07,Premium,West,Skincare,Debit Card,5,4353.69,42,12625.7
+05ORD100407,2025-01-23,Premium,South,Fragrance,Cash on Delivery,5,4388.17,7,20404.99
+05ORD100503,2025-02-18,Regular,Central,Wellness,Cash on Delivery,1,3393.52,7,3155.97
+05ORD100048,2024-08-16,Premium,East,Makeup,Cash on Delivery,2,707.77,23,1089.97
+05ORD100033,2025-04-19,Regular,North,Fragrance,Wallet,3,734.68,27,1608.95
+05ORD100780,2025-01-15,Premium,North,Wellness,Debit Card,2,2556.79,16,4295.41
+05ORD100840,2025-07-16,Premium,Central,Makeup,Credit Card,5,3010.58,6,14149.73
+05ORD100201,2025-02-22,Regular,North,Makeup,Wallet,4,3072.47,30,8602.92
+05ORD100135,2025-04-13,Salon,North,Makeup,Wallet,1,1635.84,23,1259.6
+05ORD100028,2024-11-06,First-Time,North,Makeup,UPI,1,4468.93,39,2726.05
+05ORD100881,2024-01-28,Regular,South,Makeup,Wallet,2,3131.57,33,4196.3
+05ORD100231,2024-10-19,Salon,North,Makeup,Credit Card,5,3764.53,32,12799.4
+05ORD100490,2024-06-04,First-Time,West,Makeup,UPI,5,2962.2,45,8146.05
+05ORD100773,2024-01-15,Premium,North,Skincare,Debit Card,2,4817.63,5,9153.5
+05ORD100379,2025-04-30,Salon,East,Fragrance,Cash on Delivery,3,1500.49,44,2520.82
+05ORD100289,2025-10-12,Regular,Central,Skincare,Cash on Delivery,3,3753.13,6,10583.83
+05ORD100419,2024-07-09,Premium,East,Skincare,UPI,2,4081.59,23,6285.65
+05ORD100675,2024-11-24,First-Time,North,Haircare,Cash on Delivery,2,111.32,23,171.43
+05ORD100392,2025-07-21,Salon,Central,Skincare,UPI,4,241.39,20,772.45
+05ORD100593,2025-04-19,Regular,Central,Wellness,Cash on Delivery,4,1806.59,39,4408.08
+05ORD100499,2024-04-18,Salon,East,Fragrance,Debit Card,2,4471.29,37,5633.83
+05ORD100139,2025-01-07,First-Time,South,Haircare,Cash on Delivery,3,3341.84,31,6917.61
+05ORD100063,2024-09-25,Salon,Central,Skincare,Cash on Delivery,4,891.57,42,2068.44
+05ORD100472,2025-02-17,Premium,South,Makeup,Wallet,4,4828.68,17,16031.22
+05ORD100648,2025-05-23,Regular,South,Fragrance,UPI,2,1750.68,11,3116.21
+05ORD100129,2024-06-04,First-Time,West,Fragrance,Credit Card,5,4195.51,25,15733.16
+05ORD100977,2025-08-09,Regular,South,Makeup,Debit Card,4,3253.98,1,12885.76
+05ORD100521,2024-11-28,Regular,East,Wellness,Wallet,1,2292.15,3,2223.39
+05ORD100839,2024-11-13,Salon,Central,Skincare,Wallet,2,1273.86,5,2420.33
+05ORD100963,2025-04-23,Regular,South,Skincare,Wallet,4,2884.65,5,10961.67
+05ORD100065,2024-11-24,Regular,North,Skincare,Wallet,1,4860.25,11,4325.62
+05ORD100813,2024-03-16,Regular,West,Haircare,Wallet,2,3199.24,34,4223.0
+05ORD100015,2025-01-25,First-Time,North,Skincare,Credit Card,5,3655.77,27,13343.56
+05ORD100157,2025-02-02,Regular,West,Haircare,UPI,4,3807.56,22,11879.59
+05ORD100041,2024-03-26,Premium,Central,Skincare,Credit Card,3,2506.02,20,6014.45
+05ORD100493,2024-03-31,First-Time,South,Fragrance,Cash on Delivery,1,2562.29,45,1409.26
+05ORD100380,2025-03-18,First-Time,South,Wellness,Credit Card,1,1816.8,45,999.24
+05ORD100188,2025-08-08,Salon,North,Wellness,Debit Card,3,4725.5,29,10065.31
+05ORD100764,2025-08-22,First-Time,Central,Skincare,UPI,1,4224.95,18,3464.46
+05ORD100217,2025-07-03,First-Time,South,Skincare,Cash on Delivery,3,1310.98,42,2281.11
+05ORD100792,2025-03-31,Salon,West,Makeup,Debit Card,4,4833.62,17,16047.62
+05ORD100053,2025-06-15,Salon,North,Makeup,Debit Card,3,1515.27,29,3227.53
+05ORD100879,2025-09-25,Salon,West,Makeup,Wallet,3,2584.87,39,4730.31
+05ORD100338,2024-05-15,Salon,North,Makeup,Credit Card,1,1067.93,15,907.74
+05ORD100749,2025-08-08,Premium,West,Haircare,Wallet,2,4086.76,28,5884.93
+05ORD100720,2025-06-09,Salon,South,Skincare,Debit Card,4,4901.92,2,19215.53
+05ORD100725,2024-12-26,Salon,South,Skincare,Debit Card,4,1382.2,39,3372.57
+05ORD100296,2024-07-16,Regular,South,Makeup,Wallet,5,2088.62,44,5848.14
+05ORD100702,2025-03-03,Premium,North,Makeup,Cash on Delivery,5,4014.36,19,16258.16
+05ORD100252,2024-03-27,Regular,North,Wellness,UPI,2,576.63,26,853.41
+05ORD100727,2025-11-12,Salon,South,Wellness,Debit Card,2,4377.31,19,7091.24
+05ORD100462,2024-04-04,Salon,West,Wellness,Debit Card,2,522.68,11,930.37
+05ORD100456,2024-02-04,Salon,East,Makeup,Credit Card,3,3301.86,7,9212.19
+05ORD100997,2025-05-05,First-Time,West,Makeup,Wallet,5,1162.99,40,3488.97
+05ORD100816,2025-01-20,First-Time,Central,Fragrance,Credit Card,1,3188.84,18,2614.85
+05ORD100863,2024-07-25,Premium,Central,Haircare,Credit Card,2,2017.65,5,3833.54
+05ORD100270,2024-02-12,Salon,South,Skincare,Wallet,5,1751.97,17,7270.68
+05ORD100202,2024-07-13,Regular,Central,Haircare,Wallet,4,3443.99,40,8265.58
+05ORD100162,2025-03-25,Regular,Central,Haircare,UPI,1,703.87,4,675.72
+05ORD100556,2025-12-30,First-Time,Central,Wellness,UPI,2,2640.95,8,4859.35
+05ORD100730,2024-05-16,Salon,Central,Makeup,Credit Card,5,132.63,4,636.62
+05ORD100402,2025-10-16,Regular,East,Fragrance,Debit Card,1,992.56,26,734.49
+05ORD100703,2025-03-08,Salon,South,Haircare,Wallet,3,4769.15,19,11589.03
+05ORD100477,2024-01-22,Regular,East,Fragrance,Wallet,1,1063.33,39,648.63
+05ORD100822,2025-04-26,Salon,East,Wellness,Credit Card,4,3383.73,30,9474.44
+05ORD100772,2024-04-27,First-Time,North,Wellness,Credit Card,2,4201.43,39,5125.74
+05ORD100106,2025-04-15,Regular,West,Wellness,Credit Card,1,2052.66,41,1211.07
+05ORD100566,2024-08-01,Premium,East,Makeup,UPI,3,1240.33,40,2232.59
+05ORD100390,2024-08-14,Premium,West,Makeup,UPI,1,3742.48,7,3480.51
+05ORD100002,2024-12-06,Salon,North,Makeup,Wallet,1,1662.1,17,1379.54
+05ORD100938,2025-05-15,Premium,South,Fragrance,Debit Card,1,2881.78,39,1757.89
+05ORD100983,2025-02-22,Salon,East,Wellness,UPI,5,2929.84,38,9082.5
+05ORD100562,2025-09-29,Regular,East,Haircare,UPI,1,2894.78,13,2518.46
+05ORD100081,2024-03-04,Premium,Central,Haircare,Wallet,4,3735.67,5,14195.55
+05ORD100206,2024-01-25,First-Time,Central,Haircare,Cash on Delivery,3,901.74,40,1623.13
+05ORD100035,2024-08-19,Regular,South,Skincare,Credit Card,1,746.7,12,657.1
+05ORD100776,2024-12-02,First-Time,East,Wellness,UPI,2,2786.28,23,4290.87
+05ORD100509,2025-06-11,Regular,South,Haircare,Wallet,3,3409.74,4,9820.05
+05ORD100428,2025-03-17,Salon,North,Haircare,Wallet,1,4865.19,0,4865.19
+05ORD100455,2025-07-09,Regular,South,Skincare,Wallet,5,845.82,3,4102.23
+05ORD100367,2024-12-22,Regular,North,Skincare,UPI,2,3408.07,18,5589.23
+05ORD100092,2025-08-17,First-Time,West,Skincare,Credit Card,1,4193.48,32,2851.57
+05ORD100340,2024-02-18,Regular,East,Haircare,Debit Card,4,3409.14,42,7909.2
+05ORD100898,2024-03-30,First-Time,East,Wellness,Wallet,5,1336.98,31,4612.58
+05ORD100565,2024-12-20,First-Time,East,Skincare,UPI,5,4618.03,4,22166.54
+05ORD100346,2025-06-09,Salon,East,Haircare,Wallet,1,4212.39,25,3159.29
+05ORD100777,2025-06-15,Premium,North,Skincare,Debit Card,3,1393.78,4,4014.09
+05ORD100242,2024-03-31,Salon,North,Makeup,Debit Card,2,888.29,28,1279.14
+05ORD100014,2024-08-08,Premium,East,Wellness,Debit Card,5,1165.16,17,4835.41
+05ORD100316,2024-01-26,Salon,Central,Skincare,Cash on Delivery,1,4651.67,29,3302.69
+05ORD100601,2024-08-08,Regular,North,Fragrance,Debit Card,1,3573.75,29,2537.36
+05ORD100388,2024-03-16,First-Time,North,Haircare,Credit Card,5,2038.35,2,9987.91
+05ORD100274,2024-03-31,First-Time,North,Skincare,Wallet,3,3767.42,41,6668.33
+05ORD100167,2024-08-14,Premium,South,Fragrance,Debit Card,3,1539.69,3,4480.5
+05ORD100841,2024-10-05,Premium,Central,Skincare,Debit Card,1,273.45,19,221.49
+05ORD100993,2025-09-25,Regular,North,Makeup,Cash on Delivery,1,404.43,4,388.25
+05ORD100647,2025-09-05,Salon,South,Haircare,UPI,2,451.62,19,731.62
+05ORD100819,2025-02-15,Salon,East,Wellness,Credit Card,1,2969.08,22,2315.88
+05ORD100485,2025-08-17,Premium,East,Skincare,Debit Card,1,2810.22,17,2332.48
+05ORD100981,2025-11-15,First-Time,East,Makeup,Debit Card,3,729.8,24,1663.94
+05ORD100505,2025-08-12,Salon,South,Skincare,Cash on Delivery,5,2303.98,0,11519.9
+05ORD100832,2024-12-15,First-Time,Central,Skincare,Credit Card,4,583.63,40,1400.71
+05ORD100244,2024-06-14,Premium,South,Haircare,Debit Card,3,2084.72,29,4440.45
+05ORD100567,2024-07-18,First-Time,North,Haircare,Credit Card,1,4964.39,44,2780.06
+05ORD100876,2024-10-26,Regular,East,Haircare,UPI,4,4143.76,41,9779.27
+05ORD100563,2024-09-16,First-Time,North,Wellness,Cash on Delivery,4,315.47,28,908.55
+05ORD100687,2024-09-12,Regular,Central,Wellness,Debit Card,2,4480.14,2,8781.07
+05ORD100190,2024-12-27,Regular,Central,Fragrance,Wallet,4,2732.57,5,10383.77
+05ORD100783,2024-01-26,First-Time,Central,Haircare,UPI,1,3820.49,3,3705.88
+05ORD100700,2025-05-27,Regular,East,Fragrance,UPI,5,2705.77,20,10823.08
+05ORD100476,2024-07-27,Salon,East,Wellness,UPI,1,3814.97,20,3051.98
+05ORD100682,2025-11-19,Premium,West,Makeup,Cash on Delivery,3,3967.92,17,9880.12
+05ORD100511,2025-10-14,Premium,Central,Fragrance,Wallet,1,2591.96,45,1425.58
+05ORD100059,2025-12-06,Salon,East,Makeup,Credit Card,4,3771.57,16,12672.48
+05ORD100475,2025-09-06,Salon,Central,Haircare,Wallet,5,1467.06,9,6675.12
+05ORD100561,2024-10-11,Salon,South,Fragrance,Wallet,1,3457.12,6,3249.69
+05ORD100857,2025-04-21,First-Time,East,Makeup,Credit Card,3,2443.47,19,5937.63
+05ORD100748,2024-09-19,Regular,Central,Haircare,UPI,3,1688.06,37,3190.43
+05ORD100253,2025-08-28,Regular,West,Haircare,UPI,2,2903.63,20,4645.81
+05ORD100022,2024-08-12,Salon,North,Fragrance,Wallet,2,4576.73,29,6498.96
+05ORD100314,2024-05-28,Salon,North,Haircare,Wallet,1,198.76,31,137.14
+05ORD100460,2024-10-14,First-Time,Central,Fragrance,Debit Card,2,4752.63,25,7128.94
+05ORD100161,2025-02-01,Regular,North,Makeup,Wallet,2,194.76,22,303.83
+05ORD100277,2025-01-17,Regular,North,Fragrance,Debit Card,3,4344.84,27,9515.2
+05ORD100956,2025-03-18,Regular,South,Fragrance,UPI,1,2123.88,9,1932.73
+05ORD100192,2024-07-27,First-Time,Central,Wellness,UPI,2,4796.11,31,6618.63
+05ORD100386,2025-08-02,Premium,South,Makeup,Credit Card,1,4437.77,19,3594.59
+05ORD100806,2025-03-31,Salon,South,Wellness,UPI,3,2382.21,17,5931.7
+05ORD100414,2025-02-15,Regular,East,Skincare,Wallet,5,3270.31,40,9810.93
+05ORD100492,2025-05-14,Regular,South,Skincare,Debit Card,1,4738.75,33,3174.96
+05ORD100344,2024-08-04,Premium,West,Skincare,Wallet,5,1197.2,12,5267.68
+05ORD100770,2024-02-01,Premium,South,Haircare,Wallet,2,1946.85,19,3153.9
+05ORD100309,2024-02-24,Premium,West,Fragrance,Cash on Delivery,4,3510.32,20,11233.02
+05ORD100662,2024-01-26,First-Time,Central,Fragrance,Cash on Delivery,5,1198.75,8,5514.25
+05ORD100131,2024-02-05,First-Time,South,Fragrance,UPI,5,1498.99,37,4721.82
+05ORD100664,2025-08-13,First-Time,South,Skincare,Cash on Delivery,4,3911.51,9,14237.9
+05ORD100872,2024-11-30,Premium,Central,Fragrance,Cash on Delivery,1,2222.66,9,2022.62
+05ORD100100,2025-05-06,First-Time,South,Wellness,Wallet,5,3382.01,18,13866.24
+05ORD100373,2024-06-18,Regular,West,Wellness,Cash on Delivery,5,3254.58,38,10089.2
+05ORD100088,2024-10-26,Premium,West,Skincare,Debit Card,4,1697.56,31,4685.27
+05ORD100459,2025-05-27,First-Time,Central,Skincare,UPI,3,677.0,28,1462.32
+05ORD100331,2025-05-15,Salon,East,Fragrance,Debit Card,5,1052.64,42,3052.66
+05ORD100215,2024-07-23,First-Time,West,Makeup,Debit Card,2,3281.25,20,5250.0
+05ORD100467,2024-01-23,Premium,South,Wellness,Debit Card,1,520.42,27,379.91
+05ORD100122,2025-07-14,Salon,West,Makeup,Wallet,3,837.1,16,2109.49
+05ORD100615,2025-03-27,Salon,Central,Skincare,Credit Card,1,2389.92,5,2270.42
+05ORD100021,2024-12-01,First-Time,East,Haircare,UPI,3,4788.41,14,12354.1
+05ORD100701,2025-08-25,Regular,West,Fragrance,Wallet,3,4843.18,5,13803.06
+05ORD100072,2024-07-23,Premium,East,Skincare,Wallet,4,2480.76,35,6449.98
+05ORD100107,2024-11-23,First-Time,East,Skincare,Credit Card,1,521.25,25,390.94
+05ORD100271,2025-05-18,Regular,West,Skincare,Wallet,3,4030.1,20,9672.24
+05ORD100861,2024-04-27,Salon,East,Fragrance,Cash on Delivery,2,496.4,29,704.89
+05ORD100436,2025-04-12,First-Time,East,Wellness,Debit Card,1,4702.95,26,3480.18
+05ORD100103,2025-05-23,Salon,East,Makeup,Wallet,2,3805.41,21,6012.55

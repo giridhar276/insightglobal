@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Segment,Region,Product_Category,Payment_Method,Quantity,Unit_Price,Discount_Percent,Order_Value
+01ORD100522,2025-08-24,Corporate,East,Mobile,Net Banking,2,3293.51,25,4940.27
+01ORD100738,2025-05-25,Home Office,West,Appliance,Net Banking,1,77699.38,0,77699.38
+01ORD100741,2025-06-01,Small Business,East,Laptop,Cash on Delivery,1,74713.0,25,56034.75
+01ORD100661,2025-07-09,Consumer,East,Accessory,Debit Card,3,47413.01,21,112368.83
+01ORD100412,2025-11-22,Small Business,East,Laptop,Debit Card,1,25021.43,28,18015.43
+01ORD100679,2025-06-09,Consumer,Central,Accessory,Cash on Delivery,4,60974.44,10,219507.98
+01ORD100627,2024-05-11,Consumer,South,Laptop,Net Banking,1,48080.03,21,37983.22
+01ORD100514,2025-08-29,Small Business,South,Appliance,Credit Card,4,50335.47,19,163086.92
+01ORD100860,2024-12-02,Corporate,North,Mobile,UPI,5,61060.64,28,219818.3
+01ORD100137,2025-01-27,Consumer,East,Tablet,Cash on Delivery,2,57096.11,21,90211.85
+01ORD100812,2025-03-25,Small Business,North,Appliance,UPI,2,71316.31,15,121237.73
+01ORD100077,2025-07-09,Home Office,South,Tablet,Credit Card,4,45252.42,27,132137.07
+01ORD100637,2024-02-08,Small Business,West,Mobile,Debit Card,1,74259.77,8,68318.99
+01ORD100974,2025-12-24,Consumer,East,Accessory,Credit Card,3,63995.87,3,186227.98
+01ORD100939,2025-05-30,Small Business,South,Accessory,Credit Card,4,89150.98,26,263886.9
+01ORD100900,2025-04-18,Corporate,East,Laptop,UPI,2,44379.21,1,87870.84
+01ORD100281,2024-05-10,Corporate,North,Appliance,Debit Card,2,86871.14,8,159842.9
+01ORD100884,2024-01-03,Home Office,South,Laptop,Net Banking,2,32004.43,17,53127.35
+01ORD100762,2025-05-02,Small Business,West,Appliance,Debit Card,2,10680.66,28,15380.15
+01ORD100320,2024-01-22,Consumer,East,Laptop,UPI,1,75823.74,5,72032.55
+01ORD100550,2025-06-08,Consumer,West,Accessory,UPI,1,26894.13,4,25818.36
+01ORD100175,2024-08-12,Home Office,South,Accessory,Cash on Delivery,4,77859.04,20,249148.93
+01ORD100372,2024-10-14,Small Business,East,Laptop,UPI,3,89203.04,0,267609.12
+01ORD100528,2025-09-17,Small Business,South,Appliance,Debit Card,2,87106.7,12,153307.79
+01ORD100211,2025-11-29,Consumer,East,Tablet,Debit Card,1,45918.56,22,35816.48
+01ORD100236,2025-09-01,Consumer,West,Mobile,Net Banking,1,43198.5,25,32398.88
+01ORD100102,2024-05-08,Small Business,North,Accessory,Cash on Delivery,2,85764.94,18,140654.5
+01ORD100987,2024-09-15,Small Business,Central,Laptop,Cash on Delivery,3,3319.13,9,9061.22
+01ORD100903,2024-05-24,Small Business,West,Mobile,Cash on Delivery,2,39876.77,9,72575.72
+01ORD100948,2024-02-09,Small Business,West,Accessory,UPI,1,807.22,25,605.42
+01ORD100347,2025-01-07,Small Business,East,Appliance,UPI,2,2356.07,25,3534.11
+01ORD100140,2025-07-07,Consumer,North,Tablet,Net Banking,1,20105.0,0,20105.0
+01ORD100622,2025-10-18,Home Office,Central,Accessory,Cash on Delivery,5,75598.64,20,302394.56
+01ORD100500,2025-01-14,Home Office,North,Appliance,UPI,2,8677.7,19,14057.87
+01ORD100371,2025-09-17,Corporate,North,Appliance,Net Banking,2,61825.24,11,110048.93
+01ORD100199,2024-04-22,Consumer,North,Appliance,Debit Card,3,40719.58,19,98948.58
+01ORD100688,2024-01-12,Consumer,Central,Laptop,Credit Card,5,24424.62,24,92813.56
+01ORD100585,2024-02-08,Corporate,Central,Laptop,Credit Card,4,89258.31,28,257063.93
+01ORD100902,2025-06-20,Home Office,South,Accessory,Net Banking,1,50774.24,23,39096.16
+01ORD100060,2025-01-01,Corporate,North,Appliance,Net Banking,1,5959.88,14,5125.5
+01ORD100329,2024-08-13,Home Office,East,Appliance,Debit Card,2,59773.87,17,99224.62
+01ORD100097,2024-06-05,Corporate,Central,Accessory,Debit Card,5,54690.47,24,207823.79
+01ORD100313,2025-02-04,Corporate,North,Mobile,Cash on Delivery,3,75643.77,27,165659.86
+01ORD100975,2024-08-12,Corporate,North,Accessory,UPI,1,60115.84,18,49294.99
+01ORD100300,2024-12-03,Consumer,North,Accessory,Cash on Delivery,1,25226.82,24,19172.38
+01ORD100278,2024-04-08,Corporate,West,Accessory,Debit Card,2,9981.55,3,19364.21
+01ORD100925,2025-11-22,Corporate,West,Appliance,Debit Card,1,20099.87,29,14270.91
+01ORD100602,2024-09-09,Small Business,South,Mobile,Cash on Delivery,4,78717.14,12,277084.33
+01ORD100440,2024-05-06,Consumer,South,Mobile,UPI,3,65345.47,21,154868.76
+01ORD100838,2025-06-17,Corporate,Central,Laptop,Net Banking,1,33918.88,15,28831.05
+01ORD100571,2025-07-17,Small Business,North,Laptop,UPI,1,39363.84,24,29916.52
+01ORD100880,2025-06-09,Home Office,Central,Appliance,Credit Card,4,81651.77,27,238423.17
+01ORD100262,2024-10-24,Home Office,Central,Appliance,UPI,4,28726.95,26,85031.77
+01ORD100579,2025-04-13,Home Office,West,Mobile,Debit Card,1,9838.03,2,9641.27
+01ORD100024,2025-01-20,Small Business,South,Mobile,UPI,2,41279.22,11,73477.01
+01ORD100031,2024-09-09,Corporate,West,Accessory,Net Banking,1,30220.19,28,21758.54
+01ORD100618,2025-05-10,Home Office,Central,Accessory,UPI,1,63778.64,7,59314.14
+01ORD100011,2024-08-02,Home Office,North,Appliance,Credit Card,2,36285.56,7,67491.14
+01ORD100222,2024-02-22,Home Office,Central,Laptop,Net Banking,2,6462.54,20,10340.06
+01ORD100821,2025-06-03,Corporate,East,Accessory,Credit Card,1,15311.17,4,14698.72
+01ORD100297,2025-04-17,Consumer,East,Appliance,Debit Card,1,73113.17,9,66532.98
+01ORD100055,2024-08-29,Small Business,South,Appliance,Cash on Delivery,3,70973.81,1,210792.22
+01ORD100543,2024-04-05,Small Business,South,Appliance,Debit Card,1,8643.83,27,6310.0
+01ORD100210,2024-03-21,Corporate,East,Laptop,Credit Card,2,3489.71,19,5653.33
+01ORD100605,2024-06-22,Home Office,West,Accessory,Credit Card,2,35260.42,29,50069.8
+01ORD100693,2025-01-07,Consumer,North,Laptop,Cash on Delivery,1,54484.23,16,45766.75
+01ORD100663,2025-11-02,Consumer,North,Mobile,UPI,2,78208.07,21,123568.75
+01ORD100867,2025-12-19,Small Business,South,Appliance,Credit Card,1,13800.78,9,12558.71
+01ORD100071,2025-07-19,Corporate,West,Appliance,Cash on Delivery,1,78637.3,16,66055.33
+01ORD100544,2025-10-25,Home Office,West,Accessory,Credit Card,3,2932.97,6,8270.98
+01ORD100108,2025-08-15,Corporate,Central,Mobile,Credit Card,2,21158.86,4,40625.01
+01ORD100494,2025-05-11,Corporate,West,Appliance,Cash on Delivery,1,25633.05,26,18968.46
+01ORD100591,2024-08-10,Consumer,East,Mobile,Debit Card,5,32624.89,9,148443.25
+01ORD100742,2025-04-20,Corporate,East,Appliance,UPI,4,3937.12,14,13543.69
+01ORD100293,2024-09-10,Home Office,North,Mobile,Debit Card,2,78978.32,26,116887.91
+01ORD100290,2025-02-23,Corporate,South,Mobile,Credit Card,4,13894.77,21,43907.47
+01ORD100653,2025-05-19,Small Business,North,Accessory,Cash on Delivery,1,24318.57,15,20670.78
+01ORD100040,2025-11-17,Home Office,East,Accessory,Net Banking,1,74015.04,7,68833.99
+01ORD100590,2025-02-01,Corporate,East,Mobile,UPI,1,19632.03,23,15116.66
+01ORD100308,2024-10-03,Consumer,Central,Accessory,Debit Card,3,62002.2,7,172986.14
+01ORD100680,2024-05-22,Small Business,West,Mobile,Credit Card,1,12111.9,9,11021.83
+01ORD100067,2025-07-15,Home Office,Central,Mobile,Net Banking,3,46021.26,23,106309.11
+01ORD100276,2024-01-09,Home Office,Central,Tablet,Cash on Delivery,1,48697.19,11,43340.5
+01ORD100068,2025-01-22,Corporate,West,Tablet,Debit Card,1,74327.16,11,66151.17
+01ORD100319,2025-01-09,Corporate,West,Tablet,UPI,1,68135.94,19,55190.11
+01ORD100549,2025-11-25,Corporate,North,Appliance,Debit Card,1,30513.59,7,28377.64
+01ORD100999,2024-11-14,Home Office,East,Laptop,UPI,5,41845.59,14,179936.04
+01ORD100715,2025-08-16,Consumer,West,Tablet,UPI,3,25219.64,29,53717.83
+01ORD100754,2024-03-18,Consumer,South,Tablet,Credit Card,5,67560.61,0,337803.05
+01ORD100328,2024-01-27,Consumer,East,Mobile,Debit Card,1,12661.71,13,11015.69
+01ORD100383,2025-04-21,Small Business,West,Mobile,Cash on Delivery,1,62880.06,8,57849.66
+01ORD100452,2024-08-24,Small Business,West,Laptop,UPI,1,49194.97,20,39355.98
+01ORD100523,2025-02-21,Consumer,North,Appliance,Cash on Delivery,3,32922.27,0,98766.81
+01ORD100219,2025-02-06,Small Business,Central,Laptop,UPI,1,37267.14,11,33167.75
+01ORD100788,2025-12-04,Small Business,East,Accessory,Net Banking,2,53247.61,19,86261.13
+01ORD100437,2024-12-11,Consumer,West,Accessory,Credit Card,2,44653.96,17,74125.57
+01ORD100765,2024-04-04,Home Office,South,Laptop,Cash on Delivery,5,57516.58,24,218563.0
+01ORD100089,2025-12-20,Home Office,East,Appliance,UPI,1,14094.07,4,13530.31
+01ORD100064,2024-02-04,Consumer,West,Appliance,UPI,5,34466.58,16,144759.64
+01ORD100827,2025-10-28,Corporate,West,Laptop,Net Banking,1,9206.41,4,8838.15
+01ORD100717,2025-12-09,Home Office,East,Tablet,Debit Card,2,25824.24,16,43384.72
+01ORD100352,2024-12-14,Corporate,West,Laptop,Cash on Delivery,1,67208.49,5,63848.07
+01ORD100937,2025-05-17,Consumer,South,Laptop,Cash on Delivery,3,47712.46,5,135980.51
+01ORD100257,2024-12-03,Home Office,South,Laptop,Credit Card,1,60934.61,24,46310.3
+01ORD100636,2025-06-14,Small Business,Central,Laptop,Debit Card,5,25758.41,14,110761.16
+01ORD100645,2025-10-21,Home Office,West,Tablet,Net Banking,1,29936.6,4,28739.14
+01ORD100555,2025-08-18,Small Business,West,Laptop,Cash on Delivery,2,81145.25,9,147684.36
+01ORD100960,2025-05-18,Corporate,Central,Accessory,Credit Card,4,27759.52,21,87720.08
+01ORD100169,2025-10-01,Small Business,West,Mobile,Debit Card,1,24145.85,12,21248.35
+01ORD100918,2025-09-14,Small Business,South,Appliance,Cash on Delivery,1,57724.79,19,46757.08
+01ORD100529,2025-05-07,Consumer,East,Laptop,Cash on Delivery,3,77160.59,8,212963.23
+01ORD100824,2024-10-07,Home Office,North,Laptop,Credit Card,1,87976.45,16,73900.22
+01ORD100986,2025-05-25,Home Office,East,Appliance,Credit Card,1,19967.87,16,16773.01
+01ORD100817,2025-10-24,Small Business,South,Laptop,Cash on Delivery,1,75801.59,11,67463.42
+01ORD100087,2024-10-22,Corporate,East,Tablet,Cash on Delivery,1,29229.76,10,26306.78
+01ORD100433,2025-10-18,Small Business,West,Accessory,Cash on Delivery,1,35591.27,16,29896.67
+01ORD100185,2025-02-14,Small Business,North,Appliance,UPI,2,59383.69,1,117579.71
+01ORD100979,2025-07-12,Small Business,North,Accessory,Net Banking,1,26537.6,8,24414.59
+01ORD100535,2024-10-03,Home Office,North,Mobile,Net Banking,1,11281.32,18,9250.68
+01ORD100295,2024-04-21,Small Business,West,Tablet,Credit Card,1,14727.08,11,13107.1
+01ORD100893,2025-04-29,Corporate,East,Laptop,Debit Card,1,87272.81,26,64581.88
+01ORD100426,2025-10-17,Small Business,East,Laptop,UPI,1,69534.64,29,49369.59
+01ORD100714,2025-01-24,Home Office,North,Accessory,UPI,1,4280.58,28,3082.02
+01ORD100261,2025-02-18,Home Office,East,Laptop,Credit Card,5,60528.51,21,239087.61
+01ORD100238,2025-05-25,Consumer,South,Mobile,UPI,1,29201.73,19,23653.4
+01ORD100560,2024-01-19,Corporate,South,Accessory,Credit Card,4,79219.03,12,278850.99
+01ORD100584,2025-07-22,Corporate,South,Mobile,UPI,1,59077.83,30,41354.48
+01ORD100446,2024-04-05,Corporate,West,Appliance,Credit Card,1,16715.49,4,16046.87
+01ORD100868,2024-10-29,Consumer,South,Tablet,UPI,1,73562.1,8,67677.13
+01ORD100801,2025-07-16,Consumer,Central,Laptop,Net Banking,1,46196.82,13,40191.23
+01ORD100600,2024-03-14,Home Office,South,Laptop,Cash on Delivery,4,80925.61,19,262198.98
+01ORD100850,2024-09-05,Small Business,West,Accessory,Credit Card,1,43164.7,12,37984.94
+01ORD100266,2024-12-11,Small Business,Central,Laptop,Net Banking,5,57354.55,28,206476.38
+01ORD100996,2025-10-03,Small Business,West,Appliance,Cash on Delivery,1,50051.76,30,35036.23
+01ORD100530,2024-03-15,Corporate,West,Tablet,Credit Card,1,10851.67,28,7813.2
+01ORD100056,2024-12-11,Home Office,Central,Accessory,Credit Card,1,77861.35,11,69296.6
+01ORD100121,2024-02-17,Home Office,West,Mobile,Cash on Delivery,1,34964.54,8,32167.38
+01ORD100216,2025-07-19,Consumer,North,Accessory,Net Banking,1,84824.69,7,78886.96
+01ORD100026,2024-10-03,Home Office,North,Tablet,Credit Card,2,4993.8,14,8589.34
+01ORD100073,2025-04-21,Consumer,North,Laptop,Credit Card,1,70827.95,22,55245.8
+01ORD100045,2024-05-10,Small Business,North,Accessory,Cash on Delivery,1,34611.61,24,26304.82
+01ORD100248,2025-02-06,Small Business,South,Laptop,UPI,1,10238.47,6,9624.16
+01ORD100722,2024-01-05,Small Business,Central,Tablet,Cash on Delivery,1,2960.24,8,2723.42
+01ORD100282,2025-02-07,Consumer,North,Mobile,Debit Card,5,44107.95,22,172021.0
+01ORD100894,2024-01-28,Consumer,Central,Appliance,Credit Card,2,85434.36,2,167451.35
+01ORD100915,2024-04-20,Home Office,North,Accessory,Cash on Delivery,3,89651.23,26,199025.73
+01ORD100811,2024-02-22,Corporate,South,Laptop,UPI,1,34911.94,19,28278.67
+01ORD100245,2025-04-08,Corporate,North,Mobile,Net Banking,2,55599.03,20,88958.45
+01ORD100823,2025-11-26,Consumer,North,Tablet,Debit Card,2,20794.26,11,37013.78
+01ORD100322,2024-02-07,Consumer,West,Tablet,UPI,1,45332.9,21,35812.99
+01ORD100644,2024-02-27,Home Office,Central,Mobile,Net Banking,5,78989.38,29,280412.3
+01ORD100159,2025-07-31,Home Office,West,Mobile,UPI,1,61382.44,27,44809.18
+01ORD100978,2024-05-19,Consumer,West,Mobile,Net Banking,1,36296.15,3,35207.27
+01ORD100430,2024-04-15,Consumer,East,Laptop,Debit Card,1,49483.36,0,49483.36
+01ORD100942,2024-12-15,Small Business,East,Appliance,Cash on Delivery,1,8355.15,27,6099.26
+01ORD100463,2024-03-26,Corporate,West,Laptop,Cash on Delivery,3,12943.08,4,37276.07
+01ORD100310,2025-01-26,Consumer,North,Accessory,UPI,1,48620.0,3,47161.4
+01ORD100698,2024-03-30,Corporate,South,Laptop,UPI,3,42724.53,3,124328.38
+01ORD100061,2025-03-30,Home Office,East,Accessory,Debit Card,3,10852.12,18,26696.22
+01ORD100885,2025-09-14,Corporate,Central,Tablet,Credit Card,1,41423.44,25,31067.58
+01ORD100596,2024-08-22,Small Business,South,Appliance,Credit Card,1,81352.62,16,68336.2
+01ORD100768,2024-06-02,Small Business,East,Laptop,Net Banking,2,74661.89,7,138871.12
+01ORD100650,2025-01-21,Corporate,Central,Accessory,UPI,1,75481.25,13,65668.69
+01ORD100651,2024-12-13,Home Office,Central,Accessory,Credit Card,4,25889.54,24,78704.2
+01ORD100866,2025-11-22,Consumer,West,Laptop,Net Banking,5,89973.33,30,314906.65
+01ORD100669,2024-08-16,Home Office,Central,Mobile,Debit Card,4,81986.69,22,255798.47
+01ORD100299,2024-06-01,Consumer,East,Laptop,Debit Card,1,79365.13,25,59523.85
+01ORD100690,2024-12-23,Home Office,East,Accessory,Credit Card,2,80264.76,20,128423.62
+01ORD100315,2024-02-02,Home Office,West,Accessory,UPI,2,1288.54,10,2319.37
+01ORD100311,2024-05-14,Home Office,East,Appliance,Cash on Delivery,2,47316.08,14,81383.66
+01ORD100362,2024-06-09,Consumer,East,Mobile,Cash on Delivery,4,5909.04,29,16781.67
+01ORD100480,2024-12-22,Corporate,North,Appliance,Cash on Delivery,1,68329.72,0,68329.72
+01ORD100111,2025-02-22,Small Business,East,Appliance,UPI,5,11245.54,6,52854.04
+01ORD100990,2024-01-10,Small Business,South,Mobile,Cash on Delivery,5,68436.15,21,270322.79
+01ORD100487,2025-03-17,Small Business,East,Mobile,Debit Card,1,85212.42,19,69022.06
+01ORD100364,2024-11-18,Corporate,South,Appliance,Credit Card,1,69061.99,29,49034.01
+01ORD100255,2025-10-01,Home Office,North,Appliance,Net Banking,4,24858.08,0,99432.32
+01ORD100260,2024-05-30,Corporate,North,Mobile,Net Banking,1,89318.66,12,78600.42
+01ORD100803,2024-05-12,Home Office,North,Accessory,Net Banking,1,58221.92,22,45413.1
+01ORD100678,2024-10-31,Home Office,Central,Laptop,Debit Card,4,57671.62,16,193776.64
+01ORD100495,2024-06-08,Corporate,West,Accessory,Credit Card,4,35347.33,25,106041.99
+01ORD100671,2024-08-14,Corporate,West,Accessory,Credit Card,2,12634.88,9,22995.48
+01ORD100378,2024-04-13,Consumer,Central,Laptop,Net Banking,1,88173.31,10,79355.98
+01ORD100527,2025-05-15,Small Business,Central,Mobile,UPI,3,71932.82,23,166164.81
+01ORD100846,2025-06-29,Corporate,East,Laptop,UPI,4,3074.11,14,10574.94
+01ORD100138,2024-07-25,Small Business,East,Tablet,Cash on Delivery,1,20830.85,23,16039.75
+01ORD100356,2025-08-29,Corporate,South,Mobile,Credit Card,2,46969.6,17,77969.54
+01ORD100366,2024-01-18,Small Business,East,Accessory,Net Banking,5,27159.08,28,97772.69
+01ORD100943,2025-08-29,Corporate,East,Mobile,Debit Card,1,506.88,1,501.81
+01ORD100750,2025-04-02,Corporate,East,Laptop,Credit Card,3,49596.65,2,145814.15
+01ORD100949,2024-08-16,Consumer,Central,Accessory,UPI,4,84356.07,24,256442.45
+01ORD100830,2024-03-01,Small Business,North,Mobile,Debit Card,1,37448.28,13,32580.0
+01ORD100657,2025-02-12,Home Office,Central,Mobile,Credit Card,5,22930.96,3,111215.16
+01ORD100200,2025-05-11,Corporate,South,Accessory,Debit Card,4,79455.61,23,244723.28
+01ORD100214,2025-10-03,Consumer,North,Laptop,Credit Card,4,89244.48,14,307001.01
+01ORD100409,2025-07-23,Small Business,South,Appliance,Cash on Delivery,1,4299.16,18,3525.31
+01ORD100333,2025-04-25,Small Business,West,Mobile,Debit Card,1,15268.6,4,14657.86
+01ORD100209,2025-09-16,Home Office,West,Appliance,UPI,5,9750.47,0,48752.35
+01ORD100614,2024-06-13,Consumer,North,Laptop,Credit Card,1,38102.53,5,36197.4
+01ORD100079,2024-07-20,Home Office,West,Accessory,Credit Card,4,48713.02,24,148087.58
+01ORD100030,2024-01-22,Consumer,North,Appliance,Net Banking,5,40336.81,25,151263.04
+01ORD100536,2025-11-06,Corporate,Central,Mobile,Net Banking,5,65348.14,20,261392.56
+01ORD100696,2024-12-13,Home Office,North,Mobile,UPI,1,42425.87,24,32243.66
+01ORD100558,2025-01-31,Home Office,South,Mobile,Credit Card,1,23111.68,17,19182.69
+01ORD100837,2025-11-12,Small Business,North,Appliance,Credit Card,2,33523.61,17,55649.19
+01ORD100597,2025-10-19,Small Business,West,Appliance,Debit Card,1,21177.85,22,16518.72
+01ORD100166,2025-07-09,Home Office,East,Accessory,Cash on Delivery,4,6095.12,27,17797.75
+01ORD100919,2025-01-03,Corporate,West,Mobile,Cash on Delivery,1,27068.61,11,24091.06
+01ORD100496,2025-04-19,Small Business,North,Tablet,Debit Card,2,71910.47,13,125124.22
+01ORD100825,2024-07-13,Corporate,West,Mobile,Credit Card,3,48011.57,5,136832.97
+01ORD100066,2024-03-21,Small Business,West,Mobile,Cash on Delivery,2,21742.26,15,36961.84
+01ORD100142,2025-11-21,Corporate,South,Mobile,Cash on Delivery,1,59117.41,12,52023.32
+01ORD100926,2024-10-08,Home Office,West,Appliance,Net Banking,2,66141.47,20,105826.35
+01ORD100828,2024-04-02,Corporate,South,Laptop,UPI,3,19034.11,24,43397.77
+01ORD100656,2025-01-03,Home Office,South,Mobile,Cash on Delivery,1,59395.61,21,46922.53
+01ORD100332,2024-10-10,Small Business,South,Accessory,Debit Card,4,2906.7,17,9650.24
+01ORD100665,2024-05-28,Small Business,East,Laptop,Credit Card,1,86036.46,7,80013.91
+01ORD100250,2025-05-25,Small Business,North,Accessory,Credit Card,1,8821.55,14,7586.53
+01ORD100908,2025-01-28,Consumer,East,Laptop,Cash on Delivery,2,80531.39,22,125628.97
+01ORD100709,2025-12-24,Consumer,West,Appliance,Cash on Delivery,5,25855.25,0,129276.25
+01ORD100306,2025-08-02,Home Office,South,Appliance,UPI,1,73415.12,12,64605.31
+01ORD100735,2025-09-01,Consumer,South,Mobile,Cash on Delivery,2,64742.1,14,111356.41
+01ORD100976,2025-06-15,Home Office,North,Laptop,Cash on Delivery,2,19235.79,0,38471.58
+01ORD100050,2024-09-30,Corporate,South,Appliance,UPI,3,69242.4,0,207727.2
+01ORD100897,2024-09-29,Corporate,Central,Laptop,Debit Card,1,67988.52,24,51671.28
+01ORD100003,2024-09-27,Home Office,South,Accessory,Credit Card,5,73737.02,14,317069.19
+01ORD100545,2025-10-24,Home Office,North,Laptop,Credit Card,5,74118.37,14,318708.99
+01ORD100351,2024-10-06,Home Office,Central,Appliance,Debit Card,3,62677.78,5,178631.67
+01ORD100905,2024-07-30,Small Business,South,Appliance,Debit Card,5,82709.5,21,326702.53
+01ORD100537,2025-01-28,Corporate,East,Tablet,Cash on Delivery,1,29273.1,2,28687.64
+01ORD100345,2025-04-21,Consumer,West,Appliance,Cash on Delivery,1,54062.4,14,46493.66
+01ORD100995,2024-06-16,Small Business,East,Mobile,Net Banking,1,73981.45,20,59185.16
+01ORD100482,2025-06-05,Consumer,South,Accessory,Cash on Delivery,1,1908.73,28,1374.29
+01ORD100576,2024-04-08,Home Office,North,Appliance,Cash on Delivery,5,23080.55,2,113094.7
+01ORD100034,2024-02-28,Small Business,Central,Tablet,UPI,3,86560.42,21,205148.2
+01ORD100032,2025-07-14,Consumer,North,Mobile,Net Banking,4,52367.61,25,157102.83
+01ORD100232,2024-05-02,Corporate,West,Tablet,Debit Card,1,23209.59,20,18567.67
+01ORD100964,2025-12-15,Small Business,Central,Appliance,Net Banking,1,62887.74,24,47794.68
+01ORD100193,2025-01-08,Consumer,Central,Tablet,UPI,1,74313.36,2,72827.09
+01ORD100334,2025-03-28,Consumer,East,Appliance,Net Banking,1,16563.34,19,13416.31
+01ORD100004,2024-04-16,Consumer,Central,Mobile,Credit Card,4,54407.78,21,171928.58
+01ORD100205,2025-01-20,Small Business,West,Accessory,UPI,4,3709.56,25,11128.68
+01ORD100515,2024-10-28,Corporate,Central,Accessory,Cash on Delivery,1,15192.28,22,11849.98
+01ORD100800,2024-04-15,Corporate,West,Mobile,Cash on Delivery,1,47464.39,6,44616.53
+01ORD100307,2025-02-01,Consumer,West,Tablet,Cash on Delivery,1,55462.55,20,44370.04
+01ORD100110,2025-11-05,Corporate,South,Mobile,Credit Card,4,69971.11,15,237901.77
+01ORD100431,2025-10-31,Small Business,South,Mobile,Net Banking,2,11779.54,10,21203.17
+01ORD100078,2024-06-10,Consumer,North,Appliance,Credit Card,1,35925.94,26,26585.2
+01ORD100085,2024-09-08,Consumer,West,Accessory,Net Banking,1,19313.83,20,15451.06
+01ORD100287,2025-09-19,Consumer,West,Tablet,Cash on Delivery,2,66984.11,10,120571.4
+01ORD100083,2025-04-06,Consumer,North,Laptop,Cash on Delivery,1,65010.56,14,55909.08
+01ORD100992,2025-10-11,Corporate,East,Mobile,Cash on Delivery,1,64864.29,2,63567.0
+01ORD100790,2024-04-07,Consumer,South,Laptop,UPI,1,34765.29,3,33722.33
+01ORD100895,2025-12-14,Small Business,South,Appliance,Debit Card,1,46306.35,9,42138.78
+01ORD100399,2024-12-19,Home Office,Central,Laptop,Debit Card,2,70284.11,18,115265.94
+01ORD100324,2024-12-30,Consumer,South,Mobile,Net Banking,1,34867.22,24,26499.09
+01ORD100520,2024-03-30,Corporate,East,Appliance,UPI,2,45781.48,8,84237.92
+01ORD100917,2024-02-03,Consumer,Central,Accessory,Credit Card,5,583.16,21,2303.48
+01ORD100923,2025-09-04,Consumer,Central,Laptop,Credit Card,1,3060.87,14,2632.35
+01ORD100006,2025-12-01,Corporate,East,Mobile,Credit Card,3,81524.57,30,171201.6
+01ORD100732,2024-08-04,Small Business,South,Mobile,UPI,1,23457.14,16,19704.0
+01ORD100466,2024-08-07,Home Office,Central,Appliance,Credit Card,1,9050.36,28,6516.26
+01ORD100098,2024-01-15,Corporate,South,Appliance,Debit Card,1,12785.06,29,9077.39
+01ORD100267,2025-09-15,Small Business,North,Tablet,Debit Card,2,20128.38,8,37036.22
+01ORD100358,2025-11-30,Consumer,North,Laptop,Net Banking,3,11276.2,9,30784.03
+01ORD100869,2025-09-30,Consumer,Central,Laptop,Cash on Delivery,2,18894.62,24,28719.82
+01ORD100799,2025-06-25,Consumer,East,Mobile,Credit Card,2,35548.79,7,66120.75
+01ORD100381,2024-06-24,Home Office,East,Mobile,UPI,1,52846.17,11,47033.09
+01ORD100632,2024-06-30,Corporate,Central,Mobile,Credit Card,2,6429.18,5,12215.44
+01ORD100382,2024-02-08,Small Business,North,Laptop,Cash on Delivery,3,52906.17,5,150782.58
+01ORD100491,2024-01-16,Consumer,Central,Appliance,Net Banking,4,49859.47,2,195449.12
+01ORD100119,2024-07-19,Home Office,East,Tablet,UPI,3,54348.02,2,159783.18
+01ORD100901,2024-05-05,Small Business,East,Accessory,Net Banking,4,47162.24,27,137713.74
+01ORD100251,2024-05-26,Corporate,West,Tablet,Cash on Delivery,1,34025.56,18,27900.96
+01ORD100524,2024-04-24,Consumer,Central,Appliance,UPI,2,66016.38,16,110907.52
+01ORD100010,2025-04-11,Consumer,West,Appliance,Debit Card,1,53737.84,22,41915.52
+01ORD100197,2024-08-20,Consumer,North,Appliance,Net Banking,3,20657.73,11,55156.14
+01ORD100604,2025-06-02,Corporate,South,Laptop,Debit Card,1,15465.57,30,10825.9
+01ORD100082,2025-03-31,Small Business,North,Tablet,Debit Card,1,48062.56,9,43736.93
+01ORD100784,2024-03-15,Consumer,North,Accessory,Credit Card,2,36528.64,26,54062.39
+01ORD100588,2024-02-11,Home Office,West,Mobile,Net Banking,1,30831.09,28,22198.38
+01ORD100798,2024-11-30,Small Business,North,Accessory,Credit Card,5,2758.6,4,13241.28
+01ORD100240,2025-08-31,Home Office,East,Tablet,Net Banking,1,42846.95,29,30421.33
+01ORD100291,2025-02-25,Consumer,West,Tablet,UPI,1,8709.0,8,8012.28
+01ORD100212,2024-04-22,Consumer,South,Appliance,Debit Card,1,35066.29,27,25598.39
+01ORD100718,2025-03-25,Small Business,East,Tablet,Debit Card,4,73692.14,1,291820.87
+01ORD100360,2024-07-09,Home Office,South,Appliance,Debit Card,2,21455.43,12,37761.56
+01ORD100450,2025-08-23,Consumer,Central,Tablet,Debit Card,2,8267.97,30,11575.16
+01ORD100228,2024-09-03,Corporate,North,Laptop,UPI,1,20736.46,1,20529.1
+01ORD100951,2024-08-10,Small Business,East,Appliance,Debit Card,2,72882.73,20,116612.37
+01ORD100947,2025-06-26,Consumer,East,Appliance,Cash on Delivery,2,6490.95,18,10645.16
+01ORD100797,2025-04-25,Home Office,West,Laptop,Credit Card,1,33492.69,24,25454.44
+01ORD100502,2025-11-21,Consumer,North,Appliance,UPI,2,17845.15,19,28909.14
+01ORD100465,2024-10-11,Small Business,Central,Laptop,Credit Card,5,19682.31,24,74792.78
+01ORD100363,2024-09-12,Corporate,East,Mobile,Cash on Delivery,5,72181.61,2,353689.89
+01ORD100469,2024-04-03,Consumer,West,Appliance,Credit Card,1,67509.75,12,59408.58
+01ORD100936,2025-08-04,Home Office,East,Appliance,Credit Card,3,66053.69,15,168436.91
+01ORD100429,2025-09-27,Corporate,Central,Appliance,Credit Card,5,65999.65,29,234298.76
+01ORD100008,2025-09-06,Small Business,East,Tablet,Debit Card,1,24060.12,12,21172.91
+01ORD100156,2025-11-29,Small Business,South,Tablet,Credit Card,2,37845.68,11,67365.31
+01ORD100542,2025-07-01,Small Business,South,Mobile,UPI,2,61910.43,12,108962.36
+01ORD100441,2025-01-27,Small Business,South,Mobile,Cash on Delivery,4,17448.81,11,62117.76
+01ORD100483,2024-04-09,Home Office,South,Mobile,Credit Card,5,11623.96,6,54632.61
+01ORD100423,2024-07-14,Small Business,East,Accessory,Cash on Delivery,1,50709.76,12,44624.59
+01ORD100779,2025-09-15,Corporate,East,Laptop,Credit Card,2,42153.72,29,59858.28
+01ORD100950,2025-07-01,Home Office,Central,Tablet,Cash on Delivery,3,74025.82,9,202090.49
+01ORD100335,2025-10-20,Corporate,South,Laptop,Credit Card,5,35073.32,19,142046.95
+01ORD100577,2025-01-30,Small Business,Central,Tablet,UPI,3,3090.07,4,8899.4
+01ORD100935,2025-12-10,Home Office,Central,Accessory,Debit Card,5,30205.64,0,151028.2
+01ORD100568,2025-03-30,Small Business,East,Appliance,Net Banking,2,66647.52,13,115966.68
+01ORD100595,2024-08-02,Home Office,North,Tablet,UPI,2,68403.61,24,103973.49
+01ORD100531,2025-02-16,Corporate,South,Tablet,Cash on Delivery,1,66652.81,3,64653.23
+01ORD100582,2024-05-30,Small Business,Central,Mobile,Credit Card,2,61444.75,26,90938.23
+01ORD100708,2024-07-19,Home Office,East,Accessory,Credit Card,4,75999.04,5,288796.35
+01ORD100449,2025-07-13,Home Office,North,Appliance,Debit Card,1,37792.7,9,34391.36
+01ORD100454,2024-07-07,Consumer,Central,Mobile,Debit Card,5,20697.63,9,94174.22
+01ORD100229,2025-03-14,Consumer,East,Tablet,Debit Card,3,87845.38,4,252994.69
+01ORD100353,2025-05-11,Consumer,West,Laptop,Credit Card,4,88381.64,29,251003.86
+01ORD100729,2024-06-25,Corporate,East,Appliance,UPI,2,65767.47,2,128904.24
+01ORD100213,2024-01-02,Home Office,South,Mobile,Net Banking,1,41735.64,15,35475.29
+01ORD100080,2024-09-26,Consumer,North,Laptop,Debit Card,4,56626.12,23,174408.45
+01ORD100149,2024-08-18,Home Office,North,Laptop,UPI,2,47436.76,7,88232.37
+01ORD100303,2025-12-20,Small Business,West,Tablet,Debit Card,1,59282.16,12,52168.3
+01ORD100629,2024-09-08,Corporate,West,Laptop,Net Banking,4,40649.85,3,157721.42
+01ORD100778,2025-02-04,Small Business,West,Mobile,UPI,1,19678.81,15,16726.99
+01ORD100507,2025-02-20,Home Office,West,Appliance,Net Banking,1,25095.82,0,25095.82
+01ORD100343,2024-08-07,Corporate,Central,Appliance,Cash on Delivery,1,5035.52,26,3726.28
+01ORD100486,2025-10-20,Small Business,Central,Tablet,Cash on Delivery,5,23216.75,19,94027.84
+01ORD100712,2025-06-30,Corporate,Central,Laptop,Credit Card,1,19899.33,25,14924.5
+01ORD100134,2024-08-05,Consumer,East,Mobile,UPI,1,16244.64,8,14945.07
+01ORD100704,2024-02-10,Consumer,East,Laptop,Cash on Delivery,1,48468.57,7,45075.77
+01ORD100312,2024-07-13,Home Office,South,Appliance,Net Banking,1,76368.89,30,53458.22
+01ORD100723,2024-04-28,Corporate,West,Appliance,Credit Card,4,60884.19,12,214312.35
+01ORD100630,2025-02-18,Corporate,Central,Laptop,UPI,1,19893.35,27,14522.15
+01ORD100001,2024-04-12,Small Business,East,Mobile,Net Banking,5,1718.15,20,6872.6
+01ORD100317,2025-04-04,Consumer,South,Laptop,UPI,2,68352.27,16,114831.81
+01ORD100707,2024-05-24,Home Office,Central,Laptop,UPI,2,75047.54,26,111070.36
+01ORD100548,2025-01-03,Small Business,West,Accessory,Cash on Delivery,2,87618.13,25,131427.2
+01ORD100873,2025-04-18,Corporate,South,Laptop,Debit Card,2,29525.33,28,42516.48
+01ORD100533,2025-02-23,Home Office,South,Laptop,UPI,3,88959.91,10,240191.76
+01ORD100478,2024-10-15,Corporate,Central,Accessory,Cash on Delivery,5,78529.57,1,388721.37
+01ORD100405,2024-07-08,Small Business,North,Appliance,Debit Card,1,83058.29,25,62293.72
+01ORD100173,2024-08-18,Corporate,South,Tablet,Net Banking,1,13685.63,21,10811.65
+01ORD100126,2024-04-08,Home Office,South,Mobile,Debit Card,2,67955.54,17,112806.2
+01ORD100395,2025-10-15,Consumer,West,Laptop,Debit Card,3,56915.01,10,153670.53
+01ORD100421,2024-01-05,Corporate,South,Laptop,Net Banking,1,4470.1,22,3486.68
+01ORD100553,2024-09-29,Consumer,South,Laptop,Net Banking,1,68433.54,3,66380.53
+01ORD100904,2025-06-08,Small Business,Central,Appliance,Debit Card,2,54635.25,5,103806.98
+01ORD100091,2024-02-22,Corporate,East,Mobile,UPI,2,86170.86,23,132703.12
+01ORD100940,2024-12-15,Consumer,Central,Accessory,UPI,1,18297.4,3,17748.48
+01ORD100182,2024-12-24,Corporate,East,Appliance,Cash on Delivery,2,86072.13,4,165258.49
+01ORD100275,2024-06-08,Consumer,North,Appliance,Credit Card,2,24458.02,22,38154.51
+01ORD100896,2024-02-08,Corporate,West,Accessory,UPI,4,8701.42,1,34457.62
+01ORD100070,2025-01-24,Home Office,North,Tablet,Credit Card,2,84831.12,4,162875.75
+01ORD100292,2024-04-13,Small Business,North,Accessory,Net Banking,5,52071.4,16,218699.88
+01ORD100132,2025-10-04,Corporate,West,Tablet,Cash on Delivery,2,70506.83,15,119861.61
+01ORD100301,2025-12-06,Home Office,East,Appliance,Net Banking,2,17696.66,9,32207.92
+01ORD100425,2024-02-16,Consumer,North,Accessory,Debit Card,1,28571.5,7,26571.5
+01ORD100327,2024-10-09,Consumer,South,Accessory,Net Banking,5,19782.66,8,91000.24
+01ORD100145,2025-07-17,Corporate,South,Mobile,Debit Card,4,71349.8,12,251151.3
+01ORD100424,2024-12-15,Consumer,East,Mobile,Credit Card,4,31328.06,9,114034.14
+01ORD100581,2025-07-18,Home Office,North,Mobile,Cash on Delivery,1,641.4,23,493.88
+01ORD100136,2025-02-01,Corporate,West,Appliance,UPI,5,55738.24,10,250822.08
+01ORD100451,2025-05-02,Home Office,North,Mobile,Net Banking,2,61631.74,10,110937.13
+01ORD100165,2025-09-11,Consumer,South,Mobile,UPI,2,18136.41,20,29018.26
+01ORD100029,2024-11-09,Consumer,Central,Laptop,Debit Card,5,89593.6,16,376293.12
+01ORD100774,2024-09-24,Small Business,North,Tablet,Credit Card,3,7869.0,15,20065.95
+01ORD100194,2025-11-02,Home Office,South,Appliance,Net Banking,1,44741.05,14,38477.3
+01ORD100389,2024-02-05,Consumer,North,Laptop,Credit Card,1,34108.2,23,26263.31
+01ORD100853,2024-08-01,Home Office,East,Accessory,Credit Card,1,22446.6,6,21099.8
+01ORD100170,2025-05-20,Consumer,North,Laptop,UPI,3,58253.28,24,132817.48
+01ORD100706,2025-05-16,Consumer,East,Tablet,Credit Card,2,4738.87,6,8909.08
+01ORD100141,2025-04-05,Consumer,South,Mobile,Net Banking,1,15884.61,3,15408.07
+01ORD100174,2024-07-08,Small Business,South,Mobile,UPI,1,11708.82,9,10655.03
+01ORD100007,2024-01-21,Home Office,South,Laptop,UPI,1,69603.26,3,67515.16
+01ORD100746,2024-01-23,Home Office,South,Accessory,Credit Card,4,72090.83,16,242225.19
+01ORD100479,2024-09-10,Small Business,West,Tablet,Credit Card,5,49171.84,18,201604.54
+01ORD100074,2025-12-03,Consumer,West,Mobile,UPI,2,51839.49,25,77759.24
+01ORD100911,2024-04-18,Home Office,West,Mobile,Net Banking,2,54308.89,28,78204.8
+01ORD100814,2024-05-05,Home Office,North,Mobile,Net Banking,4,9382.01,27,27395.47
+01ORD100239,2024-05-23,Corporate,Central,Accessory,Net Banking,1,11532.45,24,8764.66
+01ORD100146,2024-04-05,Home Office,West,Laptop,Cash on Delivery,5,36609.42,1,181216.63
+01ORD100793,2025-03-22,Small Business,East,Laptop,UPI,4,68412.79,1,270914.65
+01ORD100235,2024-10-06,Corporate,West,Tablet,Net Banking,1,86395.44,22,67388.44
+01ORD100221,2024-05-09,Small Business,Central,Appliance,Credit Card,2,74797.94,21,118180.75
+01ORD100924,2025-06-01,Small Business,East,Appliance,Cash on Delivery,1,87445.51,1,86571.05
+01ORD100501,2025-06-28,Small Business,West,Mobile,Debit Card,2,39863.17,28,57402.96
+01ORD100133,2024-01-05,Consumer,West,Laptop,Debit Card,5,24104.25,8,110879.55
+01ORD100991,2024-09-17,Home Office,Central,Laptop,Net Banking,1,17148.5,17,14233.26
+01ORD100775,2024-02-23,Small Business,Central,Tablet,Net Banking,1,36122.38,5,34316.26
+01ORD100186,2025-10-10,Consumer,West,Laptop,Debit Card,1,84870.95,21,67048.05
+01ORD100042,2025-07-20,Corporate,East,Tablet,Net Banking,1,27285.52,5,25921.24
+01ORD100697,2025-11-06,Corporate,North,Accessory,UPI,4,40705.74,18,133514.83
+01ORD100109,2025-01-26,Home Office,East,Tablet,Net Banking,1,7471.9,21,5902.8
+01ORD100589,2024-07-04,Consumer,South,Accessory,Debit Card,2,78013.87,23,120141.36
+01ORD100057,2025-07-18,Home Office,East,Accessory,Net Banking,4,54880.23,3,212935.29
+01ORD100406,2024-05-04,Home Office,North,Mobile,Cash on Delivery,1,42642.82,5,40510.68
+01ORD100443,2024-02-27,Corporate,East,Mobile,Debit Card,1,27989.28,4,26869.71
+01ORD100758,2025-11-15,Small Business,East,Laptop,UPI,5,79956.1,22,311828.79
+01ORD100998,2024-11-16,Corporate,West,Accessory,Credit Card,3,47506.18,27,104038.53
+01ORD100025,2024-07-10,Small Business,South,Tablet,Net Banking,2,17371.14,16,29183.52
+01ORD100468,2024-02-16,Home Office,East,Accessory,Cash on Delivery,1,41575.56,11,37002.25
+01ORD100540,2025-11-19,Home Office,Central,Tablet,Credit Card,4,59154.22,18,194025.84
+01ORD100532,2025-01-10,Consumer,South,Appliance,Debit Card,1,28973.11,4,27814.19
+01ORD100619,2024-12-30,Consumer,West,Mobile,Net Banking,1,87557.04,6,82303.62
+01ORD100695,2024-05-01,Home Office,Central,Appliance,Credit Card,3,21724.44,30,45621.32
+01ORD100927,2024-11-15,Small Business,East,Appliance,Credit Card,1,68703.9,1,68016.86
+01ORD100339,2024-02-18,Small Business,South,Mobile,Cash on Delivery,1,65188.41,21,51498.84
+01ORD100052,2025-08-23,Corporate,Central,Tablet,Cash on Delivery,2,60537.79,18,99281.98
+01ORD100508,2024-06-16,Corporate,East,Laptop,Credit Card,4,28316.71,17,94011.48
+01ORD100517,2025-05-13,Consumer,North,Laptop,Net Banking,1,32869.14,26,24323.16
+01ORD100921,2025-07-07,Corporate,North,Tablet,Net Banking,2,28276.35,19,45807.69
+01ORD100782,2024-08-16,Home Office,East,Accessory,Cash on Delivery,1,35048.11,11,31192.82
+01ORD100265,2024-05-23,Corporate,South,Tablet,Debit Card,3,49097.29,2,144346.03
+01ORD100818,2024-07-01,Consumer,North,Accessory,Debit Card,5,52344.87,29,185824.29
+01ORD100711,2025-07-11,Corporate,West,Accessory,Net Banking,1,39635.9,22,30916.0
+01ORD100683,2025-01-07,Corporate,North,Accessory,Cash on Delivery,1,87376.73,16,73396.45
+01ORD100833,2025-02-06,Home Office,South,Mobile,UPI,3,13490.45,23,31162.94
+01ORD100519,2025-12-27,Home Office,West,Accessory,Cash on Delivery,5,15445.22,8,71048.01
+01ORD100448,2024-04-27,Consumer,East,Accessory,UPI,4,64883.72,27,189460.46
+01ORD100019,2025-10-23,Home Office,South,Appliance,Credit Card,2,57722.09,23,88892.02
+01ORD100716,2024-09-12,Small Business,East,Appliance,Net Banking,1,73555.39,24,55902.1
+01ORD100484,2024-06-28,Corporate,Central,Accessory,Net Banking,4,59467.75,16,199811.64
+01ORD100569,2025-12-18,Corporate,North,Mobile,UPI,1,17455.06,27,12742.19
+01ORD100434,2024-04-29,Consumer,East,Laptop,Net Banking,5,74558.79,26,275867.52
+01ORD100368,2025-07-23,Home Office,West,Mobile,Credit Card,1,57487.53,11,51163.9
+01ORD100084,2025-12-27,Corporate,East,Laptop,UPI,1,12971.64,22,10117.88
+01ORD100062,2025-03-03,Corporate,West,Appliance,Cash on Delivery,1,20692.95,12,18209.8
+01ORD100639,2025-03-26,Home Office,South,Tablet,Net Banking,5,20602.73,12,90652.01
+01ORD100273,2025-03-28,Consumer,East,Tablet,Credit Card,2,29008.37,14,49894.4
+01ORD100286,2025-11-03,Home Office,South,Tablet,UPI,2,68308.2,17,113391.61
+01ORD100361,2024-09-09,Home Office,West,Laptop,Debit Card,2,33615.55,30,47061.77
+01ORD100355,2024-06-29,Home Office,South,Tablet,Cash on Delivery,4,74313.22,29,211049.54
+01ORD100457,2025-08-03,Small Business,West,Mobile,Debit Card,1,71314.49,1,70601.35
+01ORD100279,2025-10-20,Small Business,Central,Tablet,Debit Card,1,61770.23,25,46327.67
+01ORD100013,2025-04-03,Consumer,Central,Mobile,UPI,5,31116.37,11,138467.85
+01ORD100183,2025-12-10,Corporate,South,Accessory,Credit Card,1,12242.11,5,11630.0
+01ORD100369,2024-11-18,Small Business,West,Appliance,Credit Card,3,44805.12,12,118285.52
+01ORD100882,2024-11-07,Home Office,South,Appliance,Debit Card,3,53492.4,8,147639.02
+01ORD100616,2024-12-04,Small Business,Central,Accessory,Cash on Delivery,3,86971.03,24,198293.95
+01ORD100224,2025-12-30,Consumer,East,Laptop,Net Banking,3,7709.8,26,17115.76
+01ORD100573,2025-01-01,Consumer,West,Tablet,UPI,1,66503.8,3,64508.69
+01ORD100971,2024-11-21,Consumer,West,Tablet,Debit Card,1,22027.14,6,20705.51
+01ORD100654,2024-07-09,Consumer,North,Appliance,Net Banking,1,71086.73,26,52604.18
+01ORD100546,2024-07-08,Corporate,North,Laptop,UPI,1,19113.84,22,14908.8
+01ORD100583,2024-05-23,Consumer,North,Appliance,Cash on Delivery,1,15290.74,7,14220.39
+01ORD100634,2024-03-31,Corporate,North,Appliance,UPI,1,4436.28,30,3105.4
+01ORD100177,2025-01-11,Consumer,West,Appliance,Net Banking,1,58757.45,14,50531.41
+01ORD100666,2024-03-20,Home Office,North,Laptop,Net Banking,1,2554.23,16,2145.55
+01ORD100674,2025-03-16,Consumer,North,Accessory,Credit Card,5,15600.2,1,77220.99
+01ORD100586,2024-04-18,Corporate,Central,Mobile,Debit Card,2,6817.58,3,13226.11
+01ORD100874,2024-01-28,Corporate,South,Appliance,Debit Card,1,71388.17,9,64963.23
+01ORD100394,2025-02-03,Small Business,Central,Accessory,Credit Card,3,63628.9,11,169889.16
+01ORD100164,2024-01-28,Consumer,East,Appliance,Debit Card,2,56747.1,3,110089.37
+01ORD100249,2024-12-11,Home Office,West,Accessory,Net Banking,2,53987.28,3,104735.32
+01ORD100635,2025-12-14,Consumer,North,Tablet,Cash on Delivery,2,51174.22,3,99277.99
+01ORD100886,2024-12-28,Corporate,West,Laptop,UPI,3,3705.95,19,9005.46
+01ORD100670,2025-11-06,Corporate,East,Appliance,Credit Card,1,41958.66,30,29371.06
+01ORD100376,2025-05-04,Small Business,West,Tablet,Debit Card,1,18502.39,12,16282.1
+01ORD100413,2025-11-12,Home Office,East,Tablet,Credit Card,2,70904.26,1,140390.43
+01ORD100075,2025-02-05,Consumer,East,Appliance,Cash on Delivery,2,51120.81,28,73613.97
+01ORD100114,2025-05-04,Consumer,North,Laptop,Debit Card,1,78885.64,2,77307.93
+01ORD100599,2024-01-09,Consumer,West,Appliance,Debit Card,5,5599.72,23,21558.92
+01ORD100962,2025-03-16,Home Office,North,Mobile,Debit Card,2,56997.46,1,112854.97
+01ORD100391,2024-01-20,Corporate,South,Tablet,Cash on Delivery,2,43436.27,25,65154.4
+01ORD100105,2024-03-03,Home Office,East,Mobile,Debit Card,4,11221.04,4,43088.79
+01ORD100115,2024-08-18,Consumer,East,Tablet,Cash on Delivery,2,25213.41,14,43367.07
+01ORD100418,2024-02-22,Home Office,South,Tablet,Cash on Delivery,3,24351.07,15,62095.23
+01ORD100526,2024-07-14,Consumer,East,Laptop,UPI,1,28389.63,1,28105.73
+01ORD100458,2024-09-03,Consumer,Central,Mobile,Credit Card,4,49529.83,22,154533.07
+01ORD100410,2024-12-07,Home Office,South,Laptop,Net Banking,3,3554.0,28,7676.64
+01ORD100093,2024-07-06,Corporate,North,Laptop,Credit Card,4,83964.95,10,302273.82
+01ORD100931,2024-10-15,Corporate,Central,Tablet,UPI,1,47591.19,14,40928.42
+01ORD100090,2024-12-03,Consumer,East,Appliance,UPI,4,20357.21,0,81428.84
+01ORD100337,2025-06-30,Consumer,North,Appliance,Cash on Delivery,5,78720.34,10,354241.53
+01ORD100989,2025-11-20,Consumer,North,Tablet,Credit Card,5,37625.09,26,139212.83
+01ORD100922,2025-02-28,Consumer,North,Accessory,Debit Card,2,23266.47,2,45602.28
+01ORD100934,2024-10-03,Home Office,South,Appliance,Credit Card,1,73834.86,8,67928.07
+01ORD100606,2025-10-14,Consumer,West,Appliance,Credit Card,4,34340.41,20,109889.31
+01ORD100594,2024-06-11,Small Business,South,Laptop,Debit Card,1,36924.08,1,36554.84
+01ORD100612,2025-05-31,Consumer,East,Appliance,Net Banking,4,43271.58,27,126353.01
+01ORD100095,2025-05-07,Home Office,Central,Appliance,Net Banking,4,43297.09,3,167992.71
+01ORD100012,2024-11-26,Consumer,East,Appliance,Credit Card,4,33214.96,17,110273.67
+01ORD100397,2024-05-22,Corporate,West,Accessory,Credit Card,1,81380.03,24,61848.82
+01ORD100534,2025-12-29,Small Business,West,Mobile,Debit Card,1,43835.7,23,33753.49
+01ORD100044,2025-05-19,Home Office,Central,Tablet,Credit Card,3,42896.32,11,114533.17
+01ORD100043,2024-08-31,Consumer,Central,Mobile,Net Banking,1,88315.9,4,84783.26
+01ORD100330,2024-10-03,Small Business,North,Mobile,Credit Card,5,467.63,25,1753.61
+01ORD100168,2024-11-26,Small Business,East,Appliance,Cash on Delivery,3,33614.35,2,98826.19
+01ORD100498,2025-11-20,Small Business,East,Laptop,Credit Card,2,40816.2,17,67754.89
+01ORD100877,2025-01-20,Corporate,East,Mobile,Cash on Delivery,3,13573.18,5,38683.56
+01ORD100598,2025-08-10,Home Office,North,Laptop,Net Banking,1,72722.42,20,58177.94
+01ORD100757,2024-02-20,Corporate,East,Accessory,Net Banking,3,58285.57,28,125896.83
+01ORD100101,2024-12-09,Corporate,East,Mobile,UPI,1,28781.57,19,23313.07
+01ORD100427,2024-09-25,Home Office,South,Tablet,Cash on Delivery,1,8051.29,3,7809.75
+01ORD100179,2025-09-24,Corporate,North,Laptop,UPI,1,55382.09,9,50397.7
+01ORD100445,2025-05-27,Small Business,West,Tablet,Debit Card,3,87070.85,3,253376.17
+01ORD100417,2024-09-20,Small Business,North,Accessory,Credit Card,5,76076.61,20,304306.44
+01ORD100871,2025-12-26,Small Business,North,Mobile,Credit Card,2,66190.64,25,99285.96
+01ORD100883,2024-01-07,Small Business,North,Tablet,UPI,5,54040.12,4,259392.58
+01ORD100681,2025-02-18,Corporate,East,Accessory,Net Banking,1,21305.34,21,16831.22
+01ORD100178,2024-10-09,Small Business,West,Accessory,Cash on Delivery,1,73017.53,20,58414.02
+01ORD100396,2025-04-15,Home Office,North,Mobile,Net Banking,4,4769.83,4,18316.15
+01ORD100912,2024-05-25,Home Office,East,Appliance,Cash on Delivery,1,53348.19,14,45879.44
+01ORD100794,2024-11-03,Home Office,North,Appliance,Net Banking,2,9167.96,23,14118.66
+01ORD100961,2025-07-27,Small Business,East,Appliance,Net Banking,1,49555.99,3,48069.31
+01ORD100685,2024-09-15,Corporate,West,Appliance,Debit Card,2,24658.72,15,41919.82
+01ORD100384,2025-11-12,Consumer,West,Mobile,UPI,1,83685.64,15,71132.79
+01ORD100957,2025-10-07,Consumer,Central,Laptop,Cash on Delivery,4,25445.0,20,81424.0
+01ORD100752,2024-05-24,Consumer,West,Mobile,Cash on Delivery,2,36559.3,13,63613.18
+01ORD100258,2025-10-02,Home Office,South,Laptop,Credit Card,1,44794.49,23,34491.76
+01ORD100539,2024-07-10,Consumer,East,Laptop,Credit Card,1,88185.49,25,66139.12
+01ORD100336,2025-05-30,Small Business,Central,Laptop,Net Banking,4,36387.74,8,133906.88
+01ORD100016,2024-04-09,Small Business,North,Laptop,Debit Card,1,74917.12,13,65177.89
+01ORD100325,2025-07-16,Home Office,West,Laptop,Credit Card,1,58008.86,14,49887.62
+01ORD100759,2025-12-17,Corporate,West,Appliance,Debit Card,1,54001.71,3,52381.66
+01ORD100223,2025-11-14,Consumer,Central,Accessory,Credit Card,2,38358.43,9,69812.34
+01ORD100180,2025-09-19,Corporate,North,Laptop,Net Banking,1,77402.0,13,67339.74
+01ORD100984,2025-07-03,Small Business,West,Mobile,Debit Card,2,75847.1,15,128940.07
+01ORD100023,2025-02-17,Home Office,Central,Laptop,Credit Card,1,21004.38,8,19324.03
+01ORD100357,2024-04-08,Consumer,South,Laptop,Credit Card,1,33798.59,13,29404.77
+01ORD100667,2024-07-31,Home Office,West,Mobile,Debit Card,3,62591.21,15,159607.59
+01ORD100862,2024-09-13,Small Business,East,Mobile,Credit Card,5,74811.76,19,302987.63
+01ORD100341,2024-01-17,Consumer,South,Laptop,UPI,1,20520.86,17,17032.31
+01ORD100432,2025-10-20,Home Office,North,Tablet,Debit Card,5,79426.56,6,373304.83
+01ORD100552,2024-08-04,Small Business,South,Mobile,Credit Card,1,10233.14,13,8902.83
+01ORD100834,2024-01-05,Small Business,West,Accessory,Credit Card,4,44059.25,26,130415.38
+01ORD100204,2025-05-24,Home Office,West,Mobile,Net Banking,1,4589.42,3,4451.74
+01ORD100631,2025-03-20,Home Office,West,Accessory,UPI,4,11085.18,11,39463.24
+01ORD100094,2025-01-14,Home Office,South,Appliance,UPI,3,51891.15,16,130765.7
+01ORD100559,2025-11-29,Corporate,East,Tablet,Cash on Delivery,2,73786.18,19,119533.61
+01ORD100069,2024-01-02,Small Business,North,Tablet,Credit Card,1,25388.41,18,20818.5
+01ORD100623,2025-05-25,Corporate,South,Appliance,Net Banking,2,88366.34,28,127247.53
+01ORD100285,2024-04-29,Corporate,Central,Tablet,Cash on Delivery,2,37382.46,19,60559.59
+01ORD100845,2024-02-15,Consumer,East,Tablet,Net Banking,4,13896.11,29,39464.95
+01ORD100435,2025-08-26,Small Business,South,Tablet,Debit Card,4,70956.86,19,229900.23
+01ORD100154,2025-06-08,Consumer,East,Laptop,Debit Card,2,22596.65,27,32991.11
+01ORD100076,2025-12-30,Corporate,East,Mobile,Cash on Delivery,1,35375.54,0,35375.54
+01ORD100731,2024-03-03,Corporate,West,Appliance,Net Banking,1,60482.59,30,42337.81
+01ORD100447,2025-09-29,Small Business,Central,Tablet,Debit Card,1,2275.55,27,1661.15
+01ORD100189,2024-08-12,Consumer,Central,Tablet,UPI,4,25358.28,13,88246.81
+01ORD100272,2025-10-13,Home Office,Central,Appliance,Debit Card,2,5130.08,12,9028.94
+01ORD100237,2024-07-16,Corporate,West,Accessory,Net Banking,2,80653.57,6,151628.71
+01ORD100488,2025-08-30,Home Office,South,Mobile,UPI,5,50547.35,20,202189.4
+01ORD100118,2024-05-14,Small Business,Central,Mobile,Net Banking,2,1885.6,13,3280.94
+01ORD100944,2025-10-25,Home Office,South,Accessory,Credit Card,1,4260.33,28,3067.44
+01ORD100513,2024-01-12,Consumer,West,Laptop,Credit Card,2,40448.98,19,65527.35
+01ORD100826,2024-07-13,Home Office,Central,Accessory,Cash on Delivery,1,12479.28,0,12479.28
+01ORD100592,2025-09-25,Small Business,North,Appliance,UPI,2,6443.93,3,12501.22
+01ORD100127,2025-11-14,Consumer,Central,Accessory,UPI,5,55867.95,4,268166.16
+01ORD100117,2024-01-28,Corporate,South,Tablet,Net Banking,1,328.83,17,272.93
+01ORD100474,2025-03-07,Consumer,Central,Mobile,UPI,1,88031.15,21,69544.61
+01ORD100694,2024-01-08,Corporate,South,Mobile,Cash on Delivery,1,81691.0,0,81691.0
+01ORD100058,2024-12-05,Consumer,Central,Tablet,Net Banking,1,45762.41,3,44389.54
+01ORD100864,2025-09-16,Home Office,West,Laptop,Debit Card,5,15121.21,23,58216.66
+01ORD100913,2024-04-20,Corporate,South,Laptop,Credit Card,2,72650.06,5,138035.11
+01ORD100370,2025-11-16,Small Business,North,Mobile,UPI,2,16288.25,10,29318.85
+01ORD100269,2024-01-02,Home Office,Central,Accessory,Credit Card,1,67411.81,1,66737.69
+01ORD100047,2025-10-08,Corporate,North,Accessory,Net Banking,4,87681.57,27,256030.18
+01ORD100350,2024-02-06,Consumer,South,Tablet,Debit Card,5,13664.28,4,65588.54
+01ORD100196,2025-04-16,Corporate,West,Laptop,Net Banking,3,40675.16,16,102501.4
+01ORD101000,2025-09-04,Small Business,East,Accessory,Credit Card,1,21347.41,14,18358.77
+01ORD100835,2025-04-10,Corporate,North,Appliance,Net Banking,2,11964.29,0,23928.58
+01ORD100737,2024-04-08,Home Office,Central,Appliance,Credit Card,1,65007.99,22,50706.23
+01ORD100264,2024-09-19,Home Office,North,Mobile,UPI,5,23480.32,7,109183.49
+01ORD100444,2025-09-25,Home Office,East,Accessory,Net Banking,5,85248.13,9,387878.99
+01ORD100676,2024-02-16,Home Office,North,Laptop,UPI,5,40237.58,29,142843.41
+01ORD100305,2024-06-09,Consumer,East,Tablet,Net Banking,4,66887.62,10,240795.43
+01ORD100342,2024-06-20,Consumer,Central,Mobile,Cash on Delivery,2,63353.03,5,120370.76
+01ORD100967,2025-03-10,Small Business,South,Tablet,UPI,1,78243.3,0,78243.3
+01ORD100150,2025-10-16,Small Business,West,Mobile,UPI,2,43501.65,6,81783.1
+01ORD100125,2025-12-28,Small Business,West,Tablet,Cash on Delivery,4,43767.76,12,154062.52
+01ORD100787,2025-02-25,Small Business,West,Accessory,Debit Card,2,77597.3,24,117947.9
+01ORD100051,2025-01-22,Corporate,North,Laptop,Credit Card,1,22155.01,10,19939.51
+01ORD100354,2024-10-28,Home Office,Central,Mobile,Debit Card,1,19121.83,21,15106.25
+01ORD100928,2025-03-18,Small Business,North,Appliance,UPI,1,83653.39,21,66086.18
+01ORD100143,2025-07-28,Small Business,North,Laptop,Credit Card,1,76366.02,22,59565.5
+01ORD100471,2024-07-22,Corporate,East,Appliance,Net Banking,1,70890.22,9,64510.1
+01ORD100400,2025-12-27,Home Office,North,Laptop,Credit Card,5,929.52,22,3625.13
+01ORD100626,2024-10-27,Small Business,South,Accessory,UPI,2,56651.96,18,92909.21
+01ORD100321,2025-10-31,Home Office,West,Accessory,Credit Card,1,42486.62,23,32714.7
+01ORD100020,2024-11-04,Consumer,West,Laptop,UPI,4,24620.93,1,97498.88
+01ORD100810,2025-06-29,Corporate,North,Tablet,Credit Card,1,900.92,17,747.76
+01ORD100791,2024-11-30,Home Office,North,Accessory,Credit Card,1,40675.07,11,36200.81
+01ORD100809,2024-03-09,Consumer,South,Laptop,Net Banking,1,34287.25,18,28115.54
+01ORD100408,2024-11-09,Corporate,West,Tablet,Cash on Delivery,1,25661.29,11,22838.55
+01ORD100538,2025-04-01,Home Office,North,Laptop,Cash on Delivery,4,89736.91,11,319463.4
+01ORD100621,2025-05-14,Corporate,Central,Tablet,Credit Card,2,63027.59,5,119752.42
+01ORD100039,2024-07-08,Corporate,Central,Accessory,UPI,3,38214.21,17,95153.38
+01ORD100176,2025-01-19,Small Business,West,Appliance,Net Banking,1,22138.97,11,19703.68
+01ORD100246,2024-12-14,Corporate,South,Mobile,UPI,2,14349.47,3,27837.97
+01ORD100829,2025-11-02,Home Office,West,Laptop,UPI,4,83328.67,27,243319.72
+01ORD100668,2024-07-21,Small Business,East,Laptop,UPI,1,7672.97,26,5678.0
+01ORD100755,2025-04-01,Consumer,West,Mobile,Credit Card,2,37315.98,13,64929.81
+01ORD100859,2025-07-26,Consumer,South,Accessory,Credit Card,2,45816.94,21,72390.77
+01ORD100155,2024-06-08,Consumer,South,Mobile,Credit Card,1,12301.2,5,11686.14
+01ORD100288,2025-08-09,Corporate,East,Appliance,Credit Card,5,55190.06,14,237317.26
+01ORD100603,2024-08-17,Consumer,North,Laptop,Credit Card,5,315.9,4,1516.32
+01ORD100570,2025-01-18,Corporate,South,Accessory,UPI,3,55354.83,13,144476.11
+01ORD100744,2025-10-06,Corporate,East,Laptop,UPI,1,23324.47,3,22624.74
+01ORD100018,2024-05-10,Small Business,Central,Laptop,Net Banking,4,6571.87,17,21818.61
+01ORD100128,2025-12-26,Home Office,West,Mobile,UPI,2,26971.75,12,47470.28
+01ORD100323,2024-08-17,Home Office,Central,Appliance,Cash on Delivery,1,11485.85,27,8384.67
+01ORD100256,2025-07-04,Corporate,North,Tablet,Net Banking,3,83569.08,22,195551.65
+01ORD100658,2024-04-26,Home Office,Central,Laptop,Cash on Delivery,1,20053.21,6,18850.02
+01ORD100965,2025-01-26,Home Office,Central,Tablet,Credit Card,4,845.16,12,2974.96
+01ORD100191,2025-11-14,Corporate,North,Appliance,Debit Card,3,22998.34,2,67615.12
+01ORD100116,2024-02-10,Small Business,West,Appliance,Net Banking,2,76673.94,15,130345.7
+01ORD100617,2025-10-09,Home Office,West,Tablet,Credit Card,1,11731.62,9,10675.77
+01ORD100607,2024-06-16,Home Office,South,Appliance,UPI,1,20636.72,29,14652.07
+01ORD100181,2024-09-15,Consumer,South,Appliance,Debit Card,1,35496.72,12,31237.11
+01ORD100302,2024-06-11,Small Business,East,Mobile,Debit Card,1,79218.54,26,58621.72
+01ORD100760,2025-03-21,Corporate,East,Laptop,Cash on Delivery,1,45342.18,23,34913.48
+01ORD100713,2024-09-09,Corporate,West,Accessory,Credit Card,2,35891.68,6,67476.36
+01ORD100724,2025-01-08,Corporate,North,Tablet,Credit Card,1,4322.37,5,4106.25
+01ORD100686,2025-10-17,Small Business,East,Laptop,Cash on Delivery,2,42717.87,19,69202.95
+01ORD100980,2024-01-01,Corporate,North,Laptop,Debit Card,1,13962.96,12,12287.4
+01ORD100518,2024-02-04,Home Office,South,Mobile,Cash on Delivery,5,80776.61,10,363494.74
+01ORD100985,2024-05-18,Small Business,North,Appliance,Debit Card,2,49542.55,5,94130.84
+01ORD100046,2025-04-29,Corporate,West,Tablet,Net Banking,2,11047.66,28,15908.63
+01ORD100910,2024-08-20,Home Office,East,Appliance,Debit Card,3,40076.99,26,88970.92
+01ORD100158,2024-03-26,Small Business,South,Laptop,Net Banking,3,52517.7,20,126042.48
+01ORD100852,2024-04-30,Small Business,Central,Laptop,Cash on Delivery,1,15398.82,21,12165.07
+01ORD100172,2025-04-17,Home Office,West,Mobile,Cash on Delivery,4,24160.93,21,76348.54
+01ORD100017,2025-10-25,Consumer,North,Laptop,UPI,1,60362.35,1,59758.73
+01ORD100512,2025-01-31,Small Business,Central,Mobile,UPI,1,46960.09,12,41324.88
+01ORD100049,2024-06-15,Home Office,South,Mobile,Cash on Delivery,1,66424.07,24,50482.29
+01ORD100972,2025-02-13,Consumer,North,Tablet,Debit Card,1,43198.91,16,36287.08
+01ORD100941,2025-03-21,Small Business,East,Laptop,UPI,4,89518.98,26,264976.18
+01ORD100516,2024-09-09,Corporate,South,Tablet,Net Banking,4,55327.54,9,201392.25
+01ORD100953,2024-11-17,Corporate,South,Laptop,Debit Card,2,63092.07,26,93376.26
+01ORD100481,2024-01-23,Consumer,West,Laptop,Cash on Delivery,2,67942.46,24,103272.54
+01ORD100284,2024-02-23,Corporate,South,Accessory,Net Banking,3,31010.81,23,71634.97
+01ORD100719,2024-01-10,Consumer,Central,Accessory,Debit Card,1,47983.47,26,35507.77
+01ORD100878,2024-12-30,Small Business,Central,Appliance,Cash on Delivery,1,76773.43,25,57580.07
+01ORD100226,2025-12-10,Small Business,Central,Laptop,Net Banking,3,80930.4,29,172381.75
+01ORD100027,2024-06-09,Small Business,West,Tablet,UPI,1,34248.34,24,26028.74
+01ORD100955,2024-03-15,Small Business,West,Laptop,Net Banking,5,36098.29,18,148002.99
+01ORD100438,2025-04-18,Corporate,Central,Tablet,Debit Card,2,88164.71,21,139300.24
+01ORD100952,2024-01-06,Small Business,East,Laptop,Credit Card,2,79631.86,14,136966.8
+01ORD100365,2024-05-07,Consumer,East,Appliance,UPI,5,66104.34,5,313995.61
+01ORD100230,2024-07-21,Corporate,South,Accessory,UPI,2,60160.33,5,114304.63
+01ORD100038,2025-11-30,Consumer,East,Accessory,Net Banking,1,37029.16,23,28512.45
+01ORD100966,2024-01-26,Consumer,North,Laptop,Cash on Delivery,1,9353.43,27,6828.0
+01ORD100375,2024-06-03,Corporate,North,Mobile,Cash on Delivery,5,85542.05,10,384939.22
+01ORD100470,2025-03-28,Small Business,West,Appliance,Credit Card,1,26364.7,12,23200.94
+01ORD100968,2024-06-21,Corporate,North,Mobile,Cash on Delivery,3,61451.85,16,154858.66
+01ORD100851,2024-02-16,Small Business,West,Appliance,Credit Card,1,48042.5,19,38914.43
+01ORD100705,2025-12-04,Home Office,West,Accessory,Cash on Delivery,1,76915.0,14,66146.9
+01ORD100842,2024-08-20,Consumer,West,Laptop,Credit Card,1,49219.69,4,47250.9
+01ORD100195,2025-08-30,Home Office,South,Appliance,UPI,1,34954.5,5,33206.78
+01ORD100855,2024-02-25,Home Office,East,Tablet,UPI,2,32248.85,22,50308.21
+01ORD100865,2024-09-09,Small Business,West,Tablet,UPI,2,52592.7,17,87303.88
+01ORD100504,2025-09-04,Corporate,South,Mobile,Cash on Delivery,1,8734.04,26,6463.19
+01ORD100970,2025-10-06,Consumer,Central,Appliance,Cash on Delivery,1,75833.08,3,73558.09
+01ORD100831,2025-09-25,Corporate,West,Tablet,Cash on Delivery,2,35769.45,4,68677.34
+01ORD100580,2025-04-28,Consumer,South,Appliance,Net Banking,1,28547.29,14,24550.67
+01ORD100969,2024-10-26,Small Business,North,Appliance,Debit Card,5,10428.97,12,45887.47
+01ORD100163,2025-10-07,Consumer,Central,Accessory,Net Banking,1,75136.01,0,75136.01
+01ORD100909,2024-03-07,Consumer,South,Accessory,UPI,1,41200.34,6,38728.32
+01ORD100153,2024-02-05,Small Business,South,Appliance,Debit Card,1,86753.86,2,85018.78
+01ORD100802,2024-03-21,Home Office,Central,Appliance,Net Banking,3,15155.86,23,35010.04
+01ORD100994,2024-01-13,Corporate,South,Appliance,Cash on Delivery,2,41018.03,26,60706.68
+01ORD100756,2024-01-01,Corporate,North,Accessory,Debit Card,4,58253.83,1,230685.17
+01ORD100112,2024-10-15,Home Office,West,Appliance,UPI,2,53606.88,27,78266.04
+01ORD100227,2025-02-19,Consumer,Central,Tablet,Debit Card,3,70487.9,8,194546.6
+01ORD100689,2024-11-25,Corporate,South,Appliance,Credit Card,1,36804.38,26,27235.24
+01ORD100104,2025-04-16,Consumer,East,Laptop,Cash on Delivery,2,60066.73,11,106918.78
+01ORD100422,2024-04-12,Corporate,South,Mobile,Credit Card,1,55886.04,7,51974.02
+01ORD100420,2025-09-11,Home Office,North,Laptop,Cash on Delivery,2,76821.14,1,152105.86
+01ORD100751,2024-03-23,Consumer,East,Mobile,UPI,2,81057.82,7,150767.55
+01ORD100587,2025-11-23,Small Business,North,Accessory,Net Banking,2,7212.9,1,14281.54
+01ORD100781,2024-07-25,Home Office,South,Tablet,Debit Card,4,6343.39,18,20806.32
+01ORD100673,2025-06-15,Small Business,Central,Accessory,Net Banking,2,15083.77,26,22323.98
+01ORD100120,2024-02-02,Consumer,West,Laptop,Net Banking,5,33021.4,11,146945.23
+01ORD100054,2024-01-14,Home Office,Central,Tablet,Debit Card,1,23356.14,26,17283.54
+01ORD100152,2025-06-24,Home Office,North,Appliance,Credit Card,1,35019.96,17,29066.57
+01ORD100404,2025-07-28,Small Business,South,Laptop,UPI,3,36074.59,17,89825.73
+01ORD100946,2024-08-30,Corporate,Central,Accessory,UPI,3,57070.7,0,171212.1
+01ORD100208,2025-09-04,Consumer,Central,Appliance,Cash on Delivery,2,72250.11,5,137275.21
+01ORD100659,2024-05-13,Corporate,East,Laptop,UPI,1,44106.2,15,37490.27
+01ORD100844,2024-12-11,Home Office,West,Tablet,Cash on Delivery,1,54735.9,1,54188.54
+01ORD100763,2024-02-03,Small Business,North,Mobile,UPI,1,14141.64,18,11596.14
+01ORD100009,2024-05-01,Small Business,East,Laptop,Debit Card,2,58181.5,26,86108.62
+01ORD100808,2025-05-22,Home Office,West,Tablet,Cash on Delivery,1,46695.37,18,38290.2
+01ORD100037,2025-04-20,Home Office,South,Laptop,Credit Card,2,15590.87,22,24321.76
+01ORD100453,2024-09-28,Small Business,Central,Laptop,UPI,1,88251.36,23,67953.55
+01ORD100652,2024-07-08,Consumer,West,Appliance,Credit Card,1,38796.68,29,27545.64
+01ORD100254,2025-05-03,Small Business,North,Appliance,Credit Card,1,14981.44,7,13932.74
+01ORD100304,2025-11-11,Corporate,West,Mobile,Debit Card,2,28189.33,18,46230.5
+01ORD100747,2025-07-18,Small Business,East,Laptop,Net Banking,1,59740.01,18,48986.81
+01ORD100572,2025-05-20,Corporate,South,Mobile,Debit Card,1,52078.3,26,38537.94
+01ORD100624,2024-11-22,Home Office,Central,Tablet,Net Banking,2,56033.6,19,90774.43
+01ORD100733,2025-11-19,Corporate,South,Tablet,Net Banking,1,60811.32,11,54122.07
+01ORD100892,2025-09-22,Small Business,North,Accessory,Debit Card,1,3390.17,6,3186.76
+01ORD100263,2025-09-02,Corporate,North,Mobile,Net Banking,1,79169.4,3,76794.32
+01ORD100611,2024-07-12,Small Business,West,Mobile,Debit Card,2,72270.18,24,109850.67
+01ORD100298,2024-04-08,Small Business,West,Mobile,Cash on Delivery,2,66830.57,24,101582.47
+01ORD100415,2025-03-19,Home Office,Central,Laptop,Debit Card,4,33596.28,10,120946.61
+01ORD100151,2024-06-19,Home Office,Central,Appliance,Cash on Delivery,4,16165.78,3,62723.23
+01ORD100789,2024-11-01,Home Office,North,Appliance,Credit Card,2,20596.24,30,28834.74
+01ORD100641,2025-10-14,Small Business,Central,Accessory,Cash on Delivery,2,54012.1,25,81018.15
+01ORD100890,2024-01-15,Small Business,West,Tablet,Credit Card,1,61362.8,16,51544.75
+01ORD100551,2024-10-05,Small Business,Central,Mobile,Credit Card,1,82662.26,20,66129.81
+01ORD100887,2025-05-22,Home Office,East,Laptop,Cash on Delivery,2,67202.65,8,123652.88
+01ORD100489,2024-11-20,Consumer,Central,Tablet,Cash on Delivery,1,67639.44,29,48024.0
+01ORD100148,2025-02-10,Consumer,East,Laptop,UPI,1,32073.99,23,24696.97
+01ORD100147,2025-04-29,Home Office,West,Accessory,Cash on Delivery,3,58969.6,8,162756.1
+01ORD100721,2024-09-07,Small Business,Central,Appliance,Credit Card,1,51856.73,28,37336.85
+01ORD100932,2025-03-12,Home Office,Central,Appliance,Debit Card,1,57038.21,26,42208.28
+01ORD100740,2025-02-08,Small Business,West,Tablet,Cash on Delivery,1,64665.22,2,63371.92
+01ORD100660,2024-02-27,Corporate,West,Appliance,Net Banking,2,66458.65,23,102346.32
+01ORD100349,2024-04-08,Corporate,Central,Appliance,Cash on Delivery,1,57392.21,13,49931.22
+01ORD100464,2025-11-27,Consumer,West,Tablet,UPI,1,59876.66,26,44308.73
+01ORD100326,2025-03-13,Home Office,Central,Appliance,Net Banking,1,70300.86,30,49210.6
+01ORD100187,2024-11-13,Consumer,North,Appliance,Net Banking,1,72855.85,16,61198.91
+01ORD100124,2025-07-27,Small Business,East,Appliance,UPI,1,19293.45,8,17749.97
+01ORD100854,2024-08-26,Small Business,East,Mobile,Cash on Delivery,2,75516.86,14,129889.0
+01ORD100609,2025-01-27,Home Office,East,Mobile,Credit Card,3,11856.73,24,27033.34
+01ORD100144,2024-08-28,Consumer,West,Tablet,Cash on Delivery,2,65270.28,12,114875.69
+01ORD100959,2025-08-28,Small Business,Central,Laptop,Debit Card,4,2496.51,23,7689.25
+01ORD100198,2025-11-22,Corporate,Central,Accessory,Cash on Delivery,1,80077.37,21,63261.12
+01ORD100610,2025-09-25,Home Office,West,Mobile,Debit Card,1,37323.67,28,26873.04
+01ORD100280,2024-07-26,Home Office,South,Mobile,Credit Card,1,8539.82,7,7942.03
+01ORD100294,2024-08-14,Consumer,Central,Tablet,Cash on Delivery,3,39210.91,25,88224.55
+01ORD100401,2024-02-20,Home Office,South,Laptop,Net Banking,1,5437.04,22,4240.89
+01ORD100123,2025-02-10,Small Business,North,Appliance,Credit Card,3,17501.89,6,49355.33
+01ORD100184,2025-03-31,Home Office,Central,Laptop,Credit Card,1,9461.81,23,7285.59
+01ORD100203,2024-09-24,Small Business,East,Accessory,Net Banking,3,40060.6,24,91338.17
+01ORD100439,2024-04-26,Corporate,West,Mobile,Debit Card,2,13302.37,28,19155.41
+01ORD100247,2025-10-21,Home Office,Central,Tablet,UPI,5,4222.09,12,18577.2
+01ORD100416,2025-09-04,Home Office,Central,Laptop,Credit Card,5,38770.15,10,174465.68
+01ORD100933,2025-10-23,Home Office,Central,Tablet,Credit Card,1,58107.98,9,52878.26
+01ORD100766,2024-03-12,Corporate,West,Appliance,UPI,1,66765.02,0,66765.02
+01ORD100907,2025-08-02,Home Office,West,Tablet,Net Banking,1,65395.77,10,58856.19
+01ORD100836,2025-08-26,Corporate,South,Mobile,Cash on Delivery,2,75241.58,29,106843.04
+01ORD100888,2024-09-30,Home Office,North,Accessory,Credit Card,1,49573.23,16,41641.51
+01ORD100130,2025-09-04,Corporate,North,Mobile,Debit Card,1,15607.63,30,10925.34
+01ORD100638,2024-05-05,Small Business,West,Laptop,Cash on Delivery,2,6958.41,4,13360.15
+01ORD100403,2025-11-28,Corporate,North,Appliance,Cash on Delivery,1,12081.04,21,9544.02
+01ORD100785,2025-03-10,Home Office,Central,Laptop,UPI,1,7261.03,10,6534.93
+01ORD100771,2025-03-13,Corporate,Central,Laptop,Cash on Delivery,4,62629.95,0,250519.8
+01ORD100736,2024-04-14,Home Office,East,Laptop,Net Banking,3,85875.77,12,226712.03
+01ORD100914,2024-08-15,Consumer,West,Laptop,Net Banking,3,43039.56,19,104586.13
+01ORD100220,2025-09-29,Home Office,South,Mobile,Cash on Delivery,1,49599.56,26,36703.67
+01ORD100642,2024-08-07,Home Office,East,Mobile,Net Banking,1,6083.87,17,5049.61
+01ORD100916,2025-04-14,Corporate,South,Tablet,UPI,2,5633.6,8,10365.82
+01ORD100753,2024-03-25,Corporate,North,Tablet,UPI,2,29099.97,25,43649.96
+01ORD100807,2024-11-25,Home Office,Central,Mobile,Debit Card,2,30776.26,22,48010.97
+01ORD100920,2025-08-17,Consumer,South,Accessory,Debit Card,1,21861.3,18,17926.27
+01ORD100625,2024-08-04,Small Business,South,Laptop,Cash on Delivery,2,50457.88,2,98897.44
+01ORD100875,2024-03-18,Small Business,Central,Mobile,Credit Card,1,41690.66,16,35020.15
+01ORD100761,2025-03-24,Home Office,Central,Laptop,Net Banking,3,12755.76,26,28317.79
+01ORD100387,2025-06-08,Corporate,North,Accessory,Credit Card,4,76788.7,27,224223.0
+01ORD100973,2024-04-27,Consumer,South,Laptop,UPI,1,13323.13,8,12257.28
+01ORD100510,2025-07-09,Corporate,South,Laptop,UPI,1,17865.92,25,13399.44
+01ORD100268,2025-07-25,Small Business,North,Laptop,Credit Card,2,88061.24,28,126808.19
+01ORD100820,2025-01-08,Small Business,South,Accessory,Debit Card,4,9740.75,10,35066.7
+01ORD100442,2025-10-02,Consumer,East,Tablet,Credit Card,4,30641.2,8,112759.62
+01ORD100497,2025-10-25,Corporate,East,Laptop,Credit Card,4,33661.36,16,113102.17
+01ORD100113,2025-01-13,Corporate,East,Tablet,Credit Card,3,84298.49,8,232663.83
+01ORD100692,2025-10-29,Home Office,East,Laptop,UPI,5,3866.01,5,18363.55
+01ORD100233,2025-02-04,Corporate,East,Tablet,Credit Card,1,23684.98,24,18000.58
+01ORD100870,2024-02-25,Small Business,Central,Tablet,Credit Card,1,70479.23,7,65545.68
+01ORD100608,2024-06-18,Home Office,North,Laptop,Credit Card,1,34529.59,8,31767.22
+01ORD100672,2025-10-20,Home Office,East,Tablet,Debit Card,5,30870.17,9,140459.27
+01ORD100374,2025-09-30,Corporate,East,Laptop,Debit Card,3,66675.78,15,170023.24
+01ORD100982,2025-10-15,Home Office,South,Appliance,Credit Card,2,2274.81,9,4140.15
+01ORD100843,2025-06-07,Small Business,South,Accessory,Cash on Delivery,1,8210.69,26,6075.91
+01ORD100234,2024-10-20,Corporate,East,Accessory,Cash on Delivery,1,6511.11,0,6511.11
+01ORD100786,2024-04-12,Home Office,South,Appliance,Cash on Delivery,5,48964.33,9,222787.7
+01ORD100677,2024-08-20,Consumer,South,Tablet,Debit Card,1,71054.56,8,65370.2
+01ORD100318,2025-04-14,Consumer,Central,Laptop,Debit Card,4,61149.58,14,210354.56
+01ORD100649,2024-01-01,Consumer,North,Tablet,Credit Card,1,47958.09,18,39325.63
+01ORD100411,2024-10-31,Small Business,East,Mobile,Cash on Delivery,1,25031.07,26,18522.99
+01ORD100899,2024-03-26,Small Business,South,Laptop,Credit Card,1,27428.54,15,23314.26
+01ORD100710,2025-04-05,Consumer,West,Appliance,Cash on Delivery,1,41816.82,14,35962.47
+01ORD100359,2024-04-25,Home Office,Central,Accessory,Credit Card,2,66273.85,13,115316.5
+01ORD100259,2025-04-17,Home Office,Central,Accessory,Credit Card,1,1439.53,7,1338.76
+01ORD100745,2025-03-12,Corporate,South,Accessory,Debit Card,1,59975.7,17,49779.83
+01ORD100628,2024-03-10,Home Office,West,Mobile,Debit Card,4,57266.49,14,196996.73
+01ORD100633,2024-06-15,Small Business,West,Laptop,Debit Card,1,23918.43,18,19613.11
+01ORD100283,2024-05-31,Consumer,South,Appliance,Cash on Delivery,2,13814.65,4,26524.13
+01ORD100377,2025-01-20,Home Office,East,Accessory,Credit Card,4,51028.83,17,169415.72
+01ORD100385,2025-06-21,Consumer,North,Mobile,Net Banking,3,70496.6,3,205145.11
+01ORD100225,2025-11-02,Home Office,Central,Tablet,Credit Card,1,46463.79,14,39958.86
+01ORD100954,2025-04-12,Home Office,West,Appliance,Net Banking,2,9664.05,21,15269.2
+01ORD100815,2024-02-12,Consumer,North,Mobile,UPI,1,76287.41,0,76287.41
+01ORD100473,2025-04-18,Corporate,South,Tablet,Cash on Delivery,4,32229.81,8,118605.7
+01ORD100348,2025-06-01,Home Office,Central,Appliance,UPI,1,29192.09,20,23353.67
+01ORD100506,2025-07-30,Small Business,Central,Mobile,Cash on Delivery,1,68245.13,3,66197.78
+01ORD100640,2024-06-21,Home Office,East,Mobile,Cash on Delivery,4,65802.08,22,205302.49
+01ORD100988,2025-11-03,Consumer,East,Tablet,Cash on Delivery,5,19551.14,17,81137.23
+01ORD100929,2024-11-10,Consumer,North,Appliance,Debit Card,4,3039.29,2,11914.02
+01ORD100906,2024-01-25,Corporate,North,Appliance,UPI,2,32794.45,25,49191.68
+01ORD100620,2024-12-07,Home Office,West,Appliance,Net Banking,5,74394.7,6,349655.09
+01ORD100856,2024-12-15,Corporate,West,Laptop,Credit Card,5,74464.3,13,323919.7
+01ORD100804,2024-05-17,Home Office,East,Accessory,Cash on Delivery,2,4315.63,2,8458.63
+01ORD100646,2025-04-20,Small Business,Central,Tablet,Net Banking,5,30833.4,24,117166.92
+01ORD100847,2024-03-18,Consumer,East,Appliance,Debit Card,1,87374.57,6,82132.1
+01ORD100557,2024-12-07,Consumer,East,Accessory,Cash on Delivery,2,28470.25,14,48968.83
+01ORD100958,2024-04-27,Home Office,East,Tablet,UPI,5,61959.35,26,229249.6
+01ORD100578,2024-01-25,Small Business,South,Appliance,Debit Card,3,66613.74,0,199841.22
+01ORD100796,2024-06-14,Home Office,East,Accessory,Debit Card,1,1403.18,18,1150.61
+01ORD100086,2025-12-02,Consumer,North,Tablet,UPI,1,73739.53,20,58991.62
+01ORD100243,2024-07-05,Home Office,West,Accessory,Net Banking,1,82849.66,15,70422.21
+01ORD100699,2025-10-09,Small Business,Central,Accessory,Net Banking,2,56139.02,16,94313.55
+01ORD100160,2025-11-12,Small Business,South,Accessory,UPI,1,17314.63,7,16102.61
+01ORD100525,2025-09-08,Corporate,Central,Laptop,UPI,5,73886.86,21,291853.1
+01ORD100036,2025-11-12,Small Business,South,Tablet,UPI,1,68007.95,16,57126.68
+01ORD100541,2024-04-08,Home Office,West,Mobile,Net Banking,1,11944.43,18,9794.43
+01ORD100171,2024-12-13,Consumer,Central,Accessory,Net Banking,1,45089.24,16,37874.96
+01ORD100655,2025-05-22,Consumer,West,Mobile,Net Banking,1,51728.44,14,44486.46
+01ORD100891,2024-07-10,Corporate,Central,Accessory,Credit Card,1,42169.35,11,37530.72
+01ORD100858,2024-02-17,Small Business,North,Laptop,UPI,1,16191.23,18,13276.81
+01ORD100848,2025-12-30,Small Business,North,Laptop,UPI,4,69685.44,3,270379.51
+01ORD100945,2024-05-16,Consumer,West,Mobile,Credit Card,2,30956.88,3,60056.35
+01ORD100734,2025-04-05,Small Business,East,Appliance,Net Banking,1,26915.47,15,22878.15
+01ORD100096,2024-02-10,Small Business,Central,Mobile,Cash on Delivery,1,28440.37,14,24458.72
+01ORD100564,2025-03-20,Home Office,East,Laptop,Credit Card,1,8119.0,15,6901.15
+01ORD100241,2024-07-19,Small Business,Central,Mobile,Credit Card,3,10520.91,11,28090.83
+01ORD100743,2025-12-09,Small Business,West,Tablet,Credit Card,2,78481.32,3,152253.76
+01ORD100575,2024-03-09,Corporate,West,Mobile,Net Banking,1,75982.24,14,65344.73
+01ORD100691,2025-02-11,Small Business,West,Accessory,Debit Card,3,561.02,4,1615.74
+01ORD100461,2025-10-17,Corporate,South,Mobile,Cash on Delivery,2,76267.61,26,112876.06
+01ORD100554,2024-03-02,Small Business,South,Tablet,UPI,1,88928.48,22,69364.21
+01ORD100889,2025-05-20,Home Office,Central,Laptop,Debit Card,5,5478.37,26,20269.97
+01ORD100207,2024-04-22,Corporate,South,Accessory,UPI,4,59414.49,25,178243.47
+01ORD100393,2025-05-26,Small Business,Central,Mobile,Credit Card,3,84379.59,24,192385.47
+01ORD100795,2024-09-05,Consumer,West,Appliance,Credit Card,1,80100.79,21,63279.62
+01ORD100398,2024-04-01,Consumer,South,Accessory,UPI,1,81871.3,17,67953.18
+01ORD100767,2025-07-04,Small Business,East,Tablet,Net Banking,1,47839.24,16,40184.96
+01ORD100849,2024-03-13,Small Business,South,Appliance,Debit Card,5,88214.78,0,441073.9
+01ORD100218,2025-01-19,Corporate,Central,Appliance,Debit Card,4,32128.27,25,96384.81
+01ORD100005,2024-03-12,Home Office,North,Accessory,UPI,2,30548.27,29,43378.54
+01ORD100769,2024-09-06,Consumer,Central,Accessory,Credit Card,2,89215.31,18,146313.11
+01ORD100643,2025-09-29,Corporate,East,Accessory,Net Banking,4,78987.38,29,224324.16
+01ORD100930,2025-01-11,Home Office,South,Mobile,Credit Card,1,78521.74,5,74595.65
+01ORD100613,2024-01-29,Consumer,South,Accessory,UPI,1,1913.61,21,1511.75
+01ORD100739,2025-01-19,Home Office,North,Mobile,Cash on Delivery,2,487.71,16,819.35
+01ORD100547,2024-02-06,Small Business,East,Laptop,UPI,2,34297.73,6,64479.73
+01ORD100726,2024-05-25,Home Office,West,Tablet,Net Banking,1,83668.57,19,67771.54
+01ORD100684,2025-07-19,Consumer,West,Mobile,Net Banking,1,23861.01,3,23145.18
+01ORD100099,2024-03-05,Small Business,Central,Appliance,Net Banking,4,80873.07,8,297612.9
+01ORD100805,2024-07-02,Consumer,South,Laptop,Debit Card,2,68642.04,17,113945.79
+01ORD100728,2024-08-26,Consumer,Central,Laptop,UPI,1,35270.55,20,28216.44
+01ORD100574,2024-05-23,Small Business,West,Laptop,Cash on Delivery,1,72614.77,25,54461.08
+01ORD100407,2024-05-29,Home Office,East,Appliance,Net Banking,3,1501.22,3,4368.55
+01ORD100503,2025-03-02,Corporate,West,Accessory,Cash on Delivery,1,17048.08,20,13638.46
+01ORD100048,2024-01-21,Small Business,Central,Appliance,Cash on Delivery,4,2095.36,10,7543.3
+01ORD100033,2025-04-19,Home Office,North,Mobile,Debit Card,4,8261.44,17,27427.98
+01ORD100780,2024-10-29,Corporate,North,Laptop,Cash on Delivery,1,73559.07,2,72087.89
+01ORD100840,2025-05-27,Small Business,Central,Mobile,Cash on Delivery,3,40137.26,18,98737.66
+01ORD100201,2025-03-17,Home Office,Central,Appliance,Debit Card,1,9779.71,28,7041.39
+01ORD100135,2025-05-17,Corporate,South,Laptop,Debit Card,1,62337.14,5,59220.28
+01ORD100028,2025-04-04,Home Office,West,Appliance,Cash on Delivery,1,32855.1,30,22998.57
+01ORD100881,2025-11-29,Small Business,North,Tablet,Cash on Delivery,2,12172.8,29,17285.38
+01ORD100231,2024-07-02,Small Business,North,Appliance,Debit Card,1,1234.36,6,1160.3
+01ORD100490,2025-05-30,Small Business,East,Accessory,Debit Card,5,50349.87,2,246714.36
+01ORD100773,2024-11-01,Consumer,Central,Appliance,Credit Card,1,40561.12,26,30015.23
+01ORD100379,2025-01-27,Small Business,East,Appliance,UPI,3,15125.88,30,31764.35
+01ORD100289,2025-09-16,Consumer,South,Tablet,Net Banking,2,9800.98,27,14309.43
+01ORD100419,2025-07-25,Corporate,West,Laptop,Debit Card,1,14326.45,1,14183.19
+01ORD100675,2025-02-05,Home Office,Central,Appliance,Debit Card,3,85344.32,30,179223.07
+01ORD100392,2024-11-16,Home Office,East,Tablet,Debit Card,4,39334.68,29,111710.49
+01ORD100593,2024-05-12,Corporate,South,Laptop,Credit Card,1,68754.03,2,67378.95
+01ORD100499,2025-11-05,Home Office,West,Laptop,Debit Card,1,35944.11,12,31630.82
+01ORD100139,2024-01-15,Consumer,West,Mobile,Net Banking,3,21167.3,21,50166.5
+01ORD100063,2025-05-23,Corporate,North,Laptop,Net Banking,2,30947.2,18,50753.41
+01ORD100472,2024-08-05,Small Business,Central,Mobile,Net Banking,1,10339.65,3,10029.46
+01ORD100648,2024-12-26,Consumer,West,Laptop,Credit Card,2,56467.0,26,83571.16
+01ORD100129,2025-06-30,Home Office,South,Appliance,Cash on Delivery,5,38900.24,3,188666.16
+01ORD100977,2024-04-22,Consumer,South,Accessory,Debit Card,1,77746.05,9,70748.91
+01ORD100521,2025-08-27,Home Office,South,Tablet,Cash on Delivery,1,53949.7,4,51791.71
+01ORD100839,2025-02-08,Small Business,East,Laptop,Cash on Delivery,1,42817.38,8,39391.99
+01ORD100963,2024-07-12,Home Office,West,Mobile,Net Banking,1,52059.55,29,36962.28
+01ORD100065,2024-07-24,Home Office,South,Mobile,Net Banking,1,31364.06,5,29795.86
+01ORD100813,2024-07-23,Small Business,South,Appliance,Debit Card,1,53759.2,7,49996.06
+01ORD100015,2025-01-07,Corporate,West,Laptop,UPI,1,39983.17,30,27988.22
+01ORD100157,2024-08-30,Small Business,North,Laptop,Debit Card,1,71192.29,11,63361.14
+01ORD100041,2025-07-16,Corporate,South,Accessory,Cash on Delivery,5,409.93,8,1885.68
+01ORD100493,2024-09-14,Corporate,West,Laptop,Debit Card,2,31125.59,6,58516.11
+01ORD100380,2024-09-02,Small Business,South,Tablet,Net Banking,1,63111.6,27,46071.47
+01ORD100188,2025-11-07,Consumer,West,Mobile,Credit Card,1,7153.59,3,6938.98
+01ORD100764,2024-12-13,Small Business,West,Accessory,Credit Card,5,15713.81,5,74640.6
+01ORD100217,2024-08-12,Small Business,East,Mobile,Credit Card,4,70609.69,27,206180.29
+01ORD100792,2025-03-10,Small Business,Central,Appliance,Net Banking,4,52259.19,22,163048.67
+01ORD100053,2024-11-11,Home Office,South,Laptop,Cash on Delivery,2,8634.74,8,15887.92
+01ORD100879,2025-10-27,Corporate,South,Laptop,UPI,1,64065.36,4,61502.75
+01ORD100338,2024-07-10,Small Business,East,Appliance,Net Banking,3,46055.84,23,106388.99
+01ORD100749,2025-12-14,Corporate,South,Laptop,Debit Card,1,53789.04,19,43569.12
+01ORD100720,2024-08-29,Home Office,East,Tablet,Credit Card,2,79222.68,8,145769.73
+01ORD100725,2024-03-05,Corporate,West,Appliance,Credit Card,1,40717.55,5,38681.67
+01ORD100296,2025-05-24,Consumer,East,Laptop,UPI,2,50355.4,6,94668.15
+01ORD100702,2024-06-26,Consumer,East,Tablet,UPI,1,42842.67,23,32988.86
+01ORD100252,2024-05-27,Consumer,North,Laptop,Net Banking,2,49642.25,8,91341.74
+01ORD100727,2024-08-11,Consumer,Central,Tablet,Credit Card,5,15117.79,19,61227.05
+01ORD100462,2025-03-10,Consumer,Central,Accessory,Credit Card,2,38747.16,21,61220.51
+01ORD100456,2025-03-22,Home Office,West,Laptop,Debit Card,1,48965.36,7,45537.78
+01ORD100997,2025-08-18,Consumer,North,Laptop,Net Banking,2,57446.05,24,87318.0
+01ORD100816,2024-04-20,Home Office,South,Tablet,Debit Card,5,47937.36,16,201336.91
+01ORD100863,2024-01-08,Corporate,South,Accessory,Credit Card,5,49170.04,28,177012.14
+01ORD100270,2024-10-30,Consumer,East,Tablet,Cash on Delivery,1,50334.85,1,49831.5
+01ORD100202,2025-07-17,Consumer,North,Laptop,Cash on Delivery,5,88947.29,10,400262.8
+01ORD100162,2025-07-27,Home Office,East,Accessory,Credit Card,1,29316.99,21,23160.42
+01ORD100556,2025-12-29,Consumer,West,Tablet,Debit Card,1,58753.61,19,47590.42
+01ORD100730,2024-10-08,Corporate,East,Appliance,Cash on Delivery,1,79437.59,16,66727.58
+01ORD100402,2025-10-26,Corporate,South,Mobile,Credit Card,1,20501.57,5,19476.49
+01ORD100703,2025-06-23,Small Business,North,Accessory,UPI,2,53299.81,1,105533.62
+01ORD100477,2025-09-03,Corporate,West,Appliance,Credit Card,4,30777.04,26,91100.04
+01ORD100822,2024-12-25,Corporate,West,Laptop,Debit Card,3,87489.67,26,194227.07
+01ORD100772,2024-04-27,Corporate,North,Laptop,Cash on Delivery,4,48063.6,4,184564.22
+01ORD100106,2024-05-18,Small Business,East,Laptop,UPI,1,43196.59,9,39308.9
+01ORD100566,2024-03-16,Consumer,East,Accessory,Cash on Delivery,3,37983.65,15,96858.31
+01ORD100390,2025-11-15,Consumer,North,Tablet,Cash on Delivery,1,41716.43,26,30870.16
+01ORD100002,2025-03-11,Consumer,Central,Accessory,Cash on Delivery,1,30894.78,23,23788.98
+01ORD100938,2025-09-15,Consumer,East,Mobile,Debit Card,3,71466.44,8,197247.37
+01ORD100983,2024-11-15,Corporate,North,Tablet,UPI,1,52617.2,5,49986.34
+01ORD100562,2025-09-03,Consumer,East,Tablet,Credit Card,1,22216.29,7,20661.15
+01ORD100081,2024-09-27,Small Business,Central,Tablet,Net Banking,2,60784.05,22,94823.12
+01ORD100206,2025-01-21,Home Office,East,Laptop,Cash on Delivery,3,67233.79,27,147242.0
+01ORD100035,2025-05-25,Corporate,North,Tablet,Credit Card,4,57254.92,5,217568.7
+01ORD100776,2024-08-23,Small Business,North,Mobile,Credit Card,2,81938.08,7,152404.83
+01ORD100509,2024-02-12,Home Office,Central,Tablet,Credit Card,4,57946.92,0,231787.68
+01ORD100428,2025-01-04,Small Business,East,Appliance,Cash on Delivery,2,21538.55,14,37046.31
+01ORD100455,2025-12-04,Home Office,South,Laptop,Net Banking,5,36535.82,27,133355.74
+01ORD100367,2025-07-19,Corporate,North,Tablet,UPI,3,15860.16,7,44249.85
+01ORD100092,2024-08-04,Consumer,North,Appliance,Cash on Delivery,2,51700.82,11,92027.46
+01ORD100340,2025-05-26,Consumer,South,Tablet,UPI,1,9640.12,0,9640.12
+01ORD100898,2024-08-18,Small Business,West,Appliance,Debit Card,5,44425.22,2,217683.58
+01ORD100565,2024-08-20,Home Office,West,Laptop,Net Banking,1,64800.25,18,53136.2
+01ORD100346,2024-02-15,Home Office,South,Accessory,Credit Card,1,54311.46,28,39104.25
+01ORD100777,2025-01-23,Home Office,West,Accessory,Debit Card,5,72778.63,12,320225.97
+01ORD100242,2024-05-03,Corporate,Central,Tablet,Debit Card,3,43894.59,15,111931.2
+01ORD100014,2024-03-28,Corporate,Central,Accessory,Net Banking,1,55657.87,22,43413.14
+01ORD100316,2025-11-18,Consumer,Central,Laptop,Net Banking,2,67533.23,0,135066.46
+01ORD100601,2025-05-06,Home Office,North,Appliance,Debit Card,1,58672.94,22,45764.89
+01ORD100388,2025-05-20,Corporate,East,Appliance,Cash on Delivery,1,20530.06,15,17450.55
+01ORD100274,2024-02-06,Corporate,Central,Laptop,Net Banking,1,67859.9,27,49537.73
+01ORD100167,2024-12-05,Corporate,North,Mobile,Credit Card,1,4123.2,10,3710.88
+01ORD100841,2025-10-06,Home Office,East,Appliance,UPI,3,89537.76,21,212204.49
+01ORD100993,2024-06-20,Home Office,West,Accessory,Cash on Delivery,3,78062.93,19,189692.92
+01ORD100647,2025-03-31,Consumer,East,Mobile,Cash on Delivery,2,89014.84,15,151325.23
+01ORD100819,2024-04-04,Consumer,Central,Mobile,Debit Card,3,50503.05,20,121207.32
+01ORD100485,2024-08-10,Small Business,West,Laptop,Credit Card,1,14796.3,2,14500.37
+01ORD100981,2024-03-30,Corporate,West,Accessory,UPI,3,24174.27,13,63094.84
+01ORD100505,2024-09-24,Corporate,South,Accessory,Debit Card,4,32292.39,17,107210.73
+01ORD100832,2024-02-20,Corporate,East,Laptop,Debit Card,1,28393.6,21,22430.94
+01ORD100244,2024-11-21,Corporate,South,Tablet,Cash on Delivery,2,47011.9,10,84621.42
+01ORD100567,2024-09-21,Small Business,South,Laptop,Net Banking,1,81509.78,6,76619.19
+01ORD100876,2024-08-03,Home Office,West,Laptop,UPI,5,65853.38,1,325974.23
+01ORD100563,2025-01-30,Small Business,Central,Laptop,Credit Card,1,10430.01,8,9595.61
+01ORD100687,2025-04-15,Corporate,East,Accessory,UPI,1,88549.48,14,76152.55
+01ORD100190,2024-08-21,Consumer,Central,Mobile,Debit Card,3,83748.6,9,228633.68
+01ORD100783,2025-07-31,Small Business,West,Appliance,Debit Card,5,76709.16,15,326013.93
+01ORD100700,2025-11-28,Home Office,West,Accessory,Net Banking,3,42435.02,8,117120.66
+01ORD100476,2025-07-04,Corporate,East,Appliance,Debit Card,2,44902.86,22,70048.46
+01ORD100682,2025-05-27,Small Business,North,Laptop,Net Banking,3,70870.51,24,161584.76
+01ORD100511,2024-10-11,Corporate,West,Appliance,Cash on Delivery,4,80756.13,25,242268.39
+01ORD100059,2024-04-01,Small Business,Central,Accessory,Net Banking,1,14588.57,17,12108.51
+01ORD100475,2024-12-06,Consumer,Central,Tablet,UPI,1,71519.88,23,55070.31
+01ORD100561,2024-06-25,Consumer,East,Mobile,Credit Card,1,47430.51,28,34149.97
+01ORD100857,2024-04-16,Small Business,Central,Laptop,UPI,1,63897.53,22,49840.07
+01ORD100748,2025-11-07,Small Business,East,Mobile,Cash on Delivery,3,8576.95,10,23157.77
+01ORD100253,2025-12-11,Corporate,Central,Mobile,Credit Card,4,35161.16,10,126580.18
+01ORD100022,2025-05-06,Home Office,Central,Appliance,Debit Card,2,61306.83,10,110352.29
+01ORD100314,2025-10-01,Consumer,East,Accessory,Debit Card,4,74990.44,10,269965.58
+01ORD100460,2024-06-02,Small Business,Central,Tablet,Net Banking,2,20584.39,15,34993.46
+01ORD100161,2025-07-10,Corporate,East,Laptop,Debit Card,5,55818.65,21,220483.67
+01ORD100277,2024-08-20,Home Office,East,Tablet,Credit Card,5,65595.86,25,245984.47
+01ORD100956,2024-01-04,Home Office,East,Appliance,Net Banking,5,65165.51,15,276953.42
+01ORD100192,2025-10-25,Home Office,West,Tablet,UPI,1,70369.99,24,53481.19
+01ORD100386,2025-02-11,Consumer,South,Accessory,UPI,1,5334.41,2,5227.72
+01ORD100806,2025-02-04,Small Business,East,Laptop,Credit Card,2,85213.01,15,144862.12
+01ORD100414,2024-02-23,Corporate,Central,Laptop,Cash on Delivery,5,87741.67,16,368515.01
+01ORD100492,2024-12-01,Home Office,West,Accessory,Cash on Delivery,5,8744.43,16,36726.61
+01ORD100344,2024-06-06,Small Business,Central,Mobile,Net Banking,2,43946.81,1,87014.68
+01ORD100770,2025-11-04,Small Business,Central,Mobile,Credit Card,1,73854.13,20,59083.3
+01ORD100309,2025-05-18,Corporate,Central,Tablet,Net Banking,4,33959.81,7,126330.49
+01ORD100662,2025-11-15,Home Office,East,Accessory,UPI,1,3227.32,20,2581.86
+01ORD100131,2025-04-06,Corporate,North,Accessory,Credit Card,5,6993.29,1,34616.79
+01ORD100664,2024-06-21,Small Business,Central,Tablet,Cash on Delivery,3,6101.41,20,14643.38
+01ORD100872,2025-06-09,Consumer,South,Accessory,Net Banking,1,27252.9,29,19349.56
+01ORD100100,2025-06-04,Small Business,Central,Accessory,Credit Card,1,74690.12,20,59752.1
+01ORD100373,2025-10-24,Small Business,Central,Mobile,Cash on Delivery,2,67324.6,16,113105.33
+01ORD100088,2025-12-25,Small Business,South,Mobile,Cash on Delivery,2,2352.58,12,4140.54
+01ORD100459,2024-03-16,Home Office,West,Tablet,Credit Card,2,55276.14,7,102813.62
+01ORD100331,2025-08-31,Corporate,Central,Laptop,Debit Card,5,16299.02,16,68455.88
+01ORD100215,2024-08-07,Home Office,West,Accessory,Debit Card,1,87375.27,16,73395.23
+01ORD100467,2024-03-09,Home Office,Central,Mobile,Net Banking,1,77619.23,2,76066.85
+01ORD100122,2025-05-17,Corporate,South,Accessory,Cash on Delivery,2,50929.37,27,74356.88
+01ORD100615,2025-02-25,Home Office,South,Tablet,UPI,5,2736.6,4,13135.68
+01ORD100021,2024-12-09,Consumer,West,Accessory,Debit Card,5,53474.24,30,187159.84
+01ORD100701,2024-11-11,Home Office,Central,Tablet,Credit Card,1,40436.89,30,28305.82
+01ORD100072,2024-04-15,Corporate,North,Tablet,Credit Card,2,14809.25,25,22213.88
+01ORD100107,2025-05-13,Corporate,North,Laptop,Net Banking,5,45696.85,16,191926.77
+01ORD100271,2024-09-10,Consumer,Central,Tablet,Credit Card,3,16498.34,27,36131.36
+01ORD100861,2024-01-26,Small Business,West,Appliance,Credit Card,1,21381.84,23,16464.02
+01ORD100436,2024-02-27,Small Business,West,Tablet,UPI,1,56309.96,23,43358.67
+01ORD100103,2025-10-09,Home Office,North,Mobile,UPI,4,74319.51,18,243767.99

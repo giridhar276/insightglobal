@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Segment,Region,Product_Category,Payment_Method,Quantity,Unit_Price,Discount_Percent,Order_Value
+06ORD100522,2024-02-06,Professional,South,Outdoor,UPI,5,3788.07,22,14773.47
+06ORD100738,2025-12-30,Beginner,Central,Apparel,Cash on Delivery,1,5450.8,0,5450.8
+06ORD100741,2024-06-10,Intermediate,Central,Outdoor,UPI,1,12930.88,23,9956.78
+06ORD100661,2025-08-05,Intermediate,East,Outdoor,UPI,2,8863.64,4,17018.19
+06ORD100412,2025-12-20,Intermediate,West,Outdoor,Wallet,2,6348.56,23,9776.78
+06ORD100679,2024-12-12,Professional,South,Fitness,Debit Card,2,17088.66,0,34177.32
+06ORD100627,2024-06-15,Beginner,East,Outdoor,Credit Card,1,16123.78,27,11770.36
+06ORD100514,2025-02-11,Intermediate,West,Footwear,Cash on Delivery,5,18879.5,19,76461.98
+06ORD100860,2025-09-30,Professional,West,Fitness,Credit Card,2,2176.1,24,3307.67
+06ORD100137,2025-11-10,Beginner,West,Outdoor,UPI,2,8515.7,18,13965.75
+06ORD100812,2025-05-08,Professional,Central,Outdoor,Cash on Delivery,5,14777.77,28,53199.97
+06ORD100077,2024-10-04,Team,West,Indoor,Debit Card,3,18062.27,27,39556.37
+06ORD100637,2024-11-04,Professional,West,Fitness,UPI,1,16045.46,23,12355.0
+06ORD100974,2024-08-11,Team,Central,Outdoor,UPI,2,15495.06,25,23242.59
+06ORD100939,2024-03-13,Beginner,Central,Fitness,Wallet,5,11612.61,22,45289.18
+06ORD100900,2024-01-28,Professional,North,Footwear,UPI,5,4449.15,36,14237.28
+06ORD100281,2024-08-21,Team,West,Indoor,Debit Card,5,18798.88,22,73315.63
+06ORD100884,2024-10-27,Professional,North,Apparel,UPI,2,9717.79,23,14965.4
+06ORD100762,2025-11-18,Professional,North,Outdoor,Wallet,1,5169.72,28,3722.2
+06ORD100320,2025-11-03,Beginner,East,Indoor,UPI,1,10550.9,24,8018.68
+06ORD100550,2024-12-10,Beginner,South,Fitness,UPI,2,7335.19,34,9682.45
+06ORD100175,2024-04-06,Intermediate,Central,Outdoor,Credit Card,2,909.58,31,1255.22
+06ORD100372,2024-10-07,Beginner,East,Fitness,Debit Card,2,17111.33,6,32169.3
+06ORD100528,2024-07-06,Intermediate,West,Footwear,Cash on Delivery,1,12572.64,21,9932.39
+06ORD100211,2024-01-14,Professional,North,Fitness,Debit Card,4,5653.84,14,19449.21
+06ORD100236,2024-07-08,Team,North,Indoor,Credit Card,1,12202.17,26,9029.61
+06ORD100102,2025-05-27,Team,East,Outdoor,Cash on Delivery,4,3237.03,30,9063.68
+06ORD100987,2025-03-30,Beginner,North,Outdoor,Credit Card,3,14916.09,6,42063.37
+06ORD100903,2024-07-05,Team,North,Footwear,Debit Card,3,1962.68,34,3886.11
+06ORD100948,2025-09-11,Intermediate,South,Footwear,Debit Card,1,14027.44,28,10099.76
+06ORD100347,2024-06-25,Professional,East,Outdoor,Credit Card,3,6868.09,25,15453.2
+06ORD100140,2024-08-11,Beginner,West,Apparel,UPI,4,12410.91,39,30282.62
+06ORD100622,2025-12-07,Beginner,East,Footwear,Cash on Delivery,1,19476.4,28,14023.01
+06ORD100500,2024-03-25,Intermediate,East,Apparel,Debit Card,1,14897.74,19,12067.17
+06ORD100371,2024-05-25,Team,Central,Indoor,Debit Card,1,3273.47,23,2520.57
+06ORD100199,2025-05-03,Beginner,West,Indoor,Credit Card,2,741.22,27,1082.18
+06ORD100688,2025-05-12,Team,North,Indoor,Debit Card,1,17956.99,14,15443.01
+06ORD100585,2025-12-18,Team,East,Footwear,UPI,1,15816.78,40,9490.07
+06ORD100902,2025-05-13,Professional,Central,Footwear,UPI,5,18537.45,33,62100.46
+06ORD100060,2025-12-01,Beginner,South,Footwear,UPI,5,647.18,14,2782.87
+06ORD100329,2025-01-13,Intermediate,South,Indoor,Debit Card,4,15156.42,33,40619.21
+06ORD100097,2025-08-23,Intermediate,East,Outdoor,Debit Card,2,11136.45,29,15813.76
+06ORD100313,2024-03-18,Professional,Central,Indoor,Wallet,3,19056.56,23,44020.65
+06ORD100975,2025-08-01,Team,North,Outdoor,UPI,2,19007.69,4,36494.76
+06ORD100300,2024-04-28,Professional,North,Fitness,Credit Card,1,13527.89,35,8793.13
+06ORD100278,2024-03-10,Team,North,Fitness,Debit Card,1,13854.75,37,8728.49
+06ORD100925,2025-12-18,Beginner,Central,Indoor,UPI,4,2277.95,26,6742.73
+06ORD100602,2025-03-02,Professional,South,Outdoor,UPI,5,7809.2,38,24208.52
+06ORD100440,2025-09-18,Intermediate,East,Outdoor,Cash on Delivery,1,13427.64,23,10339.28
+06ORD100838,2025-08-22,Beginner,North,Outdoor,Cash on Delivery,5,14402.67,29,51129.48
+06ORD100571,2024-04-07,Intermediate,North,Footwear,UPI,2,2756.3,16,4630.58
+06ORD100880,2024-02-26,Professional,South,Outdoor,Debit Card,1,13091.93,24,9949.87
+06ORD100262,2025-12-27,Intermediate,West,Fitness,Wallet,3,1373.58,5,3914.7
+06ORD100579,2025-01-11,Team,West,Apparel,Debit Card,1,10867.49,18,8911.34
+06ORD100024,2024-02-11,Intermediate,South,Outdoor,Credit Card,1,7328.59,3,7108.73
+06ORD100031,2024-03-16,Professional,Central,Fitness,Debit Card,1,2009.15,38,1245.67
+06ORD100618,2024-12-26,Team,West,Outdoor,UPI,5,17124.99,6,80487.45
+06ORD100011,2024-01-25,Professional,Central,Indoor,Debit Card,1,1274.01,20,1019.21
+06ORD100222,2025-06-14,Team,West,Footwear,UPI,1,2074.95,5,1971.2
+06ORD100821,2024-03-30,Professional,East,Footwear,Credit Card,3,3699.31,5,10543.03
+06ORD100297,2025-08-06,Team,East,Apparel,Wallet,4,3177.66,20,10168.51
+06ORD100055,2025-10-12,Beginner,North,Fitness,Wallet,1,5065.96,39,3090.24
+06ORD100543,2025-05-23,Team,North,Footwear,Wallet,2,16248.2,22,25347.19
+06ORD100210,2024-06-16,Intermediate,East,Apparel,Wallet,1,17700.51,8,16284.47
+06ORD100605,2025-07-31,Intermediate,North,Apparel,Wallet,2,1197.82,27,1748.82
+06ORD100693,2024-07-18,Team,North,Indoor,Wallet,2,3999.23,28,5758.89
+06ORD100663,2025-04-12,Intermediate,Central,Fitness,Wallet,1,720.82,14,619.91
+06ORD100867,2025-03-27,Beginner,East,Outdoor,Debit Card,2,3868.82,28,5571.1
+06ORD100071,2024-06-28,Beginner,Central,Indoor,Debit Card,3,18273.8,8,50435.69
+06ORD100544,2025-09-03,Intermediate,Central,Fitness,Debit Card,3,9750.29,18,23985.71
+06ORD100108,2025-07-11,Intermediate,West,Indoor,Wallet,2,7816.7,35,10161.71
+06ORD100494,2024-03-14,Professional,Central,Outdoor,UPI,1,10063.81,5,9560.62
+06ORD100591,2024-01-23,Beginner,North,Indoor,Cash on Delivery,3,19873.79,37,37561.46
+06ORD100742,2025-05-18,Intermediate,South,Outdoor,Debit Card,1,2157.1,1,2135.53
+06ORD100293,2025-01-24,Professional,South,Fitness,Cash on Delivery,1,13236.72,15,11251.21
+06ORD100290,2024-01-30,Team,West,Outdoor,Wallet,5,282.8,29,1003.94
+06ORD100653,2025-05-05,Professional,South,Apparel,Credit Card,2,18270.14,39,22289.57
+06ORD100040,2025-01-17,Beginner,West,Apparel,Wallet,2,16230.54,6,30513.42
+06ORD100590,2025-10-11,Intermediate,South,Footwear,Wallet,2,12351.54,13,21491.68
+06ORD100308,2024-10-15,Professional,East,Fitness,Wallet,1,2864.34,34,1890.46
+06ORD100680,2024-01-10,Intermediate,South,Footwear,Debit Card,4,1659.47,16,5575.82
+06ORD100067,2024-04-15,Professional,West,Apparel,UPI,3,17126.77,17,42645.66
+06ORD100276,2024-09-29,Professional,South,Indoor,Cash on Delivery,2,18749.03,4,35998.14
+06ORD100068,2024-04-28,Beginner,Central,Outdoor,Debit Card,5,1041.59,26,3853.88
+06ORD100319,2025-03-13,Professional,Central,Outdoor,Credit Card,2,6399.57,35,8319.44
+06ORD100549,2025-10-22,Professional,South,Indoor,Cash on Delivery,3,19159.85,28,41385.28
+06ORD100999,2024-02-03,Beginner,East,Footwear,Cash on Delivery,5,2596.53,19,10515.95
+06ORD100715,2024-06-07,Professional,East,Fitness,Debit Card,2,19075.9,40,22891.08
+06ORD100754,2024-10-04,Team,West,Footwear,Cash on Delivery,5,830.4,4,3985.92
+06ORD100328,2024-07-05,Intermediate,South,Outdoor,Wallet,1,6951.99,30,4866.39
+06ORD100383,2025-02-18,Beginner,South,Outdoor,Cash on Delivery,5,6259.38,8,28793.15
+06ORD100452,2025-04-04,Team,North,Indoor,Cash on Delivery,4,16748.93,31,46227.05
+06ORD100523,2025-03-13,Beginner,East,Fitness,Credit Card,3,6787.07,9,18528.7
+06ORD100219,2025-01-29,Team,South,Apparel,Credit Card,1,19656.19,13,17100.89
+06ORD100788,2025-12-10,Team,East,Fitness,UPI,4,7708.13,9,28057.59
+06ORD100437,2024-03-30,Intermediate,Central,Footwear,Credit Card,3,19031.98,6,53670.18
+06ORD100765,2024-08-02,Professional,Central,Footwear,Credit Card,1,6197.93,10,5578.14
+06ORD100089,2024-08-29,Intermediate,East,Apparel,Cash on Delivery,5,4735.04,27,17282.9
+06ORD100064,2024-01-25,Professional,East,Apparel,Cash on Delivery,2,2763.73,7,5140.54
+06ORD100827,2024-09-09,Beginner,West,Footwear,Debit Card,1,9610.91,2,9418.69
+06ORD100717,2024-08-14,Beginner,East,Apparel,UPI,1,19901.2,19,16119.97
+06ORD100352,2024-07-23,Professional,West,Footwear,Cash on Delivery,4,7524.26,22,23475.69
+06ORD100937,2025-02-25,Intermediate,South,Footwear,UPI,5,9694.46,39,29568.1
+06ORD100257,2024-10-11,Professional,West,Apparel,UPI,3,10473.04,30,21993.38
+06ORD100636,2024-02-16,Beginner,North,Outdoor,Wallet,5,13113.28,5,62288.08
+06ORD100645,2025-12-01,Professional,West,Apparel,Cash on Delivery,4,4893.74,35,12723.72
+06ORD100555,2025-10-19,Intermediate,Central,Footwear,UPI,2,8265.5,25,12398.25
+06ORD100960,2024-08-05,Professional,Central,Fitness,Debit Card,3,8148.36,11,21756.12
+06ORD100169,2025-02-14,Beginner,East,Outdoor,Debit Card,2,15335.49,8,28217.3
+06ORD100918,2025-02-22,Beginner,North,Outdoor,Cash on Delivery,3,9705.57,12,25622.7
+06ORD100529,2024-05-18,Team,West,Apparel,Debit Card,5,18987.79,19,76900.55
+06ORD100824,2024-02-02,Beginner,South,Fitness,Wallet,2,2041.22,1,4041.62
+06ORD100986,2024-02-29,Professional,West,Apparel,Debit Card,2,12446.98,37,15683.19
+06ORD100817,2024-12-23,Professional,West,Outdoor,Cash on Delivery,1,14710.32,15,12503.77
+06ORD100087,2024-06-16,Beginner,South,Outdoor,UPI,1,12726.73,7,11835.86
+06ORD100433,2024-11-16,Intermediate,East,Apparel,Debit Card,1,19696.18,6,18514.41
+06ORD100185,2025-01-03,Team,West,Apparel,UPI,3,18153.11,32,37032.34
+06ORD100979,2025-08-03,Intermediate,South,Apparel,Debit Card,3,14671.22,11,39172.16
+06ORD100535,2025-01-10,Team,North,Indoor,Wallet,1,5164.42,2,5061.13
+06ORD100295,2024-04-30,Team,West,Fitness,UPI,2,3555.43,7,6613.1
+06ORD100893,2025-03-23,Team,East,Outdoor,Cash on Delivery,1,2506.87,14,2155.91
+06ORD100426,2024-12-20,Beginner,South,Apparel,Wallet,1,4363.58,8,4014.49
+06ORD100714,2025-09-12,Beginner,South,Fitness,Credit Card,2,10298.94,18,16890.26
+06ORD100261,2024-12-07,Team,South,Footwear,UPI,4,2487.14,25,7461.42
+06ORD100238,2025-05-26,Intermediate,East,Apparel,Credit Card,1,7685.59,14,6609.61
+06ORD100560,2024-05-31,Beginner,Central,Outdoor,UPI,1,8114.7,33,5436.85
+06ORD100584,2025-03-16,Team,North,Outdoor,Cash on Delivery,5,11303.94,28,40694.18
+06ORD100446,2025-09-14,Beginner,East,Outdoor,Cash on Delivery,2,3501.31,6,6582.46
+06ORD100868,2025-04-06,Intermediate,West,Footwear,Cash on Delivery,1,6514.72,37,4104.27
+06ORD100801,2025-03-21,Beginner,East,Footwear,Debit Card,2,16309.49,11,29030.89
+06ORD100600,2025-03-29,Team,East,Footwear,Wallet,2,2043.48,0,4086.96
+06ORD100850,2024-07-29,Beginner,South,Footwear,Credit Card,1,8235.04,19,6670.38
+06ORD100266,2025-10-29,Beginner,South,Indoor,UPI,2,5269.24,28,7587.71
+06ORD100996,2024-07-05,Team,Central,Footwear,Cash on Delivery,5,11725.9,32,39868.06
+06ORD100530,2024-05-22,Beginner,East,Apparel,Cash on Delivery,1,14489.46,37,9128.36
+06ORD100056,2025-03-21,Team,North,Fitness,Wallet,1,18078.88,13,15728.63
+06ORD100121,2024-08-20,Intermediate,Central,Apparel,UPI,1,11518.41,2,11288.04
+06ORD100216,2025-03-17,Professional,North,Indoor,Wallet,5,10227.98,29,36309.33
+06ORD100026,2025-10-05,Team,Central,Indoor,Debit Card,1,4911.15,33,3290.47
+06ORD100073,2025-08-25,Team,West,Outdoor,Cash on Delivery,3,17918.56,1,53218.12
+06ORD100045,2025-01-27,Team,North,Apparel,Wallet,1,8839.69,15,7513.74
+06ORD100248,2025-05-27,Professional,West,Apparel,Credit Card,1,13132.77,6,12344.8
+06ORD100722,2025-06-21,Team,South,Indoor,Wallet,1,19447.63,23,14974.68
+06ORD100282,2024-07-15,Beginner,Central,Footwear,Debit Card,2,7014.51,32,9539.73
+06ORD100894,2024-08-12,Intermediate,South,Apparel,Cash on Delivery,1,5696.18,17,4727.83
+06ORD100915,2025-07-02,Team,East,Apparel,Debit Card,3,9716.05,36,18654.82
+06ORD100811,2024-09-13,Beginner,South,Apparel,UPI,4,18262.38,11,65014.07
+06ORD100245,2025-04-15,Professional,Central,Footwear,UPI,5,17041.6,19,69018.48
+06ORD100823,2024-03-28,Team,Central,Fitness,Debit Card,4,13547.96,4,52024.17
+06ORD100322,2024-03-03,Beginner,North,Footwear,Credit Card,1,16786.73,32,11414.98
+06ORD100644,2024-08-25,Beginner,West,Indoor,Wallet,3,1864.11,26,4138.32
+06ORD100159,2024-08-15,Team,Central,Outdoor,Cash on Delivery,1,17252.35,29,12249.17
+06ORD100978,2024-10-24,Team,West,Outdoor,Debit Card,4,1906.13,26,5642.14
+06ORD100430,2024-11-28,Beginner,North,Apparel,Debit Card,3,15732.6,32,32094.5
+06ORD100942,2025-05-26,Professional,East,Footwear,UPI,1,18732.48,15,15922.61
+06ORD100463,2024-08-20,Intermediate,North,Fitness,UPI,1,10163.05,11,9045.11
+06ORD100310,2024-09-17,Intermediate,East,Outdoor,Wallet,1,13896.85,8,12785.1
+06ORD100698,2024-05-28,Professional,West,Outdoor,Wallet,1,17617.44,31,12156.03
+06ORD100061,2024-06-02,Beginner,South,Apparel,Wallet,4,4814.93,36,12326.22
+06ORD100885,2024-10-16,Team,North,Footwear,UPI,2,17643.25,5,33522.17
+06ORD100596,2024-06-28,Professional,West,Apparel,Wallet,3,17311.36,5,49337.38
+06ORD100768,2024-11-22,Intermediate,West,Outdoor,Cash on Delivery,4,6066.9,19,19656.76
+06ORD100650,2025-02-19,Professional,West,Outdoor,Debit Card,1,6324.32,19,5122.7
+06ORD100651,2024-01-24,Intermediate,South,Outdoor,Cash on Delivery,4,15453.93,10,55634.15
+06ORD100866,2025-04-20,Beginner,East,Indoor,Wallet,4,10528.38,8,38744.44
+06ORD100669,2025-05-18,Team,Central,Fitness,UPI,3,19817.92,4,57075.61
+06ORD100299,2024-09-09,Intermediate,South,Footwear,Cash on Delivery,3,3488.41,29,7430.31
+06ORD100690,2025-03-26,Beginner,East,Fitness,Cash on Delivery,1,6635.9,7,6171.39
+06ORD100315,2024-01-14,Intermediate,South,Apparel,Credit Card,5,9069.83,29,32197.9
+06ORD100311,2025-10-18,Intermediate,South,Outdoor,UPI,2,13586.76,16,22825.76
+06ORD100362,2024-07-23,Intermediate,Central,Indoor,Debit Card,5,18911.07,29,67134.3
+06ORD100480,2024-12-15,Team,South,Outdoor,Debit Card,1,1151.73,20,921.38
+06ORD100111,2024-06-25,Professional,Central,Outdoor,Wallet,4,11744.86,18,38523.14
+06ORD100990,2024-05-03,Intermediate,Central,Indoor,Credit Card,1,5699.5,19,4616.6
+06ORD100487,2024-11-23,Professional,Central,Outdoor,Credit Card,3,7975.63,1,23687.62
+06ORD100364,2024-04-09,Intermediate,South,Fitness,Wallet,2,12855.52,16,21597.27
+06ORD100255,2025-12-25,Intermediate,West,Indoor,Credit Card,1,8407.33,35,5464.76
+06ORD100260,2025-08-06,Team,Central,Indoor,Wallet,1,13504.11,27,9858.0
+06ORD100803,2025-09-08,Professional,West,Indoor,UPI,5,4594.54,39,14013.35
+06ORD100678,2024-01-21,Professional,West,Apparel,Credit Card,5,240.07,34,792.23
+06ORD100495,2024-06-20,Professional,North,Apparel,Credit Card,1,17824.07,26,13189.81
+06ORD100671,2025-03-24,Intermediate,Central,Indoor,Credit Card,1,12989.88,9,11820.79
+06ORD100378,2025-05-26,Professional,Central,Footwear,Cash on Delivery,3,14901.92,4,42917.53
+06ORD100527,2025-02-05,Beginner,North,Indoor,Credit Card,1,19279.11,27,14073.75
+06ORD100846,2024-02-21,Professional,North,Fitness,Credit Card,1,2205.89,15,1875.01
+06ORD100138,2024-09-20,Team,South,Outdoor,Wallet,3,5812.2,10,15692.94
+06ORD100356,2024-11-28,Intermediate,North,Footwear,UPI,1,12264.99,21,9689.34
+06ORD100366,2024-02-14,Intermediate,South,Outdoor,UPI,5,1657.24,30,5800.34
+06ORD100943,2024-03-08,Team,Central,Apparel,Debit Card,1,11373.66,6,10691.24
+06ORD100750,2024-06-27,Intermediate,East,Outdoor,Credit Card,5,4165.11,2,20409.04
+06ORD100949,2024-03-19,Beginner,West,Apparel,Cash on Delivery,5,3909.19,17,16223.14
+06ORD100830,2024-05-15,Team,East,Fitness,Debit Card,3,13208.66,4,38040.94
+06ORD100657,2024-10-07,Professional,Central,Apparel,Credit Card,1,7608.82,7,7076.2
+06ORD100200,2024-11-07,Team,South,Fitness,Credit Card,5,9726.35,5,46200.16
+06ORD100214,2024-07-25,Beginner,North,Indoor,Debit Card,5,820.34,13,3568.48
+06ORD100409,2025-08-16,Beginner,North,Footwear,Credit Card,3,10764.42,37,20344.75
+06ORD100333,2024-11-10,Beginner,West,Fitness,Credit Card,1,14860.25,32,10104.97
+06ORD100209,2025-01-03,Professional,North,Fitness,Wallet,1,12984.87,15,11037.14
+06ORD100614,2025-03-09,Beginner,East,Outdoor,Wallet,1,5096.85,17,4230.39
+06ORD100079,2025-06-14,Team,East,Footwear,Wallet,1,18247.54,28,13138.23
+06ORD100030,2025-07-25,Professional,East,Fitness,Cash on Delivery,2,4760.59,29,6760.04
+06ORD100536,2024-01-05,Intermediate,East,Apparel,UPI,2,19972.65,22,31157.33
+06ORD100696,2024-04-30,Intermediate,Central,Apparel,Cash on Delivery,1,13003.19,24,9882.42
+06ORD100558,2024-08-27,Professional,South,Apparel,Credit Card,4,11411.97,28,32866.47
+06ORD100837,2024-01-07,Intermediate,West,Indoor,Wallet,2,3262.8,15,5546.76
+06ORD100597,2024-06-23,Professional,Central,Indoor,Credit Card,1,3697.65,28,2662.31
+06ORD100166,2025-11-06,Intermediate,South,Fitness,Wallet,1,10255.68,8,9435.23
+06ORD100919,2025-10-27,Beginner,West,Fitness,Cash on Delivery,2,16443.98,28,23679.33
+06ORD100496,2024-03-24,Intermediate,East,Footwear,UPI,4,9453.15,14,32518.84
+06ORD100825,2024-03-12,Professional,West,Outdoor,Debit Card,1,3861.59,1,3822.97
+06ORD100066,2025-08-18,Professional,East,Indoor,Cash on Delivery,2,4203.63,35,5464.72
+06ORD100142,2024-04-24,Intermediate,South,Fitness,Debit Card,2,16799.31,15,28558.83
+06ORD100926,2025-12-27,Beginner,North,Indoor,Cash on Delivery,1,14078.28,5,13374.37
+06ORD100828,2024-04-16,Intermediate,West,Indoor,Cash on Delivery,1,14764.51,5,14026.28
+06ORD100656,2024-12-15,Team,West,Apparel,UPI,1,8222.14,22,6413.27
+06ORD100332,2024-06-19,Intermediate,West,Footwear,Debit Card,1,14140.13,3,13715.93
+06ORD100665,2024-08-29,Professional,South,Fitness,UPI,5,4237.2,1,20974.14
+06ORD100250,2024-04-24,Beginner,Central,Footwear,Credit Card,1,19746.8,10,17772.12
+06ORD100908,2024-08-01,Team,South,Fitness,UPI,2,10613.76,38,13161.06
+06ORD100709,2024-06-05,Beginner,Central,Footwear,Credit Card,1,8606.73,34,5680.44
+06ORD100306,2025-12-12,Professional,South,Apparel,UPI,1,7298.02,9,6641.2
+06ORD100735,2024-06-26,Intermediate,West,Apparel,UPI,5,13713.1,0,68565.5
+06ORD100976,2025-01-14,Team,South,Outdoor,Credit Card,3,14014.77,34,27749.24
+06ORD100050,2024-02-10,Team,East,Footwear,Credit Card,1,15289.67,40,9173.8
+06ORD100897,2025-08-30,Beginner,South,Indoor,Wallet,2,13296.82,19,21540.85
+06ORD100003,2025-12-03,Intermediate,North,Footwear,Debit Card,5,6793.68,18,27854.09
+06ORD100545,2024-01-21,Team,West,Outdoor,Cash on Delivery,2,3047.4,24,4632.05
+06ORD100351,2025-05-15,Intermediate,North,Fitness,Debit Card,1,15958.8,10,14362.92
+06ORD100905,2025-01-06,Intermediate,Central,Apparel,Credit Card,3,18399.28,29,39190.47
+06ORD100537,2025-01-22,Intermediate,East,Footwear,Credit Card,2,5448.19,31,7518.5
+06ORD100345,2025-12-09,Professional,Central,Apparel,UPI,1,2158.09,15,1834.38
+06ORD100995,2024-02-19,Team,West,Indoor,Cash on Delivery,1,7162.97,30,5014.08
+06ORD100482,2025-01-17,Professional,East,Indoor,Credit Card,2,9994.89,23,15392.13
+06ORD100576,2025-08-30,Team,South,Indoor,Cash on Delivery,2,6359.97,32,8649.56
+06ORD100034,2025-12-19,Professional,North,Indoor,Credit Card,1,3517.43,9,3200.86
+06ORD100032,2025-08-25,Beginner,North,Fitness,UPI,1,5370.25,17,4457.31
+06ORD100232,2025-04-27,Team,South,Outdoor,Credit Card,5,15316.49,39,46715.29
+06ORD100964,2024-12-01,Beginner,North,Apparel,Cash on Delivery,5,2982.27,1,14762.24
+06ORD100193,2025-09-24,Team,West,Fitness,Cash on Delivery,1,653.21,8,600.95
+06ORD100334,2024-01-06,Beginner,East,Indoor,UPI,3,4261.37,16,10738.65
+06ORD100004,2024-07-12,Intermediate,West,Apparel,Cash on Delivery,1,4023.88,11,3581.25
+06ORD100205,2025-06-30,Beginner,North,Outdoor,Credit Card,5,466.12,39,1421.67
+06ORD100515,2024-06-18,Intermediate,Central,Indoor,UPI,2,18195.31,39,22198.28
+06ORD100800,2025-10-26,Beginner,South,Apparel,Cash on Delivery,3,7901.34,27,17303.93
+06ORD100307,2025-11-15,Beginner,North,Fitness,Wallet,5,1576.25,26,5832.12
+06ORD100110,2025-06-16,Intermediate,East,Outdoor,UPI,1,8740.2,8,8040.98
+06ORD100431,2025-09-04,Professional,West,Indoor,Wallet,4,2725.53,21,8612.67
+06ORD100078,2024-07-08,Beginner,East,Outdoor,Cash on Delivery,3,6333.79,33,12730.92
+06ORD100085,2024-11-06,Intermediate,West,Apparel,UPI,3,7214.15,29,15366.14
+06ORD100287,2025-07-27,Beginner,Central,Apparel,Debit Card,4,12455.55,13,43345.31
+06ORD100083,2024-08-05,Intermediate,East,Apparel,Debit Card,3,8637.82,10,23322.11
+06ORD100992,2024-01-14,Team,North,Fitness,Credit Card,1,5747.92,20,4598.34
+06ORD100790,2024-10-19,Beginner,East,Indoor,Cash on Delivery,4,9741.46,1,38576.18
+06ORD100895,2025-01-20,Professional,Central,Fitness,Cash on Delivery,1,13765.73,9,12526.81
+06ORD100399,2025-10-18,Professional,South,Outdoor,Cash on Delivery,1,19104.3,0,19104.3
+06ORD100324,2024-05-14,Professional,West,Indoor,Cash on Delivery,1,6548.71,24,4977.02
+06ORD100520,2024-12-15,Team,North,Indoor,Cash on Delivery,5,10041.35,8,46190.21
+06ORD100917,2025-08-13,Intermediate,East,Fitness,Cash on Delivery,2,16075.02,14,27649.03
+06ORD100923,2025-01-06,Intermediate,West,Fitness,UPI,4,18237.23,11,64924.54
+06ORD100006,2025-07-05,Intermediate,South,Apparel,Credit Card,5,13516.7,28,48660.12
+06ORD100732,2025-10-21,Intermediate,East,Indoor,Credit Card,5,290.48,26,1074.78
+06ORD100466,2025-10-27,Professional,North,Indoor,Debit Card,1,1119.81,9,1019.03
+06ORD100098,2024-02-11,Intermediate,South,Footwear,UPI,2,3899.97,18,6395.95
+06ORD100267,2024-08-09,Team,Central,Indoor,Debit Card,1,6873.71,33,4605.39
+06ORD100358,2024-06-14,Intermediate,Central,Indoor,UPI,5,16781.65,36,53701.28
+06ORD100869,2025-03-13,Beginner,South,Outdoor,Credit Card,1,16494.64,0,16494.64
+06ORD100799,2025-04-18,Intermediate,Central,Fitness,Wallet,1,6174.19,20,4939.35
+06ORD100381,2025-11-09,Beginner,Central,Indoor,Wallet,2,3118.62,14,5364.03
+06ORD100632,2025-09-19,Professional,East,Footwear,Debit Card,4,18971.33,31,52360.87
+06ORD100382,2024-07-20,Team,East,Indoor,UPI,1,15768.23,2,15452.87
+06ORD100491,2025-10-20,Beginner,East,Fitness,UPI,1,13558.45,39,8270.65
+06ORD100119,2025-07-10,Beginner,West,Outdoor,Debit Card,2,8111.16,3,15735.65
+06ORD100901,2024-05-05,Professional,Central,Apparel,Wallet,1,15014.62,0,15014.62
+06ORD100251,2024-08-01,Intermediate,Central,Fitness,Debit Card,3,19010.12,39,34788.52
+06ORD100524,2024-03-15,Intermediate,Central,Outdoor,Cash on Delivery,5,13773.57,0,68867.85
+06ORD100010,2025-01-24,Professional,North,Footwear,Wallet,5,13795.84,6,64840.45
+06ORD100197,2024-07-08,Team,South,Fitness,Wallet,2,2274.42,38,2820.28
+06ORD100604,2024-07-09,Intermediate,West,Outdoor,Cash on Delivery,3,13102.53,26,29087.62
+06ORD100082,2024-07-08,Intermediate,West,Indoor,Cash on Delivery,1,8568.95,34,5655.51
+06ORD100784,2025-10-16,Intermediate,North,Footwear,UPI,1,19485.92,35,12665.85
+06ORD100588,2024-11-15,Team,West,Indoor,Cash on Delivery,1,8207.94,31,5663.48
+06ORD100798,2025-02-11,Beginner,East,Footwear,Debit Card,5,5930.72,9,26984.78
+06ORD100240,2025-03-05,Beginner,North,Indoor,Cash on Delivery,1,12113.11,18,9932.75
+06ORD100291,2024-04-16,Beginner,South,Outdoor,Credit Card,1,19642.66,35,12767.73
+06ORD100212,2025-08-08,Professional,East,Footwear,Credit Card,1,16664.08,33,11164.93
+06ORD100718,2024-09-08,Beginner,Central,Fitness,Cash on Delivery,2,2970.3,5,5643.57
+06ORD100360,2024-01-06,Intermediate,North,Fitness,Credit Card,2,9472.22,5,17997.22
+06ORD100450,2024-02-04,Beginner,East,Fitness,Wallet,2,19113.04,7,35550.25
+06ORD100228,2024-05-11,Team,East,Indoor,Debit Card,2,4144.27,26,6133.52
+06ORD100951,2025-05-11,Professional,West,Apparel,UPI,2,18704.01,35,24315.21
+06ORD100947,2024-02-01,Beginner,South,Footwear,Wallet,1,18028.2,19,14602.84
+06ORD100797,2025-07-06,Team,North,Outdoor,Credit Card,1,19395.96,15,16486.57
+06ORD100502,2025-10-25,Intermediate,North,Footwear,UPI,1,6011.75,17,4989.75
+06ORD100465,2024-04-15,Professional,North,Fitness,Cash on Delivery,2,16386.8,0,32773.6
+06ORD100363,2025-06-15,Intermediate,South,Outdoor,Cash on Delivery,3,14739.52,29,31395.18
+06ORD100469,2024-09-16,Beginner,Central,Outdoor,UPI,5,13805.46,38,42796.93
+06ORD100936,2024-04-17,Professional,Central,Indoor,Cash on Delivery,2,7527.7,12,13248.75
+06ORD100429,2025-05-04,Team,East,Apparel,Debit Card,1,16175.88,33,10837.84
+06ORD100008,2024-07-07,Professional,West,Outdoor,Wallet,1,17512.82,16,14710.77
+06ORD100156,2024-11-28,Intermediate,East,Outdoor,Debit Card,5,11367.36,26,42059.23
+06ORD100542,2025-02-20,Beginner,South,Indoor,Credit Card,1,2720.23,27,1985.77
+06ORD100441,2024-02-01,Intermediate,North,Footwear,UPI,5,19207.03,36,61462.5
+06ORD100483,2024-05-03,Team,South,Outdoor,UPI,2,4418.87,40,5302.64
+06ORD100423,2025-11-13,Team,South,Apparel,Debit Card,1,10212.31,0,10212.31
+06ORD100779,2025-03-12,Professional,West,Outdoor,Wallet,5,11449.34,20,45797.36
+06ORD100950,2024-09-15,Beginner,Central,Indoor,Credit Card,2,11467.67,21,18118.92
+06ORD100335,2024-09-12,Professional,West,Fitness,Credit Card,5,16996.2,10,76482.9
+06ORD100577,2024-07-28,Intermediate,South,Outdoor,UPI,4,3391.63,25,10174.89
+06ORD100935,2024-02-02,Intermediate,Central,Indoor,Credit Card,4,6596.98,3,25596.28
+06ORD100568,2024-06-17,Intermediate,East,Footwear,Wallet,1,14153.3,14,12171.84
+06ORD100595,2025-12-08,Intermediate,West,Outdoor,Wallet,2,17556.43,38,21769.97
+06ORD100531,2024-04-17,Professional,East,Outdoor,Credit Card,1,14533.64,15,12353.59
+06ORD100582,2025-05-12,Team,South,Apparel,Cash on Delivery,2,17957.14,1,35555.14
+06ORD100708,2024-02-02,Professional,South,Indoor,Wallet,2,2484.42,8,4571.33
+06ORD100449,2024-11-21,Team,West,Apparel,Credit Card,4,387.61,15,1317.87
+06ORD100454,2025-07-24,Team,North,Apparel,UPI,1,2167.79,35,1409.06
+06ORD100229,2024-01-09,Professional,West,Outdoor,Wallet,1,11958.89,15,10165.06
+06ORD100353,2025-04-04,Intermediate,Central,Fitness,Debit Card,5,8292.18,32,28193.41
+06ORD100729,2025-11-08,Beginner,West,Outdoor,UPI,2,5044.95,23,7769.22
+06ORD100213,2025-07-17,Professional,South,Indoor,Credit Card,1,13299.81,19,10772.85
+06ORD100080,2025-06-09,Beginner,South,Outdoor,Debit Card,2,8141.43,2,15957.2
+06ORD100149,2025-12-09,Professional,North,Outdoor,Wallet,4,16075.73,0,64302.92
+06ORD100303,2024-03-20,Professional,South,Apparel,Cash on Delivery,5,1088.64,37,3429.22
+06ORD100629,2025-08-23,Team,Central,Indoor,UPI,5,12448.13,6,58506.21
+06ORD100778,2025-12-24,Intermediate,East,Indoor,Debit Card,5,11416.25,10,51373.12
+06ORD100507,2024-07-02,Beginner,Central,Outdoor,Cash on Delivery,1,8017.35,37,5050.93
+06ORD100343,2025-09-20,Team,South,Outdoor,Credit Card,1,2822.81,5,2681.67
+06ORD100486,2025-12-05,Professional,East,Indoor,Wallet,2,9624.74,29,13667.13
+06ORD100712,2025-12-07,Intermediate,West,Outdoor,Wallet,2,17448.03,29,24776.2
+06ORD100134,2024-12-02,Intermediate,East,Outdoor,Cash on Delivery,1,19347.41,14,16638.77
+06ORD100704,2025-04-19,Intermediate,West,Apparel,Debit Card,2,488.72,35,635.34
+06ORD100312,2024-01-22,Team,South,Fitness,Cash on Delivery,1,11108.92,30,7776.24
+06ORD100723,2024-02-12,Intermediate,Central,Outdoor,Cash on Delivery,2,19305.2,21,30502.22
+06ORD100630,2024-09-19,Team,North,Footwear,Wallet,1,8426.05,13,7330.66
+06ORD100001,2025-07-18,Intermediate,Central,Indoor,Wallet,1,6079.95,22,4742.36
+06ORD100317,2025-10-23,Intermediate,North,Footwear,Debit Card,4,2111.16,7,7853.52
+06ORD100707,2025-10-01,Beginner,South,Apparel,Credit Card,1,6962.07,6,6544.35
+06ORD100548,2024-07-15,Professional,South,Outdoor,Wallet,1,4587.29,27,3348.72
+06ORD100873,2025-07-12,Intermediate,Central,Outdoor,Debit Card,3,10097.48,38,18781.31
+06ORD100533,2024-05-24,Team,South,Outdoor,Debit Card,4,2971.84,24,9034.39
+06ORD100478,2025-11-04,Professional,East,Fitness,Debit Card,3,3478.25,26,7721.72
+06ORD100405,2025-04-21,Beginner,North,Outdoor,Credit Card,1,6105.83,18,5006.78
+06ORD100173,2025-03-22,Professional,West,Footwear,UPI,2,12289.04,25,18433.56
+06ORD100126,2025-08-25,Intermediate,Central,Footwear,Credit Card,1,14330.01,22,11177.41
+06ORD100395,2025-09-02,Professional,South,Outdoor,Debit Card,1,6744.13,10,6069.72
+06ORD100421,2024-11-24,Intermediate,Central,Apparel,Wallet,1,2221.41,20,1777.13
+06ORD100553,2024-07-29,Professional,West,Apparel,Cash on Delivery,4,15926.57,36,40772.02
+06ORD100904,2025-10-15,Intermediate,East,Outdoor,UPI,3,8367.37,25,18826.58
+06ORD100091,2024-12-04,Team,South,Outdoor,Debit Card,5,13253.5,9,60303.42
+06ORD100940,2024-06-29,Beginner,West,Indoor,Debit Card,1,8799.05,15,7479.19
+06ORD100182,2025-12-08,Intermediate,West,Footwear,Cash on Delivery,1,13995.98,19,11336.74
+06ORD100275,2024-02-09,Professional,North,Apparel,UPI,2,6524.32,19,10569.4
+06ORD100896,2025-11-19,Professional,South,Fitness,UPI,5,1692.03,21,6683.52
+06ORD100070,2024-11-25,Beginner,South,Apparel,Debit Card,5,12681.78,2,62140.72
+06ORD100292,2025-11-08,Intermediate,South,Fitness,Debit Card,4,3533.75,19,11449.35
+06ORD100132,2025-12-31,Intermediate,Central,Footwear,Credit Card,2,3741.32,26,5537.15
+06ORD100301,2025-06-03,Beginner,North,Indoor,Debit Card,4,8502.54,4,32649.75
+06ORD100425,2024-09-17,Beginner,Central,Apparel,UPI,5,989.83,15,4206.78
+06ORD100327,2024-09-10,Beginner,North,Apparel,Cash on Delivery,4,19921.06,29,56575.81
+06ORD100145,2024-08-17,Intermediate,North,Fitness,Cash on Delivery,4,7625.76,8,28062.8
+06ORD100424,2024-01-24,Intermediate,Central,Footwear,Cash on Delivery,1,17710.31,13,15407.97
+06ORD100581,2024-02-23,Team,Central,Apparel,UPI,1,19056.42,4,18294.16
+06ORD100136,2025-11-30,Team,Central,Footwear,Cash on Delivery,1,8782.12,40,5269.27
+06ORD100451,2025-04-24,Beginner,West,Apparel,UPI,1,10029.93,35,6519.45
+06ORD100165,2025-12-27,Intermediate,North,Fitness,UPI,1,16132.86,14,13874.26
+06ORD100029,2025-11-08,Professional,South,Apparel,Credit Card,4,19376.85,3,75182.18
+06ORD100774,2024-08-11,Intermediate,East,Outdoor,Wallet,1,8651.32,4,8305.27
+06ORD100194,2024-09-25,Intermediate,East,Outdoor,Cash on Delivery,5,18534.13,26,68576.28
+06ORD100389,2024-03-13,Team,West,Apparel,UPI,4,1214.02,27,3544.94
+06ORD100853,2025-06-28,Beginner,South,Footwear,Credit Card,4,12149.14,17,40335.14
+06ORD100170,2025-08-03,Professional,East,Outdoor,Debit Card,3,19714.87,2,57961.72
+06ORD100706,2024-03-11,Intermediate,East,Footwear,Credit Card,1,2509.99,16,2108.39
+06ORD100141,2025-02-22,Beginner,South,Apparel,Debit Card,4,1420.42,2,5568.05
+06ORD100174,2025-02-06,Team,Central,Apparel,Wallet,4,13797.0,16,46357.92
+06ORD100007,2024-03-18,Intermediate,South,Indoor,UPI,1,16609.25,13,14450.05
+06ORD100746,2025-10-08,Intermediate,West,Indoor,Cash on Delivery,3,1606.23,12,4240.45
+06ORD100479,2025-02-03,Intermediate,West,Indoor,Cash on Delivery,5,9941.48,1,49210.33
+06ORD100074,2024-06-16,Professional,West,Fitness,Debit Card,5,1396.64,8,6424.54
+06ORD100911,2025-01-05,Beginner,Central,Apparel,Cash on Delivery,1,6625.28,23,5101.47
+06ORD100814,2024-06-30,Intermediate,North,Indoor,Credit Card,1,12262.86,25,9197.14
+06ORD100239,2024-12-08,Professional,East,Apparel,Credit Card,5,337.24,21,1332.1
+06ORD100146,2025-12-29,Intermediate,North,Apparel,Credit Card,4,12385.53,40,29725.27
+06ORD100793,2025-09-17,Professional,North,Footwear,Debit Card,5,16995.67,1,84128.57
+06ORD100235,2025-04-16,Professional,South,Fitness,Debit Card,1,19525.68,38,12105.92
+06ORD100221,2025-11-09,Intermediate,North,Indoor,UPI,3,7549.35,4,21742.13
+06ORD100924,2025-07-20,Intermediate,Central,Fitness,Credit Card,4,15248.79,24,46356.32
+06ORD100501,2024-09-10,Beginner,Central,Indoor,UPI,2,6361.39,19,10305.45
+06ORD100133,2025-03-13,Professional,East,Footwear,UPI,5,15383.97,39,46921.11
+06ORD100991,2025-03-30,Professional,East,Footwear,Cash on Delivery,1,11860.65,1,11742.04
+06ORD100775,2025-12-13,Intermediate,North,Indoor,Debit Card,1,3557.71,15,3024.05
+06ORD100186,2024-03-05,Intermediate,Central,Apparel,Credit Card,1,10976.44,17,9110.45
+06ORD100042,2025-10-01,Professional,West,Indoor,UPI,1,18598.46,2,18226.49
+06ORD100697,2025-09-06,Beginner,Central,Apparel,Debit Card,1,13436.83,39,8196.47
+06ORD100109,2025-12-17,Team,North,Indoor,Wallet,2,19236.35,21,30393.43
+06ORD100589,2025-05-15,Team,West,Indoor,Wallet,3,4050.44,33,8141.38
+06ORD100057,2024-10-30,Team,South,Fitness,Wallet,3,2330.71,7,6502.68
+06ORD100406,2025-01-29,Team,East,Indoor,Cash on Delivery,2,14862.09,9,27049.0
+06ORD100443,2024-08-30,Team,Central,Fitness,Debit Card,5,16094.92,15,68403.41
+06ORD100758,2024-04-25,Beginner,West,Outdoor,Wallet,4,6736.49,8,24790.28
+06ORD100998,2025-10-28,Intermediate,North,Footwear,Credit Card,2,10912.8,17,18115.25
+06ORD100025,2025-02-14,Intermediate,North,Fitness,Wallet,5,15726.22,34,51896.53
+06ORD100468,2025-05-09,Beginner,South,Fitness,Wallet,1,579.52,15,492.59
+06ORD100540,2024-06-11,Professional,East,Fitness,Debit Card,1,10291.33,19,8335.98
+06ORD100532,2024-08-08,Team,South,Fitness,Credit Card,1,11897.36,1,11778.39
+06ORD100619,2025-03-21,Intermediate,North,Outdoor,Credit Card,4,10193.59,15,34658.21
+06ORD100695,2024-01-02,Team,South,Fitness,Credit Card,2,14058.32,27,20525.15
+06ORD100927,2025-06-04,Beginner,North,Apparel,Debit Card,2,546.46,22,852.48
+06ORD100339,2024-01-04,Professional,Central,Footwear,Wallet,1,17286.64,16,14520.78
+06ORD100052,2025-11-02,Professional,East,Footwear,Wallet,5,16324.29,2,79989.02
+06ORD100508,2024-11-09,Team,South,Outdoor,Credit Card,5,941.06,37,2964.34
+06ORD100517,2024-05-11,Professional,Central,Outdoor,Wallet,2,6466.74,37,8148.09
+06ORD100921,2024-06-06,Intermediate,Central,Footwear,Wallet,1,6444.14,14,5541.96
+06ORD100782,2024-03-03,Intermediate,Central,Footwear,Credit Card,1,16899.91,28,12167.94
+06ORD100265,2024-05-20,Intermediate,South,Apparel,UPI,4,6495.85,8,23904.73
+06ORD100818,2024-08-18,Team,Central,Apparel,Wallet,1,15817.37,18,12970.24
+06ORD100711,2025-12-16,Team,Central,Indoor,UPI,3,15615.45,35,30450.13
+06ORD100683,2024-12-04,Professional,West,Indoor,Cash on Delivery,2,19802.54,12,34852.47
+06ORD100833,2024-04-30,Intermediate,Central,Footwear,Debit Card,4,19161.32,23,59016.87
+06ORD100519,2024-02-15,Professional,Central,Apparel,Debit Card,2,13545.52,5,25736.49
+06ORD100448,2025-07-02,Beginner,South,Indoor,Credit Card,3,9938.71,14,25641.87
+06ORD100019,2024-12-01,Team,South,Footwear,Cash on Delivery,2,5346.91,30,7485.67
+06ORD100716,2025-06-22,Team,South,Indoor,Debit Card,2,10778.83,22,16814.97
+06ORD100484,2024-10-18,Intermediate,West,Fitness,UPI,5,334.65,38,1037.42
+06ORD100569,2025-01-25,Intermediate,East,Fitness,Debit Card,4,8303.31,14,28563.39
+06ORD100434,2025-03-22,Beginner,Central,Fitness,Credit Card,4,19778.42,17,65664.35
+06ORD100368,2024-08-14,Professional,South,Fitness,Debit Card,1,3188.44,3,3092.79
+06ORD100084,2024-10-25,Intermediate,South,Outdoor,UPI,4,10999.74,22,34319.19
+06ORD100062,2025-09-07,Beginner,East,Fitness,Credit Card,5,6759.93,13,29405.7
+06ORD100639,2025-02-14,Team,East,Footwear,UPI,3,15055.38,1,44714.48
+06ORD100273,2025-01-28,Intermediate,East,Outdoor,Debit Card,2,2963.42,6,5571.23
+06ORD100286,2024-05-26,Team,North,Footwear,Credit Card,2,1989.99,13,3462.58
+06ORD100361,2025-10-14,Beginner,North,Indoor,Debit Card,4,4908.0,3,19043.04
+06ORD100355,2025-12-23,Beginner,West,Fitness,Wallet,5,8851.77,6,41603.32
+06ORD100457,2025-01-02,Intermediate,North,Footwear,Credit Card,1,838.54,10,754.69
+06ORD100279,2025-09-14,Team,East,Footwear,Debit Card,1,12107.89,14,10412.79
+06ORD100013,2024-10-28,Team,South,Footwear,Cash on Delivery,5,16278.37,37,51276.87
+06ORD100183,2025-05-17,Beginner,Central,Outdoor,UPI,2,15560.41,2,30498.4
+06ORD100369,2024-11-10,Intermediate,North,Outdoor,Wallet,1,3075.9,38,1907.06
+06ORD100882,2025-03-04,Intermediate,West,Fitness,UPI,4,9941.06,32,27039.68
+06ORD100616,2025-06-14,Professional,West,Apparel,UPI,4,19091.29,19,61855.78
+06ORD100224,2025-02-07,Beginner,Central,Indoor,Cash on Delivery,1,9828.01,38,6093.37
+06ORD100573,2024-12-05,Professional,Central,Apparel,Credit Card,3,16551.83,12,43696.83
+06ORD100971,2024-06-25,Professional,West,Apparel,Debit Card,2,13821.9,38,17139.16
+06ORD100654,2024-05-14,Professional,East,Outdoor,Credit Card,2,7669.5,3,14878.83
+06ORD100546,2025-09-05,Professional,West,Apparel,UPI,1,9384.06,23,7225.73
+06ORD100583,2024-07-16,Professional,West,Apparel,Debit Card,2,803.2,13,1397.57
+06ORD100634,2024-12-19,Professional,South,Apparel,Cash on Delivery,3,11817.73,5,33680.53
+06ORD100177,2025-10-31,Professional,South,Fitness,UPI,1,18199.35,35,11829.58
+06ORD100666,2024-11-01,Beginner,West,Indoor,Wallet,2,9135.93,7,16992.83
+06ORD100674,2025-11-04,Professional,North,Apparel,Credit Card,2,3454.99,18,5666.18
+06ORD100586,2024-06-28,Beginner,East,Outdoor,Debit Card,1,5020.03,0,5020.03
+06ORD100874,2025-11-07,Intermediate,Central,Outdoor,Credit Card,3,15695.79,9,42849.51
+06ORD100394,2024-07-27,Professional,South,Outdoor,Debit Card,3,2856.0,38,5312.16
+06ORD100164,2025-08-15,Beginner,East,Indoor,Debit Card,5,6318.12,21,24956.57
+06ORD100249,2024-11-17,Beginner,South,Apparel,Debit Card,1,5900.05,30,4130.04
+06ORD100635,2025-09-11,Beginner,West,Apparel,Credit Card,5,17338.72,34,57217.78
+06ORD100886,2024-01-21,Team,South,Apparel,Debit Card,1,14756.68,27,10772.38
+06ORD100670,2024-05-07,Professional,North,Indoor,Cash on Delivery,1,11011.55,29,7818.2
+06ORD100376,2024-10-23,Professional,Central,Indoor,Credit Card,2,11880.9,26,17583.73
+06ORD100413,2024-11-21,Team,West,Footwear,Wallet,3,19270.07,4,55497.8
+06ORD100075,2024-08-10,Beginner,North,Apparel,Wallet,3,16841.33,5,47997.79
+06ORD100114,2024-09-21,Intermediate,East,Fitness,UPI,2,2166.92,16,3640.43
+06ORD100599,2025-06-21,Beginner,East,Outdoor,Wallet,3,3156.45,18,7764.87
+06ORD100962,2025-01-19,Intermediate,North,Apparel,UPI,1,9015.03,9,8203.68
+06ORD100391,2024-01-27,Intermediate,North,Footwear,Cash on Delivery,3,14015.44,28,30273.35
+06ORD100105,2024-06-12,Intermediate,West,Fitness,UPI,2,13652.04,9,24846.71
+06ORD100115,2025-06-03,Professional,North,Apparel,Wallet,3,16710.27,13,43613.8
+06ORD100418,2024-07-04,Intermediate,South,Fitness,Cash on Delivery,4,10380.03,30,29064.08
+06ORD100526,2024-01-19,Intermediate,Central,Fitness,Debit Card,1,8879.92,19,7192.74
+06ORD100458,2024-07-25,Beginner,South,Outdoor,Cash on Delivery,4,16858.61,5,64062.72
+06ORD100410,2024-02-26,Beginner,South,Footwear,Credit Card,1,6106.48,30,4274.54
+06ORD100093,2024-05-14,Beginner,South,Fitness,Cash on Delivery,2,15046.23,37,18958.25
+06ORD100931,2024-04-12,Intermediate,West,Footwear,Credit Card,3,19291.08,22,45141.13
+06ORD100090,2024-06-10,Team,South,Outdoor,Cash on Delivery,3,19395.07,35,37820.39
+06ORD100337,2024-09-04,Professional,North,Apparel,Credit Card,1,4443.93,16,3732.9
+06ORD100989,2025-10-29,Intermediate,North,Footwear,Debit Card,1,19968.16,2,19568.8
+06ORD100922,2024-03-15,Professional,East,Indoor,Credit Card,1,235.27,39,143.51
+06ORD100934,2024-12-03,Intermediate,South,Apparel,Credit Card,2,1413.62,29,2007.34
+06ORD100606,2025-05-13,Professional,Central,Footwear,Credit Card,5,5964.12,7,27733.16
+06ORD100594,2025-08-16,Intermediate,Central,Apparel,UPI,3,6656.92,14,17174.85
+06ORD100612,2025-02-23,Intermediate,West,Footwear,Wallet,1,18240.03,29,12950.42
+06ORD100095,2025-02-05,Professional,South,Apparel,Cash on Delivery,2,1407.19,4,2701.8
+06ORD100012,2025-09-06,Professional,East,Outdoor,UPI,4,2328.12,0,9312.48
+06ORD100397,2025-06-28,Intermediate,North,Fitness,UPI,1,14765.3,10,13288.77
+06ORD100534,2025-05-24,Beginner,South,Outdoor,Cash on Delivery,1,10465.33,26,7744.34
+06ORD100044,2025-03-28,Team,West,Indoor,Cash on Delivery,4,15806.28,10,56902.61
+06ORD100043,2024-05-25,Beginner,East,Outdoor,Cash on Delivery,3,15100.84,39,27634.54
+06ORD100330,2024-11-22,Team,North,Footwear,Cash on Delivery,4,4690.86,27,13697.31
+06ORD100168,2025-02-26,Intermediate,West,Fitness,Credit Card,3,19061.28,16,48034.43
+06ORD100498,2024-10-16,Beginner,East,Indoor,Credit Card,2,1996.11,18,3273.62
+06ORD100877,2024-03-26,Beginner,East,Apparel,Credit Card,4,13777.18,14,47393.5
+06ORD100598,2024-07-16,Team,North,Fitness,UPI,1,18012.99,36,11528.31
+06ORD100757,2025-05-26,Intermediate,South,Fitness,UPI,2,6890.19,14,11851.13
+06ORD100101,2024-12-14,Beginner,South,Outdoor,Cash on Delivery,2,5806.31,4,11148.12
+06ORD100427,2024-07-14,Beginner,South,Apparel,Credit Card,1,13910.15,7,12936.44
+06ORD100179,2025-11-10,Professional,South,Apparel,Cash on Delivery,2,19217.78,8,35360.72
+06ORD100445,2024-03-11,Team,Central,Indoor,Credit Card,4,2063.79,26,6108.82
+06ORD100417,2025-09-10,Team,North,Apparel,UPI,1,5373.7,16,4513.91
+06ORD100871,2025-03-23,Beginner,East,Outdoor,Debit Card,3,14510.7,31,30037.15
+06ORD100883,2024-05-27,Intermediate,North,Footwear,Cash on Delivery,1,15941.37,10,14347.23
+06ORD100681,2024-03-27,Professional,Central,Outdoor,Debit Card,2,18027.0,30,25237.8
+06ORD100178,2024-07-04,Professional,East,Apparel,Credit Card,4,8561.83,21,27055.38
+06ORD100396,2025-06-26,Beginner,North,Footwear,Credit Card,1,5716.13,18,4687.23
+06ORD100912,2025-06-13,Team,North,Fitness,Wallet,1,5750.75,39,3507.96
+06ORD100794,2025-04-13,Team,South,Outdoor,Wallet,1,8450.37,22,6591.29
+06ORD100961,2024-02-10,Team,Central,Indoor,Debit Card,1,756.67,27,552.37
+06ORD100685,2024-01-04,Beginner,Central,Apparel,Wallet,1,2964.83,35,1927.14
+06ORD100384,2025-09-05,Beginner,East,Outdoor,UPI,3,4568.66,27,10005.37
+06ORD100957,2025-12-22,Beginner,Central,Indoor,Cash on Delivery,4,5460.21,8,20093.57
+06ORD100752,2024-06-07,Team,East,Indoor,Wallet,1,10490.53,5,9966.0
+06ORD100258,2024-09-01,Professional,North,Fitness,Debit Card,1,9994.63,34,6596.46
+06ORD100539,2025-07-13,Team,East,Footwear,Debit Card,1,12533.08,39,7645.18
+06ORD100336,2024-11-15,Professional,North,Fitness,Cash on Delivery,1,8505.29,6,7994.97
+06ORD100016,2025-12-20,Beginner,Central,Footwear,Debit Card,3,3033.15,17,7552.54
+06ORD100325,2024-06-05,Team,South,Fitness,Wallet,1,16869.2,28,12145.82
+06ORD100759,2025-01-26,Intermediate,East,Apparel,Wallet,1,17915.0,21,14152.85
+06ORD100223,2025-12-19,Intermediate,South,Outdoor,Debit Card,1,3749.15,7,3486.71
+06ORD100180,2024-08-31,Team,Central,Apparel,Debit Card,1,4387.04,21,3465.76
+06ORD100984,2024-12-29,Intermediate,South,Indoor,Wallet,1,16953.88,36,10850.48
+06ORD100023,2024-03-12,Team,East,Fitness,Credit Card,3,14605.15,14,37681.29
+06ORD100357,2025-08-25,Team,South,Outdoor,Credit Card,2,9934.73,4,19074.68
+06ORD100667,2024-07-02,Team,South,Fitness,UPI,1,5662.34,29,4020.26
+06ORD100862,2025-08-28,Professional,South,Footwear,Cash on Delivery,2,16052.85,20,25684.56
+06ORD100341,2025-05-20,Team,Central,Indoor,Debit Card,2,15000.93,9,27301.69
+06ORD100432,2025-09-23,Team,West,Outdoor,Debit Card,2,8034.17,29,11408.52
+06ORD100552,2025-01-12,Professional,West,Indoor,Cash on Delivery,3,19409.98,10,52406.95
+06ORD100834,2025-04-22,Team,South,Indoor,Credit Card,5,12619.21,21,49845.88
+06ORD100204,2025-01-24,Team,West,Outdoor,Wallet,1,1173.5,40,704.1
+06ORD100631,2025-03-06,Professional,East,Footwear,Credit Card,5,15878.9,10,71455.05
+06ORD100094,2024-07-11,Intermediate,West,Indoor,Debit Card,2,3597.22,36,4604.44
+06ORD100559,2024-03-19,Team,Central,Indoor,Credit Card,5,10765.91,38,33374.32
+06ORD100069,2024-04-17,Beginner,South,Footwear,Cash on Delivery,5,7214.36,18,29578.88
+06ORD100623,2024-12-22,Professional,West,Indoor,Wallet,4,8902.43,14,30624.36
+06ORD100285,2025-06-19,Professional,West,Indoor,Credit Card,2,6811.33,20,10898.13
+06ORD100845,2025-03-23,Intermediate,South,Apparel,Wallet,2,9382.14,23,14448.5
+06ORD100435,2025-01-11,Intermediate,West,Apparel,Cash on Delivery,2,12107.18,20,19371.49
+06ORD100154,2024-02-15,Intermediate,West,Apparel,Credit Card,4,19653.81,20,62892.19
+06ORD100076,2025-04-13,Beginner,Central,Footwear,Debit Card,1,15630.26,37,9847.06
+06ORD100731,2024-02-17,Intermediate,Central,Fitness,UPI,3,7639.56,19,18564.13
+06ORD100447,2024-06-06,Intermediate,South,Outdoor,Debit Card,2,19654.7,7,36557.74
+06ORD100189,2025-07-24,Beginner,Central,Fitness,Cash on Delivery,2,12687.86,35,16494.22
+06ORD100272,2024-12-23,Beginner,South,Apparel,Credit Card,1,13735.35,32,9340.04
+06ORD100237,2025-06-11,Intermediate,Central,Outdoor,Cash on Delivery,3,3027.33,16,7628.87
+06ORD100488,2025-07-18,Professional,West,Fitness,UPI,1,2838.07,11,2525.88
+06ORD100118,2024-06-11,Team,West,Outdoor,Debit Card,4,7593.7,13,26426.08
+06ORD100944,2025-01-06,Team,Central,Apparel,Debit Card,4,12939.33,12,45546.44
+06ORD100513,2024-09-07,Professional,Central,Apparel,Debit Card,2,11179.36,38,13862.41
+06ORD100826,2025-07-09,Team,North,Outdoor,Credit Card,5,13318.68,36,42619.78
+06ORD100592,2025-09-23,Intermediate,Central,Footwear,UPI,2,7399.95,37,9323.94
+06ORD100127,2025-12-08,Beginner,West,Apparel,Debit Card,1,9696.5,29,6884.52
+06ORD100117,2024-07-30,Beginner,East,Indoor,Cash on Delivery,1,11956.35,1,11836.79
+06ORD100474,2025-06-20,Professional,South,Fitness,Debit Card,2,16131.18,22,25164.64
+06ORD100694,2025-12-27,Beginner,North,Apparel,Credit Card,1,8524.36,3,8268.63
+06ORD100058,2025-07-08,Beginner,Central,Indoor,Cash on Delivery,3,16883.93,10,45586.61
+06ORD100864,2024-05-07,Intermediate,East,Outdoor,Wallet,3,12570.06,5,35824.67
+06ORD100913,2025-11-22,Professional,Central,Footwear,UPI,2,10897.29,30,15256.21
+06ORD100370,2024-02-21,Intermediate,West,Footwear,Credit Card,3,8499.31,18,20908.3
+06ORD100269,2024-11-25,Team,West,Apparel,UPI,2,8157.53,15,13867.8
+06ORD100047,2025-05-06,Beginner,East,Apparel,Cash on Delivery,4,18658.84,22,58215.58
+06ORD100350,2024-08-30,Beginner,South,Apparel,Wallet,2,12365.24,40,14838.29
+06ORD100196,2025-10-09,Team,Central,Outdoor,Debit Card,3,7179.47,31,14861.5
+06ORD101000,2025-06-21,Intermediate,West,Outdoor,Cash on Delivery,5,8886.59,31,30658.74
+06ORD100835,2024-04-03,Beginner,Central,Footwear,Debit Card,4,1141.37,24,3469.76
+06ORD100737,2024-10-22,Intermediate,South,Outdoor,UPI,5,16867.73,26,62410.6
+06ORD100264,2025-05-13,Professional,South,Footwear,UPI,2,8284.02,27,12094.67
+06ORD100444,2024-03-10,Intermediate,West,Fitness,Credit Card,1,8540.56,24,6490.83
+06ORD100676,2024-12-05,Beginner,South,Indoor,UPI,3,8144.48,24,18569.41
+06ORD100305,2025-08-06,Team,Central,Outdoor,Wallet,3,3534.85,18,8695.73
+06ORD100342,2024-01-31,Beginner,Central,Indoor,Debit Card,1,260.61,25,195.46
+06ORD100967,2024-04-14,Intermediate,South,Indoor,Cash on Delivery,3,19154.67,32,39075.53
+06ORD100150,2025-05-15,Intermediate,North,Outdoor,Wallet,1,9621.59,34,6350.25
+06ORD100125,2024-02-13,Team,West,Apparel,Wallet,1,19465.07,27,14209.5
+06ORD100787,2024-03-15,Team,South,Apparel,Wallet,1,15343.3,36,9819.71
+06ORD100051,2025-08-07,Team,East,Indoor,Credit Card,3,11526.18,37,21784.48
+06ORD100354,2025-01-17,Professional,North,Apparel,Wallet,2,6453.78,30,9035.29
+06ORD100928,2024-04-15,Beginner,South,Apparel,Credit Card,1,700.02,14,602.02
+06ORD100143,2024-08-22,Team,East,Footwear,Wallet,2,3862.7,31,5330.53
+06ORD100471,2024-11-08,Professional,South,Footwear,Debit Card,1,17538.04,24,13328.91
+06ORD100400,2025-09-02,Team,East,Footwear,Credit Card,1,14528.77,31,10024.85
+06ORD100626,2025-10-05,Team,Central,Apparel,UPI,1,10671.13,8,9817.44
+06ORD100321,2025-06-13,Beginner,Central,Footwear,Cash on Delivery,1,4240.46,4,4070.84
+06ORD100020,2024-06-12,Intermediate,North,Indoor,Debit Card,3,9062.34,27,19846.52
+06ORD100810,2025-01-12,Intermediate,West,Apparel,Wallet,1,5559.13,5,5281.17
+06ORD100791,2024-02-26,Professional,South,Fitness,UPI,2,18524.52,18,30380.21
+06ORD100809,2025-02-04,Team,Central,Apparel,Debit Card,4,18966.53,33,50830.3
+06ORD100408,2025-06-25,Intermediate,North,Apparel,UPI,3,18252.6,10,49282.02
+06ORD100538,2025-07-21,Beginner,West,Fitness,Cash on Delivery,2,4728.11,16,7943.22
+06ORD100621,2025-12-08,Intermediate,Central,Footwear,Debit Card,2,2853.73,11,5079.64
+06ORD100039,2024-07-28,Intermediate,Central,Fitness,Debit Card,4,19438.42,25,58315.26
+06ORD100176,2025-01-13,Intermediate,East,Indoor,Wallet,5,5939.63,23,22867.58
+06ORD100246,2025-01-28,Professional,Central,Indoor,Cash on Delivery,4,5442.28,8,20027.59
+06ORD100829,2025-05-28,Team,South,Outdoor,Debit Card,1,5722.66,30,4005.86
+06ORD100668,2025-04-22,Team,South,Indoor,UPI,2,12132.62,40,14559.14
+06ORD100755,2024-05-22,Team,North,Indoor,Credit Card,1,9302.4,25,6976.8
+06ORD100859,2024-11-16,Intermediate,East,Footwear,UPI,4,15103.0,27,44100.76
+06ORD100155,2025-02-08,Beginner,East,Apparel,Cash on Delivery,2,9158.81,7,17035.39
+06ORD100288,2025-04-03,Intermediate,West,Fitness,Debit Card,1,7032.27,10,6329.04
+06ORD100603,2025-03-28,Beginner,North,Outdoor,Wallet,1,10684.2,17,8867.89
+06ORD100570,2025-01-19,Team,West,Outdoor,Wallet,1,14749.64,39,8997.28
+06ORD100744,2025-08-09,Intermediate,East,Outdoor,UPI,1,6787.93,28,4887.31
+06ORD100018,2025-07-04,Professional,Central,Outdoor,Debit Card,1,15541.03,30,10878.72
+06ORD100128,2025-05-30,Team,West,Outdoor,Cash on Delivery,1,18333.27,22,14299.95
+06ORD100323,2025-03-05,Professional,South,Apparel,Wallet,1,19992.99,21,15794.46
+06ORD100256,2024-12-25,Team,Central,Footwear,Debit Card,5,3800.84,17,15773.49
+06ORD100658,2025-04-20,Intermediate,West,Apparel,Cash on Delivery,2,13373.0,29,18989.66
+06ORD100965,2025-09-02,Intermediate,Central,Apparel,Debit Card,2,7951.91,0,15903.82
+06ORD100191,2025-02-21,Team,South,Apparel,Cash on Delivery,1,3687.92,24,2802.82
+06ORD100116,2024-09-26,Beginner,North,Fitness,Cash on Delivery,2,7734.01,40,9280.81
+06ORD100617,2025-06-15,Professional,West,Indoor,Wallet,1,6095.86,6,5730.11
+06ORD100607,2025-09-07,Team,East,Outdoor,Debit Card,1,9297.99,30,6508.59
+06ORD100181,2025-09-22,Intermediate,North,Apparel,Debit Card,2,19947.87,40,23937.44
+06ORD100302,2024-08-02,Beginner,South,Indoor,Cash on Delivery,3,10824.16,20,25977.98
+06ORD100760,2024-12-08,Intermediate,East,Outdoor,Wallet,4,525.68,36,1345.74
+06ORD100713,2025-01-21,Beginner,West,Fitness,Credit Card,2,7883.5,30,11036.9
+06ORD100724,2025-06-14,Team,North,Indoor,Cash on Delivery,4,7756.93,17,25753.01
+06ORD100686,2024-01-23,Intermediate,North,Fitness,Debit Card,1,14166.42,4,13599.76
+06ORD100980,2024-06-19,Professional,West,Apparel,Credit Card,5,4423.29,29,15702.68
+06ORD100518,2025-08-28,Beginner,West,Indoor,Credit Card,4,12092.13,14,41596.93
+06ORD100985,2024-03-13,Professional,South,Footwear,Debit Card,2,17235.28,1,34125.85
+06ORD100046,2024-11-05,Intermediate,Central,Indoor,Cash on Delivery,3,10281.44,19,24983.9
+06ORD100910,2025-07-23,Team,South,Indoor,Cash on Delivery,1,9079.06,11,8080.36
+06ORD100158,2024-09-10,Beginner,South,Footwear,Cash on Delivery,2,4546.43,27,6637.79
+06ORD100852,2024-09-26,Intermediate,South,Outdoor,Debit Card,5,10590.21,18,43419.86
+06ORD100172,2025-10-25,Beginner,South,Footwear,Debit Card,1,13036.01,12,11471.69
+06ORD100017,2024-04-03,Intermediate,East,Footwear,Wallet,1,4022.77,7,3741.18
+06ORD100512,2025-03-25,Professional,Central,Apparel,Cash on Delivery,5,16335.51,26,60441.39
+06ORD100049,2024-01-01,Beginner,North,Outdoor,UPI,4,981.65,31,2709.35
+06ORD100972,2024-03-05,Professional,North,Indoor,UPI,1,1713.41,6,1610.61
+06ORD100941,2024-05-31,Beginner,Central,Footwear,Credit Card,3,18952.84,34,37526.62
+06ORD100516,2025-07-19,Team,South,Outdoor,Wallet,1,9734.33,18,7982.15
+06ORD100953,2025-01-01,Professional,East,Indoor,Credit Card,4,3837.53,35,9977.58
+06ORD100481,2024-08-02,Intermediate,North,Fitness,Cash on Delivery,1,871.77,8,802.03
+06ORD100284,2025-05-23,Intermediate,South,Footwear,Cash on Delivery,2,6112.81,35,7946.65
+06ORD100719,2025-01-01,Beginner,North,Apparel,Cash on Delivery,5,17264.19,23,66467.13
+06ORD100878,2024-11-19,Beginner,East,Outdoor,Cash on Delivery,3,3485.25,16,8782.83
+06ORD100226,2025-07-21,Beginner,North,Indoor,Wallet,1,15388.22,28,11079.52
+06ORD100027,2024-01-21,Intermediate,North,Footwear,Debit Card,3,13883.29,35,27072.42
+06ORD100955,2024-02-20,Beginner,North,Outdoor,Cash on Delivery,5,9305.12,2,45595.09
+06ORD100438,2025-12-07,Professional,North,Footwear,Wallet,2,9080.07,11,16162.52
+06ORD100952,2024-06-23,Intermediate,East,Outdoor,Wallet,1,7000.65,40,4200.39
+06ORD100365,2025-11-07,Team,North,Outdoor,Debit Card,4,14945.46,23,46032.02
+06ORD100230,2024-06-01,Professional,East,Apparel,Cash on Delivery,1,558.34,26,413.17
+06ORD100038,2024-11-24,Team,West,Footwear,Credit Card,2,4031.97,18,6612.43
+06ORD100966,2025-10-22,Team,West,Outdoor,Debit Card,3,2115.68,21,5014.16
+06ORD100375,2025-04-15,Professional,East,Footwear,UPI,1,1531.01,1,1515.7
+06ORD100470,2025-04-29,Professional,East,Outdoor,Debit Card,2,10582.48,5,20106.71
+06ORD100968,2024-07-21,Beginner,South,Fitness,Wallet,2,1092.65,15,1857.5
+06ORD100851,2025-12-10,Intermediate,East,Apparel,UPI,5,7394.53,19,29947.85
+06ORD100705,2024-12-29,Professional,Central,Indoor,Wallet,1,1348.98,26,998.25
+06ORD100842,2025-12-20,Beginner,North,Footwear,Debit Card,3,3676.39,39,6727.79
+06ORD100195,2025-07-20,Professional,South,Indoor,Wallet,2,19659.9,14,33815.03
+06ORD100855,2024-10-08,Intermediate,East,Apparel,UPI,5,17947.47,16,75379.37
+06ORD100865,2024-03-14,Team,East,Footwear,Debit Card,1,19408.33,28,13974.0
+06ORD100504,2025-03-27,Team,Central,Apparel,UPI,5,3673.73,38,11388.56
+06ORD100970,2024-04-04,Beginner,West,Apparel,Debit Card,4,3378.65,9,12298.29
+06ORD100831,2025-09-20,Intermediate,West,Fitness,Wallet,2,3661.66,9,6664.22
+06ORD100580,2025-10-01,Professional,North,Outdoor,Wallet,5,4046.15,14,17398.44
+06ORD100969,2025-05-24,Team,West,Apparel,Cash on Delivery,2,8116.19,28,11687.31
+06ORD100163,2025-08-20,Intermediate,South,Outdoor,Wallet,5,15357.83,25,57591.86
+06ORD100909,2024-10-17,Professional,North,Outdoor,UPI,2,2131.88,3,4135.85
+06ORD100153,2024-08-01,Beginner,West,Fitness,Debit Card,1,18581.16,35,12077.75
+06ORD100802,2024-08-19,Intermediate,West,Outdoor,Cash on Delivery,4,355.78,12,1252.35
+06ORD100994,2024-01-27,Professional,North,Apparel,Cash on Delivery,4,11415.58,19,36986.48
+06ORD100756,2025-06-03,Team,East,Fitness,UPI,3,7812.5,27,17109.38
+06ORD100112,2025-11-09,Beginner,Central,Indoor,Cash on Delivery,1,18902.61,6,17768.45
+06ORD100227,2025-01-08,Professional,North,Footwear,Credit Card,4,14563.61,38,36117.75
+06ORD100689,2024-09-29,Team,West,Fitness,Credit Card,2,6433.63,11,11451.86
+06ORD100104,2025-02-02,Beginner,West,Outdoor,Cash on Delivery,1,6149.76,23,4735.32
+06ORD100422,2024-12-30,Intermediate,South,Outdoor,UPI,2,1627.38,29,2310.88
+06ORD100420,2025-10-05,Beginner,North,Fitness,Wallet,1,3819.0,15,3246.15
+06ORD100751,2025-04-24,Team,East,Apparel,UPI,3,2186.66,39,4001.59
+06ORD100587,2024-08-28,Beginner,Central,Outdoor,Credit Card,2,10548.34,12,18565.08
+06ORD100781,2025-01-02,Team,North,Apparel,UPI,1,19036.05,33,12754.15
+06ORD100673,2024-02-10,Beginner,West,Apparel,Debit Card,2,7572.91,23,11662.28
+06ORD100120,2024-02-22,Intermediate,East,Indoor,Credit Card,1,3302.32,2,3236.27
+06ORD100054,2024-11-28,Team,North,Fitness,Wallet,1,12480.46,37,7862.69
+06ORD100152,2025-03-24,Beginner,North,Outdoor,Credit Card,4,11565.5,11,41173.18
+06ORD100404,2025-03-13,Beginner,East,Fitness,UPI,1,6029.3,16,5064.61
+06ORD100946,2025-12-09,Beginner,Central,Outdoor,Credit Card,1,4581.97,38,2840.82
+06ORD100208,2025-09-29,Intermediate,South,Outdoor,Debit Card,3,4777.19,27,10462.05
+06ORD100659,2024-10-18,Professional,North,Footwear,UPI,1,7261.72,35,4720.12
+06ORD100844,2024-10-04,Professional,East,Footwear,Cash on Delivery,1,17476.31,7,16252.97
+06ORD100763,2025-12-26,Beginner,Central,Footwear,UPI,5,7757.42,25,29090.32
+06ORD100009,2025-08-29,Intermediate,East,Apparel,Credit Card,4,14132.57,29,40136.5
+06ORD100808,2024-06-09,Intermediate,Central,Indoor,Wallet,5,18358.08,12,80775.55
+06ORD100037,2024-01-17,Beginner,Central,Footwear,Debit Card,4,18087.93,3,70181.17
+06ORD100453,2025-02-19,Beginner,Central,Outdoor,UPI,3,11035.89,16,27810.44
+06ORD100652,2024-01-29,Intermediate,West,Apparel,Wallet,1,17565.41,36,11241.86
+06ORD100254,2024-06-26,Beginner,North,Outdoor,Credit Card,2,5339.67,25,8009.5
+06ORD100304,2025-02-22,Intermediate,East,Outdoor,Debit Card,2,17244.79,22,26901.87
+06ORD100747,2025-01-05,Team,North,Footwear,Cash on Delivery,3,16618.45,18,40881.39
+06ORD100572,2025-01-11,Beginner,West,Fitness,UPI,1,13119.89,0,13119.89
+06ORD100624,2025-07-14,Beginner,South,Footwear,UPI,1,19064.83,7,17730.29
+06ORD100733,2024-10-03,Beginner,West,Indoor,UPI,1,8371.63,16,7032.17
+06ORD100892,2024-01-30,Intermediate,Central,Indoor,UPI,1,10365.07,20,8292.06
+06ORD100263,2024-12-25,Team,East,Fitness,Credit Card,1,7789.36,33,5218.87
+06ORD100611,2024-06-23,Professional,Central,Indoor,Debit Card,1,16063.7,15,13654.14
+06ORD100298,2024-12-12,Beginner,North,Outdoor,Wallet,1,5048.34,39,3079.49
+06ORD100415,2024-07-01,Beginner,South,Fitness,Credit Card,1,13384.91,38,8298.64
+06ORD100151,2025-04-06,Team,East,Outdoor,Credit Card,5,18105.38,34,59747.75
+06ORD100789,2024-07-02,Beginner,South,Apparel,UPI,1,3927.35,15,3338.25
+06ORD100641,2024-03-17,Intermediate,West,Fitness,Cash on Delivery,4,19299.21,13,67161.25
+06ORD100890,2025-07-10,Intermediate,South,Apparel,Debit Card,3,17903.88,21,42432.2
+06ORD100551,2024-11-25,Professional,West,Outdoor,UPI,3,1070.66,16,2698.06
+06ORD100887,2024-05-16,Beginner,Central,Apparel,Debit Card,1,6395.69,28,4604.9
+06ORD100489,2025-11-12,Professional,Central,Fitness,Debit Card,3,11655.55,12,30770.65
+06ORD100148,2025-01-22,Beginner,East,Indoor,UPI,1,6990.57,4,6710.95
+06ORD100147,2024-02-03,Professional,South,Outdoor,UPI,1,1693.8,37,1067.09
+06ORD100721,2025-10-07,Team,Central,Fitness,UPI,1,599.88,5,569.89
+06ORD100932,2024-11-20,Team,East,Fitness,Credit Card,1,17891.55,14,15386.73
+06ORD100740,2024-09-22,Beginner,North,Fitness,Wallet,1,6065.03,19,4912.67
+06ORD100660,2024-07-07,Intermediate,North,Footwear,Wallet,1,552.83,10,497.55
+06ORD100349,2024-03-19,Professional,Central,Indoor,Wallet,1,17661.37,19,14305.71
+06ORD100464,2025-10-30,Team,West,Outdoor,Debit Card,1,9025.41,26,6678.8
+06ORD100326,2025-07-22,Intermediate,North,Footwear,Wallet,2,17477.77,29,24818.43
+06ORD100187,2024-06-10,Intermediate,South,Indoor,Wallet,5,13665.63,35,44413.3
+06ORD100124,2025-06-01,Beginner,North,Fitness,Cash on Delivery,1,10902.35,28,7849.69
+06ORD100854,2025-09-05,Beginner,Central,Apparel,Credit Card,4,9407.68,12,33115.03
+06ORD100609,2024-05-20,Team,North,Outdoor,Credit Card,5,1121.08,5,5325.13
+06ORD100144,2024-09-30,Beginner,East,Fitness,Cash on Delivery,2,19585.15,37,24677.29
+06ORD100959,2024-07-20,Professional,West,Apparel,Wallet,2,16934.49,29,24046.98
+06ORD100198,2025-02-09,Intermediate,East,Outdoor,Debit Card,1,13221.74,15,11238.48
+06ORD100610,2025-11-21,Beginner,North,Apparel,Cash on Delivery,5,1869.53,25,7010.74
+06ORD100280,2025-04-02,Beginner,East,Footwear,Debit Card,4,2948.45,34,7783.91
+06ORD100294,2025-02-09,Beginner,Central,Fitness,Wallet,2,14357.32,33,19238.81
+06ORD100401,2024-11-05,Professional,North,Outdoor,Debit Card,5,13941.13,20,55764.52
+06ORD100123,2025-11-13,Professional,South,Footwear,Wallet,2,3907.71,4,7502.8
+06ORD100184,2024-10-14,Beginner,East,Apparel,Cash on Delivery,1,8026.69,35,5217.35
+06ORD100203,2024-04-03,Team,South,Apparel,Wallet,1,511.77,1,506.65
+06ORD100439,2024-06-25,Intermediate,Central,Outdoor,Wallet,1,2865.81,16,2407.28
+06ORD100247,2025-05-09,Beginner,East,Indoor,Cash on Delivery,1,17443.68,22,13606.07
+06ORD100416,2024-08-22,Team,South,Indoor,Cash on Delivery,1,2404.63,34,1587.06
+06ORD100933,2025-01-07,Professional,East,Outdoor,Credit Card,2,13047.77,24,19832.61
+06ORD100766,2025-05-25,Beginner,South,Indoor,Wallet,1,2006.14,35,1303.99
+06ORD100907,2024-12-02,Team,South,Fitness,Cash on Delivery,1,18684.15,13,16255.21
+06ORD100836,2025-05-19,Beginner,West,Fitness,Wallet,2,19775.93,2,38760.82
+06ORD100888,2025-01-03,Team,West,Apparel,UPI,4,7994.79,20,25583.33
+06ORD100130,2025-07-28,Team,South,Apparel,Cash on Delivery,1,2829.7,21,2235.46
+06ORD100638,2024-08-17,Beginner,East,Outdoor,UPI,5,17915.96,8,82413.42
+06ORD100403,2025-10-08,Intermediate,South,Apparel,Cash on Delivery,4,17675.9,33,47371.41
+06ORD100785,2024-04-08,Intermediate,North,Apparel,Credit Card,2,9222.62,33,12358.31
+06ORD100771,2025-05-26,Team,Central,Footwear,Credit Card,1,14890.4,32,10125.47
+06ORD100736,2024-04-23,Intermediate,South,Indoor,Credit Card,1,4008.81,20,3207.05
+06ORD100914,2025-10-31,Intermediate,West,Apparel,Debit Card,2,9748.31,0,19496.62
+06ORD100220,2024-08-25,Professional,West,Fitness,Debit Card,2,13737.11,28,19781.44
+06ORD100642,2024-03-02,Intermediate,Central,Outdoor,UPI,1,17293.14,30,12105.2
+06ORD100916,2024-10-22,Intermediate,East,Apparel,Debit Card,2,1898.61,0,3797.22
+06ORD100753,2024-07-22,Team,South,Fitness,Wallet,4,19765.07,30,55342.2
+06ORD100807,2025-03-01,Intermediate,East,Footwear,Cash on Delivery,2,17463.82,27,25497.18
+06ORD100920,2024-12-26,Team,East,Footwear,Debit Card,1,16517.2,3,16021.68
+06ORD100625,2024-02-28,Team,North,Outdoor,Wallet,2,9254.0,38,11474.96
+06ORD100875,2024-10-09,Intermediate,East,Indoor,Debit Card,2,6439.52,20,10303.23
+06ORD100761,2025-01-07,Intermediate,North,Apparel,UPI,2,15531.09,20,24849.74
+06ORD100387,2025-06-03,Intermediate,East,Indoor,Credit Card,1,6051.86,24,4599.41
+06ORD100973,2025-07-06,Intermediate,East,Outdoor,Cash on Delivery,2,11003.09,0,22006.18
+06ORD100510,2024-08-14,Beginner,West,Apparel,UPI,1,18049.89,11,16064.4
+06ORD100268,2025-01-23,Professional,West,Indoor,Debit Card,1,3392.01,11,3018.89
+06ORD100820,2024-01-06,Beginner,West,Footwear,Wallet,5,12619.76,31,43538.17
+06ORD100442,2025-12-27,Beginner,East,Outdoor,Debit Card,5,13988.54,18,57353.01
+06ORD100497,2025-08-07,Team,West,Outdoor,Credit Card,5,4033.27,14,17343.06
+06ORD100113,2024-10-20,Team,South,Indoor,Credit Card,2,19785.3,14,34030.72
+06ORD100692,2025-01-12,Beginner,Central,Apparel,Debit Card,1,411.64,25,308.73
+06ORD100233,2024-10-31,Team,East,Indoor,UPI,3,8079.25,0,24237.75
+06ORD100870,2024-09-12,Beginner,Central,Fitness,Cash on Delivery,2,7129.47,29,10123.85
+06ORD100608,2024-07-09,Beginner,South,Outdoor,UPI,2,5440.76,11,9684.55
+06ORD100672,2024-08-17,Team,South,Outdoor,Wallet,1,18396.62,32,12509.7
+06ORD100374,2025-12-19,Team,West,Outdoor,Credit Card,4,7459.0,21,23570.44
+06ORD100982,2025-10-13,Professional,West,Outdoor,Cash on Delivery,3,19534.93,30,41023.35
+06ORD100843,2025-01-20,Team,North,Indoor,Credit Card,2,17188.23,40,20625.88
+06ORD100234,2024-10-10,Team,East,Footwear,Debit Card,2,16735.59,32,22760.4
+06ORD100786,2024-08-12,Intermediate,East,Apparel,Credit Card,1,2078.14,7,1932.67
+06ORD100677,2025-10-31,Beginner,West,Apparel,Wallet,2,12952.6,10,23314.68
+06ORD100318,2024-01-30,Professional,East,Indoor,Debit Card,5,11029.88,36,35295.62
+06ORD100649,2025-10-11,Team,West,Indoor,Credit Card,3,2001.56,13,5224.07
+06ORD100411,2024-06-22,Professional,West,Outdoor,UPI,2,15554.58,1,30798.07
+06ORD100899,2025-06-12,Professional,Central,Footwear,Cash on Delivery,2,19391.0,27,28310.86
+06ORD100710,2024-11-25,Team,North,Indoor,Debit Card,1,3695.04,8,3399.44
+06ORD100359,2024-06-09,Professional,North,Indoor,Cash on Delivery,2,18016.76,0,36033.52
+06ORD100259,2024-07-24,Team,South,Apparel,Wallet,1,4373.34,40,2624.0
+06ORD100745,2025-04-02,Beginner,Central,Footwear,Debit Card,1,17699.14,34,11681.43
+06ORD100628,2025-10-08,Team,North,Outdoor,Cash on Delivery,1,14493.18,26,10724.95
+06ORD100633,2024-07-14,Intermediate,West,Outdoor,Wallet,1,343.75,27,250.94
+06ORD100283,2025-12-11,Team,East,Outdoor,UPI,1,1037.45,1,1027.08
+06ORD100377,2025-09-05,Intermediate,East,Indoor,UPI,2,2462.18,15,4185.71
+06ORD100385,2025-08-05,Professional,East,Indoor,Credit Card,3,9489.55,38,17650.56
+06ORD100225,2024-08-01,Team,East,Footwear,Credit Card,3,9968.7,38,18541.78
+06ORD100954,2024-01-15,Beginner,North,Footwear,Cash on Delivery,5,18848.2,7,87644.13
+06ORD100815,2025-06-09,Professional,West,Footwear,UPI,4,671.75,3,2606.39
+06ORD100473,2024-04-11,Team,North,Outdoor,Wallet,4,4552.12,35,11835.51
+06ORD100348,2024-10-13,Team,East,Footwear,Debit Card,1,2405.65,3,2333.48
+06ORD100506,2025-10-09,Professional,North,Apparel,Cash on Delivery,3,14312.06,34,28337.88
+06ORD100640,2024-11-11,Professional,East,Outdoor,Wallet,3,14381.8,37,27181.6
+06ORD100988,2024-12-01,Intermediate,East,Apparel,Credit Card,5,7274.37,0,36371.85
+06ORD100929,2025-01-01,Team,West,Footwear,Cash on Delivery,2,10586.59,38,13127.37
+06ORD100906,2024-05-17,Intermediate,North,Apparel,Credit Card,1,4174.33,11,3715.15
+06ORD100620,2025-07-09,Team,West,Apparel,Wallet,1,19136.69,13,16648.92
+06ORD100856,2025-02-01,Beginner,South,Indoor,UPI,5,6454.58,32,21945.57
+06ORD100804,2025-09-09,Professional,West,Footwear,UPI,1,14161.11,16,11895.33
+06ORD100646,2025-07-21,Professional,West,Fitness,Credit Card,2,11200.61,30,15680.85
+06ORD100847,2025-02-08,Intermediate,South,Apparel,Credit Card,5,17699.68,26,65488.82
+06ORD100557,2024-12-19,Intermediate,South,Apparel,Wallet,2,7243.66,17,12024.48
+06ORD100958,2025-04-13,Team,West,Apparel,Cash on Delivery,5,17846.97,7,82988.41
+06ORD100578,2024-01-05,Team,South,Fitness,Credit Card,2,7008.34,11,12474.85
+06ORD100796,2024-12-24,Beginner,Central,Apparel,UPI,5,16989.39,3,82398.54
+06ORD100086,2024-08-23,Beginner,East,Outdoor,Credit Card,2,15884.83,4,30498.87
+06ORD100243,2025-11-10,Team,South,Outdoor,UPI,5,15752.81,35,51196.63
+06ORD100699,2024-05-31,Intermediate,West,Footwear,UPI,1,2551.45,35,1658.44
+06ORD100160,2024-06-14,Intermediate,West,Outdoor,Debit Card,2,11898.61,13,20703.58
+06ORD100525,2024-02-27,Beginner,South,Outdoor,UPI,5,5045.67,10,22705.52
+06ORD100036,2025-08-16,Professional,Central,Indoor,UPI,3,8366.72,22,19578.12
+06ORD100541,2024-12-30,Beginner,North,Apparel,Credit Card,3,572.86,29,1220.19
+06ORD100171,2025-10-10,Professional,Central,Apparel,Cash on Delivery,2,7383.73,15,12552.34
+06ORD100655,2024-12-16,Professional,Central,Outdoor,Cash on Delivery,2,7543.89,5,14333.39
+06ORD100891,2025-03-11,Professional,North,Apparel,Cash on Delivery,4,3696.37,26,10941.26
+06ORD100858,2025-03-07,Team,Central,Indoor,Debit Card,4,6103.09,4,23435.87
+06ORD100848,2025-01-30,Intermediate,West,Fitness,Debit Card,2,9816.28,1,19436.23
+06ORD100945,2024-12-13,Intermediate,North,Apparel,Cash on Delivery,2,2884.26,28,4153.33
+06ORD100734,2025-02-15,Beginner,West,Outdoor,Credit Card,2,4676.18,15,7949.51
+06ORD100096,2025-01-26,Team,West,Apparel,UPI,3,10620.93,5,30269.65
+06ORD100564,2024-12-17,Intermediate,East,Outdoor,Credit Card,4,16314.5,20,52206.4
+06ORD100241,2025-12-15,Intermediate,Central,Footwear,Cash on Delivery,1,16457.13,27,12013.7
+06ORD100743,2024-02-05,Professional,Central,Fitness,Wallet,2,9639.27,14,16579.54
+06ORD100575,2024-05-11,Beginner,West,Footwear,Debit Card,1,11653.39,9,10604.58
+06ORD100691,2024-04-16,Beginner,East,Fitness,Debit Card,1,18364.42,30,12855.09
+06ORD100461,2025-07-31,Professional,North,Indoor,UPI,1,7547.28,27,5509.51
+06ORD100554,2024-06-08,Team,Central,Footwear,Credit Card,1,5199.1,6,4887.15
+06ORD100889,2025-06-05,Beginner,West,Footwear,Credit Card,1,13402.58,11,11928.3
+06ORD100207,2024-07-30,Intermediate,South,Fitness,Wallet,4,11266.84,26,33349.85
+06ORD100393,2025-08-07,Professional,East,Outdoor,Credit Card,1,6433.92,29,4568.08
+06ORD100795,2024-05-19,Beginner,South,Footwear,Debit Card,3,2864.52,30,6015.49
+06ORD100398,2025-12-25,Professional,North,Apparel,Credit Card,1,14084.16,24,10703.96
+06ORD100767,2025-07-22,Professional,North,Indoor,UPI,2,2418.47,19,3917.92
+06ORD100849,2025-11-24,Intermediate,East,Apparel,Credit Card,2,8858.43,19,14350.66
+06ORD100218,2025-08-29,Team,South,Fitness,UPI,5,5848.54,1,28950.27
+06ORD100005,2025-01-05,Beginner,North,Indoor,Debit Card,3,13038.93,25,29337.59
+06ORD100769,2024-02-06,Beginner,East,Indoor,Debit Card,2,16461.91,26,24363.63
+06ORD100643,2025-07-24,Professional,West,Footwear,Wallet,4,16334.25,29,46389.27
+06ORD100930,2025-02-05,Team,Central,Outdoor,UPI,1,2055.34,4,1973.13
+06ORD100613,2025-11-06,Intermediate,West,Outdoor,UPI,1,3170.83,18,2600.08
+06ORD100739,2025-03-13,Intermediate,East,Fitness,Cash on Delivery,1,7950.61,29,5644.93
+06ORD100547,2025-05-31,Professional,West,Indoor,UPI,1,5174.01,0,5174.01
+06ORD100726,2024-04-14,Team,North,Footwear,Credit Card,1,2948.04,35,1916.23
+06ORD100684,2025-12-15,Professional,West,Fitness,UPI,3,16217.78,25,36490.01
+06ORD100099,2024-04-02,Intermediate,East,Indoor,Credit Card,1,7064.32,13,6145.96
+06ORD100805,2024-10-26,Professional,East,Fitness,Wallet,3,8200.94,17,20420.34
+06ORD100728,2025-12-20,Professional,North,Outdoor,Debit Card,3,3958.79,36,7600.88
+06ORD100574,2025-06-14,Team,East,Apparel,Credit Card,4,17804.46,37,44867.24
+06ORD100407,2025-12-02,Beginner,West,Indoor,Debit Card,2,4688.8,8,8627.39
+06ORD100503,2025-06-02,Intermediate,East,Footwear,Debit Card,1,17919.09,33,12005.79
+06ORD100048,2025-03-05,Team,West,Outdoor,Wallet,3,7657.38,22,17918.27
+06ORD100033,2025-02-01,Team,South,Indoor,Wallet,1,2587.81,21,2044.37
+06ORD100780,2025-12-03,Beginner,Central,Outdoor,UPI,2,7549.35,6,14192.78
+06ORD100840,2024-07-09,Intermediate,South,Fitness,UPI,4,5992.06,39,14620.63
+06ORD100201,2025-08-18,Team,Central,Outdoor,Credit Card,3,5543.82,5,15799.89
+06ORD100135,2024-10-20,Team,East,Fitness,Wallet,4,7311.25,22,22811.1
+06ORD100028,2024-01-01,Professional,South,Apparel,Debit Card,1,14638.8,5,13906.86
+06ORD100881,2024-07-24,Team,North,Footwear,Credit Card,2,13157.9,14,22631.59
+06ORD100231,2025-03-06,Beginner,Central,Apparel,Debit Card,3,8060.17,38,14991.92
+06ORD100490,2024-04-07,Team,Central,Footwear,Cash on Delivery,1,14249.11,2,13964.13
+06ORD100773,2025-01-03,Beginner,Central,Footwear,Wallet,2,17685.78,33,23698.95
+06ORD100379,2025-10-02,Beginner,North,Fitness,Credit Card,5,16083.75,11,71572.69
+06ORD100289,2024-03-07,Team,East,Apparel,Debit Card,5,12637.32,3,61291.0
+06ORD100419,2024-09-22,Team,North,Outdoor,Credit Card,4,17050.23,1,67518.91
+06ORD100675,2025-01-26,Professional,South,Outdoor,Debit Card,1,5762.53,29,4091.4
+06ORD100392,2024-06-17,Intermediate,Central,Footwear,UPI,3,3932.26,24,8965.55
+06ORD100593,2025-09-18,Team,North,Apparel,UPI,2,11113.72,40,13336.46
+06ORD100499,2025-09-30,Professional,East,Footwear,UPI,2,18885.94,37,23796.28
+06ORD100139,2024-04-14,Team,South,Apparel,Debit Card,4,15913.47,37,40101.94
+06ORD100063,2025-06-06,Beginner,Central,Outdoor,Debit Card,4,12585.6,25,37756.8
+06ORD100472,2025-09-22,Team,Central,Fitness,Wallet,1,10044.88,19,8136.35
+06ORD100648,2025-07-12,Team,South,Apparel,Wallet,1,6167.82,17,5119.29
+06ORD100129,2025-09-24,Beginner,North,Outdoor,UPI,2,11568.99,40,13882.79
+06ORD100977,2024-09-11,Beginner,Central,Outdoor,UPI,1,2123.91,12,1869.04
+06ORD100521,2024-04-08,Beginner,South,Apparel,Debit Card,5,16471.32,35,53531.79
+06ORD100839,2025-11-24,Intermediate,Central,Apparel,Credit Card,2,10719.72,3,20796.26
+06ORD100963,2025-12-15,Intermediate,North,Outdoor,Debit Card,4,3739.03,12,13161.39
+06ORD100065,2024-01-25,Professional,Central,Apparel,Credit Card,1,8830.0,3,8565.1
+06ORD100813,2025-05-03,Intermediate,North,Indoor,Credit Card,2,3210.16,12,5649.88
+06ORD100015,2024-12-23,Team,East,Outdoor,Cash on Delivery,1,7206.97,7,6702.48
+06ORD100157,2024-08-27,Beginner,North,Indoor,Credit Card,1,16722.17,8,15384.4
+06ORD100041,2025-07-18,Professional,North,Fitness,Credit Card,3,17646.21,12,46585.99
+06ORD100493,2024-01-30,Intermediate,East,Footwear,Debit Card,1,2880.28,38,1785.77
+06ORD100380,2025-05-16,Beginner,North,Indoor,UPI,3,10946.93,25,24630.59
+06ORD100188,2025-08-19,Beginner,East,Indoor,Wallet,2,2030.94,9,3696.31
+06ORD100764,2025-01-03,Beginner,East,Outdoor,Cash on Delivery,2,8488.98,5,16129.06
+06ORD100217,2025-05-29,Beginner,South,Fitness,Credit Card,1,14673.23,2,14379.77
+06ORD100792,2024-09-05,Professional,North,Indoor,Credit Card,1,3550.44,6,3337.41
+06ORD100053,2024-07-30,Team,West,Fitness,Debit Card,2,1648.69,7,3066.56
+06ORD100879,2024-06-12,Intermediate,North,Fitness,Credit Card,2,5580.4,34,7366.13
+06ORD100338,2025-12-31,Beginner,East,Indoor,UPI,1,10918.24,27,7970.32
+06ORD100749,2024-09-28,Intermediate,South,Outdoor,Debit Card,2,1907.27,15,3242.36
+06ORD100720,2024-09-18,Team,West,Footwear,Cash on Delivery,1,10018.48,21,7914.6
+06ORD100725,2024-01-16,Team,East,Apparel,Credit Card,4,19088.72,15,64901.65
+06ORD100296,2024-01-11,Professional,West,Footwear,Wallet,2,2366.49,19,3833.71
+06ORD100702,2024-11-01,Professional,Central,Outdoor,Wallet,2,12775.95,9,23252.23
+06ORD100252,2024-05-24,Intermediate,North,Fitness,Wallet,4,11551.65,16,38813.54
+06ORD100727,2024-07-21,Professional,South,Indoor,Wallet,1,13649.19,12,12011.29
+06ORD100462,2024-09-26,Professional,Central,Apparel,Wallet,5,17990.12,38,55769.37
+06ORD100456,2025-05-25,Intermediate,Central,Indoor,Debit Card,4,19947.4,31,55054.82
+06ORD100997,2024-02-26,Professional,North,Outdoor,Debit Card,5,11238.77,23,43269.26
+06ORD100816,2024-04-09,Team,West,Apparel,Cash on Delivery,3,14210.31,14,36662.6
+06ORD100863,2025-08-08,Team,West,Apparel,Wallet,1,3785.47,12,3331.21
+06ORD100270,2025-01-27,Beginner,Central,Apparel,Wallet,2,18105.38,6,34038.11
+06ORD100202,2025-11-19,Beginner,East,Apparel,UPI,3,9544.78,37,18039.63
+06ORD100162,2025-05-25,Team,East,Fitness,Cash on Delivery,2,1734.1,28,2497.1
+06ORD100556,2025-07-23,Intermediate,West,Outdoor,UPI,1,17265.45,22,13467.05
+06ORD100730,2024-02-28,Professional,North,Footwear,Cash on Delivery,2,15618.85,18,25614.91
+06ORD100402,2024-06-28,Intermediate,North,Indoor,Wallet,1,13928.95,12,12257.48
+06ORD100703,2025-11-09,Team,East,Apparel,Wallet,2,9048.04,37,11400.53
+06ORD100477,2025-04-21,Intermediate,South,Indoor,Cash on Delivery,1,5119.91,29,3635.14
+06ORD100822,2024-03-04,Intermediate,West,Footwear,Cash on Delivery,5,18940.0,5,89965.0
+06ORD100772,2024-11-19,Intermediate,North,Apparel,Cash on Delivery,4,5883.06,29,16707.89
+06ORD100106,2024-04-15,Intermediate,West,Footwear,Cash on Delivery,4,4745.47,12,16704.05
+06ORD100566,2024-05-12,Professional,South,Apparel,UPI,4,9361.19,16,31453.6
+06ORD100390,2024-12-10,Intermediate,Central,Fitness,UPI,3,1806.95,20,4336.68
+06ORD100002,2024-10-19,Beginner,West,Footwear,Wallet,2,9791.22,5,18603.32
+06ORD100938,2024-09-25,Professional,East,Fitness,UPI,2,3501.72,38,4342.13
+06ORD100983,2025-12-18,Professional,Central,Indoor,Credit Card,1,16424.15,4,15767.18
+06ORD100562,2025-01-17,Beginner,West,Indoor,Debit Card,4,9543.82,7,35503.01
+06ORD100081,2025-09-12,Team,West,Indoor,Cash on Delivery,4,12735.88,15,43301.99
+06ORD100206,2025-02-14,Intermediate,Central,Indoor,Cash on Delivery,1,12438.77,6,11692.44
+06ORD100035,2024-03-28,Professional,West,Footwear,Cash on Delivery,1,6781.17,28,4882.44
+06ORD100776,2024-04-09,Professional,East,Indoor,UPI,1,19718.01,11,17549.03
+06ORD100509,2024-12-06,Professional,West,Apparel,Wallet,4,4670.01,0,18680.04
+06ORD100428,2025-09-02,Intermediate,North,Outdoor,Credit Card,1,16542.39,8,15219.0
+06ORD100455,2025-02-22,Team,South,Outdoor,Cash on Delivery,1,12368.06,21,9770.77
+06ORD100367,2025-04-01,Professional,West,Apparel,Wallet,1,1491.38,27,1088.71
+06ORD100092,2025-03-30,Intermediate,North,Indoor,Debit Card,2,4063.34,13,7070.21
+06ORD100340,2025-05-27,Team,East,Outdoor,Cash on Delivery,1,19345.7,40,11607.42
+06ORD100898,2025-03-04,Intermediate,East,Footwear,Debit Card,1,18030.1,18,14784.68
+06ORD100565,2024-07-19,Intermediate,South,Apparel,UPI,5,2395.14,35,7784.2
+06ORD100346,2024-11-20,Team,South,Footwear,Debit Card,1,7752.24,38,4806.39
+06ORD100777,2024-03-15,Beginner,North,Fitness,Cash on Delivery,2,3655.2,11,6506.26
+06ORD100242,2025-11-16,Beginner,South,Outdoor,Debit Card,1,12653.31,22,9869.58
+06ORD100014,2025-11-01,Beginner,North,Indoor,Wallet,1,4773.08,3,4629.89
+06ORD100316,2024-05-27,Beginner,North,Footwear,UPI,4,5062.78,4,19441.08
+06ORD100601,2024-04-08,Beginner,South,Apparel,UPI,2,13109.75,20,20975.6
+06ORD100388,2025-11-04,Team,East,Fitness,Cash on Delivery,5,18124.73,40,54374.19
+06ORD100274,2025-08-09,Professional,South,Footwear,Cash on Delivery,1,7174.05,2,7030.57
+06ORD100167,2025-01-24,Team,North,Outdoor,UPI,2,5600.09,25,8400.14
+06ORD100841,2025-04-01,Professional,West,Apparel,Cash on Delivery,5,3668.61,15,15591.59
+06ORD100993,2025-02-19,Team,South,Indoor,Credit Card,3,2373.61,31,4913.37
+06ORD100647,2024-03-18,Intermediate,East,Indoor,Credit Card,1,14233.77,5,13522.08
+06ORD100819,2025-07-18,Team,South,Apparel,Debit Card,1,3573.62,25,2680.22
+06ORD100485,2025-10-29,Beginner,North,Fitness,Credit Card,1,6025.73,6,5664.19
+06ORD100981,2025-09-04,Intermediate,West,Outdoor,Credit Card,1,9026.7,31,6228.42
+06ORD100505,2024-11-02,Beginner,West,Fitness,Cash on Delivery,1,10769.49,36,6892.47
+06ORD100832,2025-02-12,Intermediate,West,Apparel,Debit Card,1,10941.65,26,8096.82
+06ORD100244,2024-02-03,Intermediate,West,Footwear,Credit Card,1,16027.09,38,9936.8
+06ORD100567,2025-09-25,Intermediate,West,Apparel,UPI,1,11660.03,15,9911.03
+06ORD100876,2024-07-22,Beginner,East,Indoor,Cash on Delivery,1,10394.77,25,7796.08
+06ORD100563,2025-11-23,Team,South,Apparel,Cash on Delivery,4,570.43,20,1825.38
+06ORD100687,2024-07-15,Professional,North,Outdoor,Credit Card,1,4184.93,13,3640.89
+06ORD100190,2025-10-23,Intermediate,South,Outdoor,Debit Card,1,17598.72,20,14078.98
+06ORD100783,2025-09-15,Intermediate,North,Footwear,Wallet,3,16620.92,5,47369.62
+06ORD100700,2025-07-18,Team,Central,Footwear,Wallet,3,10513.91,10,28387.56
+06ORD100476,2025-05-24,Beginner,South,Indoor,UPI,3,18722.44,0,56167.32
+06ORD100682,2025-06-28,Beginner,East,Footwear,Credit Card,2,18995.28,5,36091.03
+06ORD100511,2024-09-20,Team,South,Apparel,Wallet,2,10532.91,4,20223.19
+06ORD100059,2025-11-21,Team,North,Footwear,Cash on Delivery,2,1906.8,32,2593.25
+06ORD100475,2024-06-28,Team,North,Fitness,UPI,5,5991.33,15,25463.15
+06ORD100561,2025-05-31,Team,West,Apparel,Debit Card,1,12843.11,37,8091.16
+06ORD100857,2024-08-03,Team,Central,Footwear,Wallet,1,11628.49,27,8488.8
+06ORD100748,2025-04-30,Professional,South,Apparel,Cash on Delivery,1,3477.46,0,3477.46
+06ORD100253,2025-07-12,Professional,South,Fitness,Debit Card,4,16886.69,35,43905.39
+06ORD100022,2025-07-20,Intermediate,North,Footwear,Debit Card,2,13605.91,2,26667.58
+06ORD100314,2025-11-02,Intermediate,East,Apparel,Cash on Delivery,5,10216.47,18,41887.53
+06ORD100460,2025-03-11,Beginner,Central,Apparel,Wallet,2,7967.24,13,13863.0
+06ORD100161,2025-08-07,Professional,West,Indoor,Debit Card,3,14550.18,22,34047.42
+06ORD100277,2025-02-23,Beginner,East,Apparel,Credit Card,2,8644.44,2,16943.1
+06ORD100956,2024-04-16,Intermediate,Central,Outdoor,Cash on Delivery,1,8431.25,28,6070.5
+06ORD100192,2025-04-25,Professional,South,Fitness,Debit Card,3,14792.86,39,27070.93
+06ORD100386,2025-02-25,Team,South,Apparel,UPI,1,18463.53,35,12001.29
+06ORD100806,2025-10-03,Team,South,Outdoor,Cash on Delivery,1,6705.37,9,6101.89
+06ORD100414,2024-11-17,Beginner,Central,Fitness,Cash on Delivery,3,19661.34,29,41878.65
+06ORD100492,2024-10-26,Beginner,East,Footwear,Credit Card,2,7965.17,17,13222.18
+06ORD100344,2024-10-01,Intermediate,West,Footwear,Debit Card,2,1663.04,16,2793.91
+06ORD100770,2025-01-14,Intermediate,East,Fitness,Cash on Delivery,1,2821.36,5,2680.29
+06ORD100309,2024-08-21,Professional,West,Outdoor,Credit Card,5,13365.12,12,58806.53
+06ORD100662,2025-02-22,Beginner,Central,Footwear,Credit Card,2,4598.42,2,9012.9
+06ORD100131,2024-04-01,Professional,South,Indoor,Wallet,2,11017.07,11,19610.38
+06ORD100664,2024-07-24,Beginner,South,Outdoor,Wallet,1,9495.23,1,9400.28
+06ORD100872,2024-04-11,Professional,Central,Fitness,Debit Card,1,15579.4,22,12151.93
+06ORD100100,2024-08-02,Intermediate,Central,Apparel,Debit Card,1,18922.52,10,17030.27
+06ORD100373,2024-05-02,Professional,South,Apparel,Wallet,1,11624.22,8,10694.28
+06ORD100088,2024-07-11,Beginner,South,Fitness,UPI,2,13840.65,9,25189.98
+06ORD100459,2024-12-26,Beginner,North,Apparel,Credit Card,4,4823.29,21,15241.6
+06ORD100331,2024-07-17,Professional,South,Fitness,Credit Card,3,12551.2,9,34264.78
+06ORD100215,2024-02-12,Professional,South,Fitness,Wallet,4,7595.73,10,27344.63
+06ORD100467,2024-01-18,Team,West,Fitness,UPI,3,1865.16,32,3804.93
+06ORD100122,2025-03-13,Professional,West,Footwear,Wallet,1,11001.31,10,9901.18
+06ORD100615,2025-03-15,Team,South,Outdoor,Credit Card,3,13096.15,23,30252.11
+06ORD100021,2024-12-06,Team,South,Indoor,Debit Card,4,3159.68,36,8088.78
+06ORD100701,2025-11-08,Beginner,East,Outdoor,Wallet,1,14549.73,36,9311.83
+06ORD100072,2024-05-10,Professional,East,Fitness,Credit Card,5,17378.67,38,53873.88
+06ORD100107,2024-08-19,Intermediate,West,Indoor,Credit Card,5,11068.91,12,48703.2
+06ORD100271,2025-10-15,Intermediate,South,Fitness,Credit Card,5,4603.87,30,16113.54
+06ORD100861,2025-05-07,Beginner,East,Footwear,UPI,1,3894.68,19,3154.69
+06ORD100436,2024-07-21,Beginner,Central,Fitness,Credit Card,1,14227.95,4,13658.83
+06ORD100103,2024-11-30,Professional,Central,Indoor,Credit Card,3,19851.35,31,41092.29

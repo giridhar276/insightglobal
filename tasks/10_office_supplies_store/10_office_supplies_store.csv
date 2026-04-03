@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Segment,Region,Product_Category,Payment_Method,Quantity,Unit_Price,Discount_Percent,Order_Value
+10ORD100522,2025-10-19,Freelancer,South,Stationery,UPI,10,15063.47,17,125026.8
+10ORD100738,2024-01-12,Startup,North,Furniture,Bank Transfer,2,9166.28,27,13382.77
+10ORD100741,2025-06-25,School,South,Pantry,Bank Transfer,10,24589.43,27,179502.84
+10ORD100661,2024-12-29,Enterprise,West,Printing,Credit Card,1,17994.69,7,16735.06
+10ORD100412,2025-06-19,Enterprise,East,Electronics,Debit Card,20,307.87,22,4802.77
+10ORD100679,2025-08-21,Startup,Central,Furniture,UPI,2,16240.9,16,27284.71
+10ORD100627,2025-04-08,Enterprise,East,Printing,Net Banking,1,8855.07,10,7969.56
+10ORD100514,2024-01-20,Startup,South,Electronics,Bank Transfer,5,23698.47,25,88869.26
+10ORD100860,2024-07-09,Freelancer,North,Furniture,Credit Card,2,2966.99,17,4925.2
+10ORD100137,2025-06-11,Enterprise,North,Pantry,UPI,1,249.84,24,189.88
+10ORD100812,2024-09-14,Enterprise,South,Stationery,UPI,4,24397.6,24,74168.7
+10ORD100077,2025-09-01,School,West,Printing,UPI,1,17456.68,11,15536.45
+10ORD100637,2025-07-12,Startup,North,Printing,Bank Transfer,5,24658.27,22,96167.25
+10ORD100974,2025-02-14,Freelancer,Central,Pantry,Bank Transfer,2,23083.29,21,36471.6
+10ORD100939,2024-08-03,Freelancer,South,Stationery,Debit Card,2,19880.2,6,37374.78
+10ORD100900,2024-09-26,School,South,Stationery,UPI,2,1536.98,11,2735.82
+10ORD100281,2025-12-16,Freelancer,North,Electronics,Credit Card,1,16677.57,13,14509.49
+10ORD100884,2025-06-12,Enterprise,South,Electronics,Credit Card,5,3223.78,8,14829.39
+10ORD100762,2024-12-23,Freelancer,West,Electronics,Debit Card,1,3244.52,25,2433.39
+10ORD100320,2024-12-12,School,Central,Electronics,Credit Card,4,394.77,21,1247.47
+10ORD100550,2024-08-08,Startup,East,Furniture,Bank Transfer,4,15805.84,14,54372.09
+10ORD100175,2025-02-23,Enterprise,West,Stationery,Net Banking,1,11101.79,18,9103.47
+10ORD100372,2025-06-20,Freelancer,North,Stationery,Credit Card,3,8593.52,11,22944.7
+10ORD100528,2024-03-17,Freelancer,East,Pantry,Bank Transfer,2,2197.28,10,3955.1
+10ORD100211,2024-09-19,Startup,East,Electronics,Debit Card,4,8274.51,25,24823.53
+10ORD100236,2024-07-31,School,West,Printing,Credit Card,10,11965.86,25,89743.95
+10ORD100102,2024-12-19,School,West,Electronics,Debit Card,5,13222.17,24,50244.25
+10ORD100987,2025-01-22,School,North,Electronics,Debit Card,2,4078.27,2,7993.41
+10ORD100903,2025-02-04,School,South,Stationery,Debit Card,1,6503.31,19,5267.68
+10ORD100948,2025-05-02,School,West,Stationery,Debit Card,2,24132.54,14,41507.97
+10ORD100347,2024-06-17,Startup,West,Furniture,Bank Transfer,1,13059.58,0,13059.58
+10ORD100140,2024-11-13,Freelancer,South,Printing,Debit Card,1,1619.35,19,1311.67
+10ORD100622,2024-12-27,Startup,North,Pantry,Net Banking,1,16553.23,14,14235.78
+10ORD100500,2025-10-27,Enterprise,South,Pantry,Bank Transfer,2,17083.91,22,26650.9
+10ORD100371,2025-04-30,Enterprise,West,Furniture,Net Banking,1,10203.43,6,9591.22
+10ORD100199,2024-05-27,Freelancer,West,Pantry,Credit Card,1,23657.79,0,23657.79
+10ORD100688,2025-06-03,School,Central,Stationery,Debit Card,5,9713.77,13,42254.9
+10ORD100585,2025-12-20,Enterprise,South,Furniture,Credit Card,5,24921.72,20,99686.88
+10ORD100902,2025-05-26,Freelancer,North,Electronics,Bank Transfer,5,2810.32,26,10398.18
+10ORD100060,2024-06-25,School,West,Electronics,Net Banking,1,14768.95,2,14473.57
+10ORD100329,2025-08-03,School,Central,Stationery,UPI,1,6330.06,26,4684.24
+10ORD100097,2024-06-07,School,North,Electronics,Net Banking,5,16173.24,4,77631.55
+10ORD100313,2025-12-09,Startup,West,Pantry,Debit Card,2,15788.95,0,31577.9
+10ORD100975,2025-01-08,School,West,Furniture,Net Banking,1,22782.01,1,22554.19
+10ORD100300,2025-10-09,Startup,West,Pantry,Credit Card,3,24171.07,24,55110.04
+10ORD100278,2025-08-24,Enterprise,North,Printing,Bank Transfer,4,7677.79,27,22419.15
+10ORD100925,2024-06-15,Enterprise,East,Stationery,Debit Card,4,2580.89,13,8981.5
+10ORD100602,2025-09-20,Startup,North,Printing,Net Banking,2,5411.77,10,9741.19
+10ORD100440,2025-05-13,Enterprise,Central,Printing,Credit Card,4,15749.64,2,61738.59
+10ORD100838,2025-06-26,School,West,Electronics,UPI,5,2779.56,24,10562.33
+10ORD100571,2025-05-18,Freelancer,East,Pantry,Bank Transfer,4,17856.91,27,52142.18
+10ORD100880,2025-08-03,Startup,South,Printing,Net Banking,10,19122.43,9,174014.11
+10ORD100262,2024-03-20,Freelancer,East,Printing,Net Banking,20,16932.56,17,281080.5
+10ORD100579,2025-08-26,Freelancer,North,Electronics,UPI,3,792.56,15,2021.03
+10ORD100024,2024-01-14,Freelancer,West,Pantry,Credit Card,1,6600.9,17,5478.75
+10ORD100031,2024-11-10,Startup,North,Stationery,Debit Card,4,6617.32,13,23028.27
+10ORD100618,2024-11-18,Freelancer,West,Furniture,Debit Card,4,4702.21,12,16551.78
+10ORD100011,2025-11-25,Startup,Central,Furniture,Debit Card,2,21814.04,18,35775.03
+10ORD100222,2024-10-09,Enterprise,West,Electronics,Bank Transfer,5,12533.19,11,55772.7
+10ORD100821,2024-04-13,Enterprise,North,Furniture,UPI,2,17620.73,2,34536.63
+10ORD100297,2024-11-26,Startup,North,Printing,Debit Card,2,9288.87,6,17463.08
+10ORD100055,2024-02-16,Enterprise,East,Furniture,Bank Transfer,5,8490.2,27,30989.23
+10ORD100543,2025-04-26,Freelancer,North,Electronics,Debit Card,10,23650.63,15,201030.36
+10ORD100210,2025-07-31,Startup,Central,Stationery,Debit Card,2,21806.22,7,40559.57
+10ORD100605,2025-06-17,School,South,Electronics,Bank Transfer,10,7534.81,19,61031.96
+10ORD100693,2025-10-16,Enterprise,East,Stationery,UPI,1,20763.13,14,17856.29
+10ORD100663,2025-09-26,Startup,Central,Stationery,Debit Card,10,24795.6,13,215721.72
+10ORD100867,2024-09-30,School,North,Printing,Debit Card,2,4708.14,10,8474.65
+10ORD100071,2024-08-10,Startup,South,Furniture,Net Banking,2,1252.46,13,2179.28
+10ORD100544,2024-02-11,School,East,Furniture,Debit Card,2,3281.72,7,6104.0
+10ORD100108,2025-03-15,Enterprise,North,Electronics,Credit Card,1,15989.36,19,12951.38
+10ORD100494,2024-03-18,School,East,Stationery,Credit Card,10,211.98,1,2098.6
+10ORD100591,2025-06-12,School,South,Furniture,Debit Card,2,14404.03,4,27655.74
+10ORD100742,2025-12-14,Enterprise,West,Stationery,Bank Transfer,5,15590.87,17,64702.11
+10ORD100293,2025-03-24,Startup,North,Pantry,Bank Transfer,1,2456.21,5,2333.4
+10ORD100290,2025-08-30,School,East,Furniture,Debit Card,1,15773.32,25,11829.99
+10ORD100653,2024-08-21,School,West,Stationery,Net Banking,20,16733.97,26,247662.76
+10ORD100040,2024-05-24,Enterprise,Central,Printing,UPI,2,3556.75,5,6757.82
+10ORD100590,2025-05-09,Freelancer,South,Electronics,Debit Card,10,4575.38,1,45296.26
+10ORD100308,2025-03-10,Freelancer,East,Pantry,Credit Card,2,18729.59,14,32214.89
+10ORD100680,2025-08-14,Startup,South,Electronics,Bank Transfer,1,14399.24,1,14255.25
+10ORD100067,2024-03-23,Startup,East,Pantry,UPI,2,13111.93,15,22290.28
+10ORD100276,2025-03-31,Freelancer,West,Electronics,Credit Card,2,20114.57,5,38217.68
+10ORD100068,2025-06-27,Startup,West,Pantry,Net Banking,4,18430.8,1,72985.97
+10ORD100319,2025-05-24,Startup,North,Pantry,Debit Card,1,9483.46,18,7776.44
+10ORD100549,2025-12-14,School,South,Furniture,Net Banking,10,6818.68,14,58640.65
+10ORD100999,2025-03-27,Freelancer,North,Electronics,UPI,1,19916.69,26,14738.35
+10ORD100715,2024-04-16,Enterprise,Central,Pantry,Debit Card,5,12850.2,28,46260.72
+10ORD100754,2025-04-24,Freelancer,West,Pantry,Debit Card,4,8215.43,4,31547.25
+10ORD100328,2024-09-23,Enterprise,West,Printing,Net Banking,4,20234.37,0,80937.48
+10ORD100383,2025-06-07,Freelancer,North,Stationery,UPI,2,19568.43,11,34831.81
+10ORD100452,2024-06-23,Startup,West,Pantry,Debit Card,1,4765.1,17,3955.03
+10ORD100523,2025-05-09,School,South,Stationery,Credit Card,3,8962.5,20,21510.0
+10ORD100219,2025-07-03,Startup,Central,Electronics,Credit Card,20,17833.98,14,306744.46
+10ORD100788,2025-12-04,School,West,Furniture,Bank Transfer,10,6847.25,14,58886.35
+10ORD100437,2025-08-19,Startup,East,Printing,Credit Card,4,12501.42,28,36004.09
+10ORD100765,2024-02-11,Enterprise,West,Printing,Net Banking,4,20090.92,15,68309.13
+10ORD100089,2024-03-29,Freelancer,North,Printing,Debit Card,10,10315.08,11,91804.21
+10ORD100064,2025-08-09,Freelancer,North,Electronics,Debit Card,3,12640.61,15,32233.56
+10ORD100827,2025-03-15,Startup,Central,Furniture,Net Banking,1,20605.82,24,15660.42
+10ORD100717,2025-11-28,School,Central,Pantry,Net Banking,4,539.4,28,1553.47
+10ORD100352,2024-07-14,School,North,Furniture,Debit Card,4,15712.69,25,47138.07
+10ORD100937,2025-02-17,Startup,North,Electronics,UPI,1,24251.24,11,21583.6
+10ORD100257,2024-01-27,Enterprise,East,Furniture,UPI,3,16175.61,11,43188.88
+10ORD100636,2025-06-30,Enterprise,East,Printing,UPI,5,2146.09,7,9979.32
+10ORD100645,2024-06-18,Freelancer,South,Furniture,Bank Transfer,20,21149.84,25,317247.6
+10ORD100555,2024-01-28,School,South,Printing,UPI,2,21592.19,10,38865.94
+10ORD100960,2024-08-27,School,West,Pantry,Debit Card,3,22561.52,7,62946.64
+10ORD100169,2025-09-03,Enterprise,Central,Furniture,Net Banking,1,7649.93,28,5507.95
+10ORD100918,2024-02-09,Enterprise,North,Pantry,Credit Card,10,3342.37,16,28075.91
+10ORD100529,2024-11-09,Enterprise,South,Stationery,Bank Transfer,3,11375.71,16,28666.79
+10ORD100824,2024-10-17,Enterprise,Central,Pantry,UPI,2,7847.11,21,12398.43
+10ORD100986,2025-05-01,Freelancer,South,Printing,Bank Transfer,2,6335.52,7,11784.07
+10ORD100817,2024-04-06,Startup,South,Pantry,Credit Card,5,1323.2,3,6417.52
+10ORD100087,2025-08-17,Enterprise,South,Furniture,Credit Card,1,1141.12,22,890.07
+10ORD100433,2024-05-26,School,South,Electronics,UPI,2,20897.11,22,32599.49
+10ORD100185,2024-07-22,School,Central,Furniture,Net Banking,4,2960.05,9,10774.58
+10ORD100979,2024-12-08,School,West,Stationery,Debit Card,3,4517.91,23,10436.37
+10ORD100535,2024-06-26,School,East,Stationery,UPI,5,19277.7,7,89641.3
+10ORD100295,2025-05-31,Enterprise,West,Furniture,Net Banking,10,14357.75,24,109118.9
+10ORD100893,2024-01-18,Startup,North,Furniture,Net Banking,4,6012.76,4,23089.0
+10ORD100426,2024-02-29,Startup,East,Stationery,Credit Card,4,9566.52,12,33674.15
+10ORD100714,2025-12-20,School,Central,Electronics,Bank Transfer,5,17478.93,11,77781.24
+10ORD100261,2025-10-28,Startup,Central,Pantry,UPI,5,19890.87,8,91498.0
+10ORD100238,2025-10-14,Startup,North,Printing,Bank Transfer,3,2983.07,14,7696.32
+10ORD100560,2025-06-22,Startup,West,Printing,Debit Card,3,9037.33,1,26840.87
+10ORD100584,2024-09-26,School,West,Electronics,UPI,5,24271.24,4,116501.95
+10ORD100446,2024-09-12,Freelancer,North,Electronics,Debit Card,4,5336.92,5,20280.3
+10ORD100868,2024-03-01,Startup,West,Stationery,Net Banking,2,4778.1,16,8027.21
+10ORD100801,2024-10-24,Enterprise,East,Pantry,Bank Transfer,5,17541.34,8,80690.16
+10ORD100600,2024-04-16,Startup,West,Electronics,Net Banking,20,1227.06,18,20123.78
+10ORD100850,2025-10-31,Freelancer,North,Electronics,Net Banking,3,5315.68,19,12917.1
+10ORD100266,2025-02-11,Startup,East,Electronics,Net Banking,4,3873.55,14,13325.01
+10ORD100996,2024-01-23,Startup,West,Pantry,Credit Card,3,19430.83,17,48382.77
+10ORD100530,2024-12-17,Freelancer,South,Stationery,UPI,2,17377.66,12,30584.68
+10ORD100056,2024-06-06,Freelancer,East,Furniture,Net Banking,2,18203.63,25,27305.44
+10ORD100121,2025-05-29,Freelancer,East,Printing,Net Banking,2,17686.0,17,29358.76
+10ORD100216,2025-08-22,School,Central,Furniture,Bank Transfer,1,24491.38,7,22776.98
+10ORD100026,2025-08-17,Enterprise,East,Electronics,UPI,2,12229.98,4,23481.56
+10ORD100073,2024-10-12,Freelancer,North,Furniture,UPI,1,9942.7,22,7755.31
+10ORD100045,2025-08-17,School,Central,Pantry,Bank Transfer,2,11830.07,15,20111.12
+10ORD100248,2024-07-27,Enterprise,Central,Electronics,Bank Transfer,1,18203.94,5,17293.74
+10ORD100722,2024-12-14,Enterprise,North,Stationery,Debit Card,2,5887.12,19,9537.13
+10ORD100282,2024-02-10,Freelancer,North,Electronics,Net Banking,1,13071.58,22,10195.83
+10ORD100894,2024-04-19,Freelancer,East,Pantry,UPI,3,10765.04,0,32295.12
+10ORD100915,2025-06-26,Enterprise,Central,Furniture,UPI,20,13256.44,14,228010.77
+10ORD100811,2025-07-24,School,Central,Electronics,Credit Card,10,17971.15,21,141972.08
+10ORD100245,2024-02-21,Enterprise,East,Printing,Debit Card,1,21719.94,3,21068.34
+10ORD100823,2025-10-26,Startup,North,Electronics,Bank Transfer,10,19109.23,16,160517.53
+10ORD100322,2024-01-31,Enterprise,East,Printing,Bank Transfer,4,21183.84,27,61856.81
+10ORD100644,2024-09-22,Startup,East,Electronics,Bank Transfer,5,18198.61,27,66424.93
+10ORD100159,2025-08-07,Freelancer,South,Pantry,Debit Card,3,7536.21,9,20573.85
+10ORD100978,2025-04-26,School,East,Pantry,Net Banking,2,22822.16,8,41992.77
+10ORD100430,2025-08-18,School,West,Stationery,Credit Card,2,19280.05,11,34318.49
+10ORD100942,2025-07-22,Enterprise,East,Stationery,Credit Card,5,3386.55,1,16763.42
+10ORD100463,2024-06-24,Freelancer,West,Stationery,Net Banking,20,21690.92,15,368745.64
+10ORD100310,2024-10-04,Freelancer,North,Furniture,Bank Transfer,4,104.26,2,408.7
+10ORD100698,2025-11-28,School,North,Electronics,Credit Card,2,12239.71,21,19338.74
+10ORD100061,2024-03-27,Enterprise,South,Stationery,UPI,10,22325.19,15,189764.12
+10ORD100885,2024-11-29,Enterprise,South,Printing,Credit Card,4,17827.68,16,59901.0
+10ORD100596,2025-09-22,Startup,East,Electronics,UPI,10,10489.23,4,100696.61
+10ORD100768,2024-05-22,Enterprise,Central,Furniture,UPI,4,13378.46,5,50838.15
+10ORD100650,2025-03-09,School,Central,Furniture,Debit Card,2,2199.67,0,4399.34
+10ORD100651,2025-02-19,Enterprise,South,Electronics,Debit Card,3,15446.89,24,35218.91
+10ORD100866,2025-03-08,Startup,South,Stationery,Net Banking,4,1187.62,3,4607.97
+10ORD100669,2025-04-28,Startup,South,Electronics,Bank Transfer,3,18152.74,1,53913.64
+10ORD100299,2024-05-16,Startup,Central,Pantry,Credit Card,2,8089.03,26,11971.76
+10ORD100690,2024-03-28,Enterprise,West,Printing,Bank Transfer,20,14197.68,0,283953.6
+10ORD100315,2025-04-22,Enterprise,North,Electronics,Net Banking,2,10787.19,19,17475.25
+10ORD100311,2024-04-03,Startup,Central,Furniture,Net Banking,4,1693.51,27,4945.05
+10ORD100362,2024-10-27,Freelancer,North,Pantry,Bank Transfer,2,15790.51,3,30633.59
+10ORD100480,2024-09-16,Enterprise,North,Furniture,Credit Card,20,2922.28,28,42080.83
+10ORD100111,2025-10-12,Startup,Central,Electronics,Net Banking,20,15295.78,8,281442.35
+10ORD100990,2025-02-09,Freelancer,South,Electronics,Credit Card,1,22871.47,20,18297.18
+10ORD100487,2025-01-27,Freelancer,North,Electronics,Debit Card,10,15444.21,5,146719.99
+10ORD100364,2025-06-23,Freelancer,Central,Furniture,Net Banking,10,19642.44,21,155175.28
+10ORD100255,2024-12-01,Enterprise,South,Printing,Bank Transfer,20,4122.67,18,67611.79
+10ORD100260,2024-03-26,Startup,Central,Electronics,Bank Transfer,4,24184.13,27,70617.66
+10ORD100803,2024-01-07,Freelancer,Central,Furniture,Credit Card,20,18036.63,10,324659.34
+10ORD100678,2024-04-08,Freelancer,East,Printing,Debit Card,1,15091.97,19,12224.5
+10ORD100495,2025-06-20,Enterprise,East,Electronics,UPI,10,7777.55,20,62220.4
+10ORD100671,2024-01-18,School,South,Furniture,Bank Transfer,2,24687.99,18,40488.3
+10ORD100378,2025-07-14,Freelancer,Central,Electronics,Net Banking,1,24507.86,10,22057.07
+10ORD100527,2025-03-31,Enterprise,East,Furniture,Debit Card,10,21737.3,8,199983.16
+10ORD100846,2025-07-03,Freelancer,East,Furniture,Credit Card,10,22022.69,23,169574.71
+10ORD100138,2025-12-25,Freelancer,Central,Pantry,Bank Transfer,2,13909.75,14,23924.77
+10ORD100356,2025-05-12,Freelancer,East,Furniture,Net Banking,2,11892.79,5,22596.3
+10ORD100366,2025-06-05,School,West,Furniture,Debit Card,4,21487.91,23,66182.76
+10ORD100943,2025-06-25,Startup,South,Furniture,Bank Transfer,3,18000.15,1,53460.45
+10ORD100750,2024-09-30,School,West,Stationery,Net Banking,2,24705.22,21,39034.25
+10ORD100949,2024-02-05,Enterprise,East,Printing,UPI,4,1717.01,16,5769.15
+10ORD100830,2025-03-05,Enterprise,Central,Printing,Credit Card,10,15039.32,24,114298.83
+10ORD100657,2025-12-21,School,Central,Electronics,UPI,10,11296.92,24,85856.59
+10ORD100200,2025-07-29,Enterprise,South,Furniture,Debit Card,4,12493.76,21,39480.28
+10ORD100214,2025-03-29,School,Central,Stationery,Net Banking,2,8376.87,6,15748.52
+10ORD100409,2025-10-23,School,South,Stationery,Debit Card,4,283.82,24,862.81
+10ORD100333,2024-03-03,Enterprise,Central,Furniture,UPI,1,21645.26,12,19047.83
+10ORD100209,2024-01-11,Enterprise,North,Printing,Bank Transfer,5,24538.22,11,109195.08
+10ORD100614,2024-09-23,School,North,Pantry,Net Banking,4,10723.18,7,39890.23
+10ORD100079,2024-06-09,Startup,South,Furniture,Credit Card,10,13640.69,23,105033.31
+10ORD100030,2025-01-11,School,South,Furniture,Bank Transfer,2,18046.76,19,29235.75
+10ORD100536,2024-10-28,Enterprise,North,Furniture,Credit Card,4,2377.96,4,9131.37
+10ORD100696,2024-05-21,Freelancer,North,Printing,Debit Card,2,11420.68,4,21927.71
+10ORD100558,2024-08-04,Startup,South,Printing,Credit Card,20,3683.57,17,61147.26
+10ORD100837,2025-05-24,School,West,Stationery,Bank Transfer,2,11616.66,11,20677.65
+10ORD100597,2024-07-15,School,West,Stationery,Debit Card,20,9899.23,25,148488.45
+10ORD100166,2024-04-21,Startup,West,Printing,Bank Transfer,1,15196.13,4,14588.28
+10ORD100919,2025-08-15,Freelancer,West,Printing,Net Banking,1,8555.05,17,7100.69
+10ORD100496,2025-06-21,School,West,Printing,Net Banking,1,4012.58,20,3210.06
+10ORD100825,2025-06-04,Freelancer,East,Stationery,UPI,4,8857.66,17,29407.43
+10ORD100066,2024-02-23,School,North,Stationery,Debit Card,4,16709.74,5,63497.01
+10ORD100142,2024-09-20,School,West,Electronics,Bank Transfer,1,24436.81,6,22970.6
+10ORD100926,2024-07-16,Startup,West,Printing,Debit Card,3,15619.22,3,45451.93
+10ORD100828,2024-02-07,Enterprise,North,Pantry,UPI,2,2703.13,25,4054.7
+10ORD100656,2024-04-20,Enterprise,South,Stationery,Debit Card,1,13262.79,15,11273.37
+10ORD100332,2024-01-20,Enterprise,Central,Printing,Debit Card,4,8317.43,13,28944.66
+10ORD100665,2024-08-05,School,West,Stationery,UPI,1,17217.26,8,15839.88
+10ORD100250,2024-04-20,Enterprise,East,Electronics,Bank Transfer,2,5505.48,7,10240.19
+10ORD100908,2025-10-06,Enterprise,North,Electronics,Credit Card,2,21853.8,23,33654.85
+10ORD100709,2024-04-25,Enterprise,Central,Pantry,Net Banking,20,19238.14,18,315505.5
+10ORD100306,2024-12-15,Startup,Central,Pantry,Bank Transfer,5,3512.85,25,13173.19
+10ORD100735,2024-09-16,School,South,Furniture,Bank Transfer,2,19933.37,27,29102.72
+10ORD100976,2024-03-25,Freelancer,South,Stationery,Net Banking,3,1133.73,14,2925.02
+10ORD100050,2025-10-16,Startup,South,Printing,Debit Card,4,18919.62,26,56002.08
+10ORD100897,2025-07-29,Freelancer,South,Pantry,Credit Card,2,20222.52,14,34782.73
+10ORD100003,2025-08-29,Freelancer,West,Pantry,UPI,4,24887.14,25,74661.42
+10ORD100545,2024-12-23,School,North,Printing,Credit Card,4,24823.4,2,97307.73
+10ORD100351,2024-07-28,Freelancer,North,Electronics,Credit Card,2,22926.47,17,38057.94
+10ORD100905,2024-03-23,School,Central,Electronics,UPI,20,1419.02,2,27812.79
+10ORD100537,2024-01-08,Enterprise,Central,Electronics,Net Banking,1,21746.61,9,19789.42
+10ORD100345,2024-06-19,Freelancer,East,Printing,UPI,2,16940.0,10,30492.0
+10ORD100995,2024-08-23,Freelancer,East,Pantry,UPI,2,7766.95,22,12116.44
+10ORD100482,2025-08-01,Enterprise,South,Furniture,Bank Transfer,1,8352.38,16,7016.0
+10ORD100576,2024-05-08,School,South,Pantry,Credit Card,10,5479.38,10,49314.42
+10ORD100034,2024-10-01,Startup,East,Printing,Net Banking,1,5595.34,15,4756.04
+10ORD100032,2024-11-02,Enterprise,Central,Furniture,Credit Card,2,18533.56,16,31136.38
+10ORD100232,2024-05-20,Startup,South,Electronics,Credit Card,10,2214.34,19,17936.15
+10ORD100964,2025-02-04,Freelancer,West,Electronics,UPI,2,6722.7,16,11294.14
+10ORD100193,2024-02-27,Enterprise,North,Pantry,Bank Transfer,1,24083.21,21,19025.74
+10ORD100334,2025-05-06,School,South,Printing,Credit Card,20,15560.34,28,224068.9
+10ORD100004,2024-01-20,Startup,Central,Stationery,Credit Card,20,14412.18,3,279596.29
+10ORD100205,2025-06-19,School,North,Electronics,Net Banking,4,1645.07,0,6580.28
+10ORD100515,2024-01-16,Enterprise,North,Pantry,Debit Card,1,5547.06,1,5491.59
+10ORD100800,2024-09-21,Freelancer,South,Furniture,Debit Card,1,521.59,12,459.0
+10ORD100307,2025-04-21,Startup,Central,Pantry,Credit Card,2,15767.97,26,23336.6
+10ORD100110,2024-12-23,Startup,Central,Printing,Credit Card,1,5137.45,0,5137.45
+10ORD100431,2025-03-01,Startup,South,Stationery,Debit Card,2,10527.76,4,20213.3
+10ORD100078,2025-06-12,School,East,Pantry,Credit Card,1,15090.7,22,11770.75
+10ORD100085,2024-04-02,Freelancer,South,Pantry,Debit Card,4,3534.98,25,10604.94
+10ORD100287,2025-12-07,Enterprise,South,Stationery,Credit Card,4,21597.62,15,73431.91
+10ORD100083,2024-02-01,School,East,Electronics,Credit Card,2,21870.53,18,35867.67
+10ORD100992,2024-05-11,Startup,South,Stationery,Net Banking,2,14763.96,19,23917.62
+10ORD100790,2024-09-03,Enterprise,South,Pantry,Credit Card,5,18859.11,2,92409.64
+10ORD100895,2025-09-24,Freelancer,West,Stationery,Net Banking,20,20291.39,20,324662.24
+10ORD100399,2024-01-30,Enterprise,Central,Pantry,Net Banking,2,8102.44,13,14098.25
+10ORD100324,2024-02-07,Freelancer,Central,Stationery,Net Banking,5,2392.16,26,8850.99
+10ORD100520,2024-03-18,Freelancer,Central,Furniture,Bank Transfer,5,16717.71,22,65199.07
+10ORD100917,2024-05-30,Enterprise,East,Electronics,Debit Card,20,22117.54,14,380421.69
+10ORD100923,2025-07-07,School,Central,Printing,Net Banking,10,12104.13,28,87149.74
+10ORD100006,2025-08-04,Startup,Central,Furniture,Net Banking,3,21127.92,22,49439.33
+10ORD100732,2024-08-09,School,South,Furniture,UPI,2,23877.33,1,47277.11
+10ORD100466,2024-06-16,Enterprise,South,Printing,Credit Card,2,9302.29,24,14139.48
+10ORD100098,2024-11-07,Freelancer,West,Stationery,Debit Card,2,7610.85,9,13851.75
+10ORD100267,2025-02-04,School,North,Furniture,Credit Card,20,12395.57,24,188412.66
+10ORD100358,2024-04-26,School,South,Stationery,Debit Card,1,16797.49,5,15957.62
+10ORD100869,2024-03-22,School,North,Stationery,Net Banking,1,12045.75,2,11804.84
+10ORD100799,2025-01-08,School,West,Electronics,Credit Card,2,13582.9,20,21732.64
+10ORD100381,2025-10-19,Startup,East,Stationery,Net Banking,2,5198.95,18,8526.28
+10ORD100632,2024-11-21,School,West,Stationery,UPI,3,13303.7,14,34323.55
+10ORD100382,2025-05-24,Freelancer,South,Furniture,Bank Transfer,10,16558.92,12,145718.5
+10ORD100491,2025-01-01,School,South,Furniture,Debit Card,2,3557.86,0,7115.72
+10ORD100119,2025-05-25,Startup,South,Electronics,Debit Card,2,24753.74,3,48022.26
+10ORD100901,2024-05-14,Freelancer,West,Pantry,Bank Transfer,4,6759.73,1,26768.53
+10ORD100251,2024-09-14,Freelancer,West,Electronics,UPI,1,10367.69,1,10264.01
+10ORD100524,2024-01-26,Freelancer,South,Printing,Debit Card,10,6308.36,19,51097.72
+10ORD100010,2025-01-07,Enterprise,West,Printing,UPI,2,18881.38,7,35119.37
+10ORD100197,2025-06-01,Startup,Central,Stationery,Net Banking,5,10315.61,3,50030.71
+10ORD100604,2024-05-21,School,Central,Printing,Bank Transfer,5,23102.65,18,94720.86
+10ORD100082,2025-01-14,Freelancer,South,Pantry,Debit Card,2,16170.24,17,26842.6
+10ORD100784,2024-10-04,Startup,West,Electronics,Debit Card,1,7484.5,5,7110.28
+10ORD100588,2024-04-01,Freelancer,South,Electronics,Bank Transfer,3,20542.37,12,54231.86
+10ORD100798,2024-02-05,Startup,South,Printing,UPI,3,23584.61,5,67216.14
+10ORD100240,2024-09-14,School,Central,Pantry,UPI,3,4006.37,10,10817.2
+10ORD100291,2025-12-30,Enterprise,Central,Pantry,UPI,10,1219.55,25,9146.62
+10ORD100212,2024-01-24,Enterprise,Central,Printing,UPI,4,7727.48,27,22564.24
+10ORD100718,2024-05-31,Enterprise,North,Pantry,Debit Card,1,4991.69,8,4592.35
+10ORD100360,2025-12-18,School,East,Printing,Bank Transfer,1,22726.18,5,21589.87
+10ORD100450,2025-12-14,Startup,North,Electronics,Bank Transfer,4,19215.86,22,59953.48
+10ORD100228,2025-05-25,Startup,North,Printing,Net Banking,3,2402.1,18,5909.17
+10ORD100951,2025-01-03,School,South,Printing,Bank Transfer,2,5099.09,3,9892.23
+10ORD100947,2024-07-23,Startup,East,Electronics,Debit Card,2,10822.43,3,20995.51
+10ORD100797,2025-02-10,Freelancer,Central,Printing,Bank Transfer,1,646.59,23,497.87
+10ORD100502,2025-07-19,Enterprise,West,Electronics,Credit Card,1,8703.38,3,8442.28
+10ORD100465,2024-04-22,Enterprise,South,Pantry,UPI,2,13674.8,28,19691.71
+10ORD100363,2024-11-22,Enterprise,North,Furniture,Debit Card,10,24557.86,2,240667.03
+10ORD100469,2024-08-15,School,Central,Electronics,Credit Card,5,15865.38,5,75360.55
+10ORD100936,2025-12-21,Freelancer,Central,Electronics,Credit Card,1,16520.58,6,15529.35
+10ORD100429,2025-06-11,Freelancer,West,Furniture,Net Banking,2,2007.35,2,3934.41
+10ORD100008,2025-12-12,Freelancer,South,Stationery,Net Banking,20,5566.9,21,87957.02
+10ORD100156,2024-02-19,Enterprise,North,Printing,UPI,20,16357.18,17,271529.19
+10ORD100542,2025-09-22,Startup,Central,Furniture,UPI,2,13818.09,15,23490.75
+10ORD100441,2025-08-20,Freelancer,West,Pantry,Net Banking,2,19680.98,6,37000.24
+10ORD100483,2024-09-16,School,North,Printing,Credit Card,20,3733.62,20,59737.92
+10ORD100423,2024-08-22,Freelancer,North,Stationery,Net Banking,20,5432.79,4,104309.57
+10ORD100779,2025-12-19,School,West,Pantry,Bank Transfer,1,15534.63,0,15534.63
+10ORD100950,2024-04-08,Freelancer,East,Pantry,Credit Card,2,4248.5,10,7647.3
+10ORD100335,2024-06-18,School,South,Electronics,Bank Transfer,10,15395.15,3,149332.95
+10ORD100577,2025-10-26,Startup,Central,Printing,Net Banking,1,339.62,13,295.47
+10ORD100935,2024-06-30,Startup,South,Stationery,Credit Card,2,10829.1,20,17326.56
+10ORD100568,2025-11-30,Enterprise,East,Furniture,UPI,1,1307.43,16,1098.24
+10ORD100595,2025-03-14,Startup,East,Electronics,Net Banking,1,6540.6,23,5036.26
+10ORD100531,2024-07-19,Startup,South,Furniture,UPI,5,14077.52,25,52790.7
+10ORD100582,2024-09-04,School,West,Furniture,Bank Transfer,2,3809.93,21,6019.69
+10ORD100708,2025-05-21,Enterprise,Central,Furniture,Net Banking,3,6054.45,13,15802.11
+10ORD100449,2024-06-11,School,North,Electronics,Net Banking,5,3345.26,1,16559.04
+10ORD100454,2025-10-21,Startup,Central,Printing,Bank Transfer,4,271.94,27,794.06
+10ORD100229,2025-07-13,Startup,East,Electronics,UPI,2,3177.63,17,5274.87
+10ORD100353,2024-09-26,Freelancer,Central,Furniture,Credit Card,10,666.13,6,6261.62
+10ORD100729,2024-02-22,Enterprise,South,Stationery,UPI,20,9152.73,21,144613.13
+10ORD100213,2024-05-20,Enterprise,North,Furniture,Bank Transfer,2,18031.22,26,26686.21
+10ORD100080,2024-06-06,Enterprise,South,Electronics,Debit Card,4,10889.83,10,39203.39
+10ORD100149,2024-07-28,Startup,West,Electronics,Net Banking,5,4775.63,0,23878.15
+10ORD100303,2025-08-07,Enterprise,North,Furniture,Bank Transfer,10,15740.84,19,127500.8
+10ORD100629,2025-10-31,Startup,South,Stationery,Bank Transfer,5,13653.2,13,59391.42
+10ORD100778,2025-09-28,Startup,North,Electronics,Net Banking,5,22830.0,21,90178.5
+10ORD100507,2025-04-06,Startup,West,Stationery,Bank Transfer,1,21018.21,13,18285.84
+10ORD100343,2025-10-29,Freelancer,Central,Printing,UPI,2,2783.56,25,4175.34
+10ORD100486,2024-02-06,School,South,Furniture,Net Banking,10,21939.0,1,217196.1
+10ORD100712,2025-08-17,School,West,Furniture,Credit Card,1,12955.23,0,12955.23
+10ORD100134,2024-08-24,Enterprise,North,Printing,Debit Card,2,13375.91,2,26216.78
+10ORD100704,2024-11-09,School,South,Electronics,Bank Transfer,10,17399.55,13,151376.08
+10ORD100312,2024-11-25,Freelancer,North,Stationery,Debit Card,5,22487.16,14,96694.79
+10ORD100723,2025-11-12,Startup,North,Furniture,Credit Card,20,17451.15,1,345532.77
+10ORD100630,2025-05-25,School,Central,Stationery,UPI,2,15689.07,19,25416.29
+10ORD100001,2024-06-10,Startup,West,Printing,Net Banking,1,2921.98,16,2454.46
+10ORD100317,2024-05-29,Startup,Central,Pantry,UPI,1,8625.29,24,6555.22
+10ORD100707,2024-12-29,Enterprise,Central,Printing,Credit Card,2,1887.98,25,2831.97
+10ORD100548,2025-11-22,School,East,Printing,Debit Card,5,5807.33,11,25842.62
+10ORD100873,2025-07-05,School,South,Pantry,Credit Card,2,18273.19,15,31064.42
+10ORD100533,2024-11-22,School,North,Printing,Bank Transfer,1,24377.75,27,17795.76
+10ORD100478,2024-04-18,Enterprise,South,Furniture,Net Banking,3,20258.35,18,49835.54
+10ORD100405,2024-12-09,Enterprise,North,Electronics,Credit Card,1,9251.01,21,7308.3
+10ORD100173,2025-08-03,Startup,North,Printing,Debit Card,10,23342.6,13,203080.62
+10ORD100126,2025-12-12,School,West,Furniture,Credit Card,2,9988.76,15,16980.89
+10ORD100395,2024-10-27,Enterprise,East,Pantry,Net Banking,1,10692.03,10,9622.83
+10ORD100421,2024-01-06,Startup,Central,Stationery,UPI,1,5589.86,13,4863.18
+10ORD100553,2025-03-29,Freelancer,Central,Furniture,UPI,2,7011.16,18,11498.3
+10ORD100904,2025-05-09,Startup,North,Electronics,UPI,10,20299.2,0,202992.0
+10ORD100091,2025-08-16,Enterprise,North,Furniture,Bank Transfer,20,4532.88,2,88844.45
+10ORD100940,2025-06-02,Startup,East,Furniture,Bank Transfer,1,14770.65,23,11373.4
+10ORD100182,2025-01-14,School,Central,Stationery,Debit Card,2,10164.02,23,15652.59
+10ORD100275,2024-10-09,Startup,East,Furniture,Credit Card,1,16189.61,28,11656.52
+10ORD100896,2025-05-07,Enterprise,North,Pantry,Debit Card,1,1958.38,28,1410.03
+10ORD100070,2025-06-06,School,North,Pantry,UPI,5,24910.57,18,102133.34
+10ORD100292,2024-01-04,Enterprise,West,Electronics,Bank Transfer,2,15941.17,20,25505.87
+10ORD100132,2024-10-14,Enterprise,South,Pantry,Net Banking,3,2165.02,9,5910.5
+10ORD100301,2024-07-07,School,Central,Stationery,Net Banking,10,12169.04,2,119256.59
+10ORD100425,2024-05-03,Freelancer,West,Stationery,Net Banking,20,797.61,11,14197.46
+10ORD100327,2024-12-21,Freelancer,East,Furniture,Debit Card,10,13230.58,15,112459.93
+10ORD100145,2025-04-21,Startup,South,Furniture,Net Banking,1,18658.34,12,16419.34
+10ORD100424,2025-01-18,Enterprise,Central,Electronics,Credit Card,2,12750.33,22,19890.51
+10ORD100581,2025-04-26,School,South,Electronics,Net Banking,1,15884.88,24,12072.51
+10ORD100136,2025-12-24,School,East,Printing,Net Banking,1,23352.57,10,21017.31
+10ORD100451,2025-08-22,Enterprise,South,Furniture,UPI,1,3601.36,7,3349.26
+10ORD100165,2024-10-18,Startup,South,Stationery,Net Banking,1,16017.91,28,11532.9
+10ORD100029,2024-09-11,School,North,Electronics,Credit Card,10,15858.66,3,153829.0
+10ORD100774,2025-01-17,Startup,East,Printing,Bank Transfer,1,9611.45,25,7208.59
+10ORD100194,2025-11-14,Startup,East,Pantry,Credit Card,10,10913.96,20,87311.68
+10ORD100389,2025-10-16,Startup,East,Electronics,Debit Card,4,17908.2,12,63036.86
+10ORD100853,2025-11-07,Startup,East,Pantry,Net Banking,2,22150.08,26,32782.12
+10ORD100170,2024-06-05,Startup,South,Stationery,Debit Card,20,7774.46,3,150824.52
+10ORD100706,2025-08-07,Freelancer,South,Furniture,Credit Card,20,18967.97,18,311074.71
+10ORD100141,2025-10-19,Startup,North,Pantry,UPI,1,8947.59,18,7337.02
+10ORD100174,2024-06-20,Enterprise,North,Electronics,UPI,10,16258.98,13,141453.13
+10ORD100007,2025-02-05,School,North,Printing,Debit Card,3,13121.26,6,37001.95
+10ORD100746,2024-03-15,School,West,Furniture,Debit Card,20,1424.81,22,22227.04
+10ORD100479,2024-06-04,Freelancer,West,Pantry,Net Banking,20,11325.21,20,181203.36
+10ORD100074,2025-08-02,School,North,Electronics,Debit Card,2,19263.49,3,37371.17
+10ORD100911,2025-09-12,Enterprise,Central,Electronics,Debit Card,4,14600.72,17,48474.39
+10ORD100814,2025-10-02,School,North,Pantry,Debit Card,1,20082.47,16,16869.27
+10ORD100239,2025-01-22,Freelancer,North,Pantry,Net Banking,2,7953.6,10,14316.48
+10ORD100146,2025-06-04,Enterprise,West,Printing,UPI,1,9776.64,7,9092.28
+10ORD100793,2024-08-06,School,North,Printing,Net Banking,10,4813.64,15,40915.94
+10ORD100235,2025-10-24,Startup,North,Stationery,Net Banking,2,6825.46,11,12149.32
+10ORD100221,2025-10-31,School,North,Printing,Bank Transfer,1,22586.65,6,21231.45
+10ORD100924,2024-04-06,Startup,Central,Stationery,Credit Card,4,548.26,27,1600.92
+10ORD100501,2025-07-13,Startup,East,Electronics,Net Banking,20,20519.62,3,398080.63
+10ORD100133,2025-12-22,Freelancer,East,Electronics,Credit Card,1,22072.29,15,18761.45
+10ORD100991,2025-04-07,Freelancer,East,Stationery,Credit Card,1,18882.14,21,14916.89
+10ORD100775,2025-06-17,Enterprise,North,Printing,Debit Card,20,1969.49,6,37026.41
+10ORD100186,2025-02-22,School,South,Furniture,Net Banking,20,6207.18,0,124143.6
+10ORD100042,2024-08-06,School,North,Electronics,Net Banking,3,657.12,15,1675.66
+10ORD100697,2024-03-30,Freelancer,Central,Pantry,Debit Card,10,10853.63,7,100938.76
+10ORD100109,2024-05-17,Enterprise,West,Stationery,Credit Card,1,10098.51,27,7371.91
+10ORD100589,2025-10-11,Freelancer,Central,Furniture,Net Banking,10,13493.17,24,102548.09
+10ORD100057,2024-09-27,Enterprise,Central,Printing,UPI,20,6130.49,2,120157.6
+10ORD100406,2025-11-24,Startup,North,Printing,Credit Card,5,388.48,3,1884.13
+10ORD100443,2024-10-13,Enterprise,West,Printing,Net Banking,1,14617.68,9,13302.09
+10ORD100758,2025-09-03,School,East,Stationery,Net Banking,20,21623.8,25,324357.0
+10ORD100998,2024-05-11,School,Central,Pantry,Debit Card,1,24334.53,5,23117.8
+10ORD100025,2024-01-24,Startup,North,Printing,Bank Transfer,5,7979.63,8,36706.3
+10ORD100468,2024-03-20,School,West,Pantry,UPI,2,20531.25,4,39420.0
+10ORD100540,2025-07-01,School,West,Printing,Bank Transfer,10,20530.21,24,156029.6
+10ORD100532,2024-10-29,School,North,Pantry,UPI,2,18166.13,24,27612.52
+10ORD100619,2025-07-09,Freelancer,North,Stationery,Bank Transfer,1,10398.35,21,8214.7
+10ORD100695,2025-04-12,School,East,Furniture,Bank Transfer,10,5155.23,10,46397.07
+10ORD100927,2025-09-06,Enterprise,East,Electronics,Net Banking,10,24565.0,9,223541.5
+10ORD100339,2025-08-28,School,South,Pantry,UPI,1,2228.33,8,2050.06
+10ORD100052,2024-04-04,Startup,East,Pantry,Credit Card,20,4435.27,6,83383.08
+10ORD100508,2025-09-13,School,West,Electronics,Net Banking,4,2226.06,21,7034.35
+10ORD100517,2025-08-29,Freelancer,North,Stationery,Debit Card,2,8908.58,26,13184.7
+10ORD100921,2024-06-22,Startup,East,Stationery,Credit Card,5,20877.3,7,97079.44
+10ORD100782,2025-04-10,Freelancer,East,Furniture,Debit Card,1,16998.63,20,13598.9
+10ORD100265,2025-04-08,Startup,East,Printing,UPI,1,180.68,4,173.45
+10ORD100818,2024-01-28,Startup,South,Printing,Net Banking,10,19702.45,20,157619.6
+10ORD100711,2025-06-25,Freelancer,West,Pantry,Net Banking,1,22772.15,5,21633.54
+10ORD100683,2024-08-13,Freelancer,South,Stationery,Credit Card,5,21788.92,1,107855.15
+10ORD100833,2025-01-15,Freelancer,North,Furniture,Net Banking,4,16697.31,7,62113.99
+10ORD100519,2024-03-21,Enterprise,Central,Printing,Bank Transfer,4,5936.41,23,18284.14
+10ORD100448,2024-01-19,Freelancer,Central,Pantry,Net Banking,1,21101.24,6,19835.17
+10ORD100019,2024-11-21,Enterprise,West,Pantry,UPI,2,16986.62,8,31255.38
+10ORD100716,2024-11-10,School,East,Stationery,UPI,5,7946.85,11,35363.48
+10ORD100484,2024-09-27,Freelancer,Central,Printing,Net Banking,4,18632.68,16,62605.8
+10ORD100569,2024-04-19,School,West,Printing,Bank Transfer,1,8656.71,19,7011.94
+10ORD100434,2025-04-01,School,West,Pantry,UPI,2,5362.53,28,7722.04
+10ORD100368,2024-01-04,Enterprise,North,Stationery,Net Banking,2,11057.09,24,16806.78
+10ORD100084,2024-03-27,Startup,Central,Furniture,UPI,2,18331.98,16,30797.73
+10ORD100062,2025-11-17,Enterprise,Central,Electronics,Bank Transfer,20,24580.19,5,467023.61
+10ORD100639,2024-02-13,School,South,Electronics,Credit Card,2,17730.63,12,31205.91
+10ORD100273,2025-02-09,School,South,Furniture,Net Banking,2,24811.59,9,45157.09
+10ORD100286,2024-09-06,Freelancer,West,Pantry,Credit Card,20,7773.41,18,127483.92
+10ORD100361,2025-07-31,Freelancer,North,Furniture,Debit Card,10,10345.2,15,87934.2
+10ORD100355,2024-03-02,Startup,South,Furniture,Bank Transfer,5,17484.23,26,64691.65
+10ORD100457,2024-04-12,Freelancer,North,Printing,UPI,1,7067.56,2,6926.21
+10ORD100279,2025-06-10,Enterprise,South,Printing,Net Banking,20,4855.21,16,81567.53
+10ORD100013,2025-06-20,Enterprise,Central,Printing,Credit Card,1,6570.52,25,4927.89
+10ORD100183,2025-04-01,Freelancer,North,Printing,Credit Card,2,16574.83,4,31823.67
+10ORD100369,2024-06-29,School,East,Printing,Credit Card,20,21839.12,21,345058.1
+10ORD100882,2025-01-30,Enterprise,East,Electronics,Debit Card,3,22334.8,15,56953.74
+10ORD100616,2024-08-12,Enterprise,South,Furniture,Credit Card,20,19744.1,24,300110.32
+10ORD100224,2024-05-07,Freelancer,East,Stationery,Bank Transfer,1,19925.44,3,19327.68
+10ORD100573,2025-08-28,School,West,Stationery,Net Banking,1,15272.91,17,12676.52
+10ORD100971,2024-08-12,Freelancer,West,Printing,Credit Card,2,23914.87,9,43525.06
+10ORD100654,2025-08-31,Freelancer,South,Electronics,Net Banking,20,14217.31,23,218946.57
+10ORD100546,2025-10-12,Enterprise,East,Furniture,Bank Transfer,3,3885.19,2,11422.46
+10ORD100583,2024-03-08,Freelancer,North,Pantry,Net Banking,2,2074.62,10,3734.32
+10ORD100634,2024-12-27,Enterprise,Central,Furniture,Debit Card,2,19583.02,2,38382.72
+10ORD100177,2025-07-14,Enterprise,North,Furniture,Bank Transfer,20,15760.41,21,249014.48
+10ORD100666,2025-02-06,Enterprise,Central,Stationery,UPI,2,4205.45,26,6224.07
+10ORD100674,2024-06-09,Startup,Central,Printing,Net Banking,5,14444.58,21,57056.09
+10ORD100586,2025-12-17,Enterprise,North,Printing,Net Banking,1,15935.48,1,15776.13
+10ORD100874,2025-06-19,School,West,Stationery,Debit Card,10,23650.43,3,229409.17
+10ORD100394,2025-08-25,Freelancer,West,Stationery,Credit Card,2,11931.59,22,18613.28
+10ORD100164,2024-09-15,Freelancer,East,Stationery,Credit Card,10,7552.18,17,62683.09
+10ORD100249,2024-03-01,Startup,South,Printing,Credit Card,2,23136.62,8,42571.38
+10ORD100635,2024-12-14,School,North,Furniture,Credit Card,3,8803.11,17,21919.74
+10ORD100886,2024-08-14,School,East,Printing,Credit Card,1,7254.21,3,7036.58
+10ORD100670,2024-04-22,Freelancer,East,Furniture,Bank Transfer,20,3001.7,9,54630.94
+10ORD100376,2024-04-05,Freelancer,Central,Pantry,UPI,2,8677.64,15,14751.99
+10ORD100413,2024-11-20,Enterprise,West,Furniture,Net Banking,3,2842.88,25,6396.48
+10ORD100075,2025-03-19,Freelancer,East,Stationery,Net Banking,20,4793.91,1,94919.42
+10ORD100114,2024-03-08,Enterprise,Central,Pantry,Bank Transfer,5,3693.03,13,16064.68
+10ORD100599,2024-08-01,Startup,East,Furniture,UPI,2,8884.22,2,17413.07
+10ORD100962,2024-10-17,Startup,South,Printing,Bank Transfer,10,22550.15,21,178146.18
+10ORD100391,2024-10-18,Freelancer,West,Furniture,Bank Transfer,3,2462.91,23,5689.32
+10ORD100105,2024-04-16,Freelancer,North,Electronics,Bank Transfer,2,9743.88,16,16369.72
+10ORD100115,2024-05-25,Startup,East,Stationery,Bank Transfer,1,7673.6,28,5524.99
+10ORD100418,2024-01-17,School,North,Stationery,Bank Transfer,3,14352.32,18,35306.71
+10ORD100526,2025-10-17,School,North,Printing,Debit Card,1,24131.04,3,23407.11
+10ORD100458,2025-11-22,School,North,Stationery,Net Banking,20,9103.39,12,160219.66
+10ORD100410,2025-05-08,School,North,Furniture,UPI,1,18062.83,4,17340.32
+10ORD100093,2024-06-06,School,South,Furniture,Debit Card,1,4832.9,3,4687.91
+10ORD100931,2025-06-13,Startup,South,Stationery,Credit Card,4,24629.75,28,70933.68
+10ORD100090,2024-06-02,Enterprise,Central,Pantry,UPI,1,21375.43,24,16245.33
+10ORD100337,2025-10-10,School,South,Printing,Bank Transfer,3,6889.2,26,15294.02
+10ORD100989,2024-06-16,Enterprise,West,Furniture,Debit Card,4,21513.84,28,61959.86
+10ORD100922,2025-08-09,Startup,West,Stationery,Bank Transfer,1,21437.44,20,17149.95
+10ORD100934,2024-04-11,Startup,North,Printing,Bank Transfer,4,18718.82,0,74875.28
+10ORD100606,2025-11-11,Enterprise,West,Pantry,Net Banking,5,98.09,9,446.31
+10ORD100594,2025-03-15,School,East,Pantry,UPI,5,20653.36,28,74352.1
+10ORD100612,2024-10-14,School,East,Printing,Net Banking,5,8204.06,20,32816.24
+10ORD100095,2024-09-09,School,West,Pantry,Debit Card,20,13250.54,5,251760.26
+10ORD100012,2024-11-03,Startup,West,Printing,Net Banking,4,6850.9,20,21922.88
+10ORD100397,2024-06-22,Enterprise,West,Stationery,Bank Transfer,1,9318.49,3,9038.94
+10ORD100534,2024-05-02,Startup,South,Pantry,Net Banking,1,8575.53,18,7031.93
+10ORD100044,2024-07-15,Enterprise,Central,Stationery,Net Banking,2,7046.23,0,14092.46
+10ORD100043,2025-08-07,School,Central,Electronics,UPI,4,4957.92,13,17253.56
+10ORD100330,2024-10-16,Startup,South,Furniture,Net Banking,1,21040.99,12,18516.07
+10ORD100168,2025-04-27,School,North,Furniture,Credit Card,10,11754.13,11,104611.76
+10ORD100498,2024-11-03,School,South,Pantry,Bank Transfer,2,1420.22,16,2385.97
+10ORD100877,2025-10-10,Freelancer,North,Electronics,Debit Card,5,6488.82,9,29524.13
+10ORD100598,2024-12-20,Startup,South,Stationery,Bank Transfer,10,21540.51,27,157245.72
+10ORD100757,2025-08-21,Freelancer,East,Stationery,Net Banking,5,24524.3,24,93192.34
+10ORD100101,2025-03-10,Freelancer,North,Printing,Debit Card,1,12771.64,9,11622.19
+10ORD100427,2025-05-15,Startup,West,Printing,Credit Card,1,9323.09,21,7365.24
+10ORD100179,2025-09-12,Freelancer,South,Pantry,Credit Card,4,17005.28,23,52376.26
+10ORD100445,2025-07-03,Freelancer,Central,Electronics,Net Banking,20,6534.96,11,116322.29
+10ORD100417,2024-06-09,School,North,Pantry,Credit Card,3,24819.13,5,70734.52
+10ORD100871,2025-12-08,Freelancer,North,Stationery,Net Banking,1,11902.81,14,10236.42
+10ORD100883,2024-10-05,Enterprise,North,Stationery,UPI,2,18394.77,4,35317.96
+10ORD100681,2024-11-10,Freelancer,North,Printing,Credit Card,2,10165.43,22,15858.07
+10ORD100178,2024-08-23,Freelancer,West,Stationery,UPI,2,472.03,8,868.54
+10ORD100396,2025-06-25,Enterprise,East,Pantry,Debit Card,1,11401.34,9,10375.22
+10ORD100912,2024-01-26,Startup,West,Printing,Net Banking,5,16917.94,24,64288.17
+10ORD100794,2024-02-03,School,East,Furniture,Net Banking,1,7489.5,7,6965.24
+10ORD100961,2025-01-02,School,South,Electronics,Bank Transfer,2,3219.46,18,5279.91
+10ORD100685,2025-05-05,Enterprise,East,Printing,Net Banking,4,19319.47,15,65686.2
+10ORD100384,2024-01-28,Startup,Central,Furniture,UPI,4,21519.2,9,78329.89
+10ORD100957,2025-09-03,Startup,North,Furniture,UPI,20,19318.29,15,328410.93
+10ORD100752,2025-10-29,Enterprise,East,Pantry,Net Banking,3,22231.93,18,54690.55
+10ORD100258,2024-01-01,Enterprise,North,Electronics,UPI,20,3282.67,26,48583.52
+10ORD100539,2024-05-25,School,East,Printing,Credit Card,4,13037.56,18,42763.2
+10ORD100336,2024-01-13,School,North,Electronics,UPI,1,12614.12,9,11478.85
+10ORD100016,2025-05-04,Startup,West,Furniture,Credit Card,5,6983.37,23,26885.97
+10ORD100325,2025-07-04,Startup,North,Electronics,Credit Card,2,24343.82,20,38950.11
+10ORD100759,2025-11-28,Enterprise,West,Electronics,UPI,1,2295.78,27,1675.92
+10ORD100223,2024-10-12,Startup,Central,Pantry,UPI,10,18840.85,17,156379.06
+10ORD100180,2025-10-31,Freelancer,West,Stationery,UPI,2,1839.94,17,3054.3
+10ORD100984,2024-01-14,Enterprise,Central,Stationery,Credit Card,2,14912.45,15,25351.16
+10ORD100023,2024-07-11,Enterprise,West,Printing,Credit Card,20,16969.76,20,271516.16
+10ORD100357,2025-10-18,Startup,North,Printing,UPI,5,10501.36,19,42530.51
+10ORD100667,2024-08-09,School,Central,Furniture,Credit Card,10,20118.88,3,195153.14
+10ORD100862,2025-02-09,Startup,South,Electronics,Credit Card,4,22983.81,8,84580.42
+10ORD100341,2024-12-13,Enterprise,East,Pantry,Net Banking,20,6966.29,7,129572.99
+10ORD100432,2025-11-14,Startup,South,Stationery,UPI,10,20353.91,12,179114.41
+10ORD100552,2024-12-25,Startup,Central,Stationery,Bank Transfer,5,23519.45,25,88197.94
+10ORD100834,2025-05-18,School,Central,Printing,Bank Transfer,2,7625.85,22,11896.33
+10ORD100204,2024-04-27,School,Central,Furniture,Net Banking,2,12919.3,25,19378.95
+10ORD100631,2024-09-23,School,West,Pantry,Net Banking,3,17225.41,2,50642.71
+10ORD100094,2025-02-21,School,South,Printing,UPI,10,23717.29,27,173136.22
+10ORD100559,2025-04-28,School,West,Stationery,Credit Card,4,19246.33,24,58508.84
+10ORD100069,2025-01-19,Freelancer,North,Electronics,Net Banking,20,12296.05,0,245921.0
+10ORD100623,2025-10-08,School,South,Stationery,Bank Transfer,2,7668.87,22,11963.44
+10ORD100285,2025-12-08,Enterprise,Central,Printing,Net Banking,2,9791.6,10,17624.88
+10ORD100845,2025-09-14,Freelancer,South,Furniture,Credit Card,1,19967.78,14,17172.29
+10ORD100435,2025-09-03,Enterprise,East,Electronics,UPI,2,10549.61,12,18567.31
+10ORD100154,2025-12-27,Freelancer,East,Stationery,Credit Card,20,11026.05,17,183032.43
+10ORD100076,2024-03-29,Startup,Central,Electronics,Bank Transfer,1,10867.87,1,10759.19
+10ORD100731,2025-07-25,Freelancer,East,Furniture,Net Banking,2,17160.88,18,28143.84
+10ORD100447,2025-11-22,School,Central,Stationery,Debit Card,1,14188.89,17,11776.78
+10ORD100189,2025-01-25,Enterprise,South,Stationery,Net Banking,1,2076.92,7,1931.54
+10ORD100272,2025-07-26,Startup,North,Printing,Debit Card,4,11626.78,20,37205.7
+10ORD100237,2024-01-16,Freelancer,North,Pantry,Net Banking,5,20544.74,10,92451.33
+10ORD100488,2025-09-26,Enterprise,South,Electronics,Credit Card,3,9858.78,24,22478.02
+10ORD100118,2025-04-12,Enterprise,North,Electronics,Bank Transfer,2,4042.05,3,7841.58
+10ORD100944,2024-09-07,Freelancer,Central,Furniture,Bank Transfer,5,956.71,4,4592.21
+10ORD100513,2024-02-11,Enterprise,East,Furniture,Credit Card,3,7149.8,5,20376.93
+10ORD100826,2024-02-08,Startup,West,Furniture,Bank Transfer,10,4755.94,17,39474.3
+10ORD100592,2025-01-26,Startup,East,Pantry,Credit Card,1,1012.37,22,789.65
+10ORD100127,2024-02-24,Freelancer,Central,Printing,Bank Transfer,20,1222.05,13,21263.67
+10ORD100117,2025-01-18,Startup,East,Electronics,Debit Card,5,2802.96,14,12052.73
+10ORD100474,2024-06-26,Enterprise,East,Stationery,Net Banking,10,19024.01,17,157899.28
+10ORD100694,2025-06-23,Startup,North,Electronics,Net Banking,2,22820.44,24,34687.07
+10ORD100058,2025-02-25,School,Central,Electronics,Bank Transfer,1,9824.39,14,8448.98
+10ORD100864,2024-03-28,Startup,East,Pantry,Net Banking,20,2943.07,8,54152.49
+10ORD100913,2024-06-15,Enterprise,West,Furniture,UPI,20,21547.36,22,336138.82
+10ORD100370,2024-03-25,School,East,Stationery,Credit Card,20,707.07,7,13151.5
+10ORD100269,2024-06-23,School,Central,Furniture,Net Banking,3,2867.8,23,6624.62
+10ORD100047,2025-09-03,School,South,Furniture,Credit Card,10,11681.36,4,112141.06
+10ORD100350,2024-11-19,School,South,Electronics,Debit Card,1,15239.82,19,12344.25
+10ORD100196,2025-10-10,School,Central,Printing,Bank Transfer,3,17350.18,6,48927.51
+10ORD101000,2024-09-30,School,East,Printing,Credit Card,5,24991.95,26,92470.22
+10ORD100835,2025-07-25,Freelancer,South,Electronics,Net Banking,10,8756.39,7,81434.43
+10ORD100737,2025-09-19,School,West,Stationery,Net Banking,1,20330.17,23,15654.23
+10ORD100264,2025-07-01,Startup,North,Pantry,Debit Card,10,377.79,9,3437.89
+10ORD100444,2024-07-25,Freelancer,East,Stationery,Bank Transfer,2,2162.18,3,4194.63
+10ORD100676,2024-01-07,School,North,Furniture,Net Banking,1,12380.26,15,10523.22
+10ORD100305,2024-06-26,Freelancer,North,Printing,Net Banking,3,8906.06,2,26183.82
+10ORD100342,2024-12-22,Enterprise,East,Stationery,Net Banking,5,1494.78,24,5680.16
+10ORD100967,2024-10-14,Freelancer,West,Pantry,UPI,3,11989.83,13,31293.46
+10ORD100150,2025-03-07,School,North,Furniture,Credit Card,20,22017.81,23,339074.27
+10ORD100125,2024-04-29,Enterprise,East,Electronics,UPI,2,15783.94,1,31252.2
+10ORD100787,2025-09-26,Freelancer,North,Electronics,Debit Card,4,9170.5,3,35581.54
+10ORD100051,2025-01-05,Enterprise,North,Pantry,Net Banking,2,1282.58,6,2411.25
+10ORD100354,2025-11-29,Freelancer,Central,Pantry,Net Banking,20,9554.86,8,175809.42
+10ORD100928,2025-03-15,Enterprise,South,Electronics,Debit Card,20,20975.44,19,339802.13
+10ORD100143,2025-10-06,Enterprise,North,Printing,UPI,2,5317.3,5,10102.87
+10ORD100471,2025-08-25,Freelancer,East,Pantry,Debit Card,5,6260.81,13,27234.52
+10ORD100400,2024-09-07,Freelancer,South,Furniture,Debit Card,2,15930.28,1,31541.95
+10ORD100626,2025-08-16,Startup,East,Furniture,Bank Transfer,1,10059.97,12,8852.77
+10ORD100321,2024-10-03,Enterprise,East,Electronics,UPI,10,12746.55,27,93049.82
+10ORD100020,2025-07-02,Startup,East,Pantry,UPI,4,24257.38,13,84415.68
+10ORD100810,2024-09-22,Freelancer,West,Stationery,Net Banking,1,20263.02,24,15399.9
+10ORD100791,2025-12-03,School,South,Pantry,Net Banking,10,12149.3,24,92334.68
+10ORD100809,2024-01-13,Startup,North,Pantry,UPI,20,1820.0,28,26208.0
+10ORD100408,2024-12-11,Startup,North,Stationery,Debit Card,20,2018.78,22,31492.97
+10ORD100538,2024-01-02,Freelancer,East,Furniture,UPI,10,19466.45,14,167411.47
+10ORD100621,2024-04-04,Enterprise,North,Printing,UPI,2,11433.74,9,20809.41
+10ORD100039,2025-02-28,School,Central,Printing,Debit Card,5,23324.43,5,110791.04
+10ORD100176,2025-02-17,Startup,South,Printing,Bank Transfer,2,1572.3,9,2861.59
+10ORD100246,2024-03-31,Startup,South,Pantry,Credit Card,20,3888.53,2,76215.19
+10ORD100829,2024-04-18,School,Central,Stationery,Bank Transfer,1,22582.25,17,18743.27
+10ORD100668,2024-12-10,Freelancer,South,Stationery,Bank Transfer,2,19659.31,27,28702.59
+10ORD100755,2024-11-03,Enterprise,East,Furniture,UPI,4,3207.24,11,11417.77
+10ORD100859,2025-06-13,Enterprise,Central,Furniture,Bank Transfer,4,17936.14,18,58830.54
+10ORD100155,2024-05-27,Freelancer,South,Electronics,Net Banking,1,8667.21,15,7367.13
+10ORD100288,2025-04-29,Enterprise,Central,Furniture,Net Banking,3,19412.18,1,57654.17
+10ORD100603,2024-01-09,Startup,South,Electronics,Net Banking,4,23731.55,11,84484.32
+10ORD100570,2025-06-10,Freelancer,North,Furniture,Bank Transfer,3,7929.95,21,18793.98
+10ORD100744,2025-10-03,Startup,South,Electronics,Bank Transfer,1,6735.01,12,5926.81
+10ORD100018,2024-10-02,Enterprise,North,Stationery,Credit Card,20,24449.85,28,352077.84
+10ORD100128,2024-03-10,Freelancer,Central,Stationery,Net Banking,1,7302.57,25,5476.93
+10ORD100323,2025-01-11,School,South,Printing,Bank Transfer,1,8049.28,9,7324.84
+10ORD100256,2025-09-16,Startup,West,Furniture,Credit Card,1,11635.23,4,11169.82
+10ORD100658,2025-07-30,School,Central,Stationery,Net Banking,3,19416.79,4,55920.36
+10ORD100965,2025-05-12,Enterprise,South,Printing,UPI,3,15223.26,22,35622.43
+10ORD100191,2025-01-07,Enterprise,South,Printing,Debit Card,2,17651.85,20,28242.96
+10ORD100116,2024-09-06,School,West,Stationery,Net Banking,10,24533.39,18,201173.8
+10ORD100617,2024-06-17,Enterprise,Central,Furniture,Bank Transfer,2,19080.43,24,29002.25
+10ORD100607,2025-12-07,School,South,Furniture,Debit Card,2,12938.43,16,21736.56
+10ORD100181,2024-08-26,Freelancer,North,Electronics,Credit Card,1,16411.87,16,13785.97
+10ORD100302,2024-05-22,Enterprise,South,Stationery,UPI,1,11870.8,14,10208.89
+10ORD100760,2024-08-09,Enterprise,East,Furniture,Bank Transfer,2,21044.99,15,35776.48
+10ORD100713,2025-04-23,Enterprise,East,Furniture,Net Banking,2,54.65,13,95.09
+10ORD100724,2024-07-05,School,South,Stationery,Net Banking,5,22497.61,13,97864.6
+10ORD100686,2024-08-10,Freelancer,East,Furniture,Net Banking,2,10369.27,27,15139.13
+10ORD100980,2024-09-28,Enterprise,West,Stationery,Bank Transfer,2,14466.99,5,27487.28
+10ORD100518,2024-04-02,Freelancer,East,Stationery,Net Banking,1,12265.27,16,10302.83
+10ORD100985,2024-01-03,Freelancer,Central,Pantry,Net Banking,2,29.21,16,49.07
+10ORD100046,2025-09-09,Enterprise,North,Printing,Credit Card,1,20508.71,14,17637.49
+10ORD100910,2024-11-03,Startup,South,Electronics,Bank Transfer,4,19463.83,16,65398.47
+10ORD100158,2025-11-30,Enterprise,West,Furniture,Debit Card,4,22006.8,13,76583.66
+10ORD100852,2025-12-01,Freelancer,South,Electronics,Credit Card,4,244.63,13,851.31
+10ORD100172,2024-03-13,School,West,Furniture,Credit Card,5,834.8,12,3673.12
+10ORD100017,2024-12-10,Startup,North,Stationery,Credit Card,3,22330.63,21,52923.59
+10ORD100512,2024-01-15,Startup,Central,Pantry,Net Banking,5,4963.15,15,21093.39
+10ORD100049,2024-03-18,Startup,West,Furniture,Bank Transfer,4,23102.64,2,90562.35
+10ORD100972,2025-09-28,Freelancer,West,Furniture,Net Banking,10,11143.11,3,108088.17
+10ORD100941,2025-12-19,Enterprise,North,Stationery,Credit Card,4,23749.77,14,81699.21
+10ORD100516,2025-10-08,Enterprise,Central,Stationery,Bank Transfer,5,11038.46,25,41394.22
+10ORD100953,2025-05-15,School,West,Stationery,Credit Card,4,1544.68,3,5993.36
+10ORD100481,2025-01-30,Enterprise,North,Electronics,Net Banking,1,991.53,27,723.82
+10ORD100284,2025-11-13,School,South,Furniture,Net Banking,20,541.6,25,8124.0
+10ORD100719,2025-10-23,Freelancer,East,Printing,Bank Transfer,2,4064.0,28,5852.16
+10ORD100878,2024-02-08,Enterprise,West,Pantry,UPI,2,15876.39,5,30165.14
+10ORD100226,2024-09-14,Enterprise,South,Furniture,Credit Card,1,17835.02,10,16051.52
+10ORD100027,2024-08-23,Startup,Central,Stationery,Bank Transfer,20,19796.33,7,368211.74
+10ORD100955,2025-12-20,Enterprise,West,Pantry,UPI,10,14008.5,18,114869.7
+10ORD100438,2025-07-04,Enterprise,East,Furniture,UPI,1,21380.05,15,18173.04
+10ORD100952,2024-09-14,Startup,East,Furniture,Debit Card,5,10616.2,26,39279.94
+10ORD100365,2024-11-10,Startup,North,Printing,UPI,1,13303.63,8,12239.34
+10ORD100230,2024-03-04,School,East,Electronics,Net Banking,10,3982.9,11,35447.81
+10ORD100038,2024-05-10,School,East,Stationery,Credit Card,5,13153.55,4,63137.04
+10ORD100966,2025-08-16,Startup,South,Electronics,Debit Card,3,7043.16,11,18805.24
+10ORD100375,2025-12-11,School,West,Printing,Net Banking,10,16530.49,11,147121.36
+10ORD100470,2024-02-06,Freelancer,East,Printing,Bank Transfer,3,83.24,13,217.26
+10ORD100968,2025-10-24,Enterprise,Central,Furniture,Debit Card,5,20415.45,11,90848.75
+10ORD100851,2024-05-13,Freelancer,East,Printing,Net Banking,3,10389.18,20,24934.03
+10ORD100705,2024-08-13,Startup,East,Pantry,Credit Card,20,16186.07,10,291349.26
+10ORD100842,2024-06-09,Freelancer,North,Furniture,Net Banking,2,17519.55,2,34338.32
+10ORD100195,2025-03-12,Enterprise,West,Furniture,Net Banking,20,8339.07,17,138428.56
+10ORD100855,2024-09-08,Enterprise,East,Pantry,UPI,1,13053.14,21,10311.98
+10ORD100865,2025-08-29,School,Central,Stationery,UPI,5,13942.97,25,52286.14
+10ORD100504,2025-01-19,Enterprise,South,Stationery,Bank Transfer,3,1072.51,25,2413.15
+10ORD100970,2025-03-29,Startup,West,Pantry,Debit Card,10,4600.73,12,40486.42
+10ORD100831,2025-02-24,Startup,East,Furniture,Credit Card,1,14732.71,27,10754.88
+10ORD100580,2025-07-08,School,West,Printing,Net Banking,1,5948.51,2,5829.54
+10ORD100969,2024-05-13,School,North,Pantry,Bank Transfer,10,832.98,21,6580.54
+10ORD100163,2024-04-10,Startup,South,Furniture,Bank Transfer,3,20648.72,25,46459.62
+10ORD100909,2024-03-19,Freelancer,West,Pantry,UPI,3,6271.05,4,18060.62
+10ORD100153,2025-02-25,Enterprise,West,Printing,Net Banking,2,9560.33,3,18547.04
+10ORD100802,2025-08-01,School,Central,Electronics,Debit Card,1,1810.65,8,1665.8
+10ORD100994,2025-09-24,School,East,Furniture,Credit Card,2,6888.79,24,10470.96
+10ORD100756,2025-12-17,Startup,West,Printing,Bank Transfer,2,24656.92,3,47834.42
+10ORD100112,2025-09-19,School,South,Printing,Credit Card,4,20780.59,17,68991.56
+10ORD100227,2025-10-18,Startup,South,Stationery,Bank Transfer,20,22317.62,9,406180.68
+10ORD100689,2024-08-30,Freelancer,South,Furniture,Credit Card,2,16610.8,19,26909.5
+10ORD100104,2024-01-08,Freelancer,Central,Electronics,Credit Card,10,1505.21,12,13245.85
+10ORD100422,2025-01-15,Freelancer,South,Stationery,Credit Card,2,12217.47,14,21014.05
+10ORD100420,2024-08-05,Enterprise,North,Pantry,UPI,3,16338.81,18,40193.47
+10ORD100751,2025-05-24,Freelancer,South,Printing,Debit Card,10,1716.88,9,15623.61
+10ORD100587,2025-10-18,School,North,Electronics,UPI,3,2739.9,11,7315.53
+10ORD100781,2024-06-10,Freelancer,South,Electronics,Net Banking,4,6162.93,4,23665.65
+10ORD100673,2024-08-06,Freelancer,East,Furniture,UPI,4,9270.18,8,34114.26
+10ORD100120,2025-05-08,Startup,East,Stationery,UPI,5,22055.07,26,81603.76
+10ORD100054,2025-05-29,Freelancer,West,Pantry,Debit Card,10,1753.33,27,12799.31
+10ORD100152,2024-10-02,School,East,Stationery,UPI,10,7635.82,17,63377.31
+10ORD100404,2025-12-30,Freelancer,East,Pantry,Bank Transfer,1,14474.66,16,12158.71
+10ORD100946,2024-09-01,Enterprise,East,Electronics,Credit Card,3,8040.74,15,20503.89
+10ORD100208,2024-11-18,Enterprise,Central,Electronics,Net Banking,3,7937.16,7,22144.68
+10ORD100659,2025-09-26,Startup,Central,Electronics,Bank Transfer,2,12579.88,18,20631.0
+10ORD100844,2024-12-24,School,West,Electronics,Bank Transfer,1,2202.16,16,1849.81
+10ORD100763,2025-11-15,Freelancer,East,Printing,Bank Transfer,4,6565.09,3,25472.55
+10ORD100009,2025-03-19,Startup,East,Electronics,Net Banking,2,10577.99,6,19886.62
+10ORD100808,2024-03-09,Freelancer,West,Printing,Credit Card,2,2322.98,18,3809.69
+10ORD100037,2025-02-25,Startup,Central,Stationery,Bank Transfer,1,19866.72,4,19072.05
+10ORD100453,2024-08-30,School,East,Printing,UPI,4,22925.0,23,70609.0
+10ORD100652,2024-03-28,School,West,Electronics,Debit Card,4,8399.36,26,24862.11
+10ORD100254,2024-07-07,School,South,Printing,UPI,4,16318.97,7,60706.57
+10ORD100304,2025-03-01,Freelancer,East,Printing,UPI,3,12125.56,25,27282.51
+10ORD100747,2024-12-11,Freelancer,North,Electronics,Credit Card,3,2736.14,10,7387.58
+10ORD100572,2024-04-11,Enterprise,East,Pantry,UPI,20,14416.04,9,262371.93
+10ORD100624,2025-08-28,School,East,Electronics,Credit Card,10,1516.18,27,11068.11
+10ORD100733,2025-08-10,Freelancer,Central,Electronics,Credit Card,2,15759.56,25,23639.34
+10ORD100892,2024-08-02,Enterprise,South,Electronics,Credit Card,5,5821.52,12,25614.69
+10ORD100263,2025-07-25,Enterprise,West,Pantry,Net Banking,2,21402.55,24,32531.88
+10ORD100611,2024-12-07,Startup,West,Electronics,UPI,5,4343.55,25,16288.31
+10ORD100298,2024-05-05,Freelancer,North,Electronics,Bank Transfer,10,2278.59,19,18456.58
+10ORD100415,2025-09-25,Freelancer,West,Furniture,Bank Transfer,2,17220.9,27,25142.51
+10ORD100151,2024-11-25,Startup,West,Furniture,Net Banking,1,20462.39,28,14732.92
+10ORD100789,2025-07-21,School,East,Stationery,Net Banking,1,24838.88,3,24093.71
+10ORD100641,2024-05-18,Startup,South,Furniture,Bank Transfer,3,15334.7,28,33122.95
+10ORD100890,2024-01-28,Startup,North,Stationery,UPI,1,19220.53,4,18451.71
+10ORD100551,2024-02-18,Enterprise,South,Stationery,Debit Card,1,895.71,26,662.83
+10ORD100887,2024-07-10,Enterprise,Central,Printing,UPI,3,12299.17,1,36528.53
+10ORD100489,2024-08-11,Freelancer,Central,Furniture,UPI,2,15262.14,18,25029.91
+10ORD100148,2024-01-18,Freelancer,East,Pantry,Net Banking,3,1608.81,2,4729.9
+10ORD100147,2024-02-11,Enterprise,Central,Stationery,Net Banking,5,10213.59,17,42386.4
+10ORD100721,2024-03-15,School,East,Electronics,Debit Card,2,19244.76,13,33485.88
+10ORD100932,2025-05-28,Startup,West,Stationery,Bank Transfer,1,20628.57,22,16090.28
+10ORD100740,2024-03-17,Freelancer,Central,Stationery,Credit Card,2,4077.65,6,7665.98
+10ORD100660,2024-08-25,Startup,North,Pantry,Credit Card,20,12043.62,10,216785.16
+10ORD100349,2024-06-05,Freelancer,West,Furniture,Net Banking,1,20854.93,28,15015.55
+10ORD100464,2025-02-22,Freelancer,North,Electronics,Bank Transfer,20,7463.07,10,134335.26
+10ORD100326,2025-11-06,Startup,North,Electronics,Net Banking,20,3249.57,3,63041.66
+10ORD100187,2024-03-24,Enterprise,West,Stationery,UPI,5,10304.44,26,38126.43
+10ORD100124,2025-10-01,Startup,Central,Printing,UPI,3,4528.15,7,12633.54
+10ORD100854,2025-08-13,Startup,East,Printing,UPI,1,6733.22,15,5723.24
+10ORD100609,2024-04-03,Startup,South,Pantry,Bank Transfer,1,6736.07,2,6601.35
+10ORD100144,2024-12-09,Startup,North,Furniture,Credit Card,2,13292.55,8,24458.29
+10ORD100959,2025-04-23,Enterprise,Central,Stationery,UPI,5,22612.1,12,99493.24
+10ORD100198,2024-03-26,Enterprise,West,Stationery,Credit Card,1,15468.18,22,12065.18
+10ORD100610,2025-12-05,Startup,West,Stationery,Credit Card,20,10991.93,25,164878.95
+10ORD100280,2024-07-03,Freelancer,East,Pantry,UPI,1,5674.58,17,4709.9
+10ORD100294,2025-05-25,Freelancer,South,Electronics,Debit Card,5,17858.05,14,76789.62
+10ORD100401,2025-09-12,Startup,Central,Electronics,UPI,2,5088.85,6,9567.04
+10ORD100123,2025-02-02,Freelancer,North,Electronics,Net Banking,1,6035.51,17,5009.47
+10ORD100184,2025-05-30,School,North,Printing,Debit Card,2,3487.28,1,6904.81
+10ORD100203,2024-05-14,Startup,West,Stationery,Debit Card,1,18908.23,2,18530.07
+10ORD100439,2024-01-05,Freelancer,North,Furniture,Credit Card,1,14301.08,25,10725.81
+10ORD100247,2024-05-17,School,East,Electronics,Net Banking,4,19630.37,14,67528.47
+10ORD100416,2024-03-26,School,North,Furniture,Net Banking,1,10134.62,5,9627.89
+10ORD100933,2025-09-08,Enterprise,East,Pantry,Net Banking,3,8410.25,19,20436.91
+10ORD100766,2024-03-07,School,West,Electronics,Net Banking,1,21205.73,21,16752.53
+10ORD100907,2025-11-09,Enterprise,Central,Printing,Credit Card,4,12937.26,16,43469.19
+10ORD100836,2025-07-27,Enterprise,West,Pantry,Net Banking,1,4350.16,12,3828.14
+10ORD100888,2024-11-16,School,East,Electronics,Bank Transfer,2,7525.78,26,11138.15
+10ORD100130,2024-12-21,Startup,Central,Stationery,Credit Card,1,19906.18,0,19906.18
+10ORD100638,2024-09-24,Startup,South,Printing,Debit Card,20,16075.24,7,298999.46
+10ORD100403,2024-07-31,School,West,Electronics,UPI,2,19545.55,25,29318.32
+10ORD100785,2025-04-16,Startup,East,Stationery,Bank Transfer,2,2434.18,21,3846.0
+10ORD100771,2024-07-15,School,East,Electronics,Debit Card,5,4288.53,9,19512.81
+10ORD100736,2024-01-15,Enterprise,West,Printing,Credit Card,10,3851.11,18,31579.1
+10ORD100914,2025-11-15,Startup,North,Furniture,Debit Card,2,688.6,2,1349.66
+10ORD100220,2024-07-17,School,East,Printing,Net Banking,20,18894.48,20,302311.68
+10ORD100642,2024-11-06,Enterprise,Central,Pantry,Net Banking,2,11787.41,9,21453.09
+10ORD100916,2025-04-05,Enterprise,South,Electronics,Debit Card,1,18686.94,15,15883.9
+10ORD100753,2024-09-24,School,West,Pantry,Debit Card,3,7949.88,24,18125.73
+10ORD100807,2024-09-28,Enterprise,West,Electronics,Debit Card,3,3632.85,25,8173.91
+10ORD100920,2024-12-05,Enterprise,Central,Electronics,Net Banking,5,1990.54,22,7763.11
+10ORD100625,2025-07-19,Freelancer,Central,Electronics,Debit Card,1,4146.53,15,3524.55
+10ORD100875,2025-11-02,Enterprise,West,Pantry,Bank Transfer,2,12607.57,17,20928.57
+10ORD100761,2024-10-04,School,East,Printing,Debit Card,2,15875.31,1,31433.11
+10ORD100387,2025-04-09,Startup,East,Printing,Net Banking,1,16590.54,28,11945.19
+10ORD100973,2025-08-30,Enterprise,Central,Furniture,UPI,1,7603.01,6,7146.83
+10ORD100510,2025-02-12,Enterprise,East,Furniture,UPI,20,24260.5,28,349351.2
+10ORD100268,2025-04-11,School,South,Electronics,UPI,1,14261.24,19,11551.6
+10ORD100820,2025-02-17,Enterprise,Central,Electronics,Bank Transfer,1,4553.39,20,3642.71
+10ORD100442,2025-05-19,Startup,Central,Pantry,Debit Card,20,3080.89,20,49294.24
+10ORD100497,2025-07-25,Enterprise,Central,Stationery,UPI,20,6475.84,11,115269.95
+10ORD100113,2025-06-03,Freelancer,East,Printing,Net Banking,2,11698.47,4,22461.06
+10ORD100692,2024-11-04,Enterprise,West,Furniture,Debit Card,5,11337.37,14,48750.69
+10ORD100233,2024-04-16,School,Central,Printing,Debit Card,2,3089.67,1,6117.55
+10ORD100870,2024-03-18,Startup,South,Pantry,Credit Card,2,6233.72,25,9350.58
+10ORD100608,2025-02-15,Enterprise,North,Stationery,Net Banking,1,19936.08,11,17743.11
+10ORD100672,2025-03-27,Freelancer,South,Stationery,UPI,20,23565.99,21,372342.64
+10ORD100374,2024-07-17,Freelancer,North,Electronics,UPI,20,343.28,21,5423.82
+10ORD100982,2025-04-08,Freelancer,Central,Pantry,Debit Card,3,18421.04,16,46421.02
+10ORD100843,2025-01-02,School,South,Printing,Net Banking,2,22290.04,9,40567.87
+10ORD100234,2025-10-03,Enterprise,Central,Pantry,UPI,4,24896.88,18,81661.77
+10ORD100786,2024-05-20,Freelancer,East,Printing,UPI,2,15859.4,23,24423.48
+10ORD100677,2024-01-01,School,East,Electronics,Net Banking,20,14990.11,27,218855.61
+10ORD100318,2025-10-14,Startup,South,Furniture,Credit Card,4,3595.19,3,13949.34
+10ORD100649,2024-09-12,Freelancer,South,Printing,Net Banking,1,18659.82,1,18473.22
+10ORD100411,2024-04-06,School,North,Electronics,Net Banking,10,23901.99,5,227068.9
+10ORD100899,2025-05-29,Freelancer,North,Pantry,Net Banking,1,14049.76,13,12223.29
+10ORD100710,2024-04-23,School,South,Printing,Bank Transfer,3,9283.28,25,20887.38
+10ORD100359,2025-02-16,Freelancer,South,Furniture,Credit Card,4,7163.75,0,28655.0
+10ORD100259,2025-12-26,School,South,Printing,Bank Transfer,5,6445.79,11,28683.77
+10ORD100745,2024-01-06,Startup,South,Stationery,UPI,3,9319.83,15,23765.57
+10ORD100628,2025-10-08,School,East,Printing,UPI,5,22393.15,11,99649.52
+10ORD100633,2024-05-12,Enterprise,Central,Pantry,Net Banking,5,19247.05,10,86611.72
+10ORD100283,2025-03-04,School,East,Furniture,UPI,2,14985.81,5,28473.04
+10ORD100377,2024-04-05,Freelancer,Central,Furniture,UPI,2,2473.4,13,4303.72
+10ORD100385,2024-10-01,Freelancer,North,Electronics,Debit Card,2,7794.63,14,13406.76
+10ORD100225,2024-07-25,School,Central,Furniture,Credit Card,1,23660.22,5,22477.21
+10ORD100954,2025-10-15,School,Central,Stationery,UPI,1,24135.53,3,23411.46
+10ORD100815,2025-12-10,School,West,Stationery,UPI,5,2351.56,5,11169.91
+10ORD100473,2024-05-31,Freelancer,South,Printing,UPI,5,20292.94,4,97406.11
+10ORD100348,2025-11-14,Freelancer,East,Stationery,Credit Card,1,12711.34,18,10423.3
+10ORD100506,2024-10-03,Enterprise,West,Pantry,Credit Card,5,13810.55,16,58004.31
+10ORD100640,2024-10-04,Freelancer,Central,Pantry,Bank Transfer,1,18923.7,5,17977.52
+10ORD100988,2025-05-01,Enterprise,South,Electronics,Bank Transfer,20,5268.47,24,80080.74
+10ORD100929,2025-07-12,School,North,Pantry,Net Banking,3,19953.12,20,47887.49
+10ORD100906,2025-12-19,Freelancer,West,Printing,Net Banking,1,7116.08,10,6404.47
+10ORD100620,2025-11-30,Freelancer,North,Printing,UPI,5,21224.98,12,93389.91
+10ORD100856,2024-07-24,Freelancer,Central,Electronics,Debit Card,4,15599.28,5,59277.26
+10ORD100804,2024-01-23,Startup,East,Electronics,Credit Card,4,17545.27,7,65268.4
+10ORD100646,2024-08-03,School,North,Furniture,Bank Transfer,2,11007.69,4,21134.76
+10ORD100847,2025-12-24,Enterprise,West,Printing,Debit Card,20,1141.91,28,16443.5
+10ORD100557,2025-11-21,Freelancer,Central,Stationery,Bank Transfer,5,16801.9,11,74768.46
+10ORD100958,2024-04-13,Freelancer,Central,Pantry,UPI,2,16529.8,19,26778.28
+10ORD100578,2024-11-15,Freelancer,South,Pantry,Debit Card,2,4011.65,3,7782.6
+10ORD100796,2025-02-13,Freelancer,West,Furniture,Net Banking,2,12445.33,26,18419.09
+10ORD100086,2025-05-24,Startup,East,Stationery,Net Banking,2,15498.86,3,30067.79
+10ORD100243,2024-02-07,Freelancer,Central,Printing,Bank Transfer,3,21462.2,18,52797.01
+10ORD100699,2024-11-08,Freelancer,Central,Printing,Bank Transfer,3,24415.34,6,68851.26
+10ORD100160,2024-04-14,Startup,West,Electronics,UPI,2,21812.17,28,31409.52
+10ORD100525,2025-12-09,Enterprise,East,Stationery,Bank Transfer,2,17383.22,11,30942.13
+10ORD100036,2024-09-01,School,North,Printing,Net Banking,1,12835.1,27,9369.62
+10ORD100541,2025-08-22,School,North,Stationery,Credit Card,4,16674.59,8,61362.49
+10ORD100171,2024-08-12,Freelancer,East,Printing,Net Banking,5,13716.35,11,61037.76
+10ORD100655,2025-06-13,School,North,Printing,Debit Card,1,2805.4,26,2076.0
+10ORD100891,2024-11-09,Enterprise,East,Furniture,Credit Card,5,20721.23,1,102570.09
+10ORD100858,2025-05-22,Freelancer,Central,Pantry,Net Banking,2,6276.65,9,11423.5
+10ORD100848,2025-02-06,Freelancer,South,Stationery,UPI,20,24975.93,28,359653.39
+10ORD100945,2025-11-14,School,North,Electronics,UPI,2,6185.44,2,12123.46
+10ORD100734,2024-02-15,Freelancer,North,Printing,Bank Transfer,5,10298.77,0,51493.85
+10ORD100096,2024-10-15,Freelancer,Central,Printing,Net Banking,2,17713.1,0,35426.2
+10ORD100564,2025-02-21,Enterprise,Central,Printing,Credit Card,10,18351.62,15,155988.77
+10ORD100241,2024-04-23,Enterprise,Central,Pantry,Debit Card,2,1591.03,21,2513.83
+10ORD100743,2024-02-19,Freelancer,Central,Stationery,Debit Card,3,4380.39,18,10775.76
+10ORD100575,2024-08-06,Freelancer,North,Printing,Bank Transfer,5,13145.92,18,53898.27
+10ORD100691,2025-04-24,Enterprise,South,Electronics,Debit Card,10,7520.62,8,69189.7
+10ORD100461,2025-06-16,Freelancer,East,Electronics,Net Banking,20,10000.78,17,166012.95
+10ORD100554,2025-10-01,Enterprise,East,Electronics,Net Banking,1,6834.14,13,5945.7
+10ORD100889,2024-12-07,School,South,Furniture,Credit Card,1,2127.96,1,2106.68
+10ORD100207,2024-09-20,Enterprise,South,Stationery,Net Banking,1,9450.69,12,8316.61
+10ORD100393,2025-08-19,School,North,Printing,Credit Card,1,18365.0,16,15426.6
+10ORD100795,2024-10-11,School,South,Stationery,Credit Card,1,12194.3,20,9755.44
+10ORD100398,2024-07-04,Freelancer,North,Pantry,Bank Transfer,2,14787.96,16,24843.77
+10ORD100767,2024-07-10,Startup,North,Furniture,Net Banking,3,13608.44,10,36742.79
+10ORD100849,2025-10-10,Enterprise,North,Stationery,Debit Card,3,7536.09,9,20573.53
+10ORD100218,2024-10-06,Enterprise,East,Pantry,Bank Transfer,20,19068.57,23,293655.98
+10ORD100005,2024-03-12,Freelancer,South,Furniture,Net Banking,1,14656.91,6,13777.5
+10ORD100769,2024-06-02,Enterprise,South,Pantry,Debit Card,1,17113.7,27,12493.0
+10ORD100643,2024-08-24,Enterprise,West,Electronics,Credit Card,2,24616.2,14,42339.86
+10ORD100930,2025-11-08,Freelancer,North,Electronics,UPI,1,10465.71,6,9837.77
+10ORD100613,2025-11-22,Enterprise,West,Printing,UPI,3,18977.56,28,40991.53
+10ORD100739,2024-01-01,Freelancer,Central,Stationery,Net Banking,4,3874.63,7,14413.62
+10ORD100547,2025-07-24,Startup,Central,Stationery,Net Banking,2,12018.99,9,21874.56
+10ORD100726,2025-01-23,Enterprise,North,Stationery,Bank Transfer,5,19396.92,28,69828.91
+10ORD100684,2025-04-23,Freelancer,Central,Furniture,Bank Transfer,5,21605.66,15,91824.06
+10ORD100099,2025-07-27,School,South,Printing,Credit Card,2,22531.91,13,39205.52
+10ORD100805,2025-02-19,Startup,East,Electronics,Net Banking,10,24622.53,27,179744.47
+10ORD100728,2024-06-17,Freelancer,North,Electronics,UPI,2,1900.21,14,3268.36
+10ORD100574,2024-07-02,Freelancer,North,Stationery,UPI,5,21178.13,26,78359.08
+10ORD100407,2024-02-06,Startup,West,Stationery,Net Banking,4,3063.67,2,12009.59
+10ORD100503,2025-01-06,Startup,South,Printing,UPI,5,13074.97,6,61452.36
+10ORD100048,2025-11-26,Startup,Central,Furniture,Debit Card,3,14041.84,8,38755.48
+10ORD100033,2024-04-18,School,South,Stationery,UPI,2,15135.35,20,24216.56
+10ORD100780,2025-11-23,Enterprise,East,Pantry,Bank Transfer,10,24756.34,7,230233.96
+10ORD100840,2025-07-31,Freelancer,Central,Printing,Debit Card,20,4254.64,9,77434.45
+10ORD100201,2025-04-19,Startup,North,Furniture,Credit Card,20,12468.43,1,246874.91
+10ORD100135,2024-08-05,Startup,Central,Stationery,Credit Card,5,12378.56,18,50752.1
+10ORD100028,2025-05-17,Freelancer,North,Furniture,Credit Card,5,21808.39,23,83962.3
+10ORD100881,2024-09-19,Enterprise,South,Furniture,UPI,2,5175.38,0,10350.76
+10ORD100231,2025-12-01,Freelancer,Central,Printing,Bank Transfer,2,3644.98,16,6123.57
+10ORD100490,2024-07-13,School,South,Electronics,Net Banking,2,7399.49,5,14059.03
+10ORD100773,2025-08-29,School,East,Pantry,Net Banking,5,8560.91,20,34243.64
+10ORD100379,2024-03-29,Startup,Central,Pantry,Debit Card,1,5328.35,19,4315.96
+10ORD100289,2024-08-17,Freelancer,Central,Electronics,Net Banking,2,10755.41,6,20220.17
+10ORD100419,2024-08-31,Startup,East,Printing,Debit Card,1,16748.89,10,15074.0
+10ORD100675,2024-03-10,Freelancer,South,Furniture,UPI,10,22224.51,27,162238.92
+10ORD100392,2025-08-31,Freelancer,East,Electronics,Bank Transfer,2,4231.73,14,7278.58
+10ORD100593,2025-05-28,Enterprise,North,Pantry,Bank Transfer,4,24311.6,18,79742.05
+10ORD100499,2025-08-04,School,Central,Furniture,Net Banking,4,6148.79,26,18200.42
+10ORD100139,2024-09-26,Enterprise,West,Printing,UPI,1,19786.37,17,16422.69
+10ORD100063,2025-12-19,Freelancer,Central,Pantry,Debit Card,2,15126.14,7,28134.62
+10ORD100472,2024-11-22,School,East,Printing,Net Banking,4,7744.47,18,25401.86
+10ORD100648,2024-08-25,Enterprise,East,Electronics,Credit Card,1,18310.81,7,17029.05
+10ORD100129,2025-05-08,School,North,Pantry,Bank Transfer,3,21519.51,22,50355.65
+10ORD100977,2024-03-24,Startup,North,Furniture,Bank Transfer,2,9080.08,3,17615.36
+10ORD100521,2025-05-12,Startup,North,Electronics,Debit Card,5,5886.74,1,29139.36
+10ORD100839,2024-01-30,Enterprise,Central,Stationery,Credit Card,1,16335.32,14,14048.38
+10ORD100963,2024-05-28,Enterprise,Central,Furniture,Bank Transfer,1,13110.56,1,12979.45
+10ORD100065,2024-09-24,School,Central,Printing,Debit Card,20,17055.44,23,262653.78
+10ORD100813,2025-12-20,Enterprise,Central,Pantry,Debit Card,5,7749.38,0,38746.9
+10ORD100015,2024-10-10,Freelancer,South,Printing,Debit Card,1,14916.38,8,13723.07
+10ORD100157,2024-05-12,Freelancer,Central,Furniture,Credit Card,10,349.33,2,3423.43
+10ORD100041,2024-12-08,Startup,South,Printing,Net Banking,10,13666.48,7,127098.26
+10ORD100493,2025-07-15,Freelancer,East,Stationery,Credit Card,2,14091.14,22,21982.18
+10ORD100380,2025-06-01,Freelancer,South,Printing,Bank Transfer,20,8746.77,18,143447.03
+10ORD100188,2024-08-01,School,South,Stationery,UPI,5,6347.18,7,29514.39
+10ORD100764,2024-11-13,Startup,North,Pantry,Debit Card,1,17238.93,28,12412.03
+10ORD100217,2024-04-25,School,North,Stationery,Net Banking,3,14154.78,28,30574.32
+10ORD100792,2024-06-18,Enterprise,North,Pantry,Debit Card,3,1277.58,15,3257.83
+10ORD100053,2025-01-23,Enterprise,Central,Electronics,Debit Card,5,983.29,15,4178.98
+10ORD100879,2024-04-17,School,South,Electronics,Net Banking,5,23573.64,10,106081.38
+10ORD100338,2025-01-23,School,East,Pantry,UPI,2,7641.37,7,14212.95
+10ORD100749,2025-11-08,Enterprise,North,Pantry,UPI,5,19677.24,24,74773.51
+10ORD100720,2024-06-08,Freelancer,Central,Printing,Debit Card,3,14582.87,8,40248.72
+10ORD100725,2024-12-04,Startup,Central,Stationery,Debit Card,20,15550.0,22,242580.0
+10ORD100296,2024-02-15,Freelancer,Central,Pantry,Net Banking,5,7532.32,12,33142.21
+10ORD100702,2024-01-02,Enterprise,South,Stationery,Net Banking,2,16607.51,6,31222.12
+10ORD100252,2024-05-14,Startup,North,Electronics,Bank Transfer,2,7393.36,18,12125.11
+10ORD100727,2025-05-08,Freelancer,North,Electronics,UPI,2,5128.66,6,9641.88
+10ORD100462,2025-10-31,Freelancer,East,Electronics,Bank Transfer,2,15633.6,20,25013.76
+10ORD100456,2025-10-12,School,East,Electronics,Credit Card,20,5411.44,22,84418.46
+10ORD100997,2025-09-05,Startup,West,Furniture,Bank Transfer,2,6343.52,10,11418.34
+10ORD100816,2024-10-01,School,West,Furniture,UPI,1,22598.88,11,20113.0
+10ORD100863,2024-08-04,Freelancer,East,Stationery,Bank Transfer,2,2152.11,1,4261.18
+10ORD100270,2025-08-23,Startup,South,Stationery,Bank Transfer,10,1833.97,23,14121.57
+10ORD100202,2025-10-28,Freelancer,East,Pantry,Credit Card,1,19384.91,18,15895.63
+10ORD100162,2024-08-19,School,East,Stationery,Net Banking,4,19413.98,7,72220.01
+10ORD100556,2024-04-02,School,East,Furniture,Bank Transfer,2,19126.96,5,36341.22
+10ORD100730,2024-09-13,School,Central,Furniture,Credit Card,1,17732.9,7,16491.6
+10ORD100402,2025-03-15,Freelancer,West,Stationery,Debit Card,10,18948.49,15,161062.16
+10ORD100703,2024-02-03,Startup,South,Stationery,Bank Transfer,1,2705.56,18,2218.56
+10ORD100477,2025-09-13,Startup,West,Furniture,UPI,2,9668.22,11,17209.43
+10ORD100822,2024-02-11,Startup,North,Furniture,Debit Card,2,22399.07,24,34046.59
+10ORD100772,2025-01-12,School,South,Stationery,Net Banking,1,18502.75,14,15912.36
+10ORD100106,2025-08-27,Startup,East,Stationery,Bank Transfer,4,21044.44,18,69025.76
+10ORD100566,2025-07-13,Enterprise,North,Stationery,Bank Transfer,10,17915.49,3,173780.25
+10ORD100390,2025-03-28,Startup,West,Printing,Net Banking,1,19249.09,12,16939.2
+10ORD100002,2025-03-28,Startup,North,Pantry,UPI,3,5629.13,21,13341.04
+10ORD100938,2025-05-05,Enterprise,North,Electronics,Credit Card,2,6182.9,3,11994.83
+10ORD100983,2025-06-02,Freelancer,East,Furniture,Credit Card,3,3980.81,6,11225.88
+10ORD100562,2024-04-07,Startup,South,Pantry,UPI,10,16790.1,23,129283.77
+10ORD100081,2024-09-25,Enterprise,West,Electronics,Net Banking,5,18806.66,20,75226.64
+10ORD100206,2025-01-13,Enterprise,North,Pantry,Debit Card,20,24519.25,20,392308.0
+10ORD100035,2024-11-13,Startup,East,Electronics,Net Banking,20,23755.17,8,437095.13
+10ORD100776,2025-07-19,Enterprise,North,Pantry,Credit Card,3,14721.87,20,35332.49
+10ORD100509,2024-03-12,Enterprise,Central,Printing,Bank Transfer,5,10480.11,16,44016.46
+10ORD100428,2024-01-10,Startup,East,Stationery,UPI,2,7311.02,17,12136.29
+10ORD100455,2025-05-31,School,Central,Stationery,Credit Card,4,4951.69,12,17429.95
+10ORD100367,2024-10-03,Enterprise,East,Printing,Bank Transfer,2,14023.13,23,21595.62
+10ORD100092,2025-12-04,School,North,Furniture,Credit Card,10,16098.23,15,136834.95
+10ORD100340,2025-11-19,Freelancer,South,Stationery,Net Banking,5,6114.78,13,26599.29
+10ORD100898,2025-07-02,Enterprise,North,Furniture,Credit Card,20,23069.39,18,378338.0
+10ORD100565,2024-10-26,School,Central,Stationery,Net Banking,10,14867.13,3,144211.16
+10ORD100346,2024-07-16,Startup,North,Stationery,Net Banking,2,4629.35,15,7869.9
+10ORD100777,2025-05-03,Startup,North,Furniture,UPI,4,2361.7,14,8124.25
+10ORD100242,2025-06-21,School,Central,Stationery,Debit Card,10,24019.01,9,218572.99
+10ORD100014,2025-07-31,Startup,West,Printing,Net Banking,1,8209.38,26,6074.94
+10ORD100316,2025-07-29,Startup,Central,Pantry,Debit Card,2,10433.68,10,18780.62
+10ORD100601,2024-07-26,Enterprise,West,Furniture,Bank Transfer,2,5389.78,18,8839.24
+10ORD100388,2024-04-08,Startup,West,Furniture,Bank Transfer,10,15748.14,27,114961.42
+10ORD100274,2025-05-01,Enterprise,East,Stationery,Bank Transfer,10,5755.79,16,48348.64
+10ORD100167,2024-02-14,School,Central,Printing,UPI,5,11915.07,26,44085.76
+10ORD100841,2024-06-06,Freelancer,East,Stationery,UPI,20,21601.38,8,397465.39
+10ORD100993,2025-05-20,Enterprise,Central,Pantry,Debit Card,2,5793.49,5,11007.63
+10ORD100647,2024-04-26,Startup,South,Printing,Debit Card,4,22621.29,0,90485.16
+10ORD100819,2025-10-06,School,South,Printing,Net Banking,1,7703.67,15,6548.12
+10ORD100485,2025-02-15,Enterprise,West,Printing,UPI,10,6989.56,24,53120.66
+10ORD100981,2024-01-06,School,Central,Printing,Bank Transfer,4,8038.83,28,23151.83
+10ORD100505,2024-04-23,School,North,Stationery,Credit Card,2,2296.3,12,4041.49
+10ORD100832,2024-12-11,School,South,Pantry,Debit Card,20,20949.4,27,305861.24
+10ORD100244,2024-01-25,Freelancer,South,Printing,UPI,3,21985.07,2,64636.11
+10ORD100567,2024-12-19,Enterprise,East,Stationery,UPI,5,14948.17,20,59792.68
+10ORD100876,2024-09-22,Freelancer,South,Electronics,Bank Transfer,10,8893.48,27,64922.4
+10ORD100563,2024-11-03,School,East,Pantry,Bank Transfer,10,20901.25,25,156759.38
+10ORD100687,2025-11-22,Startup,South,Printing,UPI,2,19654.73,21,31054.47
+10ORD100190,2024-12-24,Freelancer,West,Printing,Bank Transfer,20,8144.95,5,154754.05
+10ORD100783,2025-02-01,Startup,West,Furniture,Bank Transfer,1,24110.82,25,18083.11
+10ORD100700,2024-06-28,Freelancer,West,Electronics,Bank Transfer,20,12982.0,28,186940.8
+10ORD100476,2025-04-12,Freelancer,South,Furniture,UPI,20,3957.84,23,60950.74
+10ORD100682,2024-02-03,Startup,Central,Furniture,Net Banking,1,13499.8,18,11069.84
+10ORD100511,2025-06-13,School,North,Pantry,Debit Card,20,18476.65,15,314103.05
+10ORD100059,2024-01-28,Enterprise,East,Stationery,Bank Transfer,3,9864.05,6,27816.62
+10ORD100475,2024-06-30,Startup,West,Electronics,Debit Card,4,9920.71,10,35714.56
+10ORD100561,2025-09-30,Startup,Central,Furniture,UPI,20,24846.4,25,372696.0
+10ORD100857,2024-05-27,Startup,North,Pantry,UPI,3,19782.56,6,55786.82
+10ORD100748,2024-11-28,Enterprise,South,Pantry,UPI,2,19050.0,23,29337.0
+10ORD100253,2024-02-29,Enterprise,East,Pantry,Debit Card,1,6469.21,14,5563.52
+10ORD100022,2024-07-01,School,Central,Stationery,UPI,2,20383.8,28,29352.67
+10ORD100314,2025-03-25,Enterprise,Central,Pantry,Debit Card,2,23948.02,20,38316.83
+10ORD100460,2024-05-27,Enterprise,Central,Pantry,UPI,20,11726.3,0,234526.0
+10ORD100161,2024-10-18,Freelancer,South,Furniture,Bank Transfer,1,11375.01,4,10920.01
+10ORD100277,2024-08-09,Enterprise,West,Furniture,Debit Card,10,21818.77,8,200732.68
+10ORD100956,2025-09-16,Enterprise,Central,Printing,Bank Transfer,1,20336.77,1,20133.4
+10ORD100192,2025-07-27,Startup,East,Pantry,Net Banking,10,14588.66,4,140051.14
+10ORD100386,2025-07-08,Freelancer,West,Pantry,UPI,1,13127.1,28,9451.51
+10ORD100806,2025-06-18,Enterprise,North,Stationery,Credit Card,2,8569.67,12,15082.62
+10ORD100414,2024-12-09,School,North,Stationery,UPI,4,21520.08,28,61977.83
+10ORD100492,2025-08-16,Freelancer,East,Electronics,Credit Card,10,24104.51,13,209709.24
+10ORD100344,2025-09-24,Startup,South,Printing,Net Banking,4,6777.22,0,27108.88
+10ORD100770,2024-04-03,Enterprise,East,Stationery,UPI,1,19448.73,10,17503.86
+10ORD100309,2024-08-13,Freelancer,East,Electronics,UPI,4,23078.87,27,67390.3
+10ORD100662,2025-02-12,School,Central,Printing,Credit Card,5,16723.64,3,81109.65
+10ORD100131,2025-04-12,School,Central,Stationery,Bank Transfer,3,16085.0,16,40534.2
+10ORD100664,2024-10-13,Enterprise,South,Pantry,Net Banking,1,8817.26,16,7406.5
+10ORD100872,2024-11-16,Startup,Central,Pantry,Bank Transfer,20,13042.76,1,258246.65
+10ORD100100,2025-08-03,Freelancer,West,Pantry,Debit Card,1,15691.4,4,15063.74
+10ORD100373,2025-06-15,Enterprise,East,Electronics,Bank Transfer,5,17859.74,0,89298.7
+10ORD100088,2025-05-30,School,North,Printing,UPI,1,9701.65,25,7276.24
+10ORD100459,2024-09-02,Freelancer,Central,Furniture,Debit Card,20,2605.35,6,48980.58
+10ORD100331,2024-08-16,Enterprise,South,Furniture,Debit Card,10,13937.92,18,114290.94
+10ORD100215,2024-08-18,Enterprise,Central,Stationery,UPI,20,6307.26,22,98393.26
+10ORD100467,2025-06-16,Enterprise,East,Stationery,Debit Card,2,1034.05,16,1737.2
+10ORD100122,2024-12-29,Enterprise,Central,Printing,UPI,3,3799.05,26,8433.89
+10ORD100615,2025-06-15,School,West,Stationery,Net Banking,5,11197.35,7,52067.68
+10ORD100021,2024-01-16,Enterprise,North,Electronics,Credit Card,5,7216.63,25,27062.36
+10ORD100701,2025-07-02,Enterprise,Central,Furniture,Debit Card,1,20756.01,5,19718.21
+10ORD100072,2025-07-20,School,East,Furniture,Debit Card,2,11096.09,18,18197.59
+10ORD100107,2024-03-09,Freelancer,West,Furniture,UPI,4,965.76,28,2781.39
+10ORD100271,2024-02-28,School,West,Furniture,Credit Card,4,20712.5,18,67937.0
+10ORD100861,2024-07-03,Freelancer,East,Electronics,Credit Card,2,17613.75,27,25716.08
+10ORD100436,2025-12-27,Freelancer,South,Printing,Credit Card,5,18031.72,5,85650.67
+10ORD100103,2024-09-21,Startup,East,Electronics,Debit Card,4,22269.54,8,81951.91
