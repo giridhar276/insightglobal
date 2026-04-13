@@ -1,0 +1,6 @@
+Question,Expected_Answer
+Show budget-friendly electronics with good ratings,Retrieve electronics items with relatively lower price and rating above about 4.0.
+Find products suitable for travel and daily use,"Look for descriptions mentioning travel friendly, compact, lightweight, or daily use."
+Which fashion products have strong customer appeal?,Find fashion products with higher ratings and attractive descriptions like stylish or customer-favorite.
+Suggest home products with easy maintenance,Retrieve home category products whose descriptions mention easy maintenance or practical usage.
+Recommend beauty products with premium feel,Find beauty products with premium or customer-favorite descriptions and good ratings.

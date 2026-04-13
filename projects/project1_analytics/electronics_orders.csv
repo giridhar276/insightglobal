@@ -1,0 +1,198 @@
+order_id,customer_id,category,subcategory,region,payment_method,unit_price,quantity,discount_pct,order_date,gross_amount,discount_amount,net_amount,discount_pct_filled,month,weekday,discount_label,size_flag,price_band,net_rank
+ORD00001,CUST1343,Electronics,Mobile,East,Card,3903.69,5,10.0,2025-06-08,19518.45,1951.8450000000003,17566.605,10.0,June,Sunday,Medium,Bulk,Premium,151.0
+ORD00003,CUST1051,Electronics,Accessory,West,UPI,3841.53,6,15.0,2025-07-07,23049.18,3457.377,19591.803,15.0,July,Monday,Medium,Bulk,Premium,110.0
+ORD00004,CUST1370,Electronics,Mobile,South,Card,2334.37,4,5.0,2025-03-08,9337.48,466.874,8870.606,5.0,March,Saturday,Low,Regular,Medium,413.0
+ORD00010,CUST1273,Electronics,Mobile,West,UPI,362.45,4,0.0,2025-09-29,1449.8,0.0,1449.8,0.0,September,Monday,Low,Regular,Low,915.0
+ORD00013,CUST1090,Electronics,Accessory,East,Wallet,780.12,5,10.0,2025-05-01,3900.6,390.06,3510.54,10.0,May,Thursday,Medium,Bulk,Low,727.0
+ORD00015,CUST1332,Electronics,Accessory,South,Cash on Delivery,3546.29,1,5.0,2025-10-08,3546.29,177.3145,3368.9755,5.0,October,Wednesday,Low,Regular,Premium,737.0
+ORD00016,CUST1115,Electronics,Mobile,North,Net Banking,4053.11,6,5.0,2025-11-24,24318.66,1215.933,23102.727,5.0,November,Monday,Low,Bulk,Premium,62.0
+ORD00019,CUST1183,Electronics,Accessory,South,Wallet,3570.05,2,15.0,2025-07-22,7140.1,1071.015,6069.085,15.0,July,Tuesday,Medium,Regular,Premium,555.0
+ORD00022,CUST1221,Electronics,Mobile,North,Cash on Delivery,3860.24,5,15.0,2025-07-26,19301.199999999997,2895.1799999999994,16406.019999999997,15.0,July,Saturday,Medium,Bulk,Premium,178.0
+ORD00030,CUST1200,Electronics,Mobile,South,Net Banking,2390.1,6,0.0,2025-11-25,14340.599999999999,0.0,14340.599999999999,0.0,November,Tuesday,Low,Bulk,Medium,237.0
+ORD00033,CUST1047,Electronics,Accessory,North,Wallet,1904.79,7,0.0,2025-05-06,13333.529999999999,0.0,13333.529999999999,0.0,May,Tuesday,Low,Bulk,Medium,277.0
+ORD00036,CUST1108,Electronics,Accessory,East,Wallet,3626.92,6,10.0,2025-09-26,21761.52,2176.152,19585.368000000002,10.0,September,Friday,Medium,Bulk,Premium,111.0
+ORD00053,CUST1290,Electronics,Accessory,South,Cash on Delivery,1513.98,2,15.0,2025-09-24,3027.96,454.194,2573.766,15.0,September,Wednesday,Medium,Regular,Medium,812.0
+ORD00059,CUST1174,Electronics,Laptop,East,UPI,948.35,4,0.0,2025-04-20,3793.4,0.0,3793.4,0.0,April,Sunday,Low,Regular,Low,699.0
+ORD00071,CUST1079,Electronics,Mobile,West,Wallet,3517.17,6,10.0,2025-06-02,21103.02,2110.302,18992.718,10.0,June,Monday,Medium,Bulk,Premium,120.0
+ORD00073,CUST1371,Electronics,Mobile,North,Wallet,785.63,4,0.0,2025-07-27,3142.52,0.0,3142.52,0.0,July,Sunday,Low,Regular,Low,759.0
+ORD00074,CUST1195,Electronics,Accessory,South,Net Banking,2078.25,7,5.0,2025-02-18,14547.75,727.3875,13820.3625,5.0,February,Tuesday,Low,Bulk,Medium,260.0
+ORD00075,CUST1114,Electronics,Accessory,South,Wallet,3364.89,3,20.0,2025-07-10,10094.67,2018.9340000000002,8075.736,20.0,July,Thursday,High,Regular,Premium,453.0
+ORD00091,CUST1021,Electronics,Mobile,West,Cash on Delivery,418.67,2,0.0,2025-10-31,837.34,0.0,837.34,0.0,October,Friday,Low,Regular,Low,963.0
+ORD00092,CUST1157,Electronics,Mobile,East,Card,3017.05,4,15.0,2025-10-21,12068.2,1810.23,10257.970000000001,15.0,October,Tuesday,Medium,Regular,Premium,360.0
+ORD00095,CUST1228,Electronics,Accessory,South,Wallet,1298.21,2,5.0,2025-08-23,2596.42,129.821,2466.599,5.0,August,Saturday,Low,Regular,Medium,819.0
+ORD00096,CUST1149,Electronics,Laptop,South,Net Banking,2168.87,2,0.0,2025-01-03,4337.74,0.0,4337.74,0.0,January,Friday,Low,Regular,Medium,657.0
+ORD00098,CUST1039,Electronics,Laptop,South,Card,402.02,3,20.0,2025-09-09,1206.06,241.212,964.848,20.0,September,Tuesday,High,Regular,Low,948.0
+ORD00099,CUST1391,Electronics,Laptop,West,Wallet,4241.34,6,20.0,2025-03-29,25448.04,5089.608,20358.432,20.0,March,Saturday,High,Bulk,Premium,99.0
+ORD00104,CUST1166,Electronics,Laptop,South,Card,827.88,4,10.0,2025-03-02,3311.52,331.15200000000004,2980.368,10.0,March,Sunday,Medium,Regular,Low,770.0
+ORD00111,CUST1277,Electronics,Accessory,,Cash on Delivery,3714.23,1,5.0,2025-08-07,3714.23,185.7115,3528.5185,5.0,August,Thursday,Low,Regular,Premium,723.0
+ORD00131,CUST1235,Electronics,Mobile,West,Card,3239.81,1,0.0,2025-06-24,3239.81,0.0,3239.81,0.0,June,Tuesday,Low,Regular,Premium,747.0
+ORD00141,CUST1002,Electronics,Mobile,South,,3332.9,7,0.0,2025-01-02,23330.3,0.0,23330.3,0.0,January,Thursday,Low,Bulk,Premium,60.0
+ORD00143,CUST1022,Electronics,Laptop,West,Cash on Delivery,1306.98,3,20.0,2025-03-31,3920.94,784.1880000000001,3136.752,20.0,March,Monday,High,Regular,Medium,760.0
+ORD00146,CUST1201,Electronics,Accessory,West,Net Banking,1128.64,1,0.0,2025-09-12,1128.64,0.0,1128.64,0.0,September,Friday,Low,Regular,Medium,938.0
+ORD00147,CUST1340,Electronics,Laptop,East,Net Banking,3764.16,4,15.0,2025-02-01,15056.64,2258.4959999999996,12798.144,15.0,February,Saturday,Medium,Regular,Premium,287.0
+ORD00150,CUST1246,Electronics,Laptop,East,Net Banking,3115.99,4,0.0,2025-01-26,12463.96,0.0,12463.96,0.0,January,Sunday,Low,Regular,Premium,293.0
+ORD00155,CUST1231,Electronics,Laptop,West,Cash on Delivery,4738.22,4,5.0,2025-06-02,18952.88,947.6440000000001,18005.236,5.0,June,Monday,Low,Regular,Premium,142.0
+ORD00158,CUST1053,Electronics,Laptop,North,Wallet,2449.72,1,0.0,2025-12-22,2449.72,0.0,2449.72,0.0,December,Monday,Low,Regular,Medium,821.0
+ORD00159,CUST1171,Electronics,Laptop,South,UPI,1498.67,1,5.0,2025-08-13,1498.67,74.93350000000001,1423.7365,5.0,August,Wednesday,Low,Regular,Medium,921.0
+ORD00160,CUST1164,Electronics,Mobile,South,Card,3113.29,3,15.0,2025-12-21,9339.869999999999,1400.9805,7938.889499999999,15.0,December,Sunday,Medium,Regular,Premium,463.0
+ORD00161,CUST1235,Electronics,Accessory,South,Card,2132.6,6,5.0,2025-12-13,12795.599999999999,639.78,12155.819999999998,5.0,December,Saturday,Low,Bulk,Medium,301.0
+ORD00169,CUST1125,Electronics,Laptop,West,Cash on Delivery,2673.33,2,15.0,2025-03-31,5346.66,801.9989999999999,4544.661,15.0,March,Monday,Medium,Regular,Medium,645.0
+ORD00170,CUST1046,Electronics,Accessory,East,UPI,4211.3,3,10.0,2025-01-16,12633.900000000001,1263.3900000000003,11370.510000000002,10.0,January,Thursday,Medium,Regular,Premium,321.0
+ORD00176,CUST1398,Electronics,Laptop,West,Card,1919.86,4,,2025-01-28,7679.44,0.0,7679.44,0.0,January,Tuesday,Low,Regular,Medium,479.0
+ORD00178,CUST1256,Electronics,Laptop,East,Card,3571.22,6,5.0,2025-12-04,21427.32,1071.366,20355.953999999998,5.0,December,Thursday,Low,Bulk,Premium,100.0
+ORD00181,CUST1335,Electronics,Accessory,South,UPI,4947.3,7,10.0,2025-03-15,34631.1,3463.11,31167.989999999998,10.0,March,Saturday,Medium,Bulk,Premium,4.0
+ORD00197,CUST1370,Electronics,,East,Net Banking,1079.27,2,0.0,2025-08-10,2158.54,0.0,2158.54,0.0,August,Sunday,Low,Regular,Medium,845.0
+ORD00199,CUST1281,Electronics,Laptop,West,UPI,185.48,3,5.0,2025-03-04,556.4399999999999,27.822,528.6179999999999,5.0,March,Tuesday,Low,Regular,Low,988.0
+ORD00200,CUST1248,Electronics,Laptop,West,UPI,3223.78,5,20.0,2025-10-21,16118.900000000001,3223.7800000000007,12895.12,20.0,October,Tuesday,High,Bulk,Premium,286.0
+ORD00210,CUST1320,Electronics,Laptop,West,Wallet,561.37,2,10.0,2025-07-17,1122.74,112.274,1010.466,10.0,July,Thursday,Medium,Regular,Low,947.0
+ORD00213,CUST1309,Electronics,Accessory,South,Cash on Delivery,3425.23,6,15.0,2025-08-28,20551.38,3082.707,17468.673000000003,15.0,August,Thursday,Medium,Bulk,Premium,155.0
+ORD00215,CUST1248,Electronics,,South,Card,387.47,7,5.0,2025-02-07,2712.29,135.6145,2576.6755,5.0,February,Friday,Low,Bulk,Low,811.0
+ORD00218,CUST1095,Electronics,Laptop,East,Net Banking,4493.83,5,15.0,2025-04-03,22469.15,3370.3725,19098.7775,15.0,April,Thursday,Medium,Bulk,Premium,117.0
+ORD00220,CUST1158,Electronics,Accessory,North,Net Banking,1599.88,5,10.0,2025-06-13,7999.400000000001,799.94,7199.460000000001,10.0,June,Friday,Medium,Bulk,Medium,502.0
+ORD00222,CUST1287,Electronics,Mobile,North,Cash on Delivery,561.34,5,5.0,2025-06-14,2806.7000000000003,140.335,2666.3650000000002,5.0,June,Saturday,Low,Bulk,Low,799.0
+ORD00226,CUST1198,Electronics,Laptop,East,Net Banking,2052.99,4,20.0,2025-03-22,8211.96,1642.3919999999998,6569.567999999999,20.0,March,Saturday,High,Regular,Medium,534.0
+ORD00230,CUST1216,Electronics,Laptop,East,Cash on Delivery,4802.16,7,15.0,2025-07-03,33615.119999999995,5042.267999999999,28572.851999999995,15.0,July,Thursday,Medium,Bulk,Premium,16.0
+ORD00231,CUST1094,Electronics,,North,,1530.02,3,20.0,2025-05-22,4590.0599999999995,918.012,3672.048,20.0,May,Thursday,High,Regular,Medium,708.0
+ORD00234,CUST1128,Electronics,Mobile,East,Wallet,1602.01,6,,2025-04-20,9612.06,0.0,9612.06,0.0,April,Sunday,Low,Bulk,Medium,390.0
+ORD00236,CUST1313,Electronics,Mobile,South,Card,2873.22,2,15.0,2025-08-02,5746.44,861.9659999999999,4884.474,15.0,August,Saturday,Medium,Regular,Medium,616.0
+ORD00253,CUST1019,Electronics,Mobile,East,UPI,1754.07,2,20.0,2025-06-26,3508.14,701.628,2806.5119999999997,20.0,June,Thursday,High,Regular,Medium,784.0
+ORD00261,CUST1181,Electronics,Accessory,North,Net Banking,1383.18,2,20.0,2025-07-23,2766.36,553.272,2213.088,20.0,July,Wednesday,High,Regular,Medium,836.0
+ORD00263,CUST1319,Electronics,Laptop,North,Cash on Delivery,4093.82,2,5.0,2025-07-20,8187.64,409.38200000000006,7778.258,5.0,July,Sunday,Low,Regular,Premium,472.0
+ORD00277,CUST1244,Electronics,Accessory,West,Cash on Delivery,4388.36,6,5.0,2025-08-15,26330.159999999996,1316.5079999999998,25013.651999999995,5.0,August,Friday,Low,Bulk,Premium,42.0
+ORD00280,CUST1205,Electronics,Accessory,North,Cash on Delivery,4919.57,2,10.0,2025-12-04,9839.14,983.914,8855.225999999999,10.0,December,Thursday,Medium,Regular,Premium,414.0
+ORD00282,CUST1355,Electronics,Laptop,East,Net Banking,2128.61,7,0.0,2025-10-09,14900.27,0.0,14900.27,0.0,October,Thursday,Low,Bulk,Medium,220.0
+ORD00286,CUST1351,Electronics,Laptop,North,Card,2428.53,7,15.0,2025-08-24,16999.710000000003,2549.9565000000002,14449.753500000003,15.0,August,Sunday,Medium,Bulk,Medium,233.0
+ORD00295,CUST1078,Electronics,Mobile,North,UPI,4686.6,4,10.0,2025-01-25,18746.4,1874.6400000000003,16871.760000000002,10.0,January,Saturday,Medium,Regular,Premium,170.0
+ORD00306,CUST1055,Electronics,Mobile,East,Card,4772.05,5,0.0,2025-05-30,23860.25,0.0,23860.25,0.0,May,Friday,Low,Bulk,Premium,50.0
+ORD00311,CUST1161,Electronics,Accessory,North,Card,1585.76,6,5.0,2025-11-01,9514.56,475.728,9038.832,5.0,November,Saturday,Low,Bulk,Medium,404.0
+ORD00312,CUST1082,Electronics,Laptop,South,,3836.07,1,15.0,2025-01-16,3836.07,575.4105,3260.6595,15.0,January,Thursday,Medium,Regular,Premium,745.0
+ORD00314,CUST1338,Electronics,Mobile,West,Wallet,636.92,3,5.0,2025-03-06,1910.7599999999998,95.538,1815.2219999999998,5.0,March,Thursday,Low,Regular,Low,874.0
+ORD00315,CUST1179,Electronics,Accessory,North,Net Banking,1020.54,5,10.0,2025-01-23,5102.7,510.27,4592.43,10.0,January,Thursday,Medium,Bulk,Medium,641.0
+ORD00321,CUST1052,Electronics,Laptop,South,UPI,2752.35,6,10.0,2025-05-12,16514.1,1651.4099999999999,14862.689999999999,10.0,May,Monday,Medium,Bulk,Medium,221.0
+ORD00325,CUST1128,Electronics,Accessory,South,Net Banking,726.92,2,20.0,2025-01-01,1453.84,290.768,1163.072,20.0,January,Wednesday,High,Regular,Low,934.0
+ORD00330,CUST1317,Electronics,Mobile,North,Net Banking,393.02,7,5.0,2025-01-21,2751.14,137.557,2613.583,5.0,January,Tuesday,Low,Bulk,Low,807.0
+ORD00331,CUST1317,Electronics,Accessory,,Card,3170.14,1,15.0,2025-08-21,3170.14,475.52099999999996,2694.6189999999997,15.0,August,Thursday,Medium,Regular,Premium,796.0
+ORD00335,CUST1252,Electronics,Accessory,South,Card,775.8,4,0.0,2025-10-15,3103.2,0.0,3103.2,0.0,October,Wednesday,Low,Regular,Low,763.0
+ORD00357,CUST1350,Electronics,Laptop,West,Card,262.65,4,10.0,2025-09-13,1050.6,105.06,945.54,10.0,September,Saturday,Medium,Regular,Low,951.0
+ORD00361,CUST1369,Electronics,Laptop,North,Cash on Delivery,1334.39,3,20.0,2025-12-15,4003.17,800.634,3202.536,20.0,December,Monday,High,Regular,Medium,751.0
+ORD00365,CUST1234,Electronics,Laptop,North,Card,1553.2,3,5.0,2025-06-18,4659.6,232.98000000000002,4426.620000000001,5.0,June,Wednesday,Low,Regular,Medium,649.0
+ORD00367,CUST1003,Electronics,Laptop,East,Cash on Delivery,4323.76,4,0.0,2025-05-14,17295.04,0.0,17295.04,0.0,May,Wednesday,Low,Regular,Premium,159.0
+ORD00391,CUST1102,Electronics,Laptop,North,Wallet,2063.24,4,15.0,2025-08-03,8252.96,1237.9439999999997,7015.016,15.0,August,Sunday,Medium,Regular,Medium,508.0
+ORD00401,CUST1331,Electronics,Laptop,North,Wallet,2897.14,6,10.0,2025-05-21,17382.84,1738.284,15644.556,10.0,May,Wednesday,Medium,Bulk,Medium,203.0
+ORD00405,CUST1108,Electronics,Laptop,East,Card,2871.93,2,5.0,2025-10-03,5743.86,287.193,5456.6669999999995,5.0,October,Friday,Low,Regular,Medium,586.0
+ORD00412,CUST1039,Electronics,Accessory,West,,3445.71,1,5.0,2025-11-22,3445.71,172.2855,3273.4245,5.0,November,Saturday,Low,Regular,Premium,744.0
+ORD00414,CUST1128,Electronics,Mobile,East,Net Banking,803.26,5,20.0,2025-03-07,4016.3,803.2600000000001,3213.04,20.0,March,Friday,High,Bulk,Low,750.0
+ORD00420,CUST1398,Electronics,Accessory,East,Card,4126.07,5,10.0,2025-02-22,20630.35,2063.035,18567.315,10.0,February,Saturday,Medium,Bulk,Premium,129.0
+ORD00427,CUST1143,Electronics,Mobile,West,Wallet,4350.8,1,10.0,2025-07-30,4350.8,435.08000000000004,3915.7200000000003,10.0,July,Wednesday,Medium,Regular,Premium,686.0
+ORD00437,CUST1156,Electronics,Laptop,South,UPI,404.99,5,20.0,2025-11-06,2024.95,404.99,1619.96,20.0,November,Thursday,High,Bulk,Low,900.0
+ORD00439,CUST1225,Electronics,Laptop,East,Card,336.93,7,15.0,2025-11-30,2358.51,353.7765,2004.7335000000003,15.0,November,Sunday,Medium,Bulk,Low,854.0
+ORD00443,CUST1108,Electronics,Laptop,East,Wallet,1959.34,6,,2025-01-22,11756.039999999999,0.0,11756.039999999999,0.0,January,Wednesday,Low,Bulk,Medium,310.0
+ORD00445,CUST1385,Electronics,Accessory,South,Cash on Delivery,2751.97,2,20.0,2025-01-28,5503.94,1100.788,4403.152,20.0,January,Tuesday,High,Regular,Medium,651.0
+ORD00447,CUST1040,Electronics,Laptop,West,Net Banking,4409.02,5,5.0,2025-02-12,22045.100000000002,1102.255,20942.845,5.0,February,Wednesday,Low,Bulk,Premium,93.0
+ORD00451,CUST1113,Electronics,Laptop,South,Wallet,4004.54,2,20.0,2025-01-26,8009.08,1601.816,6407.264,20.0,January,Sunday,High,Regular,Premium,542.0
+ORD00457,CUST1038,Electronics,Mobile,West,Cash on Delivery,1064.1,4,5.0,2025-03-09,4256.4,212.82,4043.5799999999995,5.0,March,Sunday,Low,Regular,Medium,677.0
+ORD00466,CUST1366,Electronics,Mobile,South,Net Banking,905.42,6,10.0,2025-01-26,5432.5199999999995,543.252,4889.268,10.0,January,Sunday,Medium,Bulk,Low,615.0
+ORD00470,CUST1283,Electronics,Mobile,North,Net Banking,607.29,5,20.0,2025-02-16,3036.45,607.29,2429.16,20.0,February,Sunday,High,Bulk,Low,824.0
+ORD00492,CUST1203,Electronics,Mobile,North,UPI,2563.59,4,10.0,2025-01-12,10254.36,1025.4360000000001,9228.924,10.0,January,Sunday,Medium,Regular,Medium,397.0
+ORD00504,CUST1079,Electronics,Laptop,West,Wallet,3764.24,3,0.0,2025-05-22,11292.72,0.0,11292.72,0.0,May,Thursday,Low,Regular,Premium,326.0
+ORD00511,CUST1220,Electronics,Laptop,West,Wallet,1645.42,3,0.0,2025-09-16,4936.26,0.0,4936.26,0.0,September,Tuesday,Low,Regular,Medium,611.0
+ORD00515,CUST1186,Electronics,Accessory,South,Cash on Delivery,1899.93,2,0.0,2025-03-26,3799.86,0.0,3799.86,0.0,March,Wednesday,Low,Regular,Medium,695.0
+ORD00522,CUST1184,Electronics,Mobile,East,Net Banking,4556.75,4,15.0,2025-05-11,18227.0,2734.0499999999997,15492.95,15.0,May,Sunday,Medium,Regular,Premium,206.0
+ORD00534,CUST1056,Electronics,Accessory,North,Card,1433.85,7,20.0,2025-10-08,10036.949999999999,2007.3899999999999,8029.5599999999995,20.0,October,Wednesday,High,Bulk,Medium,454.0
+ORD00535,CUST1094,Electronics,Laptop,East,Net Banking,3436.89,7,20.0,2025-06-03,24058.23,4811.646,19246.584,20.0,June,Tuesday,High,Bulk,Premium,116.0
+ORD00549,CUST1115,Electronics,Laptop,West,Cash on Delivery,1049.07,3,10.0,2025-03-28,3147.21,314.721,2832.489,10.0,March,Friday,Medium,Regular,Medium,783.0
+ORD00552,CUST1160,Electronics,Accessory,South,Card,804.93,1,20.0,2025-07-07,804.93,160.986,643.944,20.0,July,Monday,High,Regular,Low,978.0
+ORD00553,CUST1159,Electronics,Accessory,South,Card,1239.74,3,20.0,2025-08-19,3719.2200000000003,743.844,2975.376,20.0,August,Tuesday,High,Regular,Medium,771.0
+ORD00554,CUST1255,Electronics,Mobile,West,Cash on Delivery,320.32,1,0.0,2025-10-15,320.32,0.0,320.32,0.0,October,Wednesday,Low,Regular,Low,994.0
+ORD00562,CUST1095,Electronics,Laptop,North,Cash on Delivery,1546.1,3,0.0,2025-12-27,4638.299999999999,0.0,4638.299999999999,0.0,December,Saturday,Low,Regular,Medium,636.0
+ORD00565,CUST1271,Electronics,Laptop,South,,1346.62,6,15.0,2025-04-16,8079.719999999999,1211.9579999999999,6867.762,15.0,April,Wednesday,Medium,Bulk,Medium,514.0
+ORD00570,CUST1113,Electronics,Mobile,South,Net Banking,2150.02,5,20.0,2025-02-05,10750.1,2150.02,8600.08,20.0,February,Wednesday,High,Bulk,Medium,427.0
+ORD00575,CUST1198,Electronics,Laptop,East,Card,3602.8,3,10.0,2025-08-09,10808.400000000001,1080.8400000000001,9727.560000000001,10.0,August,Saturday,Medium,Regular,Premium,380.0
+ORD00589,CUST1395,Electronics,Accessory,West,Cash on Delivery,732.54,3,0.0,2025-01-23,2197.62,0.0,2197.62,0.0,January,Thursday,Low,Regular,Low,839.0
+ORD00590,CUST1330,Electronics,Laptop,East,UPI,509.18,1,0.0,2025-07-12,509.18,0.0,509.18,0.0,July,Saturday,Low,Regular,Low,990.0
+ORD00593,CUST1138,Electronics,Mobile,West,UPI,3606.84,3,10.0,2025-09-15,10820.52,1082.0520000000001,9738.468,10.0,September,Monday,Medium,Regular,Premium,379.0
+ORD00600,CUST1248,Electronics,,West,Wallet,1555.7,3,10.0,2025-04-14,4667.1,466.71000000000004,4200.39,10.0,April,Monday,Medium,Regular,Medium,667.0
+ORD00606,CUST1189,Electronics,Laptop,North,Card,2797.12,1,15.0,2025-12-17,2797.12,419.568,2377.5519999999997,15.0,December,Wednesday,Medium,Regular,Medium,828.0
+ORD00607,CUST1371,Electronics,Laptop,West,Card,2571.09,1,15.0,2025-09-21,2571.09,385.6635,2185.4265,15.0,September,Sunday,Medium,Regular,Medium,841.0
+ORD00619,CUST1089,Electronics,Accessory,West,Net Banking,4271.19,3,20.0,2025-10-22,12813.57,2562.714,10250.856,20.0,October,Wednesday,High,Regular,Premium,361.0
+ORD00622,CUST1343,Electronics,Laptop,East,UPI,2704.85,3,15.0,2025-09-21,8114.549999999999,1217.1825,6897.367499999999,15.0,September,Sunday,Medium,Regular,Medium,512.0
+ORD00632,CUST1070,Electronics,Accessory,West,Cash on Delivery,252.61,7,5.0,2025-02-10,1768.27,88.4135,1679.8564999999999,5.0,February,Monday,Low,Bulk,Low,892.0
+ORD00634,CUST1008,Electronics,Accessory,South,Card,416.43,7,10.0,2025-10-21,2915.01,291.50100000000003,2623.509,10.0,October,Tuesday,Medium,Bulk,Low,806.0
+ORD00635,CUST1242,Electronics,Laptop,West,Cash on Delivery,4266.64,1,0.0,2025-07-09,4266.64,0.0,4266.64,0.0,July,Wednesday,Low,Regular,Premium,664.0
+ORD00643,CUST1007,Electronics,Mobile,North,UPI,1858.23,4,15.0,2025-05-12,7432.92,1114.9379999999999,6317.982,15.0,May,Monday,Medium,Regular,Medium,545.0
+ORD00648,CUST1070,Electronics,Accessory,West,UPI,2356.24,2,10.0,2025-01-31,4712.48,471.248,4241.232,10.0,January,Friday,Medium,Regular,Medium,666.0
+ORD00649,CUST1080,Electronics,Accessory,East,Wallet,4148.42,4,20.0,2025-06-09,16593.68,3318.7360000000003,13274.944,20.0,June,Monday,High,Regular,Premium,280.0
+ORD00651,CUST1305,Electronics,Mobile,South,Card,4766.85,4,0.0,2025-11-15,19067.4,0.0,19067.4,0.0,November,Saturday,Low,Regular,Premium,119.0
+ORD00656,CUST1339,Electronics,Laptop,West,Net Banking,513.83,5,15.0,2025-03-08,2569.15,385.3725,2183.7775,15.0,March,Saturday,Medium,Bulk,Low,842.0
+ORD00660,CUST1086,Electronics,Mobile,South,Wallet,4721.46,4,15.0,2025-02-05,18885.84,2832.8759999999997,16052.964,15.0,February,Wednesday,Medium,Regular,Premium,190.0
+ORD00671,CUST1055,Electronics,Accessory,East,Net Banking,379.76,4,5.0,2025-06-15,1519.04,75.952,1443.088,5.0,June,Sunday,Low,Regular,Low,916.0
+ORD00675,CUST1182,Electronics,Mobile,East,Card,216.82,4,5.0,2025-05-03,867.28,43.364000000000004,823.9159999999999,5.0,May,Saturday,Low,Regular,Low,964.0
+ORD00678,CUST1168,Electronics,Laptop,West,Cash on Delivery,2648.4,6,5.0,2025-11-08,15890.400000000001,794.5200000000001,15095.880000000001,5.0,November,Saturday,Low,Bulk,Medium,214.0
+ORD00682,CUST1016,Electronics,Mobile,East,Wallet,4656.44,7,20.0,2025-09-27,32595.079999999998,6519.016,26076.064,20.0,September,Saturday,High,Bulk,Premium,31.0
+ORD00683,CUST1058,Electronics,Accessory,East,Net Banking,2307.95,7,10.0,2025-07-15,16155.649999999998,1615.5649999999998,14540.084999999997,10.0,July,Tuesday,Medium,Bulk,Medium,228.0
+ORD00684,CUST1006,Electronics,Laptop,West,Net Banking,1780.99,1,20.0,2025-03-11,1780.99,356.19800000000004,1424.792,20.0,March,Tuesday,High,Regular,Medium,919.0
+ORD00685,CUST1129,Electronics,Accessory,South,Wallet,2344.66,1,20.0,2025-07-07,2344.66,468.932,1875.7279999999998,20.0,July,Monday,High,Regular,Medium,866.0
+ORD00702,CUST1284,Electronics,Accessory,West,Card,4694.0,2,15.0,2025-02-25,9388.0,1408.2,7979.8,15.0,February,Tuesday,Medium,Regular,Premium,457.0
+ORD00709,CUST1135,Electronics,Laptop,North,UPI,1986.31,3,5.0,2025-12-24,5958.93,297.9465,5660.9835,5.0,December,Wednesday,Low,Regular,Medium,571.0
+ORD00717,CUST1262,Electronics,Mobile,South,Cash on Delivery,3884.94,1,0.0,2025-04-11,3884.94,0.0,3884.94,0.0,April,Friday,Low,Regular,Premium,689.0
+ORD00720,CUST1016,Electronics,Laptop,West,Cash on Delivery,1488.23,7,10.0,2025-11-07,10417.61,1041.7610000000002,9375.849,10.0,November,Friday,Medium,Bulk,Medium,392.0
+ORD00721,CUST1157,Electronics,Laptop,North,UPI,2323.85,4,5.0,2025-12-21,9295.4,464.77,8830.63,5.0,December,Sunday,Low,Regular,Medium,418.0
+ORD00722,CUST1108,Electronics,Laptop,North,Card,2211.75,1,20.0,2025-03-09,2211.75,442.35,1769.4,20.0,March,Sunday,High,Regular,Medium,877.0
+ORD00728,CUST1056,Electronics,Accessory,South,Card,4842.83,5,20.0,2025-03-02,24214.15,4842.830000000001,19371.32,20.0,March,Sunday,High,Bulk,Premium,114.0
+ORD00730,CUST1371,Electronics,Accessory,South,Cash on Delivery,2983.19,3,5.0,2025-03-02,8949.57,447.4785,8502.0915,5.0,March,Sunday,Low,Regular,Medium,434.0
+ORD00738,CUST1192,Electronics,Mobile,East,Card,2358.46,3,20.0,2025-04-04,7075.38,1415.076,5660.304,20.0,April,Friday,High,Regular,Medium,572.0
+ORD00744,CUST1262,Electronics,Laptop,North,Net Banking,3320.59,1,5.0,2025-08-03,3320.59,166.0295,3154.5605,5.0,August,Sunday,Low,Regular,Premium,755.0
+ORD00757,CUST1251,Electronics,Mobile,South,Wallet,3658.64,6,20.0,2025-08-07,21951.84,4390.368,17561.472,20.0,August,Thursday,High,Bulk,Premium,152.0
+ORD00760,CUST1259,Electronics,Accessory,East,Wallet,1198.91,2,,2025-10-01,2397.82,0.0,2397.82,0.0,October,Wednesday,Low,Regular,Medium,826.0
+ORD00763,CUST1079,Electronics,Mobile,West,UPI,4456.94,5,15.0,2025-01-31,22284.699999999997,3342.7049999999995,18941.995,15.0,January,Friday,Medium,Bulk,Premium,121.0
+ORD00771,CUST1153,Electronics,Accessory,North,Net Banking,4975.8,6,0.0,2025-05-24,29854.800000000003,0.0,29854.800000000003,0.0,May,Saturday,Low,Bulk,Premium,9.0
+ORD00776,CUST1079,Electronics,Mobile,North,Net Banking,4932.24,3,5.0,2025-02-14,14796.72,739.836,14056.884,5.0,February,Friday,Low,Regular,Premium,247.0
+ORD00777,CUST1232,Electronics,Mobile,South,Net Banking,2932.16,3,10.0,2025-10-31,8796.48,879.648,7916.831999999999,10.0,October,Friday,Medium,Regular,Medium,464.0
+ORD00781,CUST1291,Electronics,Laptop,South,UPI,976.05,5,0.0,2025-07-08,4880.25,0.0,4880.25,0.0,July,Tuesday,Low,Bulk,Low,617.0
+ORD00784,CUST1341,Electronics,Mobile,West,UPI,265.22,7,0.0,2025-07-18,1856.5400000000002,0.0,1856.5400000000002,0.0,July,Friday,Low,Bulk,Low,869.0
+ORD00787,CUST1332,Electronics,Laptop,South,Net Banking,4947.1,3,0.0,2025-07-28,14841.300000000001,0.0,14841.300000000001,0.0,July,Monday,Low,Regular,Premium,222.0
+ORD00788,CUST1354,Electronics,Mobile,West,UPI,400.99,3,10.0,2025-02-05,1202.97,120.29700000000001,1082.673,10.0,February,Wednesday,Medium,Regular,Low,940.0
+ORD00789,CUST1105,Electronics,Mobile,East,Cash on Delivery,3376.29,7,15.0,2025-10-06,23634.03,3545.1045,20088.925499999998,15.0,October,Monday,Medium,Bulk,Premium,103.0
+ORD00794,CUST1095,Electronics,Mobile,South,UPI,3515.22,7,20.0,2025-02-05,24606.539999999997,4921.308,19685.231999999996,20.0,February,Wednesday,High,Bulk,Premium,109.0
+ORD00803,CUST1131,Electronics,Laptop,East,Card,2846.01,6,5.0,2025-11-15,17076.06,853.8030000000001,16222.257000000001,5.0,November,Saturday,Low,Bulk,Medium,184.0
+ORD00806,CUST1211,Electronics,Mobile,North,UPI,670.34,3,5.0,2025-12-23,2011.02,100.551,1910.469,5.0,December,Tuesday,Low,Regular,Low,861.0
+ORD00811,CUST1234,Electronics,Laptop,North,Wallet,4166.76,7,15.0,2025-11-17,29167.32,4375.098,24792.222,15.0,November,Monday,Medium,Bulk,Premium,45.0
+ORD00818,CUST1316,Electronics,Mobile,West,Cash on Delivery,3643.05,2,15.0,2025-04-15,7286.1,1092.915,6193.185,15.0,April,Tuesday,Medium,Regular,Premium,548.0
+ORD00821,CUST1036,Electronics,Laptop,West,Cash on Delivery,4383.99,4,15.0,2025-05-01,17535.96,2630.394,14905.565999999999,15.0,May,Thursday,Medium,Regular,Premium,219.0
+ORD00823,CUST1236,Electronics,Laptop,West,Wallet,4163.09,3,10.0,2025-12-17,12489.27,1248.9270000000001,11240.343,10.0,December,Wednesday,Medium,Regular,Premium,330.0
+ORD00826,CUST1077,Electronics,Accessory,North,Card,394.34,6,0.0,2025-05-18,2366.04,0.0,2366.04,0.0,May,Sunday,Low,Bulk,Low,831.0
+ORD00835,CUST1110,Electronics,Laptop,East,Cash on Delivery,4759.91,4,20.0,2025-09-19,19039.64,3807.928,15231.712,20.0,September,Friday,High,Regular,Premium,210.0
+ORD00843,CUST1331,Electronics,Accessory,West,Cash on Delivery,4580.15,1,20.0,2025-12-12,4580.15,916.03,3664.12,20.0,December,Friday,High,Regular,Premium,709.0
+ORD00844,CUST1255,Electronics,Mobile,South,Net Banking,3211.74,4,15.0,2025-08-14,12846.96,1927.0439999999999,10919.916,15.0,August,Thursday,Medium,Regular,Premium,337.0
+ORD00846,CUST1150,Electronics,Mobile,South,Wallet,2990.18,2,15.0,2025-02-22,5980.36,897.054,5083.306,15.0,February,Saturday,Medium,Regular,Medium,604.0
+ORD00848,CUST1099,Electronics,Accessory,North,Wallet,2269.4,4,5.0,2025-10-31,9077.6,453.88000000000005,8623.720000000001,5.0,October,Friday,Low,Regular,Medium,426.0
+ORD00855,CUST1241,Electronics,Mobile,West,Net Banking,3771.65,2,10.0,2025-09-05,7543.3,754.33,6788.97,10.0,September,Friday,Medium,Regular,Premium,520.0
+ORD00860,CUST1370,Electronics,Mobile,East,Card,4315.99,7,0.0,2025-02-20,30211.93,0.0,30211.93,0.0,February,Thursday,Low,Bulk,Premium,7.0
+ORD00861,CUST1030,Electronics,Accessory,South,Cash on Delivery,276.18,3,20.0,2025-05-10,828.54,165.708,662.832,20.0,May,Saturday,High,Regular,Low,976.0
+ORD00866,CUST1162,Electronics,Mobile,South,Card,4579.59,4,0.0,2025-05-16,18318.36,0.0,18318.36,0.0,May,Friday,Low,Regular,Premium,135.0
+ORD00869,CUST1245,Electronics,Mobile,South,Net Banking,303.17,1,0.0,2025-06-18,303.17,0.0,303.17,0.0,June,Wednesday,Low,Regular,Low,995.0
+ORD00871,CUST1197,Electronics,Laptop,North,Card,4450.23,7,20.0,2025-07-12,31151.609999999997,6230.322,24921.287999999997,20.0,July,Saturday,High,Bulk,Premium,44.0
+ORD00873,CUST1329,Electronics,Laptop,West,Card,1107.79,3,20.0,2025-07-23,3323.37,664.674,2658.696,20.0,July,Wednesday,High,Regular,Medium,802.0
+ORD00878,CUST1252,Electronics,Laptop,West,Card,2558.34,6,20.0,2025-07-18,15350.04,3070.0080000000003,12280.032000000001,20.0,July,Friday,High,Bulk,Medium,297.0
+ORD00880,CUST1079,Electronics,Laptop,East,Net Banking,1165.0,2,20.0,2025-05-18,2330.0,466.0,1864.0,20.0,May,Sunday,High,Regular,Medium,868.0
+ORD00893,CUST1298,Electronics,Mobile,North,Card,2439.9,6,20.0,2025-09-11,14639.400000000001,2927.8800000000006,11711.52,20.0,September,Thursday,High,Bulk,Medium,312.0
+ORD00908,CUST1164,Electronics,Laptop,South,Cash on Delivery,4066.12,2,5.0,2025-09-01,8132.24,406.612,7725.628,5.0,September,Monday,Low,Regular,Premium,477.0
+ORD00909,CUST1313,Electronics,Mobile,East,Cash on Delivery,964.5,2,15.0,2025-11-04,1929.0,289.34999999999997,1639.65,15.0,November,Tuesday,Medium,Regular,Low,897.0
+ORD00919,CUST1347,Electronics,Laptop,East,UPI,4428.08,3,15.0,2025-11-27,13284.24,1992.636,11291.604,15.0,November,Thursday,Medium,Regular,Premium,327.0
+ORD00920,CUST1210,Electronics,Laptop,South,Net Banking,3537.38,4,15.0,2025-07-26,14149.52,2122.428,12027.092,15.0,July,Saturday,Medium,Regular,Premium,303.0
+ORD00922,CUST1377,Electronics,Laptop,West,UPI,1681.46,1,0.0,2025-08-04,1681.46,0.0,1681.46,0.0,August,Monday,Low,Regular,Medium,891.0
+ORD00929,CUST1274,Electronics,Laptop,North,Net Banking,1200.67,6,15.0,2025-03-29,7204.02,1080.603,6123.417,15.0,March,Saturday,Medium,Bulk,Medium,551.0
+ORD00930,CUST1154,Electronics,Laptop,West,Card,2764.97,5,20.0,2025-06-15,13824.849999999999,2764.97,11059.88,20.0,June,Sunday,High,Bulk,Medium,335.0
+ORD00931,CUST1295,Electronics,Mobile,South,Card,4203.94,5,0.0,2025-06-17,21019.699999999997,0.0,21019.699999999997,0.0,June,Tuesday,Low,Bulk,Premium,90.0
+ORD00939,CUST1113,Electronics,Accessory,East,Wallet,287.22,4,10.0,2025-07-10,1148.88,114.88800000000002,1033.9920000000002,10.0,July,Thursday,Medium,Regular,Low,943.0
+ORD00941,CUST1021,Electronics,Laptop,West,Wallet,1545.87,5,15.0,2025-08-11,7729.349999999999,1159.4025,6569.947499999999,15.0,August,Monday,Medium,Bulk,Medium,533.0
+ORD00947,CUST1314,Electronics,Accessory,West,Card,1952.8,5,0.0,2025-03-11,9764.0,0.0,9764.0,0.0,March,Tuesday,Low,Bulk,Medium,377.0
+ORD00949,CUST1093,Electronics,Mobile,West,Wallet,1165.72,3,10.0,2025-11-20,3497.16,349.716,3147.444,10.0,November,Thursday,Medium,Regular,Medium,757.0
+ORD00966,CUST1081,Electronics,Mobile,West,Card,578.93,3,20.0,2025-05-28,1736.79,347.358,1389.432,20.0,May,Wednesday,High,Regular,Low,923.0
+ORD00972,CUST1061,Electronics,Laptop,North,Cash on Delivery,3416.54,1,10.0,2025-05-01,3416.54,341.654,3074.886,10.0,May,Thursday,Medium,Regular,Premium,764.0
+ORD00979,CUST1128,Electronics,Laptop,North,Card,3384.14,6,10.0,2025-09-27,20304.84,2030.4840000000002,18274.356,10.0,September,Saturday,Medium,Bulk,Premium,136.0
+ORD00982,CUST1167,Electronics,Accessory,North,Net Banking,967.93,5,5.0,2025-09-29,4839.65,241.9825,4597.6675,5.0,September,Monday,Low,Bulk,Low,640.0
+ORD00984,CUST1310,Electronics,Mobile,East,Wallet,4395.18,7,0.0,2025-02-04,30766.260000000002,0.0,30766.260000000002,0.0,February,Tuesday,Low,Bulk,Premium,5.0
+ORD00991,CUST1051,Electronics,Laptop,North,Cash on Delivery,2425.3,2,15.0,2025-04-03,4850.6,727.59,4123.01,15.0,April,Thursday,Medium,Regular,Medium,670.0
+ORD00996,CUST1219,Electronics,Accessory,West,Cash on Delivery,1320.27,4,0.0,2025-12-18,5281.08,0.0,5281.08,0.0,December,Thursday,Low,Regular,Medium,593.0
+ORD00998,CUST1219,Electronics,Accessory,South,Cash on Delivery,4136.12,1,5.0,2025-11-30,4136.12,206.806,3929.314,5.0,November,Sunday,Low,Regular,Premium,685.0
